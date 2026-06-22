@@ -72,3 +72,21 @@ Escolha 3 cenários climáticos diferentes (ex.: praia no verão, serra no inver
 - [ ] Sugeri roupas/acessórios adequados a cada cenário
 - [ ] Mencionei pelo menos uma estação do ano corretamente
 - [ ] Pronunciei corretamente "guarda-chuva" com o acento certo
+
+## 8. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| boné / bota / sandália | acessórios e calçados |
+| calça / camiseta / short | peças de roupa |
+| calor / frio | sensações/temperaturas |
+| casaco / guarda-chuva | itens para o frio/chuva |
+| chove / chuva | precipitação de água |
+| estou com frio/calor | sensação pessoal de temperatura |
+| faz sol/calor/frio/vento | expressão de clima |
+| inverno / verão / outono / primavera | estações do ano |
+| nuvem | formação no céu, indica possível chuva |
+| óculos de sol | acessório de proteção contra luz solar |
+| quantos graus faz? | pergunta sobre temperatura |
+| sol / vento | elementos do clima |
+| está nublado | céu com nuvens, sem sol visível |

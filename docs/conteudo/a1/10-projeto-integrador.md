@@ -71,3 +71,14 @@ Grave um vídeo ou áudio de 1–2 minutos de autoapresentação completa, cobri
 - [ ] Falei de uma preferência de lazer
 - [ ] Mencionei um plano futuro com "ir + infinitivo"
 - [ ] Comparei minha pronúncia atual com a gravação da A1.1
+
+## 8. Glossário da Unidade
+
+*Unidade de revisão — sem vocabulário novo próprio. Para o significado de cada expressão, ver o glossário da unidade de origem (seção 8 de A1.1–A1.9, ou seção 7 de PRE-A1.0–PRE-A1.6). Abaixo, só os itens incidentais do roteiro-modelo que não foram cobertos em nenhuma unidade anterior:*
+
+| Palavra/Expressão | Significado |
+|---|---|
+| mais novo/mais nova | comparativo de idade — mais jovem que outra pessoa |
+| ótimo/ótima | muito bom |
+| tranquilo/tranquila | calmo, sem grandes preocupações |
+| vai ser | futuro perifrástico do verbo "ser" (ver A1.9) |

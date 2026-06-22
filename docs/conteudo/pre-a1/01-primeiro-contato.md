@@ -112,3 +112,28 @@ Grave um áudio de 30 segundos (ou pratique ao vivo com um colega/tutor) em que 
 - [ ] Disse minha origem com "Eu sou de/da/do..."
 - [ ] Pronunciei os sons nasais praticados
 - [ ] Me despedi adequadamente
+
+## 7. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| até logo | despedida — "vejo você em breve" |
+| bem-vindo/bem-vinda | expressão de boas-vindas a quem chega |
+| boa noite | saudação ou despedida noturna |
+| boa tarde | saudação da tarde |
+| bom dia | saudação da manhã |
+| com licença | pedir passagem ou interromper educadamente |
+| de nada | resposta a um agradecimento |
+| desculpa/desculpe | pedir desculpas |
+| eu me chamo... | forma de dizer o próprio nome |
+| eu sou (de/da/do) | verbo ser, 1ª pessoa, indicando origem |
+| muito prazer | expressão usada ao conhecer alguém |
+| números 0–20 | zero a vinte (ver seção 2 para a lista completa) |
+| obrigado/obrigada | agradecimento (forma masc./fem.) |
+| oi | saudação informal |
+| olá | saudação neutra |
+| por favor | usado para pedir algo com educação |
+| qual é o seu nome? | pergunta para saber o nome de alguém |
+| que bom! | expressão de satisfação/aprovação |
+| tchau | despedida informal |
+| você é (de/da/do) | verbo ser, 2ª pessoa, perguntando origem |

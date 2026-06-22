@@ -89,3 +89,21 @@ Role-play numa farmácia ou posto de saúde: descreva um sintoma (real ou invent
 - [ ] Usei corretamente "dor de" ou "dor em/no/na" conforme a parte do corpo
 - [ ] Conjuguei "sentir-se" corretamente em pelo menos uma pessoa
 - [ ] Pronunciei corretamente "garganta" com o "r" forte
+
+## 8. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| barriga / braço / costas / perna | partes do corpo |
+| cabeça / garganta / nariz / ouvido | partes do corpo (cabeça e órgãos dos sentidos) |
+| comprimido | remédio em forma de pílula |
+| dor | sensação física desagradável |
+| entupido(a) | obstruído (ex.: nariz entupido) |
+| espirro | reflexo nasal repentino |
+| estar com dor de/em | descrever dor numa parte do corpo |
+| febre | temperatura corporal elevada |
+| gripe / resfriado | infecções comuns, geralmente virais |
+| parece (ser) | expressão para sugerir um diagnóstico provável |
+| remédio / xarope | medicamentos |
+| sentir-se | verbo reflexivo para expressar estado físico/emocional |
+| tosse | reflexo respiratório repetitivo |

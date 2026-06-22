@@ -79,3 +79,23 @@ Escreva uma troca de mensagens convidando um colega para algo (festa, churrasco,
 - [ ] Inclui uma aceitação entusiasmada
 - [ ] Inclui uma recusa cortês com motivo
 - [ ] Pronunciei corretamente o ditongo de "vou"
+
+## 8. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| adoraria! | aceitação entusiasmada de um convite |
+| aniversário | data de nascimento, celebração anual |
+| churrasco / jantar | eventos/refeições sociais |
+| combinado! | confirmação de um acordo/plano |
+| compromisso | obrigação ou plano marcado |
+| convite | chamado para participar de algo |
+| desculpa | pedido de desculpas ou justificativa |
+| encontro | reunião marcada entre pessoas |
+| eu sinto muito, mas... | fórmula de recusa cortês |
+| festa | evento social de celebração |
+| ir + infinitivo | forma de futuro mais usada na fala cotidiana |
+| presente | objeto dado a alguém |
+| que pena! | reação a uma notícia decepcionante |
+| viagem | deslocamento para outro lugar |
+| você quer ir...? | fórmula de convite |

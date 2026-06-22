@@ -72,3 +72,22 @@ Descreva sua casa (cômodos e mobília principal) e seu bairro (3 lugares próxi
 - [ ] Disse a quantidade de pelo menos 2 cômodos
 - [ ] Descrevi pelo menos 2 lugares do bairro
 - [ ] Pronunciei corretamente "embaixo" com o acento na sílaba certa
+
+## 8. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| apartamento / casa | tipos de moradia |
+| armário | móvel para guardar roupas/objetos |
+| bairro | região/área de uma cidade |
+| banheiro / cozinha / quarto / sala | cômodos da casa |
+| cadeira / mesa / sofá | móveis |
+| escola | local de ensino |
+| fica ao lado de / perto de / em frente a | expressões de localização |
+| fogão / geladeira | equipamentos da cozinha |
+| garagem / vaga | espaço para guardar/estacionar carro |
+| padaria / mercado / farmácia | comércios do bairro |
+| parque | área verde pública |
+| quantos/quantas...tem? | pergunta de quantidade |
+| tem... | expressão de existência |
+| vizinho | pessoa que mora perto |

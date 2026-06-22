@@ -82,3 +82,24 @@ Descreva (oral ou por escrito) 3 pessoas próximas a você — uma da família e
 - [ ] Concordei os adjetivos descritivos em gênero e número
 - [ ] Usei "parecido(a) com" pelo menos uma vez
 - [ ] Pronunciei corretamente uma palavra com "lh"
+
+## 8. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| alto/alta | de estatura grande |
+| amigo/amiga | pessoa querida que não é da família |
+| avô/avó | pai ou mãe do pai/da mãe |
+| baixo/baixa | de estatura pequena |
+| esposa / marido | cônjuge da pessoa |
+| esse é o meu... / essa é a minha... | fórmula para apresentar uma pessoa |
+| filho/filha | descendente direto de alguém |
+| irmão/irmã | filho(a) dos mesmos pais |
+| namorado/namorada | parceiro(a) romântico(a), sem casamento |
+| pai/mãe | progenitores |
+| parecido/parecida (com) | semelhante a alguém |
+| primo/prima | filho(a) de um tio/tia |
+| quem é essa pessoa? | pergunta para identificar alguém |
+| simpático/simpática | de personalidade agradável |
+| sobrinho/sobrinha | filho(a) de um irmão/irmã |
+| tio/tia | irmão/irmã de um dos pais |

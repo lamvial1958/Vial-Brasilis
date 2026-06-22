@@ -79,3 +79,22 @@ Relate sua rotina diária (oral ou escrita), com pelo menos 5 horários, usando 
 - [ ] Usei pelo menos um advérbio de frequência (sempre/às vezes/nunca)
 - [ ] Fiz uma comparação explícita com a rotina de outra pessoa
 - [ ] Pronunciei corretamente a ligação "às" + hora
+
+## 8. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| almoçar / jantar | fazer a refeição do meio-dia / da noite |
+| às vezes | com frequência média, não sempre |
+| a que horas...? | pergunta sobre horário de um hábito |
+| café da manhã | primeira refeição do dia |
+| cedo | antes do horário habitual |
+| descansar | parar para relaxar |
+| dormir | repousar/passar a noite dormindo |
+| hora / relógio | unidade de tempo / instrumento para ver a hora |
+| levantar(-se) | sair da cama |
+| manhã / tarde / noite | partes do dia |
+| meio-dia / meia-noite | 12h / 0h |
+| nunca | frequência zero |
+| sempre | toda vez, sem exceção |
+| trabalhar | exercer uma atividade profissional |

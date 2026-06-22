@@ -1,11 +1,21 @@
-# Nível PRE-A1 — Sobrevivência (6 unidades)
+# Nível PRE-A1 — Sobrevivência (8 unidades)
 
-> Segue o template da Seção 8 de `docs/PROJETO_BASE.md`. Neste nível, a sequência didática padrão é simplificada: pouca metalinguagem, foco em frases fixas/chunks e contexto visual; a etapa de "reflexão metalinguística" é substituída por um checklist de sobrevivência ("consigo usar isso na rua?"). Rubrica padrão: cumprimento da tarefa (alto), compreensibilidade da pronúncia (alto), uso adequado das fórmulas de polidez (médio).
+> Segue o template da Seção 8 de `docs/PROJETO_BASE.md`. Neste nível, a sequência didática padrão é simplificada: pouca metalinguagem, foco em frases fixas/chunks e contexto visual; a etapa de "reflexão metalinguística" é substituída por um checklist de sobrevivência ("consigo usar isso na rua?"). Rubrica padrão: cumprimento da tarefa (alto), compreensibilidade da pronúncia (alto), uso adequado das fórmulas de polidez (médio). Duas unidades são transversais/de apoio (PRE-A1.0 e PRE-A1.4b) — ferramentas gráfico-sonoras e lexicais de alta frequência que não pertencem a nenhuma tarefa de sobrevivência específica.
 
 ---
 
+## PRE-A1.0 — Ferramentas Básicas I
+- **Pré-requisitos:** nenhum (unidade inicial do curso) · **Projeta para:** PRE-A1.1 · **Tempo:** 1–2 sessões
+- **Por que existe:** antes de qualquer interação social, o aluno precisa decodificar o sistema gráfico-sonoro do português (letras, sons, sílabas) e ter números/medidas suficientes para lidar com preços, horários, endereços e temperatura que já aparecem a partir da unidade 1.
+- **Can-Do:** Sei nomear e pronunciar as letras do alfabeto. Sei dividir palavras simples em sílabas e identificar a sílaba tônica. Sei contar de 0 a 1.000, usar milhar/milhão/bilhão, e ler decimais. Sei usar o sistema métrico brasileiro (metro, quilo, litro, grau Celsius) no dia a dia.
+- **Cenário motivador:** soletrar o próprio nome para um atendente; conferir o preço e o peso de um produto; entender a previsão do tempo em graus Celsius.
+- **Função & Gramática:** nomes das letras (a, bê, cê...); noção prática de sílaba tônica (sem terminologia de acentuação); dezenas/centena/milhar; concordância de "milhão/milhões", "bilhão/bilhões"; leitura de decimais com vírgula (R$ 19,90 → "dezenove e noventa"; 1,75m → "um e setenta e cinco"); unidades métricas (cm/m/km, g/kg, ml/l, °C) e contraste com o sistema imperial.
+- **Léxico & SRS:** alfabeto (26 letras), números 0–1.000, mil, milhão, bilhão, vírgula decimal, "soletrar", "sílaba", metro, centímetro, quilômetro, quilo, grama, litro, grau Celsius (~65 itens).
+- **Som & Compreensão:** sons que diferem do inglês/espanhol (h mudo, r forte, lh, nh); áudio de previsão do tempo com temperatura; áudio de balança/preço no mercado.
+- **Produção:** soletrar nome e endereço; ditado numérico; converter e dizer em voz alta 3 medidas do dia a dia (altura, peso de uma fruta, temperatura).
+
 ## PRE-A1.1 — Primeiro Contato
-- **Pré-requisitos:** nenhum (unidade inicial do curso) · **Projeta para:** A1.1 · **Tempo:** 2–3 sessões
+- **Pré-requisitos:** PRE-A1.0 · **Projeta para:** A1.1 · **Tempo:** 2–3 sessões
 - **Por que existe:** primeiro contato sonoro e social com a língua; estabelece o "ouvido" para a nasalização antes de qualquer gramática.
 - **Can-Do:** Sei saudar e responder a uma saudação. Sei dizer meu nome e perguntar o nome do outro. Sei contar de 0 a 20.
 - **Cenário motivador:** chegar a um espaço social brasileiro (recepção de pousada, encontro casual) e fazer a primeira troca verbal.
@@ -43,6 +53,16 @@
 - **Léxico & SRS:** cardápio, conta, água, suco, pão, café, prato do dia, alérgico a... (~22 itens).
 - **Som & Compreensão:** áudio de atendente de balcão (fala rápida, reduções); números/valores em reais.
 - **Produção:** simulação completa de pedido + pagamento.
+
+## PRE-A1.4b — Ferramentas Básicas II
+- **Pré-requisitos:** PRE-A1.4 · **Projeta para:** PRE-A1.5 · **Tempo:** 1–2 sessões
+- **Por que existe:** dias da semana, meses e cores são blocos lexicais de altíssima frequência, mas não pertencem a nenhuma tarefa de sobrevivência específica — por isso ficam isolados numa unidade de apoio, na metade do nível, em vez de inflar uma das unidades funcionais.
+- **Can-Do:** Sei dizer e entender os dias da semana e os meses do ano. Sei marcar/confirmar uma data ou compromisso simples. Sei nomear as cores básicas e descrever um objeto pela cor.
+- **Cenário motivador:** marcar um horário (consulta, passeio) e relatar um objeto perdido pela cor (achados e perdidos).
+- **Função & Gramática:** "Hoje é.../Que dia é hoje?"; "em + mês" ("em janeiro"); hoje/ontem/amanhã; adjetivo de cor com concordância simples de gênero/número.
+- **Léxico & SRS:** dias da semana, meses do ano, cores básicas (~10) (~30 itens).
+- **Som & Compreensão:** áudio de alguém marcando uma data por telefone; reconhecimento de cores numa descrição de objeto perdido.
+- **Produção:** diálogo marcando uma data + descrevendo um objeto esquecido pela cor.
 
 ## PRE-A1.5 — Ajuda e Emergência
 - **Pré-requisitos:** PRE-A1.1 · **Projeta para:** A1.8 · **Tempo:** 2 sessões

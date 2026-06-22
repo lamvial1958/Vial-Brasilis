@@ -80,3 +80,31 @@ Simulação completa de "ida ao mercado e à farmácia" com uma lista de 5 itens
 - [ ] Relatei um pequeno problema (ex.: item faltando no hotel)
 - [ ] Agradeci e me despedi adequadamente
 - [ ] Pronunciei corretamente os 4 pontos fonéticos do nível
+
+## 7. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| aqui está o troco | entrega do valor de volta |
+| caixa (do supermercado) | local/pessoa que recebe o pagamento |
+| compra | ato de comprar |
+| desconto | redução no preço |
+| dinheiro | valor usado para pagar |
+| escova de dente | item de higiene bucal |
+| farmácia | local para comprar remédios |
+| fileira | fila/corredor de produtos |
+| fruta | alimento vegetal, ex.: maçã |
+| leite | bebida de origem animal/vegetal |
+| lista de compras | lista de itens a comprar |
+| mercado | local para comprar alimentos |
+| obrigado pela compra | agradecimento do vendedor |
+| pão | alimento básico de farinha |
+| pode me dar troco? | pedido de troco |
+| preço | valor de um item |
+| promoção | oferta especial |
+| quanto é/custa? | pergunta de preço |
+| remédio | medicamento |
+| sabonete | item de higiene para banho |
+| sacola | saco para carregar compras |
+| tem...? / vocês têm...? | pergunta sobre disponibilidade |
+| troco | valor devolvido após pagamento |

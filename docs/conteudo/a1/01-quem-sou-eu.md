@@ -131,3 +131,32 @@ Depois, em par (ou com um tutor), pergunte e responda essas mesmas 5 informaçõ
 - [ ] Concordei o gentílico/profissão com meu próprio gênero
 - [ ] Fiz pelo menos 3 perguntas usando as fórmulas do quadro funcional
 - [ ] Pronunciei corretamente a terminação "-ês"/"-esa" de pelo menos uma nacionalidade
+
+## 8. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| advogado/advogada | profissão — direito |
+| alemão/alemã | nacionalidade — Alemanha |
+| americano/americana | nacionalidade — EUA |
+| anos (idade) | unidade para contar idade |
+| argentino/argentina | nacionalidade — Argentina |
+| brasileiro/brasileira | nacionalidade — Brasil |
+| casado/casada | estado civil |
+| chinês/chinesa | nacionalidade — China |
+| cozinheiro/cozinheira | profissão — cozinha |
+| divorciado/divorciada | estado civil |
+| engenheiro/engenheira | profissão — projeta/constrói |
+| espanhol/espanhola | nacionalidade — Espanha |
+| estudante | quem estuda |
+| francês/francesa | nacionalidade — França |
+| inglês/inglesa | nacionalidade — Inglaterra |
+| italiano/italiana | nacionalidade — Itália |
+| japonês/japonesa | nacionalidade — Japão |
+| medicina | curso/área de quem estuda para ser médico |
+| médico/médica | profissão — cuida da saúde |
+| o que você faz? | pergunta sobre profissão |
+| professor/professora | profissão — ensina |
+| quantos anos você tem? | pergunta sobre idade |
+| solteiro/solteira | estado civil |
+| você é de onde? | pergunta sobre origem |

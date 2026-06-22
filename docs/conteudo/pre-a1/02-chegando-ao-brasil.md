@@ -82,3 +82,35 @@ Role-play (par ou tutor): você chega ao Brasil — passa pela imigração (resp
 - [ ] Dei o destino corretamente ("Para..., por favor")
 - [ ] Fiz um pedido cortês ao motorista ("Pode...?") e entendi a confirmação ("Vou...")
 - [ ] Pronunciei corretamente uma palavra com "r" forte e uma com "r" fraco
+
+## 7. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| aeroporto | local de chegada/partida de aviões |
+| agente (de imigração) | funcionário que verifica documentos na entrada do país |
+| alfândega | setor que verifica bagagens na entrada do país |
+| app de transporte | aplicativo para chamar um carro (tipo Uber) |
+| aqui está | expressão para entregar algo a alguém |
+| bagagem | malas e itens de viagem |
+| boa viagem / boa estadia | expressão de despedida para quem viaja/chega |
+| centro | área central da cidade |
+| destino | lugar para onde se vai |
+| direita / esquerda | lados de orientação |
+| em frente | direção reta, sem virar |
+| endereço | local exato (rua, número) de um lugar |
+| imigração | controle de entrada de estrangeiros no país |
+| longe / perto | distância grande / pequena |
+| motorista | quem dirige o veículo |
+| para... | preposição usada para indicar destino ("Para o Hotel Central") |
+| passaporte | documento de identificação para viagens internacionais |
+| pode + infinitivo, por favor? | pedido cortês |
+| pode deixar | resposta que confirma que algo será feito |
+| primeira vez / segunda vez | quantas vezes algo já ocorreu |
+| semana(s) | período de 7 dias |
+| táxi | carro de transporte pago |
+| tudo certo | confirmação de que está tudo bem |
+| viagem | deslocamento de um lugar a outro |
+| virar à direita/esquerda | mudar de direção |
+| visto | autorização oficial para entrar em um país |
+| vou + infinitivo | forma de dizer o que a pessoa fará a seguir |

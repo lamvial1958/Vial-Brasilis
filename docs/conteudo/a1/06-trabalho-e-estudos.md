@@ -80,3 +80,21 @@ Simule um diálogo de networking (em par, ou sozinho gravando os dois papéis): 
 - [ ] Usei o presente continuado ("estou + gerúndio") para uma situação atual
 - [ ] Distingui claramente hábito (presente simples) de situação temporária (presente continuado)
 - [ ] Pronunciei corretamente a terminação "-ndo" de um gerúndio
+
+## 8. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| aluno/aluna | quem estuda |
+| aula | período de ensino |
+| chefe | pessoa responsável por outras no trabalho |
+| colega de trabalho | pessoa que trabalha no mesmo lugar |
+| contrato | acordo formal de trabalho |
+| currículo | documento com histórico profissional |
+| emprego / empresa | trabalho remunerado / organização onde se trabalha |
+| entrevista | conversa para avaliar candidato a um emprego |
+| escritório | local de trabalho administrativo |
+| estágio | período de aprendizado prático em uma empresa |
+| faculdade | instituição de ensino superior |
+| salário | pagamento mensal pelo trabalho |
+| trabalhar em/como | local/função do trabalho |

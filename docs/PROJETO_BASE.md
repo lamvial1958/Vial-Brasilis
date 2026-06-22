@@ -89,18 +89,20 @@ O B1 permanece o eixo gravitacional do curso (primeiro marco com validação ins
 
 ---
 
-## 7. Esqueleto de Unidades (48 unidades, PRE-A1 → B2)
+## 7. Esqueleto de Unidades (50 unidades, PRE-A1 → B2)
 
 > **Detalhamento completo (ficha de unidade por unidade, seguindo o template da Seção 8) disponível em `docs/unidades/`:** [pre-a1.md](unidades/pre-a1.md) · [a1.md](unidades/a1.md) · [a2.md](unidades/a2.md) · [b1.md](unidades/b1.md) · [b2.md](unidades/b2.md). As tabelas abaixo são o resumo executivo; os arquivos por nível são a fonte de verdade.
 
-### PRE-A1 — Sobrevivência (6 unidades)
+### PRE-A1 — Sobrevivência (8 unidades)
 
 | # | Unidade | Objetivo Can-Do | Foco funcional |
 |---|---|---|---|
-| 1 | Primeiro Contato | Sei me apresentar e saudar | Alfabeto, pronúncia-base, nasalização inicial, números 0–20 |
+| 0 | Ferramentas Básicas I | Sei soletrar, contar (0–1.000+) e usar o sistema métrico | Alfabeto, sílabas, números/decimais, metro/quilo/litro/grau Celsius |
+| 1 | Primeiro Contato | Sei me apresentar e saudar | Pronúncia-base, nasalização inicial |
 | 2 | Chegando ao Brasil | Sei passar pela imigração e pedir transporte | Frases fixas, perguntas sim/não, direções básicas |
 | 3 | Na Acomodação | Sei resolver problemas práticos de hospedagem | Pedidos com "por favor/preciso de", vocabulário de quarto/hotel |
 | 4 | Comendo e Bebendo | Sei pedir e pagar em restaurante/padaria | Números (preços), cardápio, expressões de cortesia |
+| 4b | Ferramentas Básicas II | Sei marcar uma data e descrever objetos pela cor | Dias da semana, meses do ano, cores básicas |
 | 5 | Ajuda e Emergência | Sei pedir socorro e entender uma resposta | Frases de emergência, telefones úteis, compreensão auditiva curta |
 | 6 | Pequenas Compras | Sei comprar, perguntar preço, agradecer/desculpar-me | Mercado/farmácia, marcadores de polidez |
 
@@ -172,7 +174,7 @@ Unidades desenhadas para espelhar os gêneros textuais reais do exame (carta/e-m
 
 ## 8. Template Padrão de Unidade (Ficha de Unidade)
 
-Validado através da unidade-piloto **B1.8 — "Registro Formal vs. Informal"**, usada como prova de conceito e modelo replicável para as 48 unidades.
+Validado através da unidade-piloto **B1.8 — "Registro Formal vs. Informal"**, usada como prova de conceito e modelo replicável para as 50 unidades.
 
 ### 8.1 Estrutura da Ficha
 
@@ -225,9 +227,9 @@ Validado através da unidade-piloto **B1.8 — "Registro Formal vs. Informal"**,
 
 ## 9. Decisões Pendentes / Próximos Passos
 
-- [x] Detalhamento completo (ficha de unidade) das 47 unidades restantes, seguindo o template da Seção 8 — ver `docs/unidades/`.
-- [x] Conteúdo de lição completo (diálogo, vocabulário, pronúncia, exercícios com gabarito, listening, tarefa final) do nível **PRE-A1** (6 unidades) — ver `docs/conteudo/pre-a1/`. Serve de prova de conceito do nível de detalhe antes de replicar para A1, A2, B1 e B2.
-- [x] Conteúdo de lição completo do nível **A1** (10 unidades) — ver `docs/conteudo/a1/`. Introduz a seção extra "Gramática em Foco" no template de lição (validada na A1.1), necessária a partir daqui porque a A1 tem gramática produtiva (a PRE-A1 era só "chunks").
+- [x] Detalhamento completo (ficha de unidade) das 49 unidades restantes, seguindo o template da Seção 8 — ver `docs/unidades/`.
+- [x] Conteúdo de lição completo (diálogo, vocabulário, pronúncia, exercícios com gabarito, listening, tarefa final, glossário final da unidade) do nível **PRE-A1** (8 unidades, incluindo as unidades de apoio transversal PRE-A1.0 e PRE-A1.4b) — ver `docs/conteudo/pre-a1/`. Serve de prova de conceito do nível de detalhe antes de replicar para A1, A2, B1 e B2.
+- [x] Conteúdo de lição completo do nível **A1** (10 unidades) — ver `docs/conteudo/a1/`. Introduz a seção extra "Gramática em Foco" no template de lição (validada na A1.1), necessária a partir daqui porque a A1 tem gramática produtiva (a PRE-A1 era só "chunks"). Todas as lições (PRE-A1 e A1) agora terminam com um "Glossário da Unidade" consolidando e alfabetizando todo o vocabulário usado (diálogo + listening + exercícios), não só o introduzido na seção de Vocabulário.
 - [ ] Replicar o conteúdo de lição completo (mesmo padrão) para os níveis A2, B1 e B2.
 - [ ] Início da camada de arquitetura de TI/plataforma (aguardando o conteúdo completo de todos os níveis).
 - C1/C2: permanecem congelados; só serão retomados mediante solicitação formal futura do responsável pelo projeto.

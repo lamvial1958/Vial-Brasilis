@@ -79,3 +79,21 @@ Converse (em par ou role-play solo) sobre planos e preferências de lazer: diga 
 - [ ] Propus um plano com "Que tal...?"
 - [ ] Usei "todo fim de semana eu..." para um hábito
 - [ ] Pronunciei corretamente o "prefiro" irregular
+
+## 8. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| academia | local para exercícios físicos |
+| bicicleta | veículo de duas rodas movido a pedal |
+| caminhada | passeio a pé |
+| churrasco | refeição com carne grelhada, comum no Brasil |
+| festa | evento social de celebração |
+| filme / leitura | entretenimento audiovisual / ato de ler |
+| futebol / natação | esportes |
+| gostar de / adorar / odiar / preferir | verbos de preferência |
+| jogo | partida de um esporte/competição |
+| parque / praia / trilha | lugares de lazer |
+| passeio | saída de lazer |
+| que tal...? | fórmula para propor um plano |
+| shopping | centro comercial |

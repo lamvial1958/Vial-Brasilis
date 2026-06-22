@@ -74,3 +74,31 @@ Role-play: simule estar perdido pedindo ajuda, e simule um mal-estar leve pedind
 - [ ] Descrevi um sintoma com "Estou com..."
 - [ ] Sei os três números de emergência (190/192/193)
 - [ ] Pronunciei "Socorro!" com entonação de urgência
+
+## 7. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| 190 | número de emergência da polícia no Brasil |
+| 192 | número de emergência da ambulância/SAMU |
+| 193 | número de emergência dos bombeiros |
+| ajuda | apoio que se pede a alguém |
+| ambulância | veículo de emergência médica |
+| cinco minutos a pé | indicação de distância a pé |
+| dor de cabeça | sintoma de dor na cabeça |
+| emergência | situação urgente |
+| estou com... | forma de descrever um sintoma |
+| estou mal | expressão de mal-estar |
+| é longe? | pergunta sobre distância |
+| farmácia | local para comprar remédios |
+| febre | sintoma de temperatura corporal alta |
+| hospital | local de atendimento médico |
+| mal-estar | sensação geral de não estar bem |
+| muito obrigado | agradecimento intenso |
+| o que você está sentindo? | pergunta sobre sintomas |
+| perdido(a) | quem não sabe o caminho |
+| polícia | força de segurança pública |
+| siga em frente e vire à esquerda | instrução de caminho |
+| socorro! | pedido de ajuda em emergência grave |
+| vamos chamar uma ambulância? | proposta de ação numa emergência |
+| você pode me ajudar? | pedido de ajuda cortês |

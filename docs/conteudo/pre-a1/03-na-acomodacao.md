@@ -74,3 +74,34 @@ Role-play completo: faça o check-in (confirme a reserva, pegue a chave) e depoi
 - [ ] Relatei um problema usando "...não funciona"
 - [ ] Pedi um item com "Eu preciso de..."
 - [ ] Pronunciei corretamente o som "ch" /ʃ/
+
+## 7. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| ar-condicionado | aparelho que refresca o ambiente |
+| aqui está | expressão para entregar algo |
+| chave | objeto para abrir a porta do quarto |
+| chuveiro | equipamento para banho |
+| com licença | usado para pedir passagem ou interromper |
+| desculpa | pedido de desculpas |
+| elevador | equipamento para subir/descer andares |
+| em nome de... | forma de se identificar numa reserva |
+| eu trago já | promessa de trazer algo rapidamente |
+| eu vou resolver isso | promessa de solucionar um problema |
+| lençol | tecido que cobre o colchão |
+| malas | bagagem de viagem |
+| não funciona | expressão para relatar defeito |
+| número do quarto | identificação do quarto |
+| problema | algo que não está funcionando bem |
+| quarto | cômodo para dormir |
+| recepção | local de atendimento na entrada do hotel/pousada |
+| recepcionista | pessoa que atende na recepção |
+| reserva | confirmação prévia de um quarto |
+| sem problema | resposta tranquilizadora |
+| também preciso de... | forma de pedir mais um item |
+| tenho, sim | confirmação afirmativa |
+| toalha | pano usado para se secar |
+| travesseiro | usado para apoiar a cabeça ao dormir |
+| você tem reserva? | pergunta de confirmação na chegada |
+| wi-fi | internet sem fio |

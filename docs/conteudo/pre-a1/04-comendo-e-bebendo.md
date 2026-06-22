@@ -77,3 +77,33 @@ Role-play completo: peça em uma padaria e depois em um restaurante, mencionando
 - [ ] Mencionei uma restrição alimentar
 - [ ] Pedi a conta
 - [ ] Pronunciei corretamente o som /k/ em "qu"
+
+## 7. Glossário da Unidade
+
+| Palavra/Expressão | Significado |
+|---|---|
+| a conta, por favor | pedido para encerrar e pagar |
+| água | bebida básica |
+| alérgico a... | expressão de restrição alimentar por alergia |
+| amendoim | tipo de oleaginosa, alérgeno comum |
+| atendente | pessoa que atende no balcão |
+| café | bebida quente feita do grão de café |
+| cardápio | lista de pratos/bebidas de um restaurante |
+| colher / garfo / faca | utensílios de mesa |
+| conta | valor total a pagar |
+| copo / prato | recipientes para bebida/comida |
+| eu queria... | forma educada de pedir |
+| garçom | quem atende mesas no restaurante |
+| gorjeta | valor extra dado como agradecimento |
+| guardanapo | pano/papel para limpar a boca |
+| mais alguma coisa? | pergunta para saber se o pedido terminou |
+| não, só isso | resposta que encerra o pedido |
+| pão de queijo | pãozinho brasileiro feito com queijo |
+| para comer aqui / para levar | opção de consumir no local ou viagem |
+| pode ficar tranquilo | expressão tranquilizadora |
+| prato do dia | prato especial oferecido naquele dia |
+| quanto custa? | pergunta de preço |
+| real/reais | moeda do Brasil |
+| suco (de laranja) | bebida feita de fruta |
+| vegetariano/a | pessoa que não come carne |
+| vocês já escolheram? | pergunta do garçom sobre o pedido |
