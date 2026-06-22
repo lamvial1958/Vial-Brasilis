@@ -227,7 +227,8 @@ Validado através da unidade-piloto **B1.8 — "Registro Formal vs. Informal"**,
 
 - [x] Detalhamento completo (ficha de unidade) das 47 unidades restantes, seguindo o template da Seção 8 — ver `docs/unidades/`.
 - [x] Conteúdo de lição completo (diálogo, vocabulário, pronúncia, exercícios com gabarito, listening, tarefa final) do nível **PRE-A1** (6 unidades) — ver `docs/conteudo/pre-a1/`. Serve de prova de conceito do nível de detalhe antes de replicar para A1, A2, B1 e B2.
-- [ ] Replicar o conteúdo de lição completo (mesmo padrão do PRE-A1) para os níveis A1, A2, B1 e B2.
+- [x] Conteúdo de lição completo do nível **A1** (10 unidades) — ver `docs/conteudo/a1/`. Introduz a seção extra "Gramática em Foco" no template de lição (validada na A1.1), necessária a partir daqui porque a A1 tem gramática produtiva (a PRE-A1 era só "chunks").
+- [ ] Replicar o conteúdo de lição completo (mesmo padrão) para os níveis A2, B1 e B2.
 - [ ] Início da camada de arquitetura de TI/plataforma (aguardando o conteúdo completo de todos os níveis).
 - C1/C2: permanecem congelados; só serão retomados mediante solicitação formal futura do responsável pelo projeto.
 
@@ -236,4 +237,5 @@ Validado através da unidade-piloto **B1.8 — "Registro Formal vs. Informal"**,
 Onde a Seção 7 traz a *ficha* de cada unidade (objetivos, strands, foco funcional), esta seção aponta para o **conteúdo de lição pronto para uso** — diálogos, listas de vocabulário com exemplos, blocos de pronúncia, exercícios com gabarito, scripts de listening com perguntas, e a tarefa de produção final com checklist de autoavaliação.
 
 - **PRE-A1 (completo):** [`docs/conteudo/pre-a1/`](conteudo/pre-a1/) — 01-primeiro-contato.md, 02-chegando-ao-brasil.md, 03-na-acomodacao.md, 04-comendo-e-bebendo.md, 05-ajuda-e-emergencia.md, 06-pequenas-compras.md (projeto integrador do nível)
-- **A1, A2, B1, B2:** pendentes — a fazer seguindo o mesmo padrão do PRE-A1.
+- **A1 (completo):** [`docs/conteudo/a1/`](conteudo/a1/) — 01-quem-sou-eu.md, 02-familia-e-amigos.md, 03-minha-rotina.md, 04-casa-e-bairro.md, 05-tempo-e-estacoes.md, 06-trabalho-e-estudos.md, 07-lazer-e-fim-de-semana.md, 08-saude-basica.md, 09-planos-e-convites.md, 10-projeto-integrador.md. A partir daqui, cada lição inclui a seção "Gramática em Foco" (input explícito), ausente na PRE-A1 por ser um nível só de chunks fixos.
+- **A2, B1, B2:** pendentes — a fazer seguindo o mesmo padrão.
