@@ -17,9 +17,9 @@
 ## PRE-A1.2 — Chegando ao Brasil
 - **Pré-requisitos:** PRE-A1.1 · **Projeta para:** PRE-A1.3 · **Tempo:** 2–3 sessões
 - **Por que existe:** tarefa de sobrevivência imediata na chegada física ao país.
-- **Can-Do:** Sei responder a perguntas da imigração. Sei pedir e entender um trajeto simples. Sei pedir um táxi/app de transporte.
+- **Can-Do:** Sei responder a perguntas da imigração. Sei pedir um táxi/app de transporte e indicar uma rota com cortesia.
 - **Cenário motivador:** desembarque no aeroporto e trajeto até a acomodação.
-- **Função & Gramática:** perguntas sim/não ("Você tem...?", "É a primeira vez...?"); preposições de lugar básicas (para, em, perto de); imperativo fixo ("vire à direita/esquerda", "siga").
+- **Função & Gramática:** perguntas sim/não ("Você tem...?", "É a primeira vez...?"); preposições de lugar básicas (para, em, perto de); pedido cortês "Pode + infinitivo, por favor?" e confirmação "Vou + infinitivo" (o imperativo puro "vire/siga" fica reservado à PRE-A1.5, onde alguém instrui um pedestre).
 - **Léxico & SRS:** aeroporto, passaporte, visto, táxi, endereço, esquerda/direita, em frente, perto/longe (~20 itens).
 - **Som & Compreensão:** áudio de instruções de trajeto curtas; compreensão de números (endereços, valores).
 - **Produção:** simulação de diálogo com motorista de táxi/app confirmando o destino.

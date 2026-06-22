@@ -15,8 +15,8 @@
 **Cena 2 — Táxi/app de transporte:**
 > **Tom:** Boa tarde. Para o Hotel Central, por favor.
 > **Motorista:** Tudo bem. É perto do centro?
-> **Tom:** Sim, é perto do centro.
-> **Motorista:** Ok, vamos em frente e depois vire à direita.
+> **Tom:** Sim, é perto do centro. Pode seguir em frente e virar à direita, por favor?
+> **Motorista:** Pode deixar! Vou seguir em frente e virar à direita.
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -25,7 +25,10 @@
 | Responder sobre primeira vez | É a primeira vez. / Não, é a segunda vez. |
 | Dizer duração da estadia | Eu vou ficar... (duas semanas / um mês) |
 | Dar um destino | Para..., por favor. |
-| Seguir indicação | vire à direita/esquerda · siga em frente |
+| Pedir uma ação com cortesia (a quem está no controle) | Pode..., por favor? |
+| Confirmar que vai fazer algo | Vou... |
+
+> **Nota pedagógica:** o imperativo puro ("vire à direita", "siga") só é natural quando alguém *dá uma instrução a um pedestre que vai andar* — esse uso aparece corretamente na PRE-A1.5. Num táxi, quem dirige é o motorista; por isso o passageiro pede com cortesia ("Pode...?") e o motorista confirma a própria ação ("Vou...").
 
 ## 2. Vocabulário
 
@@ -45,8 +48,9 @@ aeroporto, passaporte, visto, imigração, alfândega, bagagem, táxi, app de tr
 3. — Eu vou ___ duas semanas. → **ficar**
 4. — Boa ___! → **viagem**
 5. — (resposta a "boa viagem") → **Obrigado**
+6. — ___ seguir em frente e virar à direita, por favor? → **Pode**
 
-**Exercício 2 — Associe a instrução à ação:** siga em frente → seta para frente · vire à direita → seta para a direita · vire à esquerda → seta para a esquerda
+**Exercício 2 — Associe a ação ao desenho:** seguir em frente → seta para frente · virar à direita → seta para a direita · virar à esquerda → seta para a esquerda
 
 **Exercício 3 — Complete com a preposição correta:**
 "Vou ___ o Hotel Central" → **para** · "O hotel é ___ do centro" → **perto**
@@ -70,11 +74,11 @@ rua(**forte**) · carro(**forte**) · primeira(**fraco**) · direita(**fraco**) 
 
 ## 6. Tarefa de Produção Final
 
-Role-play (par ou tutor): você chega ao Brasil — passa pela imigração (responde a 3 perguntas) e depois pede um táxi/app dizendo o destino e confirmando que entendeu a indicação de caminho.
+Role-play (par ou tutor): você chega ao Brasil — passa pela imigração (responde a 3 perguntas) e depois pede um táxi/app dizendo o destino e pedindo uma ação ao motorista com cortesia ("Pode..., por favor?").
 
 **Checklist de autoavaliação:**
 - [ ] Respondi à pergunta sobre primeira vez no Brasil
 - [ ] Disse quanto tempo vou ficar
 - [ ] Dei o destino corretamente ("Para..., por favor")
-- [ ] Entendi e repeti uma instrução de caminho
+- [ ] Fiz um pedido cortês ao motorista ("Pode...?") e entendi a confirmação ("Vou...")
 - [ ] Pronunciei corretamente uma palavra com "r" forte e uma com "r" fraco
