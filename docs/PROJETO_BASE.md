@@ -226,5 +226,14 @@ Validado através da unidade-piloto **B1.8 — "Registro Formal vs. Informal"**,
 ## 9. Decisões Pendentes / Próximos Passos
 
 - [x] Detalhamento completo (ficha de unidade) das 47 unidades restantes, seguindo o template da Seção 8 — ver `docs/unidades/`.
-- [ ] Início da camada de arquitetura de TI/plataforma (ainda não iniciado — aguardando validação do detalhamento pedagógico completo).
+- [x] Conteúdo de lição completo (diálogo, vocabulário, pronúncia, exercícios com gabarito, listening, tarefa final) do nível **PRE-A1** (6 unidades) — ver `docs/conteudo/pre-a1/`. Serve de prova de conceito do nível de detalhe antes de replicar para A1, A2, B1 e B2.
+- [ ] Replicar o conteúdo de lição completo (mesmo padrão do PRE-A1) para os níveis A1, A2, B1 e B2.
+- [ ] Início da camada de arquitetura de TI/plataforma (aguardando o conteúdo completo de todos os níveis).
 - C1/C2: permanecem congelados; só serão retomados mediante solicitação formal futura do responsável pelo projeto.
+
+## 10. Conteúdo de Lição Detalhado
+
+Onde a Seção 7 traz a *ficha* de cada unidade (objetivos, strands, foco funcional), esta seção aponta para o **conteúdo de lição pronto para uso** — diálogos, listas de vocabulário com exemplos, blocos de pronúncia, exercícios com gabarito, scripts de listening com perguntas, e a tarefa de produção final com checklist de autoavaliação.
+
+- **PRE-A1 (completo):** [`docs/conteudo/pre-a1/`](conteudo/pre-a1/) — 01-primeiro-contato.md, 02-chegando-ao-brasil.md, 03-na-acomodacao.md, 04-comendo-e-bebendo.md, 05-ajuda-e-emergencia.md, 06-pequenas-compras.md (projeto integrador do nível)
+- **A1, A2, B1, B2:** pendentes — a fazer seguindo o mesmo padrão do PRE-A1.
