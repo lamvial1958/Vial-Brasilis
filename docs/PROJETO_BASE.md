@@ -2,8 +2,8 @@
 
 > Documento de referência da arquitetura pedagógica do curso. Toda decisão estrutural validada até o momento está registrada aqui. Antes de propor qualquer mudança de estrutura, leia este documento primeiro.
 
-**Status:** Pedagogicamente validado para os níveis PRE-A1 a B2. Camada de TI/arquitetura ainda não iniciada.
-**Última atualização:** 2026-06-22
+**Status:** Pedagogicamente validado para os níveis PRE-A1 a B2. Conteúdo de lição completo construído para todos os níveis do escopo atual (PRE-A1 → B2). Camada de TI/arquitetura ainda não iniciada.
+**Última atualização:** 2026-06-23
 
 ---
 
@@ -232,7 +232,7 @@ Validado através da unidade-piloto **B1.8 — "Registro Formal vs. Informal"**,
 - [x] Conteúdo de lição completo do nível **A1** (10 unidades) — ver `docs/conteudo/a1/`. Introduz a seção extra "Gramática em Foco" no template de lição (validada na A1.1), necessária a partir daqui porque a A1 tem gramática produtiva (a PRE-A1 era só "chunks"). Todas as lições (PRE-A1 e A1) agora terminam com um "Glossário da Unidade" consolidando e alfabetizando todo o vocabulário usado (diálogo + listening + exercícios), não só o introduzido na seção de Vocabulário.
 - [x] Conteúdo de lição completo do nível **A2** (10 unidades) — ver `docs/conteudo/a2/`. Consolida o pretérito perfeito (regular e irregular) e introduz comparativos/superlativos, imperativo, futuro perifrástico+perfeito e pretérito imperfeito; A2.10 é unidade de checkpoint/diagnóstico sem item gramatical novo, preparando o gate do B1.
 - [x] Conteúdo de lição completo do nível **B1** (12 unidades) — ver `docs/conteudo/b1/`. A partir deste nível as unidades espelham os gêneros textuais reais do CELPE-Bras (e-mail/carta, reclamação formal, fórum de opinião, notícia, entrevista oral); B1.8 reutiliza fielmente a unidade-piloto da Seção 8.2; B1.11/B1.12 adaptam o template padrão para o formato de simulado/remediação direcionada, com o Simulado #2 do B1.12 servindo como marco formal de saída do nível.
-- [ ] Replicar o conteúdo de lição completo (mesmo padrão) para o nível B2 — único nível restante antes do congelamento C1/C2.
+- [x] Conteúdo de lição completo do nível **B2** (10 unidades) — ver `docs/conteudo/b2/`. Último nível do escopo atual: introduz subjuntivo imperfeito/futuro+condicional (hipóteses), discurso indireto, argumentação dissertativa avançada, variação regional (reconhecimento, não produção), registro profissional consolidado, discurso relatado jornalístico, humor/ironia/linguagem figurada e leitura crítica de produção cultural (música/conto); B2.9/B2.10 seguem o formato de simulado/remediação direcionada do B1.11/B1.12, com o Simulado #2 do B2.10 servindo como marco formal de saída do nível B2 e do escopo atual do curso (PRE-A1 → B2 completo).
 - [ ] Início da camada de arquitetura de TI/plataforma (aguardando o conteúdo completo de todos os níveis).
 - C1/C2: permanecem congelados; só serão retomados mediante solicitação formal futura do responsável pelo projeto.
 
@@ -244,4 +244,4 @@ Onde a Seção 7 traz a *ficha* de cada unidade (objetivos, strands, foco funcio
 - **A1 (completo):** [`docs/conteudo/a1/`](conteudo/a1/) — 01-quem-sou-eu.md, 02-familia-e-amigos.md, 03-minha-rotina.md, 04-casa-e-bairro.md, 05-tempo-e-estacoes.md, 06-trabalho-e-estudos.md, 07-lazer-e-fim-de-semana.md, 08-saude-basica.md, 09-planos-e-convites.md, 10-projeto-integrador.md. A partir daqui, cada lição inclui a seção "Gramática em Foco" (input explícito), ausente na PRE-A1 por ser um nível só de chunks fixos.
 - **A2 (completo):** [`docs/conteudo/a2/`](conteudo/a2/) — 01-contando-o-que-aconteceu.md, 02-verbos-irregulares-no-passado.md, 03-comparando-e-avaliando.md, 04-instrucoes-e-indicacoes.md, 05-burocracia-do-dia-a-dia.md, 06-saude-e-bem-estar.md, 07-viagens-pelo-brasil.md, 08-comida-e-cultura-a-mesa.md, 09-lembrancas-e-habitos-passados.md, 10-ponte-para-o-b1.md (checkpoint/diagnóstico, sem item gramatical novo). Inclui `preview.html`.
 - **B1 (completo):** [`docs/conteudo/b1/`](conteudo/b1/) — 01-entendendo-a-tarefa-integrada.md, 02-email-e-carta-pessoal.md, 03-reclamando-e-resolvendo.md, 04-opiniao-em-foruns.md, 05-narrando-uma-experiencia.md, 06-subjuntivo-presente.md, 07-linguagem-de-noticia.md, 08-registro-formal-vs-informal.md (unidade-piloto, Seção 8.2), 09-debatendo-temas-sociais.md, 10-entrevista-oral.md, 11-simulado-completo-1.md, 12-revisao-direcionada-e-simulado-2.md (marco de saída do nível). Inclui `preview.html`.
-- **B2:** pendente — único nível restante a fazer, seguindo o mesmo padrão.
+- **B2 (completo):** [`docs/conteudo/b2/`](conteudo/b2/) — 01-hipoteses-e-condicoes.md, 02-discurso-indireto.md, 03-argumentacao-avancada.md, 04-variacao-regional-pt-br.md, 05-portugues-no-trabalho.md, 06-midia-e-atualidades.md, 07-humor-ironia-e-linguagem-figurada.md, 08-cultura-brasileira-em-texto-e-musica.md, 09-simulado-completo-1.md, 10-revisao-direcionada-e-simulado-2.md (marco de saída do nível B2 e do escopo atual do curso). Inclui `preview.html`. Com o B2, o percurso PRE-A1 → B2 está com todo o conteúdo de lição construído; C1/C2 permanecem congelados.
