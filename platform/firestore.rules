@@ -1,0 +1,47 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && request.auth.token.role == 'admin';
+    }
+
+    function isOwner(uid) {
+      return isSignedIn() && request.auth.uid == uid;
+    }
+
+    // Perfil do usuário. O próprio usuário cria seu doc no cadastro (papel
+    // forçado para "student" pela regra); admin é promovido manualmente via
+    // Admin SDK (custom claim), nunca pelo cliente.
+    match /users/{uid} {
+      allow read: if isOwner(uid) || isAdmin();
+      allow create: if isOwner(uid) && request.resource.data.role == 'student';
+      allow update: if isOwner(uid) &&
+        request.resource.data.role == resource.data.role; // aluno não pode mudar o próprio papel
+      allow update, delete: if isAdmin();
+    }
+
+    // Resumo de progresso por aluno (lido pelo painel do admin).
+    match /progress/{uid} {
+      allow read: if isOwner(uid) || isAdmin();
+      allow write: if isOwner(uid) || isAdmin();
+    }
+
+    // Estado do SRS por aluno.
+    match /srsItems/{uid}/items/{itemId} {
+      allow read, write: if isOwner(uid) || isAdmin();
+    }
+
+    // Tentativas de simulado: aluno cria e lê as próprias; só admin corrige (score/feedback).
+    match /simuladoSubmissions/{uid}/attempts/{attemptId} {
+      allow read: if isOwner(uid) || isAdmin();
+      allow create: if isOwner(uid);
+      allow update: if isAdmin();
+    }
+  }
+}
