@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { adminAuth } from "@/lib/firebase/admin";
+import { getUser } from "@/lib/firebase/auth-rest";
 import { createSessionCookie, SESSION_COOKIE_NAME } from "@/lib/firebase/session";
 
 export async function POST(req: NextRequest) {
@@ -9,13 +9,17 @@ export async function POST(req: NextRequest) {
   }
 
   try {
-    const decoded = await adminAuth.verifyIdToken(idToken);
-    const user = await adminAuth.getUser(decoded.uid);
+    const sessionCookie = await createSessionCookie(idToken);
+
+    // createSessionCookie already verifies the token; extract uid to check disabled
+    const payload = JSON.parse(
+      Buffer.from(sessionCookie.split(".")[1], "base64url").toString()
+    ) as { uid: string };
+    const user = await getUser(payload.uid);
     if (user.disabled) {
       return NextResponse.json({ error: "Conta bloqueada." }, { status: 403 });
     }
 
-    const sessionCookie = await createSessionCookie(idToken);
     const res = NextResponse.json({ ok: true });
     res.cookies.set(SESSION_COOKIE_NAME, sessionCookie, {
       httpOnly: true,

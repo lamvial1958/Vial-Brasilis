@@ -2,7 +2,19 @@
  * Uso único: promove uma conta existente (já cadastrada via /signup) a admin.
  * Rodar com: npx tsx scripts/set-admin-claim.ts email@exemplo.com
  */
-import { adminAuth } from "../lib/firebase/admin";
+import { initializeApp, cert, getApps } from "firebase-admin/app";
+import { getAuth } from "firebase-admin/auth";
+
+if (!getApps().length) {
+  initializeApp({
+    credential: cert({
+      projectId: process.env.FIREBASE_ADMIN_PROJECT_ID,
+      clientEmail: process.env.FIREBASE_ADMIN_CLIENT_EMAIL,
+      privateKey: (process.env.FIREBASE_ADMIN_PRIVATE_KEY ?? "").replace(/\\n/g, "\n"),
+    }),
+  });
+}
+const adminAuth = getAuth();
 
 async function main() {
   const email = process.argv[2];

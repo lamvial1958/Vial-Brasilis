@@ -1,6 +1,5 @@
 import "server-only";
 import { cert, getApps, initializeApp, type App } from "firebase-admin/app";
-import { getAuth } from "firebase-admin/auth";
 import { getFirestore } from "firebase-admin/firestore";
 
 let _app: App | undefined;
@@ -38,13 +37,6 @@ function getAdminApp(): App {
     throw e;
   }
 }
-
-export const adminAuth = new Proxy({} as ReturnType<typeof getAuth>, {
-  get(_, prop) {
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    return (getAuth(getAdminApp()) as any)[prop];
-  },
-});
 
 export const adminDb = new Proxy({} as ReturnType<typeof getFirestore>, {
   get(_, prop) {

@@ -15,8 +15,6 @@ export default async function AdminPage() {
           <tr className="text-left border-b">
             <th className="py-2">E-mail</th>
             <th className="py-2">Cadastro</th>
-            <th className="py-2">Último login</th>
-            <th className="py-2">Verificado</th>
             <th className="py-2">Unidades concluídas</th>
             <th className="py-2">Status</th>
             <th className="py-2">Ações</th>
@@ -38,10 +36,6 @@ export default async function AdminPage() {
                   </Link>
                 </td>
                 <td className="py-2">{new Date(aluno.criadoEm).toLocaleDateString("pt-BR")}</td>
-                <td className="py-2">
-                  {aluno.ultimoLogin ? new Date(aluno.ultimoLogin).toLocaleDateString("pt-BR") : "—"}
-                </td>
-                <td className="py-2">{aluno.emailVerificado ? "Sim" : "Não"}</td>
                 <td className="py-2">{unidadesConcluidas}</td>
                 <td className="py-2">{aluno.bloqueado ? "Bloqueado" : "Ativo"}</td>
                 <td className="py-2">

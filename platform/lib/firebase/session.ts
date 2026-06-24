@@ -1,6 +1,10 @@
 import "server-only";
 import { cookies } from "next/headers";
-import { adminAuth } from "./admin";
+import {
+  verifyIdToken,
+  createSessionCookieSync,
+  verifySessionCookieSync,
+} from "./auth-rest";
 
 export const SESSION_COOKIE_NAME = "ple_session";
 const SESSION_MAX_AGE_MS = 1000 * 60 * 60 * 24 * 14; // 14 dias
@@ -13,7 +17,16 @@ export interface SessionUser {
 }
 
 export async function createSessionCookie(idToken: string): Promise<string> {
-  return adminAuth.createSessionCookie(idToken, { expiresIn: SESSION_MAX_AGE_MS });
+  const decoded = await verifyIdToken(idToken);
+  return createSessionCookieSync(
+    {
+      uid: decoded.sub!,
+      email: decoded.email,
+      email_verified: Boolean(decoded.email_verified),
+      role: decoded.role as string | undefined,
+    },
+    SESSION_MAX_AGE_MS
+  );
 }
 
 export async function getSessionUser(): Promise<SessionUser | null> {
@@ -22,7 +35,7 @@ export async function getSessionUser(): Promise<SessionUser | null> {
   if (!sessionCookie) return null;
 
   try {
-    const decoded = await adminAuth.verifySessionCookie(sessionCookie, true);
+    const decoded = verifySessionCookieSync(sessionCookie);
     return {
       uid: decoded.uid,
       email: decoded.email ?? null,

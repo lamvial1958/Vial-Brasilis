@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { adminAuth } from "@/lib/firebase/admin";
+import { getUser, updateUser, revokeRefreshTokens } from "@/lib/firebase/auth-rest";
 import { requireAdmin } from "@/lib/firebase/session";
 
 export async function POST(req: Request, { params }: { params: Promise<{ uid: string }> }) {
@@ -10,12 +10,15 @@ export async function POST(req: Request, { params }: { params: Promise<{ uid: st
   }
 
   const { uid } = await params;
-  const { bloqueado } = await req.json();
+  const target = await getUser(uid);
+  if (target.role === "admin") {
+    return NextResponse.json({ error: "Não é possível bloquear um administrador." }, { status: 403 });
+  }
 
-  await adminAuth.updateUser(uid, { disabled: Boolean(bloqueado) });
+  const { bloqueado } = await req.json();
+  await updateUser(uid, { disabled: Boolean(bloqueado) });
   if (bloqueado) {
-    // invalida sessões/tokens já emitidos para esse usuário
-    await adminAuth.revokeRefreshTokens(uid);
+    await revokeRefreshTokens(uid);
   }
 
   return NextResponse.json({ ok: true });
