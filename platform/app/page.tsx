@@ -1,65 +1,76 @@
-import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+    <main className="flex flex-col flex-1">
+      {/* Hero */}
+      <section className="flex flex-col items-center justify-center flex-1 px-6 py-24 text-center bg-white">
+        <span className="mb-4 inline-block rounded-full bg-green-100 px-4 py-1 text-sm font-medium text-green-700">
+          PRE-A1 → B2
+        </span>
+        <h1 className="max-w-2xl text-4xl font-bold leading-tight tracking-tight text-zinc-900 sm:text-5xl">
+          Aprenda Português do Brasil com propósito
+        </h1>
+        <p className="mt-6 max-w-xl text-lg text-zinc-500 leading-relaxed">
+          Curso estruturado de PLE com lições progressivas, revisão espaçada e
+          simulados no formato do Celpe-Bras. Do zero ao nível B2.
+        </p>
+        <div className="mt-10 flex flex-col gap-4 sm:flex-row">
+          <Link
+            href="/cadastro"
+            className="rounded-full bg-green-600 px-8 py-3 text-base font-semibold text-white shadow-sm hover:bg-green-700 transition-colors"
           >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+            Começar agora — grátis
+          </Link>
+          <Link
+            href="/licoes"
+            className="rounded-full border border-zinc-200 px-8 py-3 text-base font-semibold text-zinc-700 hover:bg-zinc-50 transition-colors"
           >
-            Documentation
-          </a>
+            Ver as lições
+          </Link>
         </div>
-      </main>
-    </div>
+      </section>
+
+      {/* Features */}
+      <section className="bg-zinc-50 py-20 px-6">
+        <div className="mx-auto max-w-4xl grid gap-8 sm:grid-cols-3">
+          <div className="rounded-2xl bg-white p-6 shadow-sm">
+            <div className="mb-3 text-2xl">📚</div>
+            <h3 className="font-semibold text-zinc-900">50 unidades</h3>
+            <p className="mt-1 text-sm text-zinc-500">
+              Conteúdo completo do PRE-A1 ao B2, organizado por nível e tema.
+            </p>
+          </div>
+          <div className="rounded-2xl bg-white p-6 shadow-sm">
+            <div className="mb-3 text-2xl">🧠</div>
+            <h3 className="font-semibold text-zinc-900">Revisão espaçada</h3>
+            <p className="mt-1 text-sm text-zinc-500">
+              Algoritmo SM-2 para reforçar o vocabulário no momento certo.
+            </p>
+          </div>
+          <div className="rounded-2xl bg-white p-6 shadow-sm">
+            <div className="mb-3 text-2xl">📝</div>
+            <h3 className="font-semibold text-zinc-900">Simulados cronometrados</h3>
+            <p className="mt-1 text-sm text-zinc-500">
+              Pratique no formato real do Celpe-Bras com feedback do professor.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* CTA final */}
+      <section className="bg-green-600 py-16 px-6 text-center text-white">
+        <h2 className="text-2xl font-bold">Pronto para começar?</h2>
+        <p className="mt-2 text-green-100">
+          Crie sua conta em segundos e acesse todas as lições gratuitamente.
+        </p>
+        <Link
+          href="/cadastro"
+          className="mt-6 inline-block rounded-full bg-white px-8 py-3 text-base font-semibold text-green-700 hover:bg-green-50 transition-colors"
+        >
+          Criar conta
+        </Link>
+      </section>
+    </main>
   );
 }
