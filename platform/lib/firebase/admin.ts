@@ -44,12 +44,14 @@ function getAdminApp(): App {
 
 export const adminAuth = new Proxy({} as ReturnType<typeof getAuth>, {
   get(_, prop) {
-    return (getAuth(getAdminApp()) as Record<string | symbol, unknown>)[prop];
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    return (getAuth(getAdminApp()) as any)[prop];
   },
 });
 
 export const adminDb = new Proxy({} as ReturnType<typeof getFirestore>, {
   get(_, prop) {
-    return (getFirestore(getAdminApp()) as Record<string | symbol, unknown>)[prop];
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    return (getFirestore(getAdminApp()) as any)[prop];
   },
 });
