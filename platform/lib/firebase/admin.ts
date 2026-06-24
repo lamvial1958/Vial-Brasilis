@@ -3,18 +3,15 @@ import { cert, getApps, initializeApp, type App } from "firebase-admin/app";
 import { getAuth } from "firebase-admin/auth";
 import { getFirestore } from "firebase-admin/firestore";
 
+const stripBom = (s: string) => s.replace(/^﻿/, "");
+
 function buildAdminApp(): App {
   if (getApps().length) return getApps()[0]!;
 
-  const projectId = process.env.FIREBASE_ADMIN_PROJECT_ID?.replace(/^﻿/, "").trim();
-  const clientEmail = process.env.FIREBASE_ADMIN_CLIENT_EMAIL?.replace(/^﻿/, "").trim();
-  const rawKey = process.env.FIREBASE_ADMIN_PRIVATE_KEY;
-  const privateKey = rawKey?.replace(/^﻿/, "").replace(/\\n/g, "\n");
-
-  console.log("[admin] projectId:", projectId);
-  console.log("[admin] clientEmail:", clientEmail);
-  console.log("[admin] rawKey present:", !!rawKey, "length:", rawKey?.length);
-  console.log("[admin] privateKey starts with:", privateKey?.slice(0, 40));
+  const projectId = stripBom(process.env.FIREBASE_ADMIN_PROJECT_ID ?? "").trim();
+  const clientEmail = stripBom(process.env.FIREBASE_ADMIN_CLIENT_EMAIL ?? "").trim();
+  const rawKey = process.env.FIREBASE_ADMIN_PRIVATE_KEY ?? "";
+  const privateKey = stripBom(rawKey).replace(/\\n/g, "\n");
 
   if (!projectId || !clientEmail || !privateKey) {
     throw new Error(
@@ -23,14 +20,9 @@ function buildAdminApp(): App {
     );
   }
 
-  try {
-    return initializeApp({
-      credential: cert({ projectId, clientEmail, privateKey }),
-    });
-  } catch (e) {
-    console.error("[admin] initializeApp error:", e);
-    throw e;
-  }
+  return initializeApp({
+    credential: cert({ projectId, clientEmail, privateKey }),
+  });
 }
 
 export const adminApp = buildAdminApp();
