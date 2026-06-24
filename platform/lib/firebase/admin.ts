@@ -26,9 +26,6 @@ function getAdminApp(): App {
       "\n"
     );
 
-    console.log("[admin] projectId:", JSON.stringify(projectId));
-    console.log("[admin] privateKey first 50:", JSON.stringify(privateKey.slice(0, 50)));
-
     if (!projectId || !clientEmail || !privateKey) {
       throw new Error("Firebase Admin: credenciais ausentes");
     }
