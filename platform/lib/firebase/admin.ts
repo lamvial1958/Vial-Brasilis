@@ -8,7 +8,13 @@ function buildAdminApp(): App {
 
   const projectId = process.env.FIREBASE_ADMIN_PROJECT_ID;
   const clientEmail = process.env.FIREBASE_ADMIN_CLIENT_EMAIL;
-  const privateKey = process.env.FIREBASE_ADMIN_PRIVATE_KEY?.replace(/\\n/g, "\n");
+  const rawKey = process.env.FIREBASE_ADMIN_PRIVATE_KEY;
+  const privateKey = rawKey?.replace(/\\n/g, "\n");
+
+  console.log("[admin] projectId:", projectId);
+  console.log("[admin] clientEmail:", clientEmail);
+  console.log("[admin] rawKey present:", !!rawKey, "length:", rawKey?.length);
+  console.log("[admin] privateKey starts with:", privateKey?.slice(0, 40));
 
   if (!projectId || !clientEmail || !privateKey) {
     throw new Error(
@@ -17,9 +23,14 @@ function buildAdminApp(): App {
     );
   }
 
-  return initializeApp({
-    credential: cert({ projectId, clientEmail, privateKey }),
-  });
+  try {
+    return initializeApp({
+      credential: cert({ projectId, clientEmail, privateKey }),
+    });
+  } catch (e) {
+    console.error("[admin] initializeApp error:", e);
+    throw e;
+  }
 }
 
 export const adminApp = buildAdminApp();
