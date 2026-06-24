@@ -15,7 +15,7 @@ const PRIVATE_KEY = () =>
 let _accessToken: string | null = null;
 let _accessTokenExpiry = 0;
 
-async function getAccessToken(): Promise<string> {
+export async function getAccessToken(): Promise<string> {
   if (_accessToken && Date.now() < _accessTokenExpiry) return _accessToken;
 
   const now = Math.floor(Date.now() / 1000);

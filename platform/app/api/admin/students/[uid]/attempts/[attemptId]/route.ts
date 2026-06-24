@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { adminDb } from "@/lib/firebase/admin";
+import { updateDocFields } from "@/lib/firebase/firestore-rest";
 import { requireAdmin } from "@/lib/firebase/session";
 
 export async function PATCH(
@@ -15,16 +15,14 @@ export async function PATCH(
   const { uid, attemptId } = await params;
   const { nota, feedback } = await req.json();
 
-  await adminDb
-    .collection("simuladoSubmissions")
-    .doc(uid)
-    .collection("attempts")
-    .doc(attemptId)
-    .update({
+  await updateDocFields(
+    `simuladoSubmissions/${uid}/attempts/${attemptId}`,
+    {
       status: "corrigido",
       nota: typeof nota === "number" ? nota : null,
       feedback: typeof feedback === "string" ? feedback : "",
-    });
+    }
+  );
 
   return NextResponse.json({ ok: true });
 }

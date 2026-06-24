@@ -1,6 +1,6 @@
 import "server-only";
 import { listUsers } from "@/lib/firebase/auth-rest";
-import { adminDb } from "@/lib/firebase/admin";
+import { getCollection } from "@/lib/firebase/firestore-rest";
 
 export interface AlunoResumo {
   uid: string;
@@ -12,8 +12,8 @@ export interface AlunoResumo {
 
 export async function listarAlunos(): Promise<AlunoResumo[]> {
   const users = await listUsers(1000);
-  const progressSnap = await adminDb.collection("progress").get();
-  const progressByUid = new Map(progressSnap.docs.map((d) => [d.id, d.data()]));
+  const progressDocs = await getCollection("progress");
+  const progressByUid = new Map(progressDocs.map((d) => [d.id, d.data]));
 
   return users
     .filter((u) => u.role !== "admin")

@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { getUser, deleteUser } from "@/lib/firebase/auth-rest";
-import { adminDb } from "@/lib/firebase/admin";
+import { deleteDoc } from "@/lib/firebase/firestore-rest";
 import { requireAdmin } from "@/lib/firebase/session";
 
 export async function DELETE(_req: Request, { params }: { params: Promise<{ uid: string }> }) {
@@ -16,8 +16,8 @@ export async function DELETE(_req: Request, { params }: { params: Promise<{ uid:
     return NextResponse.json({ error: "Não é possível excluir um administrador." }, { status: 403 });
   }
   await deleteUser(uid);
-  await adminDb.collection("users").doc(uid).delete();
-  await adminDb.collection("progress").doc(uid).delete();
+  await deleteDoc("users", uid);
+  await deleteDoc("progress", uid);
 
   return NextResponse.json({ ok: true });
 }
