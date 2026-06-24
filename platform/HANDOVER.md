@@ -1,108 +1,158 @@
 # Handover — Plataforma PLE (Português Brasil)
 
-Estado em 2026-06-24. Retome daqui sem perder contexto.
+Estado em 2026-06-24 (fim de sessão ~17h). Retome daqui sem perder contexto.
 
 ---
 
 ## Stack decidida (não muda)
 
-- **Frontend + API routes**: Next.js 16 no Vercel (plano gratuito)
+- **Frontend + API routes**: Next.js 16 no Vercel (plano Spark — gratuito)
 - **Auth + DB**: Firebase Auth + Firestore (plano Spark — gratuito)
+- **Sem Firebase Admin SDK no Next.js** — substituído por REST APIs (ver abaixo)
 - **Sem Firebase Blaze** até captação de clientes pagantes
-- **Sem outros bancos** (Neon, Supabase, etc.) — só Firestore
 
 ---
 
 ## URLs
 
-- **Produção**: https://platform-br.vercel.app
+- **Produção**: https://platform-henna-nine.vercel.app  (alias de platform-br.vercel.app)
 - **Vercel project**: luiz-antonio-m-vials-projects / platform-br
 - **Firebase project**: portugues-brasil-ple
 
 ---
 
-## O que foi feito nesta sessão
+## Estado atual (fim desta sessão)
 
-### Deploy realizado
-- App Next.js deployado no Vercel com todas as rotas funcionando no build
-- Homepage real implementada em `app/page.tsx` (hero + features + CTA)
-- Projeto renomeado de "platform" para "platform-br" no Vercel
-- Env vars configuradas no Vercel (todas as `NEXT_PUBLIC_FIREBASE_*` estão OK)
-- `content/generated/` removido do `.gitignore` e commitado (50 JSONs pré-gerados)
-- `next.config.ts` com `outputFileTracingIncludes` para incluir os JSONs no bundle serverless
-- `scripts/build-content.ts` tolerante à ausência de `docs/conteudo/` (ambiente Vercel)
+### O que foi resolvido nesta sessão
 
-### Problema em aberto: Admin SDK não inicializa em produção
+#### 1. ERR_REQUIRE_ESM (bloqueador principal — RESOLVIDO)
+O Firebase Admin SDK causava `ERR_REQUIRE_ESM` no Turbopack porque:
+- `firebase-admin` → `jwks-rsa` (CJS) → `require('jose')` (ESM-only)
+- `serverExternalPackages` não funciona com Turbopack
+- Downgrade para v12 não resolveu (jose v4 também é ESM-only)
 
-**Sintoma**: `DELETE /api/auth/session` e `GET /licoes` retornam 500.
+**Solução**: removido 100% do `firebase-admin` do Next.js. Substituído por REST APIs:
+- `platform/lib/firebase/auth-rest.ts` — Auth completo via REST (verifyIdToken, createSessionCookie, getUser, listUsers, updateUser, deleteUser, revokeRefreshTokens)
+- `platform/lib/firebase/firestore-rest.ts` — Firestore via REST (getCollection, deleteDoc, updateDocFields, querySubCollection)
+- `platform/lib/firebase/admin.ts` — ESVAZIADO (só tem um comentário de stub)
+- `scripts/set-admin-claim.ts` — ainda usa firebase-admin, mas roda só localmente via `npx tsx` (não afetado pelo Turbopack)
 
-**Causa raiz confirmada**: `FIREBASE_ADMIN_PRIVATE_KEY` está chegando com formato inválido ao `cert()` do Firebase Admin SDK. O erro exato no log do Vercel é:
-```
-Error: Failed to parse private key.
-[cause]: Error: error:1E08010C:DECODER routines::unsupported
-code: ERR_OSSL_UNSUPPORTED
-```
+#### 2. Firebase client SDK inicializando durante SSR (RESOLVIDO)
+`getAuth()` era chamado em nível de módulo em `client.ts`, causando `auth/invalid-api-key` durante o prerender do build.
 
-**Tentativas feitas**:
-- Corrigido BOM UTF-8 injetado pelo PowerShell 5.1 (usando ASCII encoding + stripBom no código)
-- Normalização de CRLF → LF já implementada em `lib/firebase/admin.ts`
-- Admin SDK refatorado para inicialização lazy (Proxy) — DELETE já não falha por causa do import
+**Solução**: `client.ts` agora inicializa Firebase só no browser via `typeof window !== 'undefined'`.
 
-**O que falta para resolver**: o usuário precisa gerar uma **nova chave de serviço** do Firebase e colar no Vercel manualmente:
+#### 3. NEXT_PUBLIC_FIREBASE_* vars estavam erradas no Vercel (RESOLVIDO)
+As variáveis estavam com valores incorretos ou vazios desde o início. Agora configuradas corretamente:
 
-### PRÓXIMA SESSÃO — Passo a passo imediato
+| Variável | Valor |
+|---|---|
+| NEXT_PUBLIC_FIREBASE_API_KEY | AIzaSyC0HCqsCIdaBf4M_Quj2kHQ32BTokysRR4 |
+| NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN | portugues-brasil-ple.firebaseapp.com |
+| NEXT_PUBLIC_FIREBASE_PROJECT_ID | portugues-brasil-ple |
+| NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET | portugues-brasil-ple.firebasestorage.app |
+| NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID | 199410587722 |
+| NEXT_PUBLIC_FIREBASE_APP_ID | 1:199410587722:web:329850cbcd27c43a1a2eb3 |
 
-**1. Gerar nova chave de serviço (2 min)**
-- Firebase Console → Project Settings → Service Accounts
-- "Generate new private key" → baixa um `.json`
-
-**2. Atualizar variáveis no Vercel (3 min)**
-- Vercel → project platform-br → Settings → Environment Variables
-- Deletar e recriar as 3 variáveis abaixo com os valores do JSON baixado:
-  - `FIREBASE_ADMIN_PROJECT_ID` ← campo `project_id` do JSON
-  - `FIREBASE_ADMIN_CLIENT_EMAIL` ← campo `client_email` do JSON
-  - `FIREBASE_ADMIN_PRIVATE_KEY` ← campo `private_key` do JSON (colar valor inteiro)
-- Também atualizar `.env.local` local com a nova chave
-
-**3. Pedir deploy**
-- Dizer "deploy" no chat — o agente dispara `vercel deploy --prod`
-
-**4. Após deploy funcionar: promover admin**
-- Cadastrar em https://platform-br.vercel.app/cadastro
-- Rodar: `npx tsx scripts/set-admin-claim.ts viallamv@gmail.com`
-- Fazer logout/login para o custom claim valer
+#### 4. Último deploy
+- Commit: `f3406ac`
+- Status: **READY** — build passou limpo, todas as 12 rotas OK
+- URL: https://platform-henna-nine.vercel.app
 
 ---
 
-## Arquitetura implementada (resumo)
+## PRÓXIMA SESSÃO — Retome exatamente aqui
 
-- **Auth**: Firebase Auth email/senha no cliente → cookie httpOnly via `POST /api/auth/session`
-- **Autorização**: `requireAdmin()` / `getSessionUser()` em Server Components + Firestore Security Rules
-- **Lições**: 50 unidades (PRE-A1→B2) em JSON pré-gerado em `content/generated/`
-- **SRS**: algoritmo SM-2 em `lib/srs/engine.ts`, UI em `app/revisao/`
-- **Simulados**: campo texto livre, submissão salva no Firestore, correção manual pelo admin
-- **Admin panel**: `/admin` lista alunos, `/admin/alunos/[uid]` mostra simulados e permite nota+feedback
+### Passo 1 — Testar cadastro (não confirmado ainda)
+Acesse https://platform-henna-nine.vercel.app/cadastro e crie conta com `viallamv@gmail.com`.
+
+Se der erro: abrir DevTools → aba Network → olhar se aparece requisição para `identitytoolkit.googleapis.com` e copiar a mensagem de erro.
+
+Se funcionar: continuar para Passo 2.
+
+### Passo 2 — Definir papel admin
+Após criar conta com sucesso, rodar no terminal do Claude Code:
+```
+! npx tsx platform/scripts/set-admin-claim.ts viallamv@gmail.com
+```
+Depois fazer logout e login novamente para o custom claim valer.
+
+### Passo 3 — Verificar painel admin
+Acessar https://platform-henna-nine.vercel.app/admin — deve listar alunos.
+
+### Passo 4 — Testar lições
+Acessar https://platform-henna-nine.vercel.app/licoes — deve funcionar sem erro 500.
+
+### Passo 5 (opcional) — Google Sign-In
+Firebase Auth já tem Google habilitado (confirmado nesta sessão). Falta apenas:
+- Adicionar botão "Entrar com Google" nas páginas `/cadastro` e `/login`
+- Usar `signInWithPopup(auth, new GoogleAuthProvider())` no cliente
+- Nenhuma mudança server-side necessária
+
+---
+
+## Variáveis de ambiente no Vercel (estado atual)
+
+Todas configuradas para Production:
+```
+FIREBASE_ADMIN_PROJECT_ID        = portugues-brasil-ple
+FIREBASE_ADMIN_CLIENT_EMAIL      = firebase-adminsdk-fbsvc@portugues-brasil-ple.iam.gserviceaccount.com
+FIREBASE_ADMIN_PRIVATE_KEY       = [chave gerada em 2026-06-24, configurada no Vercel]
+SESSION_SECRET                   = [configurado]
+NEXT_PUBLIC_FIREBASE_*           = [6 variáveis — valores na tabela acima]
+```
+
+---
+
+## Arquitetura server-side (sem firebase-admin)
+
+```
+Browser                    Next.js (Vercel)              Google APIs
+  |                              |                             |
+  |-- POST /api/auth/session --> |                             |
+  |   { idToken }               |-- verifyIdToken() --------> |
+  |                             |   (googleapis.com/          |
+  |                             |    robot/v1/metadata/x509)  |
+  |                             |<-- cert + jwt.verify() -----|
+  |                             |-- getUser() --------------> |
+  |                             |   (identitytoolkit REST)    |
+  |<-- Set-Cookie session ------| createSessionCookieSync()   |
+  |   (HS256 JWT, 5 dias)       |   (jsonwebtoken HS256)      |
+```
+
+**Arquivos chave**:
+- `lib/firebase/auth-rest.ts` — toda a lógica de auth server-side
+- `lib/firebase/firestore-rest.ts` — leitura/escrita no Firestore
+- `lib/firebase/session.ts` — helpers de sessão (requireAdmin, getSessionUser)
+- `lib/firebase/client.ts` — Firebase client SDK (somente browser)
+- `lib/firebase/admin.ts` — VAZIO (não importar)
+
+---
+
+## Commits desta sessão
+
+```
+f3406ac  Fix Firebase client init during SSR — only initialize in browser
+3267e8f  Remove firebase-admin do Next.js; usa REST APIs para ERR_REQUIRE_ESM
+eed2f53  Remove firebase-admin/auth — substitui por REST API + jsonwebtoken
+```
+
+---
 
 ## O que NÃO foi construído ainda
 
-- Google Sign-In (Auth habilitado no Firebase mas sem botão na UI)
+- Google Sign-In (botão na UI — Auth já habilitado no Firebase)
 - Áudio TTS/STT
 - Upload de produção oral
 - Testes automatizados
+
+---
 
 ## Como rodar localmente
 
 ```bash
 cd platform
 npm install
-# .env.local já existe com credenciais — atualizar FIREBASE_ADMIN_PRIVATE_KEY após nova chave
+# .env.local precisa ter as variáveis FIREBASE_ADMIN_* e NEXT_PUBLIC_FIREBASE_*
 npm run dev
-```
-
-## Como fazer deploy
-
-```bash
-cd platform
-npx vercel deploy --prod
-npx vercel alias set <url-gerada> platform-br.vercel.app
 ```
