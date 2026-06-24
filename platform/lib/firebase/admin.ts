@@ -3,28 +3,53 @@ import { cert, getApps, initializeApp, type App } from "firebase-admin/app";
 import { getAuth } from "firebase-admin/auth";
 import { getFirestore } from "firebase-admin/firestore";
 
-const stripBom = (s: string) => s.replace(/^﻿/, "");
+let _app: App | undefined;
+let _initError: unknown;
 
-function buildAdminApp(): App {
-  if (getApps().length) return getApps()[0]!;
+function getAdminApp(): App {
+  if (_app) return _app;
+  if (_initError) throw _initError;
 
-  const projectId = stripBom(process.env.FIREBASE_ADMIN_PROJECT_ID ?? "").trim();
-  const clientEmail = stripBom(process.env.FIREBASE_ADMIN_CLIENT_EMAIL ?? "").trim();
-  const rawKey = process.env.FIREBASE_ADMIN_PRIVATE_KEY ?? "";
-  const privateKey = stripBom(rawKey).replace(/\\n/g, "\n");
+  try {
+    if (getApps().length) {
+      _app = getApps()[0]!;
+      return _app;
+    }
 
-  if (!projectId || !clientEmail || !privateKey) {
-    throw new Error(
-      "Credenciais do Firebase Admin SDK ausentes. Configure FIREBASE_ADMIN_PROJECT_ID, " +
-        "FIREBASE_ADMIN_CLIENT_EMAIL e FIREBASE_ADMIN_PRIVATE_KEY em .env.local."
+    const raw = (v: string | undefined) =>
+      (v ?? "").replace(/^﻿/, "").trim();
+
+    const projectId = raw(process.env.FIREBASE_ADMIN_PROJECT_ID);
+    const clientEmail = raw(process.env.FIREBASE_ADMIN_CLIENT_EMAIL);
+    const privateKey = raw(process.env.FIREBASE_ADMIN_PRIVATE_KEY).replace(
+      /\\n/g,
+      "\n"
     );
-  }
 
-  return initializeApp({
-    credential: cert({ projectId, clientEmail, privateKey }),
-  });
+    console.log("[admin] projectId:", JSON.stringify(projectId));
+    console.log("[admin] privateKey first 50:", JSON.stringify(privateKey.slice(0, 50)));
+
+    if (!projectId || !clientEmail || !privateKey) {
+      throw new Error("Firebase Admin: credenciais ausentes");
+    }
+
+    _app = initializeApp({ credential: cert({ projectId, clientEmail, privateKey }) });
+    return _app;
+  } catch (e) {
+    console.error("[admin] init failed:", e);
+    _initError = e;
+    throw e;
+  }
 }
 
-export const adminApp = buildAdminApp();
-export const adminAuth = getAuth(adminApp);
-export const adminDb = getFirestore(adminApp);
+export const adminAuth = new Proxy({} as ReturnType<typeof getAuth>, {
+  get(_, prop) {
+    return (getAuth(getAdminApp()) as Record<string | symbol, unknown>)[prop];
+  },
+});
+
+export const adminDb = new Proxy({} as ReturnType<typeof getFirestore>, {
+  get(_, prop) {
+    return (getFirestore(getAdminApp()) as Record<string | symbol, unknown>)[prop];
+  },
+});
