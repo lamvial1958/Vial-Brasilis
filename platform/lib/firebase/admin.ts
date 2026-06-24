@@ -6,10 +6,10 @@ import { getFirestore } from "firebase-admin/firestore";
 function buildAdminApp(): App {
   if (getApps().length) return getApps()[0]!;
 
-  const projectId = process.env.FIREBASE_ADMIN_PROJECT_ID;
-  const clientEmail = process.env.FIREBASE_ADMIN_CLIENT_EMAIL;
+  const projectId = process.env.FIREBASE_ADMIN_PROJECT_ID?.replace(/^﻿/, "").trim();
+  const clientEmail = process.env.FIREBASE_ADMIN_CLIENT_EMAIL?.replace(/^﻿/, "").trim();
   const rawKey = process.env.FIREBASE_ADMIN_PRIVATE_KEY;
-  const privateKey = rawKey?.replace(/\\n/g, "\n");
+  const privateKey = rawKey?.replace(/^﻿/, "").replace(/\\n/g, "\n");
 
   console.log("[admin] projectId:", projectId);
   console.log("[admin] clientEmail:", clientEmail);
