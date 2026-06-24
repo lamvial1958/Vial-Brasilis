@@ -63,27 +63,61 @@ As variáveis estavam com valores incorretos ou vazios desde o início. Agora co
 
 ## PRÓXIMA SESSÃO — Retome exatamente aqui
 
-### Passo 1 — Testar cadastro (não confirmado ainda)
-Acesse https://platform-henna-nine.vercel.app/cadastro e crie conta com `viallamv@gmail.com`.
+### Bloqueador ativo: `auth/network-request-failed` no cadastro
 
-Se der erro: abrir DevTools → aba Network → olhar se aparece requisição para `identitytoolkit.googleapis.com` e copiar a mensagem de erro.
+O erro persiste após todos os fixes desta sessão. O que já foi descartado como causa:
 
-Se funcionar: continuar para Passo 2.
+| Hipótese | Resultado |
+|---|---|
+| Email/Password desabilitado no Firebase | ❌ Descartado — está ativado |
+| Restrição HTTP referrer na API key | ❌ Descartado — está em "Nenhum" |
+| Extensão de browser bloqueando | ❌ Descartado — mesmo erro em incognito |
+| NEXT_PUBLIC vars vazias/erradas | ❌ Descartado — corrigidas e verificadas no bundle |
+| Firebase Admin SDK causando ERR_REQUIRE_ESM | ❌ Descartado — removido completamente |
+| Firebase inicializando durante SSR | ❌ Descartado — corrigido com typeof window |
 
-### Passo 2 — Definir papel admin
+**O que foi observado**: o teste `fetch('https://identitytoolkit.googleapis.com/')` no Console retornou erro de CORS (esperado no root) mas o servidor respondeu com 404, confirmando que a rede alcança o Google. Porém, nenhuma requisição para `identitytoolkit.googleapis.com` apareceu na aba Network do DevTools ao clicar "Criar conta".
+
+**Hipóteses restantes para investigar na próxima sessão**:
+
+1. **Content Security Policy (CSP)** — se `next.config.ts` ou middleware tiver um header `Content-Security-Policy` que não inclua `identitytoolkit.googleapis.com` na lista `connect-src`, o browser bloqueia silenciosamente sem aparecer no Network tab. Verificar com `! grep -r "Content-Security-Policy" platform/` e `! grep -r "connect-src" platform/`.
+
+2. **DevTools não estava aberto antes do clique** — nas capturas, o Network tab pode não ter capturado a requisição porque foi aberto após o erro aparecer. Na próxima sessão: abrir DevTools ANTES, clicar em "Criar conta" e verificar se aparece qualquer requisição vermelha.
+
+3. **Firebase SDK version** — verificar `firebase` package.json version e testar downgrade se necessário.
+
+### Passo 1 — Diagnosticar o bloqueio (PRIORIDADE)
+
+**Diagnóstico A** (CSP): rodar no terminal:
+```
+! grep -rn "Content-Security-Policy\|connect-src\|script-src" platform/next.config.ts platform/middleware.ts 2>/dev/null
+```
+
+**Diagnóstico B** (Network tab correto): abrir https://platform-henna-nine.vercel.app/cadastro, abrir DevTools → Network → marcar "Preserve log" → digitar email/senha → clicar "Criar conta" → verificar se aparece alguma requisição para googleapis.com (com ou sem erro).
+
+**Diagnóstico C** (teste direto no Console com chave real):
+```javascript
+fetch('https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyC0HCqsCIdaBf4M_Quj2kHQ32BTokysRR4', {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:'teste@teste.com',password:'Teste12345!',returnSecureToken:true})}).then(r=>r.json()).then(d=>console.log(JSON.stringify(d))).catch(e=>console.log('ERRO:',e.message))
+```
+Se retornar `{"kind":"identitytoolkit#SignupNewUserResponse",...}` → Firebase está OK, problema é no SDK.
+Se retornar erro de CORS ou rede → problema de CSP ou network.
+
+### Passo 2 — Após resolver o cadastro
+
+### Passo 3 — Definir papel admin
 Após criar conta com sucesso, rodar no terminal do Claude Code:
 ```
 ! npx tsx platform/scripts/set-admin-claim.ts viallamv@gmail.com
 ```
 Depois fazer logout e login novamente para o custom claim valer.
 
-### Passo 3 — Verificar painel admin
+### Passo 4 — Verificar painel admin
 Acessar https://platform-henna-nine.vercel.app/admin — deve listar alunos.
 
-### Passo 4 — Testar lições
+### Passo 5 — Testar lições
 Acessar https://platform-henna-nine.vercel.app/licoes — deve funcionar sem erro 500.
 
-### Passo 5 (opcional) — Google Sign-In
+### Passo 6 (opcional) — Google Sign-In
 Firebase Auth já tem Google habilitado (confirmado nesta sessão). Falta apenas:
 - Adicionar botão "Entrar com Google" nas páginas `/cadastro` e `/login`
 - Usar `signInWithPopup(auth, new GoogleAuthProvider())` no cliente
