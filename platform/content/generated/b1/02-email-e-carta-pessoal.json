@@ -1,0 +1,221 @@
+{
+  "nivel": "b1",
+  "slug": "02-email-e-carta-pessoal",
+  "ordem": 2,
+  "codigo": "B1.2",
+  "titulo": "E-mail e Carta Pessoal",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b1.md`. Primeiro gênero textual escrito do nível: e-mail/carta pessoal informal, recebendo um estímulo real e respondendo de forma coerente.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Texto de Abertura",
+      "markdown": "**E-mail recebido (estímulo da tarefa):**\n> Oi! Tudo bem?\n>\n> Desculpa a demora pra responder, andei super ocupada esses meses! Aqui as novidades: mudei de apartamento em março, fica bem mais perto do centro agora. Ah, e comecei um curso de cerâmica nos fins de semana, tô adorando!\n>\n> E você, como estão as coisas? Ainda mora no mesmo lugar? Conta as novidades, tá com saudade de saber de você!\n>\n> Um abraço,\n> Bia\n\n**Resposta-modelo:**\n> Oi, Bia! Tudo ótimo por aqui, e com você?\n>\n> Que demora nada, eu também sou péssima pra responder rápido! Que legal a mudança, perto do centro deve ser bem mais prático. Aliás, parabéns pelo curso de cerâmica, adorei a ideia!\n>\n> Por aqui, ainda moro no mesmo apartamento, mas mudei de trabalho há dois meses. No início foi puxado, mas agora já tô bem mais tranquila. Depois te mando fotos do escritório novo!\n>\n> Bjs e até a próxima,\n> Carla\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Abrir e-mail/carta informal | Oi, [nome]! Tudo bem? |\n| Justificar demora em responder | Desculpa a demora pra responder... |\n| Dar novidades | Aqui as novidades: ... / Mudei de.../Comecei a... |\n| Pedir novidades | Conta as novidades! / Como estão as coisas? |\n| Sequenciar fatos | Depois... / Então... / Aliás... |\n| Fechar e-mail/carta informal | Um abraço, / Bjs e até a próxima, |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| desculpa a demora | pedido de desculpas por atraso em responder | Desculpa a demora pra responder. |\n| andar ocupado/a | estar com muitas tarefas recentemente | Andei super ocupada esses meses. |\n| as novidades | fatos recentes que aconteceram | Conta as novidades! |\n| mudar de (apartamento/trabalho) | trocar de lugar/emprego | Mudei de apartamento em março. |\n| ficar com saudade (de) | sentir falta de alguém | Tô com saudade de saber de você. |\n| aliás | conector que acrescenta informação relacionada | Aliás, parabéns pelo curso! |\n| depois | conector de sequência temporal | Depois te mando fotos. |\n| então | conector de consequência/sequência | Então resolvi mudar de trabalho. |\n| puxado/puxada | difícil, intenso (informal) | No início foi puxado. |\n| tranquilo/tranquila | calmo, sem grandes problemas | Agora já tô bem mais tranquila. |\n| um abraço | fórmula de fecho informal de carta/e-mail | Um abraço, Bia. |\n| bjs (beijos) | fórmula de fecho informal e afetuosa | Bjs e até a próxima. |\n| contar as novidades | relatar o que aconteceu de novo | Conta as novidades pra mim! |\n| tô (= estou) | redução informal falada usada também em e-mails informais | Tô adorando o curso. |\n| retomar contato | voltar a se comunicar depois de um tempo | Adorei retomar contato com você. |\n| corpo do e-mail/carta | parte principal do texto, entre abertura e fecho | O corpo do e-mail tem as novidades. |\n\n**(16 itens, tag `b1.2`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Função & Gramática em Foco",
+      "markdown": "**A. Estrutura do e-mail/carta pessoal informal:**\n| Parte | Conteúdo | Exemplo |\n|---|---|---|\n| Abertura | saudação + pergunta de cortesia | Oi! Tudo bem? |\n| Corpo — parágrafo 1 | resposta/reação ao que o outro disse | Que legal a mudança! |\n| Corpo — parágrafo 2 | suas próprias novidades | Por aqui, mudei de trabalho... |\n| Fecho | fórmula afetuosa + assinatura | Um abraço, [nome] |\n\n**B. Conectores de sequência (informais):**\n| Conector | Função | Exemplo |\n|---|---|---|\n| depois | sequência temporal | Depois te mando fotos. |\n| então | consequência/sequência de ideia | Então resolvi mudar. |\n| aliás | acrescenta info relacionada, muda levemente de foco | Aliás, parabéns pelo curso! |\n\n**C. Diferença com a carta/e-mail formal (preparação para B1.3):** aqui usamos \"você\", contrações informais (\"tô\", \"tá\", \"pra\") e fórmulas afetuosas de fecho — no B1.3 isso muda completamente."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Reduções informais escritas como são faladas:** \"tô\" (estou), \"tá\" (está), \"pra\" (para), \"né\" (não é) — comuns em e-mails informais entre amigos, mas nunca em registro formal.\n**B. Entonação de abertura calorosa:** \"Oi! Tudo bem?\" com entonação ascendente e acolhedora, diferente da entonação neutra de uma saudação formal."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete a abertura informal:**\n\"___, Marcos! ___?\" → **Oi, Marcos! Tudo bem?**\n\n**Exercício 2 — Escolha o conector correto:**\n\"Mudei de trabalho. ___ comecei a fazer academia também.\" (sequência) → **Depois**\n\n**Exercício 3 — Reescreva de forma informal:**\n\"Eu estou muito ocupado. Eu não tenho tempo para responder e-mails.\" → **Tô super ocupado. Não tenho tempo pra responder e-mails.**\n\n**Exercício 4 — Identifique a parte da carta:**\n\"Um abraço, Lia\" → **fecho (fórmula afetuosa + assinatura)**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Leitura — Texto e Perguntas",
+      "markdown": "> **E-mail (estímulo de tarefa):**\n> Oi! Como você está? Faz tempo que a gente não se fala! Aqui mudou bastante coisa: terminei a faculdade em dezembro e já comecei a trabalhar numa empresa de design. Tô bem feliz com o novo emprego, mas ainda me adaptando à rotina. E você, ainda está estudando português? Manda notícias!\n> Abraço,\n> Pedro\n\n**Perguntas:**\n1. Qual novidade principal Pedro conta? → **Terminou a faculdade e começou a trabalhar numa empresa de design**\n2. Como ele descreve seu sentimento sobre o novo emprego? → **Feliz, mas ainda se adaptando à rotina**\n3. Que pergunta ele faz ao final? → **Se a pessoa ainda está estudando português**\n4. Qual fórmula de fecho ele usa? → **\"Abraço, Pedro\"**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Responda ao e-mail de Pedro (seção 6) com um e-mail informal completo (100–150 palavras), incluindo:\n1. Abertura calorosa com pergunta de cortesia\n2. Reação a pelo menos uma novidade de Pedro\n3. Suas próprias novidades (reais ou imaginadas), usando ao menos 2 conectores de sequência (depois, então, aliás)\n4. Resposta à pergunta dele sobre o português\n5. Fecho informal apropriado\n\n**Checklist de autoavaliação:**\n- [ ] Usei a estrutura completa: abertura → corpo (reação + novidades) → fecho\n- [ ] Usei pelo menos 2 conectores de sequência informais\n- [ ] Mantive o registro informal do início ao fim (sem misturar com formalidade)\n- [ ] Respondi a todas as perguntas que o e-mail original fez"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| aliás | conector que acrescenta informação relacionada |\n| andar ocupado/a | estar com muitas tarefas recentemente |\n| as novidades | fatos recentes que aconteceram |\n| bjs (beijos) | fórmula de fecho informal e afetuosa |\n| contar as novidades | relatar o que aconteceu de novo |\n| corpo do e-mail/carta | parte principal do texto, entre abertura e fecho |\n| depois | conector de sequência temporal |\n| desculpa a demora | pedido de desculpas por atraso em responder |\n| então | conector de consequência/sequência |\n| ficar com saudade (de) | sentir falta de alguém |\n| mudar de (apartamento/trabalho) | trocar de lugar/emprego |\n| puxado/puxada | difícil, intenso (informal) |\n| retomar contato | voltar a se comunicar depois de um tempo |\n| tô (= estou) | redução informal falada usada também em e-mails informais |\n| tranquilo/tranquila | calmo, sem grandes problemas |\n| um abraço | fórmula de fecho informal de carta/e-mail |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "desculpa a demora",
+      "definicao": "pedido de desculpas por atraso em responder",
+      "exemplo": "Desculpa a demora pra responder."
+    },
+    {
+      "termo": "andar ocupado/a",
+      "definicao": "estar com muitas tarefas recentemente",
+      "exemplo": "Andei super ocupada esses meses."
+    },
+    {
+      "termo": "as novidades",
+      "definicao": "fatos recentes que aconteceram",
+      "exemplo": "Conta as novidades!"
+    },
+    {
+      "termo": "mudar de (apartamento/trabalho)",
+      "definicao": "trocar de lugar/emprego",
+      "exemplo": "Mudei de apartamento em março."
+    },
+    {
+      "termo": "ficar com saudade (de)",
+      "definicao": "sentir falta de alguém",
+      "exemplo": "Tô com saudade de saber de você."
+    },
+    {
+      "termo": "aliás",
+      "definicao": "conector que acrescenta informação relacionada",
+      "exemplo": "Aliás, parabéns pelo curso!"
+    },
+    {
+      "termo": "depois",
+      "definicao": "conector de sequência temporal",
+      "exemplo": "Depois te mando fotos."
+    },
+    {
+      "termo": "então",
+      "definicao": "conector de consequência/sequência",
+      "exemplo": "Então resolvi mudar de trabalho."
+    },
+    {
+      "termo": "puxado/puxada",
+      "definicao": "difícil, intenso (informal)",
+      "exemplo": "No início foi puxado."
+    },
+    {
+      "termo": "tranquilo/tranquila",
+      "definicao": "calmo, sem grandes problemas",
+      "exemplo": "Agora já tô bem mais tranquila."
+    },
+    {
+      "termo": "um abraço",
+      "definicao": "fórmula de fecho informal de carta/e-mail",
+      "exemplo": "Um abraço, Bia."
+    },
+    {
+      "termo": "bjs (beijos)",
+      "definicao": "fórmula de fecho informal e afetuosa",
+      "exemplo": "Bjs e até a próxima."
+    },
+    {
+      "termo": "contar as novidades",
+      "definicao": "relatar o que aconteceu de novo",
+      "exemplo": "Conta as novidades pra mim!"
+    },
+    {
+      "termo": "tô (= estou)",
+      "definicao": "redução informal falada usada também em e-mails informais",
+      "exemplo": "Tô adorando o curso."
+    },
+    {
+      "termo": "retomar contato",
+      "definicao": "voltar a se comunicar depois de um tempo",
+      "exemplo": "Adorei retomar contato com você."
+    },
+    {
+      "termo": "corpo do e-mail/carta",
+      "definicao": "parte principal do texto, entre abertura e fecho",
+      "exemplo": "O corpo do e-mail tem as novidades."
+    }
+  ],
+  "tagsVocabulario": [
+    "b1.2"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "\"___, Marcos! ___?\"",
+      "resposta": "Oi, Marcos! Tudo bem?"
+    },
+    {
+      "enunciado": "\"Mudei de trabalho. ___ comecei a fazer academia também.\" (sequência)",
+      "resposta": "Depois"
+    },
+    {
+      "enunciado": "\"Eu estou muito ocupado. Eu não tenho tempo para responder e-mails.\"",
+      "resposta": "Tô super ocupado. Não tenho tempo pra responder e-mails."
+    },
+    {
+      "enunciado": "\"Um abraço, Lia\"",
+      "resposta": "fecho (fórmula afetuosa + assinatura)"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "aliás",
+      "significado": "conector que acrescenta informação relacionada"
+    },
+    {
+      "termo": "andar ocupado/a",
+      "significado": "estar com muitas tarefas recentemente"
+    },
+    {
+      "termo": "as novidades",
+      "significado": "fatos recentes que aconteceram"
+    },
+    {
+      "termo": "bjs (beijos)",
+      "significado": "fórmula de fecho informal e afetuosa"
+    },
+    {
+      "termo": "contar as novidades",
+      "significado": "relatar o que aconteceu de novo"
+    },
+    {
+      "termo": "corpo do e-mail/carta",
+      "significado": "parte principal do texto, entre abertura e fecho"
+    },
+    {
+      "termo": "depois",
+      "significado": "conector de sequência temporal"
+    },
+    {
+      "termo": "desculpa a demora",
+      "significado": "pedido de desculpas por atraso em responder"
+    },
+    {
+      "termo": "então",
+      "significado": "conector de consequência/sequência"
+    },
+    {
+      "termo": "ficar com saudade (de)",
+      "significado": "sentir falta de alguém"
+    },
+    {
+      "termo": "mudar de (apartamento/trabalho)",
+      "significado": "trocar de lugar/emprego"
+    },
+    {
+      "termo": "puxado/puxada",
+      "significado": "difícil, intenso (informal)"
+    },
+    {
+      "termo": "retomar contato",
+      "significado": "voltar a se comunicar depois de um tempo"
+    },
+    {
+      "termo": "tô (= estou)",
+      "significado": "redução informal falada usada também em e-mails informais"
+    },
+    {
+      "termo": "tranquilo/tranquila",
+      "significado": "calmo, sem grandes problemas"
+    },
+    {
+      "termo": "um abraço",
+      "significado": "fórmula de fecho informal de carta/e-mail"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

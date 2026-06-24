@@ -1,0 +1,191 @@
+{
+  "nivel": "pre-a1",
+  "slug": "05-ajuda-e-emergencia",
+  "ordem": 7,
+  "codigo": "PRE-A1.5",
+  "titulo": "Ajuda e Emergência",
+  "tipo": "licao",
+  "notaIntro": "*Cena 1 — Perdido na rua:*",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena 1 — Perdido na rua:**\n> **Tom:** Com licença, eu estou perdido. Você pode me ajudar?\n> **Pessoa:** Claro! Para onde você quer ir?\n> **Tom:** Eu preciso ir para a Rua das Flores.\n> **Pessoa:** Ah, é fácil. Siga em frente e vire à esquerda.\n> **Tom:** Muito obrigado!\n\n**Cena 2 — Mal-estar leve:**\n> **Tom:** Desculpa, eu estou mal. Eu preciso de ajuda.\n> **Pessoa:** O que você está sentindo?\n> **Tom:** Estou com dor de cabeça e um pouco de febre.\n> **Pessoa:** Vamos chamar uma ambulância? Ou você quer ir a uma farmácia?\n> **Tom:** Uma farmácia está bem, obrigado.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer que está perdido | Eu estou perdido(a). |\n| Pedir ajuda | Você pode me ajudar? / Eu preciso de ajuda. |\n| Descrever mal-estar | Estou mal. / Estou com dor de... |\n| Emergência grave | Socorro! |\n| Números de emergência | 190 (polícia) · 192 (ambulância/SAMU) · 193 (bombeiros) |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "socorro, polícia, ambulância, hospital, perdido(a), dor de cabeça, febre, farmácia, ajuda, emergência, 190, 192, 193, mal-estar — **(14 itens, tag `pre-a1.5`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Revisão de nasalização:** não, então\n**B. Entonação de urgência:** \"Socorro!\" — praticar com entonação exclamativa ascendente"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete o diálogo:**\n1. Eu estou ___. → **perdido**\n2. Você pode me ___? → **ajudar**\n3. Estou com ___ de cabeça. → **dor**\n4. Eu preciso de ___. → **ajuda**\n5. ___! (emergência grave) → **Socorro**\n\n**Exercício 2 — Associe o número ao serviço:**\n190→polícia · 192→ambulância · 193→bombeiros\n\n**Exercício 3 — Verdadeiro ou falso:**\n\"Tom estava perdido na cena 1\" → **V** · \"Tom chamou uma ambulância na cena 2\" → **F** (foi à farmácia)\n\n**Exercício 4 — Escolha a resposta adequada à situação:**\n\"Você está com dor de cabeça forte. O que você diz?\" a) Estou com dor de cabeça b) Eu sou de Londres → **a**"
+    },
+    {
+      "ordem": 5,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Sofia:** Com licença, eu estou perdida. Onde tem uma farmácia?\n> **Pessoa:** Tem uma farmácia ali, perto do mercado.\n> **Sofia:** É longe?\n> **Pessoa:** Não, é perto. Cinco minutos a pé.\n> **Sofia:** Muito obrigada!\n\n**Perguntas:**\n1. O que Sofia está procurando? → **Uma farmácia**\n2. É longe ou perto? → **Perto, cinco minutos a pé**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Role-play: simule estar perdido pedindo ajuda, e simule um mal-estar leve pedindo ajuda/indicação de farmácia, incluindo dizer um sintoma.\n\n**Checklist de autoavaliação:**\n- [ ] Disse \"Eu estou perdido(a)\" corretamente\n- [ ] Pedi ajuda com \"Você pode me ajudar?\" / \"Eu preciso de ajuda\"\n- [ ] Descrevi um sintoma com \"Estou com...\"\n- [ ] Sei os três números de emergência (190/192/193)\n- [ ] Pronunciei \"Socorro!\" com entonação de urgência"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| 190 | número de emergência da polícia no Brasil |\n| 192 | número de emergência da ambulância/SAMU |\n| 193 | número de emergência dos bombeiros |\n| ajuda | apoio que se pede a alguém |\n| ambulância | veículo de emergência médica |\n| cinco minutos a pé | indicação de distância a pé |\n| dor de cabeça | sintoma de dor na cabeça |\n| emergência | situação urgente |\n| estou com... | forma de descrever um sintoma |\n| estou mal | expressão de mal-estar |\n| é longe? | pergunta sobre distância |\n| farmácia | local para comprar remédios |\n| febre | sintoma de temperatura corporal alta |\n| hospital | local de atendimento médico |\n| mal-estar | sensação geral de não estar bem |\n| muito obrigado | agradecimento intenso |\n| o que você está sentindo? | pergunta sobre sintomas |\n| perdido(a) | quem não sabe o caminho |\n| polícia | força de segurança pública |\n| siga em frente e vire à esquerda | instrução de caminho |\n| socorro! | pedido de ajuda em emergência grave |\n| vamos chamar uma ambulância? | proposta de ação numa emergência |\n| você pode me ajudar? | pedido de ajuda cortês |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [
+    "pre-a1.5"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Eu estou ___.",
+      "resposta": "perdido"
+    },
+    {
+      "enunciado": "2. Você pode me ___?",
+      "resposta": "ajudar"
+    },
+    {
+      "enunciado": "3. Estou com ___ de cabeça.",
+      "resposta": "dor"
+    },
+    {
+      "enunciado": "4. Eu preciso de ___.",
+      "resposta": "ajuda"
+    },
+    {
+      "enunciado": "5. ___! (emergência grave)",
+      "resposta": "Socorro"
+    },
+    {
+      "enunciado": "190",
+      "resposta": "polícia"
+    },
+    {
+      "enunciado": "192",
+      "resposta": "ambulância"
+    },
+    {
+      "enunciado": "193",
+      "resposta": "bombeiros"
+    },
+    {
+      "enunciado": "\"Tom estava perdido na cena 1\"",
+      "resposta": "V"
+    },
+    {
+      "enunciado": "\"Tom chamou uma ambulância na cena 2\"",
+      "resposta": "**F** (foi à farmácia)"
+    },
+    {
+      "enunciado": "\"Você está com dor de cabeça forte. O que você diz?\" a) Estou com dor de cabeça b) Eu sou de Londres",
+      "resposta": "a"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "190",
+      "significado": "número de emergência da polícia no Brasil"
+    },
+    {
+      "termo": "192",
+      "significado": "número de emergência da ambulância/SAMU"
+    },
+    {
+      "termo": "193",
+      "significado": "número de emergência dos bombeiros"
+    },
+    {
+      "termo": "ajuda",
+      "significado": "apoio que se pede a alguém"
+    },
+    {
+      "termo": "ambulância",
+      "significado": "veículo de emergência médica"
+    },
+    {
+      "termo": "cinco minutos a pé",
+      "significado": "indicação de distância a pé"
+    },
+    {
+      "termo": "dor de cabeça",
+      "significado": "sintoma de dor na cabeça"
+    },
+    {
+      "termo": "emergência",
+      "significado": "situação urgente"
+    },
+    {
+      "termo": "estou com...",
+      "significado": "forma de descrever um sintoma"
+    },
+    {
+      "termo": "estou mal",
+      "significado": "expressão de mal-estar"
+    },
+    {
+      "termo": "é longe?",
+      "significado": "pergunta sobre distância"
+    },
+    {
+      "termo": "farmácia",
+      "significado": "local para comprar remédios"
+    },
+    {
+      "termo": "febre",
+      "significado": "sintoma de temperatura corporal alta"
+    },
+    {
+      "termo": "hospital",
+      "significado": "local de atendimento médico"
+    },
+    {
+      "termo": "mal-estar",
+      "significado": "sensação geral de não estar bem"
+    },
+    {
+      "termo": "muito obrigado",
+      "significado": "agradecimento intenso"
+    },
+    {
+      "termo": "o que você está sentindo?",
+      "significado": "pergunta sobre sintomas"
+    },
+    {
+      "termo": "perdido(a)",
+      "significado": "quem não sabe o caminho"
+    },
+    {
+      "termo": "polícia",
+      "significado": "força de segurança pública"
+    },
+    {
+      "termo": "siga em frente e vire à esquerda",
+      "significado": "instrução de caminho"
+    },
+    {
+      "termo": "socorro!",
+      "significado": "pedido de ajuda em emergência grave"
+    },
+    {
+      "termo": "vamos chamar uma ambulância?",
+      "significado": "proposta de ação numa emergência"
+    },
+    {
+      "termo": "você pode me ajudar?",
+      "significado": "pedido de ajuda cortês"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

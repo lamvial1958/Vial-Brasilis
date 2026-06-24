@@ -37,9 +37,10 @@ yarn-error.log*
 # vercel
 .vercel
 
-# conteudo gerado pelo pipeline (npm run build:content) - reconstruido a cada build
-/content/generated
+# conteudo gerado pelo pipeline — commitado para deploy no Vercel (sem acesso a docs/)
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel

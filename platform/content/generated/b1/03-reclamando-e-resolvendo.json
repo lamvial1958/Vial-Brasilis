@@ -1,0 +1,239 @@
+{
+  "nivel": "b1",
+  "slug": "03-reclamando-e-resolvendo",
+  "ordem": 3,
+  "codigo": "B1.3",
+  "titulo": "Reclamando e Resolvendo",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b1.md`. Primeiro contraste explícito de registro do nível: carta/e-mail formal de reclamação, opondo-se diretamente ao informal do B1.2 — base direta para o B1.8.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Texto de Abertura",
+      "markdown": "**Cenário motivador:** um liquidificador comprado online chegou com defeito.\n\n**Carta-modelo de reclamação:**\n> Prezados Senhores,\n>\n> Venho por meio desta relatar um problema com o produto adquirido em sua loja, pedido nº 48217, recebido em 03/04.\n>\n> O liquidificador apresentou defeito no motor já no segundo uso, parando de funcionar completamente. Solicito a troca do produto ou, alternativamente, o reembolso integral do valor pago, conforme previsto no prazo de garantia.\n>\n> Agradeço a atenção e aguardo retorno em breve.\n>\n> Atenciosamente,\n> Marina Costa\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Abrir carta/e-mail formal | Prezados Senhores, / Prezado(a) [cargo/nome], |\n| Apresentar o motivo da carta | Venho por meio desta relatar/solicitar/informar... |\n| Descrever o problema | O produto apresentou defeito... / Identifiquei um problema com... |\n| Fazer um pedido formal | Solicito a troca/o reembolso/o reparo... |\n| Encerrar pedindo retorno | Agradeço a atenção e aguardo retorno. |\n| Fechar carta/e-mail formal | Atenciosamente, / Cordialmente, |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| prezados senhores | saudação formal a destinatário institucional | Prezados Senhores, venho relatar... |\n| venho por meio desta | fórmula formal de abertura de propósito | Venho por meio desta solicitar... |\n| relatar | informar formalmente um fato/problema | Venho relatar um problema com o pedido. |\n| adquirido/adquirida | comprado (registro formal) | O produto adquirido apresentou defeito. |\n| apresentar defeito | ter um problema técnico | O liquidificador apresentou defeito no motor. |\n| solicitar | pedir formalmente | Solicito a troca do produto. |\n| reembolso | devolução do dinheiro pago | Peço o reembolso integral do valor. |\n| reembolso integral | devolução total do valor | Solicito o reembolso integral. |\n| garantia | período de proteção contra defeitos | O prazo de garantia ainda está válido. |\n| prazo | período de tempo limite | O prazo de garantia é de 90 dias. |\n| protocolo (de atendimento) | número de registro do caso | Anote o número de protocolo. |\n| reparo | conserto de um produto com defeito | Solicito o reparo ou a troca. |\n| aguardar retorno | esperar uma resposta | Aguardo retorno em breve. |\n| atenciosamente | fórmula de fecho formal | Atenciosamente, Marina Costa. |\n| cordialmente | fórmula de fecho formal, levemente menos rígida | Cordialmente, José Lima. |\n| em anexo | junto ao documento, como arquivo extra | Envio em anexo a nota fiscal. |\n| nota fiscal | documento que comprova a compra | Anexei a nota fiscal à reclamação. |\n| no prazo previsto | dentro do tempo estabelecido | A troca deve ocorrer no prazo previsto. |\n\n**(18 itens, tag `b1.3`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Função & Gramática em Foco",
+      "markdown": "**A. Estrutura da carta/e-mail formal de reclamação:**\n| Parte | Conteúdo | Exemplo |\n|---|---|---|\n| Abertura | saudação formal | Prezados Senhores, |\n| Introdução | identificação do propósito | Venho por meio desta relatar... |\n| Desenvolvimento | descrição objetiva do problema (fatos, datas, números) | O produto apresentou defeito... pedido nº 48217... |\n| Pedido | solicitação clara e específica | Solicito a troca ou o reembolso. |\n| Fecho | agradecimento + expectativa de retorno + fórmula formal | Agradeço a atenção... Atenciosamente, |\n\n**B. Vocabulário de exigência cortês (formal, sem agressividade):**\n| Expressão direta/informal | Versão cortês formal |\n|---|---|\n| Quero meu dinheiro de volta. | Solicito o reembolso integral do valor pago. |\n| O produto chegou quebrado, isso é um absurdo! | O produto apresentou defeito, o que considero inadequado diante do valor pago. |\n| Vocês precisam resolver isso rápido. | Aguardo uma solução dentro do prazo previsto em lei. |\n\n**C. Contraste direto com o B1.2:** observe que aqui não há \"tô\", \"tá\", nem fórmulas afetuosas — o tom é objetivo, factual e cortesmente exigente, nunca pessoal."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Leitura formal em voz alta:** ritmo mais pausado e neutro que o do e-mail informal, sem entonação de conversa — o texto formal é lido, não \"falado\".\n**B. \"Atenciosamente\" — atenção ao acento tônico:** aten-cio-sa-MEN-te, paroxítono na sílaba \"men\"."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Transforme em linguagem formal:**\n\"Quero trocar o produto porque ele tá com defeito.\" → **Solicito a troca do produto, pois apresenta defeito.**\n\n**Exercício 2 — Complete a carta formal:**\n\"___ Senhores, ___ por meio desta relatar um problema com o pedido nº 1023.\" → **Prezados / Venho**\n\n**Exercício 3 — Escolha a fórmula de fecho adequada (formal):**\n(a) Bjs · (b) Atenciosamente · (c) Um abraço → **(b) Atenciosamente**\n\n**Exercício 4 — Identifique o erro de registro na carta abaixo e corrija:**\n\"Prezados Senhores, o produto chegou todo quebrado, que saco! Quero meu dinheiro de volta urgente.\" → **Erro: \"que saco\" é informal/coloquial, incompatível com o restante formal. Correção: \"O produto chegou com defeito, o que considero inadequado. Solicito o reembolso integral com urgência.\"**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Leitura — Texto e Perguntas",
+      "markdown": "> **E-mail de reclamação (estímulo de tarefa):**\n> Prezada Central de Atendimento,\n>\n> Venho por meio deste e-mail relatar um problema com a entrega do pedido nº 77390. O produto deveria ter sido entregue em 10 dias úteis, conforme informado no site, mas já se passaram 20 dias sem que eu tenha recebido qualquer atualização.\n>\n> Solicito informações sobre o status da entrega e, caso não haja previsão imediata, solicito o cancelamento do pedido com reembolso integral.\n>\n> Atenciosamente,\n> Rafael Almeida\n\n**Perguntas:**\n1. Qual é o problema relatado? → **Atraso na entrega do pedido (20 dias em vez de 10)**\n2. Quais são os dois pedidos feitos por Rafael? → **Informações sobre o status da entrega; cancelamento com reembolso integral, se não houver previsão imediata**\n3. O tom da carta é cortês ou agressivo? → **Cortês, mas firme/exigente**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Escreva uma carta/e-mail formal de reclamação (120–180 palavras) sobre um produto ou serviço com problema (real ou imaginado: atraso, defeito, cobrança indevida). Inclua:\n1. Saudação e introdução formais (\"Prezados Senhores,\" / \"Venho por meio desta...\")\n2. Descrição objetiva do problema, com pelo menos um dado concreto (número de pedido, data, valor)\n3. Um pedido claro e específico (troca, reembolso, reparo ou explicação)\n4. Fecho formal apropriado\n\n**Checklist de autoavaliação:**\n- [ ] Usei saudação e fecho formais do início ao fim, sem nenhuma marca informal\n- [ ] Descrevi o problema de forma objetiva, com pelo menos um dado concreto\n- [ ] Fiz um pedido claro e específico, não vago\n- [ ] Mantive tom cortês mesmo sendo firme na exigência"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| adquirido/adquirida | comprado (registro formal) |\n| aguardar retorno | esperar uma resposta |\n| apresentar defeito | ter um problema técnico |\n| atenciosamente | fórmula de fecho formal |\n| cordialmente | fórmula de fecho formal, levemente menos rígida |\n| em anexo | junto ao documento, como arquivo extra |\n| garantia | período de proteção contra defeitos |\n| no prazo previsto | dentro do tempo estabelecido |\n| nota fiscal | documento que comprova a compra |\n| prazo | período de tempo limite |\n| prezados senhores | saudação formal a destinatário institucional |\n| protocolo (de atendimento) | número de registro do caso |\n| reembolso | devolução do dinheiro pago |\n| reembolso integral | devolução total do valor |\n| relatar | informar formalmente um fato/problema |\n| reparo | conserto de um produto com defeito |\n| solicitar | pedir formalmente |\n| venho por meio desta | fórmula formal de abertura de propósito |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "prezados senhores",
+      "definicao": "saudação formal a destinatário institucional",
+      "exemplo": "Prezados Senhores, venho relatar..."
+    },
+    {
+      "termo": "venho por meio desta",
+      "definicao": "fórmula formal de abertura de propósito",
+      "exemplo": "Venho por meio desta solicitar..."
+    },
+    {
+      "termo": "relatar",
+      "definicao": "informar formalmente um fato/problema",
+      "exemplo": "Venho relatar um problema com o pedido."
+    },
+    {
+      "termo": "adquirido/adquirida",
+      "definicao": "comprado (registro formal)",
+      "exemplo": "O produto adquirido apresentou defeito."
+    },
+    {
+      "termo": "apresentar defeito",
+      "definicao": "ter um problema técnico",
+      "exemplo": "O liquidificador apresentou defeito no motor."
+    },
+    {
+      "termo": "solicitar",
+      "definicao": "pedir formalmente",
+      "exemplo": "Solicito a troca do produto."
+    },
+    {
+      "termo": "reembolso",
+      "definicao": "devolução do dinheiro pago",
+      "exemplo": "Peço o reembolso integral do valor."
+    },
+    {
+      "termo": "reembolso integral",
+      "definicao": "devolução total do valor",
+      "exemplo": "Solicito o reembolso integral."
+    },
+    {
+      "termo": "garantia",
+      "definicao": "período de proteção contra defeitos",
+      "exemplo": "O prazo de garantia ainda está válido."
+    },
+    {
+      "termo": "prazo",
+      "definicao": "período de tempo limite",
+      "exemplo": "O prazo de garantia é de 90 dias."
+    },
+    {
+      "termo": "protocolo (de atendimento)",
+      "definicao": "número de registro do caso",
+      "exemplo": "Anote o número de protocolo."
+    },
+    {
+      "termo": "reparo",
+      "definicao": "conserto de um produto com defeito",
+      "exemplo": "Solicito o reparo ou a troca."
+    },
+    {
+      "termo": "aguardar retorno",
+      "definicao": "esperar uma resposta",
+      "exemplo": "Aguardo retorno em breve."
+    },
+    {
+      "termo": "atenciosamente",
+      "definicao": "fórmula de fecho formal",
+      "exemplo": "Atenciosamente, Marina Costa."
+    },
+    {
+      "termo": "cordialmente",
+      "definicao": "fórmula de fecho formal, levemente menos rígida",
+      "exemplo": "Cordialmente, José Lima."
+    },
+    {
+      "termo": "em anexo",
+      "definicao": "junto ao documento, como arquivo extra",
+      "exemplo": "Envio em anexo a nota fiscal."
+    },
+    {
+      "termo": "nota fiscal",
+      "definicao": "documento que comprova a compra",
+      "exemplo": "Anexei a nota fiscal à reclamação."
+    },
+    {
+      "termo": "no prazo previsto",
+      "definicao": "dentro do tempo estabelecido",
+      "exemplo": "A troca deve ocorrer no prazo previsto."
+    }
+  ],
+  "tagsVocabulario": [
+    "b1.3"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "\"Quero trocar o produto porque ele tá com defeito.\"",
+      "resposta": "Solicito a troca do produto, pois apresenta defeito."
+    },
+    {
+      "enunciado": "\"___ Senhores, ___ por meio desta relatar um problema com o pedido nº 1023.\"",
+      "resposta": "Prezados / Venho"
+    },
+    {
+      "enunciado": "(c) Um abraço",
+      "resposta": "(b) Atenciosamente"
+    },
+    {
+      "enunciado": "\"Prezados Senhores, o produto chegou todo quebrado, que saco! Quero meu dinheiro de volta urgente.\"",
+      "resposta": "Erro: \"que saco\" é informal/coloquial, incompatível com o restante formal. Correção: \"O produto chegou com defeito, o que considero inadequado. Solicito o reembolso integral com urgência.\""
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "adquirido/adquirida",
+      "significado": "comprado (registro formal)"
+    },
+    {
+      "termo": "aguardar retorno",
+      "significado": "esperar uma resposta"
+    },
+    {
+      "termo": "apresentar defeito",
+      "significado": "ter um problema técnico"
+    },
+    {
+      "termo": "atenciosamente",
+      "significado": "fórmula de fecho formal"
+    },
+    {
+      "termo": "cordialmente",
+      "significado": "fórmula de fecho formal, levemente menos rígida"
+    },
+    {
+      "termo": "em anexo",
+      "significado": "junto ao documento, como arquivo extra"
+    },
+    {
+      "termo": "garantia",
+      "significado": "período de proteção contra defeitos"
+    },
+    {
+      "termo": "no prazo previsto",
+      "significado": "dentro do tempo estabelecido"
+    },
+    {
+      "termo": "nota fiscal",
+      "significado": "documento que comprova a compra"
+    },
+    {
+      "termo": "prazo",
+      "significado": "período de tempo limite"
+    },
+    {
+      "termo": "prezados senhores",
+      "significado": "saudação formal a destinatário institucional"
+    },
+    {
+      "termo": "protocolo (de atendimento)",
+      "significado": "número de registro do caso"
+    },
+    {
+      "termo": "reembolso",
+      "significado": "devolução do dinheiro pago"
+    },
+    {
+      "termo": "reembolso integral",
+      "significado": "devolução total do valor"
+    },
+    {
+      "termo": "relatar",
+      "significado": "informar formalmente um fato/problema"
+    },
+    {
+      "termo": "reparo",
+      "significado": "conserto de um produto com defeito"
+    },
+    {
+      "termo": "solicitar",
+      "significado": "pedir formalmente"
+    },
+    {
+      "termo": "venho por meio desta",
+      "significado": "fórmula formal de abertura de propósito"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

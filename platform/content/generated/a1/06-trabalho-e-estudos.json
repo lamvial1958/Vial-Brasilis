@@ -1,0 +1,156 @@
+{
+  "nivel": "a1",
+  "slug": "06-trabalho-e-estudos",
+  "ordem": 6,
+  "codigo": "A1.6",
+  "titulo": "Trabalho e Estudos",
+  "tipo": "licao",
+  "notaIntro": "*Cena — evento de networking:*",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — evento de networking:**\n> **Marco:** Oi, eu sou o Marco. Eu trabalho como cozinheiro num restaurante italiano aqui no centro.\n> **Li:** Que interessante! Eu trabalho numa empresa de tecnologia, como engenheira.\n> **Marco:** E você, Tom, ainda dá aulas de inglês?\n> **Tom:** Atualmente não. Eu estou estudando português na faculdade e também estou procurando um emprego de professor aqui no Brasil.\n> **Li:** Boa sorte! Eu trabalho em São Paulo, na Avenida Paulista.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer onde trabalha | Eu trabalho em... (lugar) |\n| Dizer a profissão | Eu trabalho como... (profissão) |\n| Dizer onde estuda | Eu estudo em... |\n| Dizer o que está fazendo agora (situação atual) | Eu estou + gerúndio (estudando, procurando...) |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "empresa, escritório, restaurante, faculdade, escola, emprego, currículo, entrevista, estágio, aula, professor/professora, aluno/aluna, colega de trabalho, chefe, salário, contrato — **(16 itens, tag `a1.6`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. \"Trabalhar em\" (lugar) vs. \"trabalhar como\" (função):**\n*Eu trabalho **em** um restaurante. / Eu trabalho **como** cozinheiro.* — as duas informações costumam aparecer juntas: \"Eu trabalho como cozinheiro em um restaurante.\"\n\n**B. \"Estudar em\":** *Eu estudo **em** uma faculdade / **em** uma escola de português.*\n\n**C. Presente continuado (introdução leve) — \"estar + gerúndio\":** usado para uma ação em curso ou uma situação temporária atual, em contraste com o presente simples (hábito).\n| Verbo | Gerúndio |\n|---|---|\n| estudar (-ar) | estudando |\n| procurar (-ar) | procurando |\n| comer (-er) | comendo |\n| dormir (-ir) | dormindo |\n\n*Compare: \"Eu estudo português\" (hábito/fato geral) × \"Eu estou estudando português este semestre\" (situação atual, temporária).*"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Terminação \"-ndo\" do gerúndio:** estudando, procurando — sílaba tônica sempre antes do \"-ndo\".\n**B. Nasalização revisão: \"não\", \"também\".**\n**C. \"ch\" em \"escritório\"? — não; foco aqui em \"rr\"/r forte:** carro (revisão), Avenida Paulista — \"r\" no início de \"restaurante\"."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com \"em\" ou \"como\":**\n1. Eu trabalho ___ engenheira. → **como**\n2. Eu trabalho ___ uma empresa de tecnologia. → **em**\n3. Eu estudo ___ uma faculdade. → **em**\n\n**Exercício 2 — Coloque o verbo no gerúndio:**\nestudar → **estudando** · procurar → **procurando** · escrever → **escrevendo**\n\n**Exercício 3 — Presente simples ou continuado? Escolha a opção mais adequada:**\n\"Atualmente, eu ___ português.\" (estudo / estou estudando — situação temporária) → **estou estudando**\n\"Todo dia eu ___ às oito.\" (trabalho / estou trabalhando — hábito) → **trabalho**\n\n**Exercício 4 — Associe a profissão ao local de trabalho:**\ncozinheiro → restaurante · engenheira → empresa de tecnologia · professor → escola/faculdade"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Sofia:** Olá! Eu sou a Sofia, sou estudante de medicina. Eu estudo numa faculdade em São Paulo e também estou fazendo um estágio num hospital, às terças e quintas.\n\n**Perguntas:**\n1. O que Sofia estuda? → **Medicina**\n2. Onde ela está fazendo um estágio? → **Num hospital**\n3. Quais dias ela faz o estágio? → **Terças e quintas**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Simule um diálogo de networking (em par, ou sozinho gravando os dois papéis): apresente-se dizendo onde trabalha/estuda, sua profissão, e algo que está fazendo atualmente (gerúndio). Pergunte o mesmo à outra pessoa.\n\n**Checklist de autoavaliação:**\n- [ ] Usei \"trabalhar em\" e \"trabalhar como\" corretamente\n- [ ] Usei \"estudar em\" pelo menos uma vez\n- [ ] Usei o presente continuado (\"estou + gerúndio\") para uma situação atual\n- [ ] Distingui claramente hábito (presente simples) de situação temporária (presente continuado)\n- [ ] Pronunciei corretamente a terminação \"-ndo\" de um gerúndio"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| aluno/aluna | quem estuda |\n| aula | período de ensino |\n| chefe | pessoa responsável por outras no trabalho |\n| colega de trabalho | pessoa que trabalha no mesmo lugar |\n| contrato | acordo formal de trabalho |\n| currículo | documento com histórico profissional |\n| emprego / empresa | trabalho remunerado / organização onde se trabalha |\n| entrevista | conversa para avaliar candidato a um emprego |\n| escritório | local de trabalho administrativo |\n| estágio | período de aprendizado prático em uma empresa |\n| faculdade | instituição de ensino superior |\n| salário | pagamento mensal pelo trabalho |\n| trabalhar em/como | local/função do trabalho |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [
+    "a1.6"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Eu trabalho ___ engenheira.",
+      "resposta": "como"
+    },
+    {
+      "enunciado": "2. Eu trabalho ___ uma empresa de tecnologia.",
+      "resposta": "em"
+    },
+    {
+      "enunciado": "3. Eu estudo ___ uma faculdade.",
+      "resposta": "em"
+    },
+    {
+      "enunciado": "estudar",
+      "resposta": "estudando"
+    },
+    {
+      "enunciado": "procurar",
+      "resposta": "procurando"
+    },
+    {
+      "enunciado": "escrever",
+      "resposta": "escrevendo"
+    },
+    {
+      "enunciado": "\"Atualmente, eu ___ português.\" (estudo / estou estudando — situação temporária)",
+      "resposta": "estou estudando"
+    },
+    {
+      "enunciado": "\"Todo dia eu ___ às oito.\" (trabalho / estou trabalhando — hábito)",
+      "resposta": "trabalho"
+    },
+    {
+      "enunciado": "cozinheiro",
+      "resposta": "restaurante"
+    },
+    {
+      "enunciado": "engenheira",
+      "resposta": "empresa de tecnologia"
+    },
+    {
+      "enunciado": "professor",
+      "resposta": "escola/faculdade"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "aluno/aluna",
+      "significado": "quem estuda"
+    },
+    {
+      "termo": "aula",
+      "significado": "período de ensino"
+    },
+    {
+      "termo": "chefe",
+      "significado": "pessoa responsável por outras no trabalho"
+    },
+    {
+      "termo": "colega de trabalho",
+      "significado": "pessoa que trabalha no mesmo lugar"
+    },
+    {
+      "termo": "contrato",
+      "significado": "acordo formal de trabalho"
+    },
+    {
+      "termo": "currículo",
+      "significado": "documento com histórico profissional"
+    },
+    {
+      "termo": "emprego / empresa",
+      "significado": "trabalho remunerado / organização onde se trabalha"
+    },
+    {
+      "termo": "entrevista",
+      "significado": "conversa para avaliar candidato a um emprego"
+    },
+    {
+      "termo": "escritório",
+      "significado": "local de trabalho administrativo"
+    },
+    {
+      "termo": "estágio",
+      "significado": "período de aprendizado prático em uma empresa"
+    },
+    {
+      "termo": "faculdade",
+      "significado": "instituição de ensino superior"
+    },
+    {
+      "termo": "salário",
+      "significado": "pagamento mensal pelo trabalho"
+    },
+    {
+      "termo": "trabalhar em/como",
+      "significado": "local/função do trabalho"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

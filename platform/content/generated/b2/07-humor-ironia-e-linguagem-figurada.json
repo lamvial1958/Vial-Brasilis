@@ -1,0 +1,232 @@
+{
+  "nivel": "b2",
+  "slug": "07-humor-ironia-e-linguagem-figurada",
+  "ordem": 7,
+  "codigo": "B2.7",
+  "titulo": "Humor, Ironia e Linguagem Figurada",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b2.md`. Pré-requisito: B2.4 (variação regional — muitas piadas brasileiras se apoiam em marcas regionais). Projeta para B2.8 (cultura brasileira em texto e música, que também exige leitura conotativa). Tarefa metalinguística sofisticada: explicar por que algo é engraçado/irônico, não apenas reconhecer o humor.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Cenário Motivador e Texto-Modelo de Abertura",
+      "markdown": "**Cenário:** análise de uma piada curta e de um comentário irônico, modelando como decompor o duplo sentido.\n\n**Piada-modelo:**\n> Por que o livro de matemática se sentiu triste?\n> Porque tinha muitos problemas.\n\n**Comentário irônico-modelo (contexto: trânsito intenso):**\n> \"Que sorte a minha, hein? Só uma horinha pra andar três quarteirões.\"\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Explicar um duplo sentido | A palavra \"X\" pode significar... mas também... |\n| Identificar ironia | A pessoa diz o oposto do que realmente sente/pensa |\n| Marcar humor ao falar | entonação exagerada, pausa antes da palavra-chave |\n| Pedir explicação de uma piada | Não entendi a piada, pode explicar? |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| duplo sentido | quando uma palavra/frase permite duas interpretações | A piada usa o duplo sentido de \"problema\". |\n| trocadilho | jogo de palavras com sons semelhantes | O trocadilho usa duas palavras parecidas. |\n| ironia | dizer o oposto do que se pensa, com intenção crítica/humorística | \"Que sorte a minha\" foi dito com ironia. |\n| sarcasmo | ironia mais ácida/agressiva | O comentário tinha um tom de sarcasmo. |\n| expressão idiomática | expressão cujo sentido não é literal | \"Quebrar o galho\" é uma expressão idiomática. |\n| sentido literal | significado direto das palavras | No sentido literal, \"quebrar\" significa romper. |\n| sentido figurado | significado não literal, metafórico | No sentido figurado, \"quebrar o galho\" é ajudar. |\n| pegar a piada | entender o humor de algo | Demorei, mas peguei a piada. |\n| viajar na maionese (informal) | dizer algo sem sentido/distrair-se completamente | Ele viajou na maionese no meio da explicação. |\n| dar uma de bobo | fingir não entender algo de propósito | Ele deu uma de bobo pra não responder. |\n| meme | conteúdo (geralmente imagem/texto) compartilhado com humor | Esse meme fez todo mundo rir. |\n| charge | desenho humorístico com crítica (geralmente política/social) | A charge criticava o governo com humor. |\n| stand-up (comédia) | apresentação de humor solo ao vivo | Fui a um show de stand-up ontem. |\n| tirar sarro (de alguém/algo) | fazer piada/ironia sobre alguém ou algo | Eles tiraram sarro do meu sotaque. |\n| entender a referência | captar uma alusão cultural implícita numa piada | Só quem é brasileiro entende a referência. |\n\n**(15 itens, tag `b2.7`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Função & Gramática em Foco",
+      "markdown": "**A. Estrutura da piada de duplo sentido (mecanismo, não regra gramatical):**\n| Elemento | Função |\n|---|---|\n| Pergunta/situação de abertura | cria uma expectativa de sentido único |\n| Palavra-chave ambígua | permite duas leituras (literal × figurada) |\n| Resolução inesperada | usa o segundo sentido para gerar a surpresa/humor |\n\n> Exemplo aplicado: \"problemas\" (livro de matemática) tem sentido literal (\"exercícios\") e sentido figurado (\"dificuldades emocionais\") — a piada explora os dois ao mesmo tempo.\n\n**B. Marcadores linguísticos de ironia (como reconhecer sem depender só do tom de voz):**\n| Marcador | Exemplo |\n|---|---|\n| Exagero contraditório | \"Que sorte a minha\" (numa situação claramente sem sorte) |\n| Elogio em contexto negativo | \"Nota dez esse atendimento\" (sobre um atendimento péssimo) |\n| Repetição enfática de algo óbvio e negativo | \"Maravilha, perfeito, exatamente o que eu queria\" (sarcástico) |\n\n**C. Expressões idiomáticas de alta frequência (sentido literal × figurado):**\n| Expressão | Sentido literal | Sentido figurado (uso real) |\n|---|---|---|\n| quebrar o galho | romper um ramo de árvore | ajudar/resolver algo provisoriamente |\n| pagar o pato | pagar por um pato (animal) | sofrer consequência de algo que não fez |\n| dar com os burros n'água | (sem leitura literal comum) | fracassar em algo que parecia certo |\n| engolir sapo | comer um sapo | aceitar algo desagradável calado |\n| encher linguiça | rechear um embutido | preencher um texto/fala com conteúdo sem importância |"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Entonação irônica:** elevação exagerada de tom em palavras-chave positivas ditas em contexto negativo (\"Que SORTE a minha\"), criando o contraste que sinaliza ironia mesmo sem contexto visual.\n**B. Pausa antes da palavra-chave de uma piada:** uma pequena pausa de suspense antes da palavra que resolve o duplo sentido aumenta o efeito de humor — característica de contadores de piada experientes."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Identifique o duplo sentido na piada da Seção 1:**\n\"O livro de matemática tinha muitos problemas.\" → **\"Problemas\" = exercícios de matemática (literal) e dificuldades/aflições (figurado)**\n\n**Exercício 2 — Classifique como ironia ou sarcasmo (mais ácido):**\n1. \"Que sorte a minha, hein? Só uma horinha pra andar três quarteirões.\" → **Ironia**\n2. \"Parabéns, você conseguiu estragar tudo de novo. Impressionante.\" (tom hostil) → **Sarcasmo**\n\n**Exercício 3 — Associe a expressão idiomática ao sentido figurado correto:**\n1. quebrar o galho → **ajudar/resolver algo provisoriamente**\n2. pagar o pato → **sofrer consequência de algo que não fez**\n3. engolir sapo → **aceitar algo desagradável calado**\n\n**Exercício 4 — Explique por que a frase abaixo é irônica:**\nContexto: choveu o dia inteiro no piquenique planejado há um mês. Alguém diz: \"Que dia perfeito para um piquenique!\" → **É irônico porque afirma o oposto da realidade (o dia foi péssimo para um piquenique, não perfeito), usando exagero positivo para expressar frustração.**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Som & Compreensão — Trechos de Humor Autêntico",
+      "markdown": "> **Trecho de stand-up (tema: trânsito nas grandes cidades):**\n> \"Vocês sabem que em São Paulo, andar de carro é mais devagar que andar a pé, né? Outro dia eu tava tão parado no trânsito que um cara vendendo bala na rua já tinha decorado meu nome. Aí eu pensei: gente, será que eu deveria pagar aluguel aqui dentro do carro?\"\n\n**Perguntas:**\n1. Qual é o exagero usado para descrever o trânsito? → **Que um vendedor de rua já tinha decorado o nome do comediante de tanto tempo parado**\n2. Qual frase final usa humor por meio de uma ideia absurda levada a sério? → **\"Será que eu deveria pagar aluguel aqui dentro do carro?\"**\n3. Esse humor depende de uma referência cultural específica do Brasil? Qual? → **Sim — o trânsito caótico de São Paulo e os vendedores ambulantes em semáforos**\n4. Como você explicaria essa piada para alguém que nunca esteve numa grande cidade brasileira? → **(resposta livre — espera-se explicação do contexto cultural antes da piada em si)**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Escolha uma piada, charge, meme ou trecho de humor brasileiro (pode ser o trecho da Seção 6 ou outro de sua escolha) e produza uma explicação escrita ou oral (120–150 palavras) respondendo:\n1. Qual é o duplo sentido, ironia ou referência cultural usada?\n2. Por que isso é considerado engraçado por falantes nativos?\n3. Essa piada faria sentido fora do Brasil sem explicação? Por quê?\n4. Use pelo menos uma expressão idiomática da Seção 3.C na sua explicação\n\n**Checklist de autoavaliação:**\n- [ ] Identifiquei corretamente o mecanismo do humor (duplo sentido, ironia ou referência cultural)\n- [ ] Expliquei o porquê do humor, não apenas descrevi a piada\n- [ ] Considerei se um estrangeiro entenderia sem contexto adicional\n- [ ] Usei pelo menos uma expressão idiomática corretamente"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| charge | desenho humorístico com crítica (geralmente política/social) |\n| dar uma de bobo | fingir não entender algo de propósito |\n| duplo sentido | quando uma palavra/frase permite duas interpretações |\n| engolir sapo | aceitar algo desagradável calado |\n| entender a referência | captar uma alusão cultural implícita numa piada |\n| expressão idiomática | expressão cujo sentido não é literal |\n| ironia | dizer o oposto do que se pensa, com intenção crítica/humorística |\n| meme | conteúdo (geralmente imagem/texto) compartilhado com humor |\n| pegar a piada | entender o humor de algo |\n| quebrar o galho | ajudar/resolver algo provisoriamente |\n| sarcasmo | ironia mais ácida/agressiva |\n| sentido figurado | significado não literal, metafórico |\n| sentido literal | significado direto das palavras |\n| stand-up (comédia) | apresentação de humor solo ao vivo |\n| tirar sarro (de alguém/algo) | fazer piada/ironia sobre alguém ou algo |\n| trocadilho | jogo de palavras com sons semelhantes |\n| viajar na maionese (informal) | dizer algo sem sentido/distrair-se completamente |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "duplo sentido",
+      "definicao": "quando uma palavra/frase permite duas interpretações",
+      "exemplo": "A piada usa o duplo sentido de \"problema\"."
+    },
+    {
+      "termo": "trocadilho",
+      "definicao": "jogo de palavras com sons semelhantes",
+      "exemplo": "O trocadilho usa duas palavras parecidas."
+    },
+    {
+      "termo": "ironia",
+      "definicao": "dizer o oposto do que se pensa, com intenção crítica/humorística",
+      "exemplo": "\"Que sorte a minha\" foi dito com ironia."
+    },
+    {
+      "termo": "sarcasmo",
+      "definicao": "ironia mais ácida/agressiva",
+      "exemplo": "O comentário tinha um tom de sarcasmo."
+    },
+    {
+      "termo": "expressão idiomática",
+      "definicao": "expressão cujo sentido não é literal",
+      "exemplo": "\"Quebrar o galho\" é uma expressão idiomática."
+    },
+    {
+      "termo": "sentido literal",
+      "definicao": "significado direto das palavras",
+      "exemplo": "No sentido literal, \"quebrar\" significa romper."
+    },
+    {
+      "termo": "sentido figurado",
+      "definicao": "significado não literal, metafórico",
+      "exemplo": "No sentido figurado, \"quebrar o galho\" é ajudar."
+    },
+    {
+      "termo": "pegar a piada",
+      "definicao": "entender o humor de algo",
+      "exemplo": "Demorei, mas peguei a piada."
+    },
+    {
+      "termo": "viajar na maionese (informal)",
+      "definicao": "dizer algo sem sentido/distrair-se completamente",
+      "exemplo": "Ele viajou na maionese no meio da explicação."
+    },
+    {
+      "termo": "dar uma de bobo",
+      "definicao": "fingir não entender algo de propósito",
+      "exemplo": "Ele deu uma de bobo pra não responder."
+    },
+    {
+      "termo": "meme",
+      "definicao": "conteúdo (geralmente imagem/texto) compartilhado com humor",
+      "exemplo": "Esse meme fez todo mundo rir."
+    },
+    {
+      "termo": "charge",
+      "definicao": "desenho humorístico com crítica (geralmente política/social)",
+      "exemplo": "A charge criticava o governo com humor."
+    },
+    {
+      "termo": "stand-up (comédia)",
+      "definicao": "apresentação de humor solo ao vivo",
+      "exemplo": "Fui a um show de stand-up ontem."
+    },
+    {
+      "termo": "tirar sarro (de alguém/algo)",
+      "definicao": "fazer piada/ironia sobre alguém ou algo",
+      "exemplo": "Eles tiraram sarro do meu sotaque."
+    },
+    {
+      "termo": "entender a referência",
+      "definicao": "captar uma alusão cultural implícita numa piada",
+      "exemplo": "Só quem é brasileiro entende a referência."
+    }
+  ],
+  "tagsVocabulario": [
+    "b2.7"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "\"O livro de matemática tinha muitos problemas.\"",
+      "resposta": "\"Problemas\" = exercícios de matemática (literal) e dificuldades/aflições (figurado)"
+    },
+    {
+      "enunciado": "1. \"Que sorte a minha, hein? Só uma horinha pra andar três quarteirões.\"",
+      "resposta": "Ironia"
+    },
+    {
+      "enunciado": "2. \"Parabéns, você conseguiu estragar tudo de novo. Impressionante.\" (tom hostil)",
+      "resposta": "Sarcasmo"
+    },
+    {
+      "enunciado": "1. quebrar o galho",
+      "resposta": "ajudar/resolver algo provisoriamente"
+    },
+    {
+      "enunciado": "2. pagar o pato",
+      "resposta": "sofrer consequência de algo que não fez"
+    },
+    {
+      "enunciado": "3. engolir sapo",
+      "resposta": "aceitar algo desagradável calado"
+    },
+    {
+      "enunciado": "Contexto: choveu o dia inteiro no piquenique planejado há um mês. Alguém diz: \"Que dia perfeito para um piquenique!\"",
+      "resposta": "É irônico porque afirma o oposto da realidade (o dia foi péssimo para um piquenique, não perfeito), usando exagero positivo para expressar frustração."
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "charge",
+      "significado": "desenho humorístico com crítica (geralmente política/social)"
+    },
+    {
+      "termo": "dar uma de bobo",
+      "significado": "fingir não entender algo de propósito"
+    },
+    {
+      "termo": "duplo sentido",
+      "significado": "quando uma palavra/frase permite duas interpretações"
+    },
+    {
+      "termo": "engolir sapo",
+      "significado": "aceitar algo desagradável calado"
+    },
+    {
+      "termo": "entender a referência",
+      "significado": "captar uma alusão cultural implícita numa piada"
+    },
+    {
+      "termo": "expressão idiomática",
+      "significado": "expressão cujo sentido não é literal"
+    },
+    {
+      "termo": "ironia",
+      "significado": "dizer o oposto do que se pensa, com intenção crítica/humorística"
+    },
+    {
+      "termo": "meme",
+      "significado": "conteúdo (geralmente imagem/texto) compartilhado com humor"
+    },
+    {
+      "termo": "pegar a piada",
+      "significado": "entender o humor de algo"
+    },
+    {
+      "termo": "quebrar o galho",
+      "significado": "ajudar/resolver algo provisoriamente"
+    },
+    {
+      "termo": "sarcasmo",
+      "significado": "ironia mais ácida/agressiva"
+    },
+    {
+      "termo": "sentido figurado",
+      "significado": "significado não literal, metafórico"
+    },
+    {
+      "termo": "sentido literal",
+      "significado": "significado direto das palavras"
+    },
+    {
+      "termo": "stand-up (comédia)",
+      "significado": "apresentação de humor solo ao vivo"
+    },
+    {
+      "termo": "tirar sarro (de alguém/algo)",
+      "significado": "fazer piada/ironia sobre alguém ou algo"
+    },
+    {
+      "termo": "trocadilho",
+      "significado": "jogo de palavras com sons semelhantes"
+    },
+    {
+      "termo": "viajar na maionese (informal)",
+      "significado": "dizer algo sem sentido/distrair-se completamente"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

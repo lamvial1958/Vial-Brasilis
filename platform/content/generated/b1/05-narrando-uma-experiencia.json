@@ -1,0 +1,185 @@
+{
+  "nivel": "b1",
+  "slug": "05-narrando-uma-experiencia",
+  "ordem": 5,
+  "codigo": "B1.5",
+  "titulo": "Narrando uma Experiência",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b1.md`. Consolida o contraste perfeito+imperfeito (A2.9/A2.10) com marcadores narrativos avançados, preparando a entrevista oral do B1.10.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Texto de Abertura",
+      "markdown": "**Cena — depoimento contado numa carta pessoal:**\n> Você não vai acreditar no que aconteceu comigo no mês passado!\n>\n> Eu estava voltando do trabalho, era um dia comum, chovia bastante e eu estava com pressa porque ia chegar atrasada numa reunião por chamada. De repente, o ônibus parou no meio do caminho — tinha dado um problema mecânico. Naquele momento eu pensei: \"agora sim, vou chegar muito atrasada.\"\n>\n> Enquanto eu esperava, decidi ligar para o escritório explicando a situação. Para minha surpresa, o motorista conseguiu resolver o problema rapidinho, e eu cheguei só cinco minutos atrasada! No final, deu tudo certo, mas confesso que, naquele momento, achei que o dia ia ser um desastre completo.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Anunciar uma história surpreendente | Você não vai acreditar no que aconteceu... |\n| Estabelecer cenário (imperfeito) | Era um dia comum, chovia, eu estava... |\n| Marcar uma interrupção súbita | De repente, ... |\n| Marcar um momento específico da narrativa | Naquele momento, ... |\n| Marcar simultaneidade | Enquanto eu esperava, ... |\n| Concluir a narrativa | No final, deu tudo certo. |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| de repente | de forma súbita/inesperada | De repente, o ônibus parou. |\n| naquele momento | em um instante específico da narrativa | Naquele momento, pensei que ia atrasar. |\n| enquanto | durante o mesmo período (simultaneidade) | Enquanto eu esperava, liguei para o escritório. |\n| no final | na conclusão dos eventos | No final, deu tudo certo. |\n| para minha surpresa | introduz um fato inesperado | Para minha surpresa, ele resolveu rápido. |\n| de início | no começo da situação | De início, achei que seria um desastre. |\n| por sorte | indicando um evento favorável por acaso | Por sorte, o motorista resolveu rápido. |\n| dar um problema | algo parar de funcionar/falhar | O ônibus deu um problema mecânico. |\n| estar com pressa | precisar se apressar | Eu estava com pressa naquele dia. |\n| chegar atrasado/a | não chegar no horário previsto | Cheguei atrasada na reunião. |\n| confesso que | introduz uma admissão pessoal | Confesso que fiquei nervosa. |\n| no meio do caminho | em um ponto intermediário do percurso | O ônibus parou no meio do caminho. |\n\n**(12 itens, tag `b1.5`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Função & Gramática em Foco",
+      "markdown": "**A. Marcadores narrativos avançados — função na linha do tempo:**\n| Marcador | Função |\n|---|---|\n| de repente | interrompe o cenário com um evento inesperado |\n| naquele momento | fixa um ponto específico da narrativa para comentário/reflexão |\n| enquanto | liga dois eventos simultâneos (geralmente imperfeito + perfeito) |\n| para minha surpresa | sinaliza uma reviravolta inesperada |\n| no final | sinaliza a conclusão/resolução |\n\n**B. Consolidação perfeito+imperfeito com marcadores avançados:**\n| Estrutura | Exemplo |\n|---|---|\n| Cenário (imperfeito) + de repente + evento (perfeito) | Chovia bastante. De repente, o ônibus parou. |\n| Enquanto + imperfeito, + evento (perfeito) | Enquanto eu esperava, liguei para o escritório. |\n| Naquele momento + (eu pensei/senti) | Naquele momento, pensei: \"vou atrasar.\" |\n\n**C. Discurso indireto/direto simples dentro da narrativa:** \"Naquele momento eu pensei: 'agora sim, vou chegar atrasada'\" — incorporar um pensamento/fala direta dá vivacidade à narrativa, recurso valorizado na correção."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Entonação de suspense em \"de repente\":** pequena pausa antes do marcador, voz que sobe levemente para criar expectativa.\n**B. Ritmo da narrativa: cenário (mais lento, vogais longas do imperfeito) × evento (mais rápido, perfeito):** praticar a alternância de ritmo ao narrar."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com o marcador adequado:**\n\"Eu estava tranquilo em casa. ___, o telefone tocou e era uma notícia urgente.\" → **De repente**\n\n**Exercício 2 — Combine as duas ações com \"enquanto\":**\n\"(Eu esperava o ônibus) / (Eu li um livro)\" → **Enquanto eu esperava o ônibus, eu li um livro.**\n\n**Exercício 3 — Complete a narrativa com perfeito ou imperfeito:**\n\"___ (ser) um dia chuvoso. De repente, o carro ___ (quebrar) no meio da rua.\" → **Era / quebrou**\n\n**Exercício 4 — Reescreva incluindo um pensamento direto:**\n\"Eu fiquei preocupada quando o ônibus parou.\" → **Naquele momento eu pensei: \"isso não pode estar acontecendo!\"**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Podcast — depoimento sobre uma experiência marcante:**\n> Eu estava viajando sozinha pelo Nordeste, era minha primeira viagem sem companhia. De início, eu estava bem nervosa, não conhecia ninguém. Enquanto eu esperava o ônibus numa rodoviária pequena, conheci uma família que também estava viajando. De repente, perdemos o ônibus porque ele saiu antes do horário! Para minha surpresa, a família me convidou para dividir um carro até a próxima cidade. No final, viajamos juntos o resto do caminho e ainda somos amigos até hoje.\n\n**Perguntas:**\n1. Como a pessoa se sentia no início da viagem? → **Nervosa, porque não conhecia ninguém**\n2. O que aconteceu de repente? → **Perderam o ônibus, que saiu antes do horário**\n3. Qual foi a reviravolta da história? → **A família convidou para dividir um carro**\n4. Como termina a história? → **Viajaram juntos e ainda são amigos até hoje**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Narre uma experiência pessoal marcante (real ou imaginada) — escrita (carta pessoal, 150–200 palavras) e oral (1–2 minutos). Inclua:\n1. Um cenário inicial (imperfeito)\n2. Pelo menos dois marcadores narrativos avançados (de repente, naquele momento, enquanto, para minha surpresa, no final)\n3. Uma reviravolta inesperada na história\n4. Um pensamento ou fala direta incorporada à narrativa\n5. Uma conclusão clara\n\n**Checklist de autoavaliação:**\n- [ ] Construí um cenário inicial claro antes do evento principal\n- [ ] Usei pelo menos 2 marcadores narrativos avançados corretamente\n- [ ] Incluí uma reviravolta ou momento de surpresa\n- [ ] Alternei perfeito e imperfeito conforme a função de cada um na narrativa"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| chegar atrasado/a | não chegar no horário previsto |\n| confesso que | introduz uma admissão pessoal |\n| dar um problema | algo parar de funcionar/falhar |\n| de início | no começo da situação |\n| de repente | de forma súbita/inesperada |\n| enquanto | durante o mesmo período (simultaneidade) |\n| estar com pressa | precisar se apressar |\n| naquele momento | em um instante específico da narrativa |\n| no final | na conclusão dos eventos |\n| no meio do caminho | em um ponto intermediário do percurso |\n| para minha surpresa | introduz um fato inesperado |\n| por sorte | indicando um evento favorável por acaso |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "de repente",
+      "definicao": "de forma súbita/inesperada",
+      "exemplo": "De repente, o ônibus parou."
+    },
+    {
+      "termo": "naquele momento",
+      "definicao": "em um instante específico da narrativa",
+      "exemplo": "Naquele momento, pensei que ia atrasar."
+    },
+    {
+      "termo": "enquanto",
+      "definicao": "durante o mesmo período (simultaneidade)",
+      "exemplo": "Enquanto eu esperava, liguei para o escritório."
+    },
+    {
+      "termo": "no final",
+      "definicao": "na conclusão dos eventos",
+      "exemplo": "No final, deu tudo certo."
+    },
+    {
+      "termo": "para minha surpresa",
+      "definicao": "introduz um fato inesperado",
+      "exemplo": "Para minha surpresa, ele resolveu rápido."
+    },
+    {
+      "termo": "de início",
+      "definicao": "no começo da situação",
+      "exemplo": "De início, achei que seria um desastre."
+    },
+    {
+      "termo": "por sorte",
+      "definicao": "indicando um evento favorável por acaso",
+      "exemplo": "Por sorte, o motorista resolveu rápido."
+    },
+    {
+      "termo": "dar um problema",
+      "definicao": "algo parar de funcionar/falhar",
+      "exemplo": "O ônibus deu um problema mecânico."
+    },
+    {
+      "termo": "estar com pressa",
+      "definicao": "precisar se apressar",
+      "exemplo": "Eu estava com pressa naquele dia."
+    },
+    {
+      "termo": "chegar atrasado/a",
+      "definicao": "não chegar no horário previsto",
+      "exemplo": "Cheguei atrasada na reunião."
+    },
+    {
+      "termo": "confesso que",
+      "definicao": "introduz uma admissão pessoal",
+      "exemplo": "Confesso que fiquei nervosa."
+    },
+    {
+      "termo": "no meio do caminho",
+      "definicao": "em um ponto intermediário do percurso",
+      "exemplo": "O ônibus parou no meio do caminho."
+    }
+  ],
+  "tagsVocabulario": [
+    "b1.5"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "\"Eu estava tranquilo em casa. ___, o telefone tocou e era uma notícia urgente.\"",
+      "resposta": "De repente"
+    },
+    {
+      "enunciado": "\"(Eu esperava o ônibus) / (Eu li um livro)\"",
+      "resposta": "Enquanto eu esperava o ônibus, eu li um livro."
+    },
+    {
+      "enunciado": "\"___ (ser) um dia chuvoso. De repente, o carro ___ (quebrar) no meio da rua.\"",
+      "resposta": "Era / quebrou"
+    },
+    {
+      "enunciado": "\"Eu fiquei preocupada quando o ônibus parou.\"",
+      "resposta": "Naquele momento eu pensei: \"isso não pode estar acontecendo!\""
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "chegar atrasado/a",
+      "significado": "não chegar no horário previsto"
+    },
+    {
+      "termo": "confesso que",
+      "significado": "introduz uma admissão pessoal"
+    },
+    {
+      "termo": "dar um problema",
+      "significado": "algo parar de funcionar/falhar"
+    },
+    {
+      "termo": "de início",
+      "significado": "no começo da situação"
+    },
+    {
+      "termo": "de repente",
+      "significado": "de forma súbita/inesperada"
+    },
+    {
+      "termo": "enquanto",
+      "significado": "durante o mesmo período (simultaneidade)"
+    },
+    {
+      "termo": "estar com pressa",
+      "significado": "precisar se apressar"
+    },
+    {
+      "termo": "naquele momento",
+      "significado": "em um instante específico da narrativa"
+    },
+    {
+      "termo": "no final",
+      "significado": "na conclusão dos eventos"
+    },
+    {
+      "termo": "no meio do caminho",
+      "significado": "em um ponto intermediário do percurso"
+    },
+    {
+      "termo": "para minha surpresa",
+      "significado": "introduz um fato inesperado"
+    },
+    {
+      "termo": "por sorte",
+      "significado": "indicando um evento favorável por acaso"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

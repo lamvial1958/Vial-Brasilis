@@ -1,0 +1,160 @@
+{
+  "nivel": "a1",
+  "slug": "04-casa-e-bairro",
+  "ordem": 4,
+  "codigo": "A1.4",
+  "titulo": "Casa e Bairro",
+  "tipo": "licao",
+  "notaIntro": "*Cena — Li explica a Marco como é sua casa, antes da visita:*",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — Li explica a Marco como é sua casa, antes da visita:**\n> **Li:** Marco, antes de você vir à minha casa, deixa eu explicar. Eu moro num apartamento pequeno.\n> **Marco:** Quantos quartos tem?\n> **Li:** Tem dois quartos, uma sala, uma cozinha e um banheiro. A cozinha fica ao lado da sala.\n> **Marco:** E tem garagem?\n> **Li:** Não tem garagem, mas tem uma vaga na rua. No meu bairro tem um mercado perto de casa e uma farmácia ao lado do mercado.\n> **Marco:** Perfeito, fácil de chegar então.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer o que existe num lugar | Tem... (dois quartos, um mercado...) |\n| Perguntar quantidade | Quantos/Quantas... tem? |\n| Localizar um cômodo/lugar | ...fica ao lado de / perto de / em frente a... |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "apartamento, casa, quarto, sala, cozinha, banheiro, garagem, vaga, mercado, farmácia, padaria, parque, escola, cama, mesa, cadeira, sofá, geladeira, fogão, armário, bairro, vizinho — **(22 itens, tag `a1.4`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Preposições de lugar:**\nem · sobre · embaixo de · atrás de · na frente de · ao lado de · perto de · longe de · entre\n\n**B. \"Tem\" vs. \"há\" para existência:** na fala cotidiana brasileira, **\"tem\"** é a forma natural (\"Tem um mercado perto de casa\"); **\"há\"** existe e é gramaticalmente correta, mas soa mais formal/escrita (\"Há um mercado perto de casa\"). Este curso prioriza \"tem\" para o uso oral, sem deixar de mencionar \"há\" como equivalente.\n\n**C. Negação de existência:** \"Não tem garagem\" (não \"Não há nenhuma garagem\", mais formal)."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"r\" forte em \"rua\" (revisão da PRE-A1).**\n**B. Nasalização em \"tem\".**\n**C. Acento tônico em \"embaixo\":** em-**bai**-xo."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete o diálogo:**\n1. ___ dois quartos. → **Tem**\n2. A cozinha ___ ao lado da sala. → **fica**\n3. Não ___ garagem. → **tem**\n4. ___ um mercado perto de casa. → **Tem**\n\n**Exercício 2 — Complete com a preposição de lugar correta:**\n\"A farmácia fica ___ do mercado\" (ao lado) → **ao lado** · \"O sofá fica ___ da mesa\" (em frente) → **em frente**\n\n**Exercício 3 — Verdadeiro ou falso:**\n\"O apartamento de Li tem garagem\" → **F** · \"Tem uma farmácia ao lado do mercado\" → **V**\n\n**Exercício 4 — Associe o móvel ao cômodo:**\ncama → quarto · fogão → cozinha · sofá → sala"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Sofia:** Minha casa tem três quartos, uma sala grande e uma cozinha pequena. O banheiro fica entre os dois primeiros quartos. No bairro, tem um parque em frente à minha casa e uma escola perto, mas não tem padaria por aqui.\n\n**Perguntas:**\n1. Quantos quartos a casa de Sofia tem? → **Três**\n2. Onde fica o banheiro? → **Entre os dois primeiros quartos**\n3. Tem padaria perto? → **Não**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Descreva sua casa (cômodos e mobília principal) e seu bairro (3 lugares próximos), oral e por escrito, usando \"tem\" e pelo menos 3 preposições de lugar diferentes.\n\n**Checklist de autoavaliação:**\n- [ ] Usei \"tem\" para descrever existência de cômodos/lugares\n- [ ] Usei pelo menos 3 preposições de lugar diferentes\n- [ ] Disse a quantidade de pelo menos 2 cômodos\n- [ ] Descrevi pelo menos 2 lugares do bairro\n- [ ] Pronunciei corretamente \"embaixo\" com o acento na sílaba certa"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| apartamento / casa | tipos de moradia |\n| armário | móvel para guardar roupas/objetos |\n| bairro | região/área de uma cidade |\n| banheiro / cozinha / quarto / sala | cômodos da casa |\n| cadeira / mesa / sofá | móveis |\n| escola | local de ensino |\n| fica ao lado de / perto de / em frente a | expressões de localização |\n| fogão / geladeira | equipamentos da cozinha |\n| garagem / vaga | espaço para guardar/estacionar carro |\n| padaria / mercado / farmácia | comércios do bairro |\n| parque | área verde pública |\n| quantos/quantas...tem? | pergunta de quantidade |\n| tem... | expressão de existência |\n| vizinho | pessoa que mora perto |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [
+    "a1.4"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. ___ dois quartos.",
+      "resposta": "Tem"
+    },
+    {
+      "enunciado": "2. A cozinha ___ ao lado da sala.",
+      "resposta": "fica"
+    },
+    {
+      "enunciado": "3. Não ___ garagem.",
+      "resposta": "tem"
+    },
+    {
+      "enunciado": "4. ___ um mercado perto de casa.",
+      "resposta": "Tem"
+    },
+    {
+      "enunciado": "\"A farmácia fica ___ do mercado\" (ao lado)",
+      "resposta": "ao lado"
+    },
+    {
+      "enunciado": "\"O sofá fica ___ da mesa\" (em frente)",
+      "resposta": "em frente"
+    },
+    {
+      "enunciado": "\"O apartamento de Li tem garagem\"",
+      "resposta": "F"
+    },
+    {
+      "enunciado": "\"Tem uma farmácia ao lado do mercado\"",
+      "resposta": "V"
+    },
+    {
+      "enunciado": "cama",
+      "resposta": "quarto"
+    },
+    {
+      "enunciado": "fogão",
+      "resposta": "cozinha"
+    },
+    {
+      "enunciado": "sofá",
+      "resposta": "sala"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "apartamento / casa",
+      "significado": "tipos de moradia"
+    },
+    {
+      "termo": "armário",
+      "significado": "móvel para guardar roupas/objetos"
+    },
+    {
+      "termo": "bairro",
+      "significado": "região/área de uma cidade"
+    },
+    {
+      "termo": "banheiro / cozinha / quarto / sala",
+      "significado": "cômodos da casa"
+    },
+    {
+      "termo": "cadeira / mesa / sofá",
+      "significado": "móveis"
+    },
+    {
+      "termo": "escola",
+      "significado": "local de ensino"
+    },
+    {
+      "termo": "fica ao lado de / perto de / em frente a",
+      "significado": "expressões de localização"
+    },
+    {
+      "termo": "fogão / geladeira",
+      "significado": "equipamentos da cozinha"
+    },
+    {
+      "termo": "garagem / vaga",
+      "significado": "espaço para guardar/estacionar carro"
+    },
+    {
+      "termo": "padaria / mercado / farmácia",
+      "significado": "comércios do bairro"
+    },
+    {
+      "termo": "parque",
+      "significado": "área verde pública"
+    },
+    {
+      "termo": "quantos/quantas...tem?",
+      "significado": "pergunta de quantidade"
+    },
+    {
+      "termo": "tem...",
+      "significado": "expressão de existência"
+    },
+    {
+      "termo": "vizinho",
+      "significado": "pessoa que mora perto"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

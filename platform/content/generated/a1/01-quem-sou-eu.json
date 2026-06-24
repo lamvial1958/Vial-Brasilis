@@ -1,0 +1,325 @@
+{
+  "nivel": "a1",
+  "slug": "01-quem-sou-eu",
+  "ordem": 1,
+  "codigo": "A1.1",
+  "titulo": "Quem Sou Eu",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/a1.md`. Diferença de template em relação à PRE-A1: a partir da A1 a gramática é produtiva (não só \"chunks\"), por isso esta lição inclui uma seção extra de **Gramática em Foco** (passo \"input explícito\" da sequência didática padrão).",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — roda de conversa, primeiro dia numa escola de português:**\n> **Professora:** Boa tarde a todos! Vamos nos conhecer. Tom, pode começar?\n> **Tom:** Claro. Eu me chamo Tom, sou inglês, tenho trinta e dois anos e sou professor de inglês.\n> **Professora:** Ótimo! E você, Li?\n> **Li:** Eu me chamo Li, sou chinesa, tenho vinte e cinco anos e sou engenheira.\n> **Professora:** Perfeito. Marco, e você?\n> **Marco:** Eu sou Marco, sou italiano, tenho quarenta anos e sou cozinheiro.\n> **Professora:** E vocês dois, são casados?\n> **Tom:** Não, eu sou solteiro.\n> **Li:** Eu também sou solteira.\n> **Tom:** Li, você é de onde exatamente na China?\n> **Li:** Eu sou de Pequim.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer nacionalidade | Eu sou + nacionalidade (inglês, chinesa, italiano...) |\n| Dizer idade | Eu tenho ___ anos. |\n| Dizer profissão | Eu sou + profissão. |\n| Perguntar nacionalidade/origem | Você é de onde? / Qual é a sua nacionalidade? |\n| Perguntar idade | Quantos anos você tem? |\n| Perguntar profissão | O que você faz? / Qual é a sua profissão? |\n| Dizer estado civil | Sou casado(a) / solteiro(a) / divorciado(a). |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| inglês/inglesa | nacionalidade — Inglaterra | Tom é inglês. |\n| chinês/chinesa | nacionalidade — China | Li é chinesa. |\n| italiano/italiana | nacionalidade — Itália | Marco é italiano. |\n| brasileiro/brasileira | nacionalidade — Brasil | Ela é brasileira. |\n| americano/americana | nacionalidade — EUA | Ele é americano. |\n| argentino/argentina | nacionalidade — Argentina | Sofia é argentina. |\n| francês/francesa | nacionalidade — França | Ela é francesa. |\n| alemão/alemã | nacionalidade — Alemanha | Ele é alemão. |\n| espanhol/espanhola | nacionalidade — Espanha | Ela é espanhola. |\n| japonês/japonesa | nacionalidade — Japão | Ele é japonês. |\n| professor/professora | profissão — ensina | Tom é professor. |\n| engenheiro/engenheira | profissão — projeta/constrói | Li é engenheira. |\n| cozinheiro/cozinheira | profissão — cozinha | Marco é cozinheiro. |\n| médico/médica | profissão — cuida da saúde | Ela é médica. |\n| advogado/advogada | profissão — direito | Ele é advogado. |\n| estudante | quem estuda | Eu sou estudante. |\n| casado/casada | estado civil | Eles são casados. |\n| solteiro/solteira | estado civil | Eu sou solteiro. |\n| divorciado/divorciada | estado civil | Ela é divorciada. |\n| anos (idade) | unidade para contar idade | Tenho trinta anos. |\n\n**(20 itens, tag `a1.1`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Verbo \"ser\" (presente do indicativo) — uso para identidade/origem/profissão:**\n| Pessoa | Forma | Exemplo |\n|---|---|---|\n| eu | sou | Eu sou inglês. |\n| você / ele / ela | é | Você é estudante? |\n| nós | somos | Nós somos professores. |\n| vocês / eles / elas | são | Eles são casados. |\n\n> **Nota:** \"tu\" existe em algumas regiões do Brasil (ex.: Sul, parte do Nordeste), mas a forma padrão ensinada neste curso é \"você\" — a variação regional é tratada à frente, na PRE-A1.5... e de forma aprofundada na B2.4.\n\n**B. Gentílicos — concordância de gênero:** a maioria das nacionalidades muda a terminação no feminino:\n- *-ês → -esa:* inglês → inglesa, francês → francesa, japonês → japonesa\n- *-o → -a:* italiano → italiana, americano → americana, argentino → argentina, brasileiro → brasileira\n- *-ol → -ola:* espanhol → espanhola\n- *invariável com nasal:* alemão → alemã (atenção à grafia)\n\n**C. Números 20–100 (para idade):** vinte, trinta, quarenta, cinquenta, sessenta, setenta, oitenta, noventa, cem. Combinações com \"e\": vinte **e** dois, trinta **e** cinco, setenta **e** nove."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Terminação \"-ês\" (oxítona, vogal nasal fechada):** inglês, francês, chinês, japonês — contrastar com a forma feminina, paroxítona e oral: inglesa, francesa, chinesa.\n**B. Ditongo nasal \"-ão\":** alemão — mesma família de som de \"não\" e \"então\" (já praticados na PRE-A1).\n**C. Ligação em números compostos:** a palavra \"e\" em \"vinte **e** dois\" é pronunciada rápida e ligada, quase como uma sílaba só: \"vint-y-dois\"."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete o diálogo:**\n1. Eu me ___ Tom. → **chamo**\n2. Eu ___ inglês. → **sou**\n3. Eu ___ trinta e dois anos. → **tenho**\n4. Você é ___ onde? → **de**\n5. Eu também ___ solteira. → **sou**\n\n**Exercício 2 — Conjugue o verbo \"ser\":**\neu ___ (sou) · você ___ (é) · nós ___ (somos) · eles ___ (são)\n\n**Exercício 3 — Concorde o gentílico ao gênero:**\nMaria é ingl___ (**inglesa**) · Pedro é argentin___ (**argentino**) · Anna é alem___ (**alemã**) · Marco é italian___ (**italiano**)\n\n**Exercício 4 — Escreva a idade em português:**\n45 → **quarenta e cinco** · 67 → **sessenta e sete** · 100 → **cem** · 28 → **vinte e oito**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Sofia:** Oi! Eu me chamo Sofia. Eu sou argentina, de Buenos Aires. Tenho vinte e oito anos e sou estudante.\n> **Entrevistador:** E você é casada, Sofia?\n> **Sofia:** Não, sou solteira.\n> **Entrevistador:** O que você estuda?\n> **Sofia:** Eu estudo medicina.\n\n**Perguntas:**\n1. De onde Sofia é? → **Da Argentina / de Buenos Aires**\n2. Quantos anos ela tem? → **Vinte e oito**\n3. Ela é casada? → **Não, é solteira**\n4. O que ela estuda? → **Medicina**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Grave um áudio de 30–45 segundos em que você:\n1. Diz seu nome\n2. Diz sua nacionalidade\n3. Diz sua idade\n4. Diz sua profissão (ou o que estuda)\n5. Diz seu estado civil\n\nDepois, em par (ou com um tutor), pergunte e responda essas mesmas 5 informações para outra pessoa.\n\n**Checklist de autoavaliação:**\n- [ ] Usei \"Eu sou...\" corretamente para nacionalidade/profissão\n- [ ] Usei \"Eu tenho ___ anos\" para idade\n- [ ] Conjuguei \"ser\" corretamente nas pessoas necessárias\n- [ ] Concordei o gentílico/profissão com meu próprio gênero\n- [ ] Fiz pelo menos 3 perguntas usando as fórmulas do quadro funcional\n- [ ] Pronunciei corretamente a terminação \"-ês\"/\"-esa\" de pelo menos uma nacionalidade"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| advogado/advogada | profissão — direito |\n| alemão/alemã | nacionalidade — Alemanha |\n| americano/americana | nacionalidade — EUA |\n| anos (idade) | unidade para contar idade |\n| argentino/argentina | nacionalidade — Argentina |\n| brasileiro/brasileira | nacionalidade — Brasil |\n| casado/casada | estado civil |\n| chinês/chinesa | nacionalidade — China |\n| cozinheiro/cozinheira | profissão — cozinha |\n| divorciado/divorciada | estado civil |\n| engenheiro/engenheira | profissão — projeta/constrói |\n| espanhol/espanhola | nacionalidade — Espanha |\n| estudante | quem estuda |\n| francês/francesa | nacionalidade — França |\n| inglês/inglesa | nacionalidade — Inglaterra |\n| italiano/italiana | nacionalidade — Itália |\n| japonês/japonesa | nacionalidade — Japão |\n| medicina | curso/área de quem estuda para ser médico |\n| médico/médica | profissão — cuida da saúde |\n| o que você faz? | pergunta sobre profissão |\n| professor/professora | profissão — ensina |\n| quantos anos você tem? | pergunta sobre idade |\n| solteiro/solteira | estado civil |\n| você é de onde? | pergunta sobre origem |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "inglês/inglesa",
+      "definicao": "nacionalidade — Inglaterra",
+      "exemplo": "Tom é inglês."
+    },
+    {
+      "termo": "chinês/chinesa",
+      "definicao": "nacionalidade — China",
+      "exemplo": "Li é chinesa."
+    },
+    {
+      "termo": "italiano/italiana",
+      "definicao": "nacionalidade — Itália",
+      "exemplo": "Marco é italiano."
+    },
+    {
+      "termo": "brasileiro/brasileira",
+      "definicao": "nacionalidade — Brasil",
+      "exemplo": "Ela é brasileira."
+    },
+    {
+      "termo": "americano/americana",
+      "definicao": "nacionalidade — EUA",
+      "exemplo": "Ele é americano."
+    },
+    {
+      "termo": "argentino/argentina",
+      "definicao": "nacionalidade — Argentina",
+      "exemplo": "Sofia é argentina."
+    },
+    {
+      "termo": "francês/francesa",
+      "definicao": "nacionalidade — França",
+      "exemplo": "Ela é francesa."
+    },
+    {
+      "termo": "alemão/alemã",
+      "definicao": "nacionalidade — Alemanha",
+      "exemplo": "Ele é alemão."
+    },
+    {
+      "termo": "espanhol/espanhola",
+      "definicao": "nacionalidade — Espanha",
+      "exemplo": "Ela é espanhola."
+    },
+    {
+      "termo": "japonês/japonesa",
+      "definicao": "nacionalidade — Japão",
+      "exemplo": "Ele é japonês."
+    },
+    {
+      "termo": "professor/professora",
+      "definicao": "profissão — ensina",
+      "exemplo": "Tom é professor."
+    },
+    {
+      "termo": "engenheiro/engenheira",
+      "definicao": "profissão — projeta/constrói",
+      "exemplo": "Li é engenheira."
+    },
+    {
+      "termo": "cozinheiro/cozinheira",
+      "definicao": "profissão — cozinha",
+      "exemplo": "Marco é cozinheiro."
+    },
+    {
+      "termo": "médico/médica",
+      "definicao": "profissão — cuida da saúde",
+      "exemplo": "Ela é médica."
+    },
+    {
+      "termo": "advogado/advogada",
+      "definicao": "profissão — direito",
+      "exemplo": "Ele é advogado."
+    },
+    {
+      "termo": "estudante",
+      "definicao": "quem estuda",
+      "exemplo": "Eu sou estudante."
+    },
+    {
+      "termo": "casado/casada",
+      "definicao": "estado civil",
+      "exemplo": "Eles são casados."
+    },
+    {
+      "termo": "solteiro/solteira",
+      "definicao": "estado civil",
+      "exemplo": "Eu sou solteiro."
+    },
+    {
+      "termo": "divorciado/divorciada",
+      "definicao": "estado civil",
+      "exemplo": "Ela é divorciada."
+    },
+    {
+      "termo": "anos (idade)",
+      "definicao": "unidade para contar idade",
+      "exemplo": "Tenho trinta anos."
+    }
+  ],
+  "tagsVocabulario": [
+    "a1.1"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Eu me ___ Tom.",
+      "resposta": "chamo"
+    },
+    {
+      "enunciado": "2. Eu ___ inglês.",
+      "resposta": "sou"
+    },
+    {
+      "enunciado": "3. Eu ___ trinta e dois anos.",
+      "resposta": "tenho"
+    },
+    {
+      "enunciado": "4. Você é ___ onde?",
+      "resposta": "de"
+    },
+    {
+      "enunciado": "5. Eu também ___ solteira.",
+      "resposta": "sou"
+    },
+    {
+      "enunciado": "eu ___",
+      "resposta": "sou"
+    },
+    {
+      "enunciado": "você ___",
+      "resposta": "é"
+    },
+    {
+      "enunciado": "nós ___",
+      "resposta": "somos"
+    },
+    {
+      "enunciado": "eles ___",
+      "resposta": "são"
+    },
+    {
+      "enunciado": "Maria é ingl___",
+      "resposta": "inglesa"
+    },
+    {
+      "enunciado": "Pedro é argentin___",
+      "resposta": "argentino"
+    },
+    {
+      "enunciado": "Anna é alem___",
+      "resposta": "alemã"
+    },
+    {
+      "enunciado": "Marco é italian___",
+      "resposta": "italiano"
+    },
+    {
+      "enunciado": "45",
+      "resposta": "quarenta e cinco"
+    },
+    {
+      "enunciado": "67",
+      "resposta": "sessenta e sete"
+    },
+    {
+      "enunciado": "100",
+      "resposta": "cem"
+    },
+    {
+      "enunciado": "28",
+      "resposta": "vinte e oito"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "advogado/advogada",
+      "significado": "profissão — direito"
+    },
+    {
+      "termo": "alemão/alemã",
+      "significado": "nacionalidade — Alemanha"
+    },
+    {
+      "termo": "americano/americana",
+      "significado": "nacionalidade — EUA"
+    },
+    {
+      "termo": "anos (idade)",
+      "significado": "unidade para contar idade"
+    },
+    {
+      "termo": "argentino/argentina",
+      "significado": "nacionalidade — Argentina"
+    },
+    {
+      "termo": "brasileiro/brasileira",
+      "significado": "nacionalidade — Brasil"
+    },
+    {
+      "termo": "casado/casada",
+      "significado": "estado civil"
+    },
+    {
+      "termo": "chinês/chinesa",
+      "significado": "nacionalidade — China"
+    },
+    {
+      "termo": "cozinheiro/cozinheira",
+      "significado": "profissão — cozinha"
+    },
+    {
+      "termo": "divorciado/divorciada",
+      "significado": "estado civil"
+    },
+    {
+      "termo": "engenheiro/engenheira",
+      "significado": "profissão — projeta/constrói"
+    },
+    {
+      "termo": "espanhol/espanhola",
+      "significado": "nacionalidade — Espanha"
+    },
+    {
+      "termo": "estudante",
+      "significado": "quem estuda"
+    },
+    {
+      "termo": "francês/francesa",
+      "significado": "nacionalidade — França"
+    },
+    {
+      "termo": "inglês/inglesa",
+      "significado": "nacionalidade — Inglaterra"
+    },
+    {
+      "termo": "italiano/italiana",
+      "significado": "nacionalidade — Itália"
+    },
+    {
+      "termo": "japonês/japonesa",
+      "significado": "nacionalidade — Japão"
+    },
+    {
+      "termo": "medicina",
+      "significado": "curso/área de quem estuda para ser médico"
+    },
+    {
+      "termo": "médico/médica",
+      "significado": "profissão — cuida da saúde"
+    },
+    {
+      "termo": "o que você faz?",
+      "significado": "pergunta sobre profissão"
+    },
+    {
+      "termo": "professor/professora",
+      "significado": "profissão — ensina"
+    },
+    {
+      "termo": "quantos anos você tem?",
+      "significado": "pergunta sobre idade"
+    },
+    {
+      "termo": "solteiro/solteira",
+      "significado": "estado civil"
+    },
+    {
+      "termo": "você é de onde?",
+      "significado": "pergunta sobre origem"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

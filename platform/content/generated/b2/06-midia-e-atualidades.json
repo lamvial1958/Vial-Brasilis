@@ -1,0 +1,224 @@
+{
+  "nivel": "b2",
+  "slug": "06-midia-e-atualidades",
+  "ordem": 6,
+  "codigo": "B2.6",
+  "titulo": "Mídia e Atualidades",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b2.md`. Pré-requisitos: B1.7 (linguagem de notícia/voz passiva) e B2.2 (discurso indireto). Projeta para B2.9 (Simulado Completo #1). Consolida o discurso relatado em contexto jornalístico e amplia o vocabulário de análise crítica de mídia.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Cenário Motivador e Texto-Modelo de Abertura",
+      "markdown": "**Cenário:** trecho de telejornal seguido de comentário analítico, modelando a diferença entre relatar um fato e analisá-lo criticamente.\n\n**Texto-modelo — trecho de telejornal:**\n> \"Segundo dados divulgados hoje pelo instituto de pesquisa, o desemprego caiu para o menor nível em cinco anos. O ministro da economia afirmou que a queda reflete a recuperação do setor de serviços. Já especialistas independentes alertam que os novos postos de trabalho são, em sua maioria, informais e de baixa remuneração.\"\n\n**Comentário analítico (modelo de síntese crítica):**\n> A notícia apresenta dois ângulos em tensão: o governo destaca o número absoluto de queda no desemprego, enquanto especialistas questionam a qualidade desses empregos. Isso ilustra um padrão comum na cobertura econômica — números positivos nem sempre significam melhora real nas condições de trabalho.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Relatar dado/fato divulgado | Segundo dados divulgados..., (fato) |\n| Relatar posição de uma fonte | O ministro afirmou que.../Especialistas alertam que... |\n| Identificar tensão entre fontes | A notícia apresenta dois ângulos em tensão... |\n| Analisar criticamente | Isso ilustra um padrão.../números nem sempre significam... |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| divulgar (dados/resultado) | tornar público um dado/resultado | O instituto divulgou os dados hoje. |\n| alertar que | avisar com tom de preocupação | Especialistas alertam que a situação é instável. |\n| ângulo (de uma notícia) | perspectiva/ponto de vista adotado | A notícia tem dois ângulos em tensão. |\n| cobertura (jornalística) | conjunto de notícias sobre um tema | A cobertura econômica foi intensa essa semana. |\n| fonte (de informação) | pessoa/instituição de onde vem a informação | A fonte da notícia é o instituto de pesquisa. |\n| viés (de uma notícia/análise) | tendência/inclinação não neutra | É preciso identificar o viés de cada fonte. |\n| dado (estatístico) | informação numérica usada como evidência | Os dados mostram uma queda no desemprego. |\n| em sua maioria | majoritariamente | Os empregos são, em sua maioria, informais. |\n| questionar (uma informação) | colocar em dúvida, pedir esclarecimento | Especialistas questionam a qualidade dos dados. |\n| pauta (jornalística) | tema escolhido para ser noticiado | Essa pauta ganhou destaque essa semana. |\n| repercussão | reação/impacto causado por uma notícia | A notícia teve grande repercussão. |\n| posicionamento (de uma fonte) | opinião/posição declarada | O posicionamento do ministro foi otimista. |\n| nuance | detalhe sutil que matiza uma afirmação | A notícia tem nuances que vão além do número. |\n| síntese crítica | resumo que inclui análise, não só fatos | Faça uma síntese crítica da reportagem. |\n| editorial (de jornal) | texto de opinião institucional de um veículo | O editorial criticou a falta de transparência. |\n\n**(15 itens, tag `b2.6`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Função & Gramática em Foco",
+      "markdown": "**A. Discurso relatado em contexto jornalístico — consolidação de B2.2:**\n| Discurso direto (declaração original) | Discurso relatado (em notícia) |\n|---|---|\n| \"A queda reflete a recuperação do setor.\" | O ministro **afirmou que** a queda **refletia** a recuperação do setor. |\n| \"Os empregos são de baixa qualidade.\" | Especialistas **alertaram que** os empregos **eram** de baixa qualidade. |\n\n**B. Verbos introdutores típicos de jornalismo (mais variados que \"disse que\"):**\n| Verbo | Nuance |\n|---|---|\n| afirmar | declaração direta e segura |\n| alertar | aviso com tom de preocupação |\n| ressaltar | dar ênfase a um ponto específico |\n| negar | contestar algo afirmado por outra fonte |\n| reconhecer | admitir algo, possivelmente desfavorável |\n\n**C. Marcadores de análise crítica (vocabulário de \"leitura entre linhas\"):**\n| Marcador | Função |\n|---|---|\n| por outro lado | introduz um ângulo divergente |\n| isso ilustra um padrão | conecta um fato a uma tendência maior |\n| nem sempre significa | questiona uma conclusão simplista |\n| é preciso considerar que | introduz um fator adicional de análise |"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Entonação de leitura de notícia (registro jornalístico oral):** ritmo mais rápido e neutro que a fala cotidiana, com poucas pausas dentro de cada frase, mas pausa marcada entre blocos de informação.\n**B. Verbos de declaração com vogal tônica clara:** \"afirmou\", \"alertou\", \"ressaltou\" — atenção à sílaba tônica em \"-ou\", típica do pretérito perfeito na 3ª pessoa."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com o verbo introdutor mais adequado (afirmar/alertar/ressaltar/negar):**\n1. O ministro ___ que a economia está se recuperando. (declaração segura) → **afirmou**\n2. Especialistas ___ que a situação pode piorar. (aviso preocupado) → **alertaram**\n3. A empresa ___ qualquer irregularidade no processo. (contestação) → **negou**\n\n**Exercício 2 — Transforme a declaração direta em discurso relatado jornalístico:**\n\"Os novos empregos são, em sua maioria, informais.\" (especialistas alertaram) → **Especialistas alertaram que os novos empregos eram, em sua maioria, informais.**\n\n**Exercício 3 — Identifique o viés/ângulo de cada trecho:**\n1. \"O governo destaca o número absoluto de queda no desemprego.\" → **Ângulo governamental/otimista**\n2. \"Especialistas questionam a qualidade desses empregos.\" → **Ângulo crítico/cauteloso**\n\n**Exercício 4 — Complete a síntese crítica com o marcador adequado:**\n\"O número de empregos subiu. ___, a qualidade desses empregos caiu.\" → **Por outro lado**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Som & Compreensão — Input Autêntico de Mídia",
+      "markdown": "> **Trecho de podcast de atualidades:**\n> Essa semana, o grande tema foi a aprovação de uma nova lei de transporte público nas capitais. O governo ressaltou que a medida vai reduzir o tempo médio de deslocamento. Já alguns prefeitos alertaram que a implementação pode demorar mais do que o previsto, por falta de recursos técnicos. Um dado interessante divulgado pelo instituto de mobilidade é que, em sua maioria, os usuários afetados pela mudança moram nas regiões periféricas das cidades — o que levanta a questão de quem realmente vai sentir esse impacto primeiro.\n\n**Tarefa de síntese (perguntas-guia):**\n1. Qual é o tema principal do trecho? → **A aprovação de uma nova lei de transporte público**\n2. Qual o ângulo do governo sobre a medida? → **Que vai reduzir o tempo médio de deslocamento**\n3. Qual o ângulo dos prefeitos? → **Que a implementação pode demorar por falta de recursos**\n4. Que nuance o dado do instituto de mobilidade traz à discussão? → **Que os usuários afetados moram majoritariamente nas regiões periféricas, levantando a questão de quem sente o impacto primeiro**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Escolha uma notícia real (de um veículo brasileiro, em português) ou use o trecho da Seção 6, e produza uma síntese crítica oral ou escrita (150–180 palavras) com posição própria, incluindo:\n1. Um resumo objetivo do fato relatado (2–3 frases)\n2. Discurso relatado de pelo menos duas fontes com posições diferentes (usando verbos introdutores variados)\n3. Identificação explícita da tensão/ângulos divergentes entre as fontes\n4. Uma posição crítica pessoal sobre a questão, justificada\n\n**Checklist de autoavaliação:**\n- [ ] Resumi o fato sem me limitar a copiar frases da fonte original\n- [ ] Usei discurso relatado correto com pelo menos dois verbos introdutores diferentes\n- [ ] Identifiquei claramente os ângulos/vieses em tensão\n- [ ] Apresentei uma posição própria, não apenas um resumo neutro"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| ângulo (de uma notícia) | perspectiva/ponto de vista adotado |\n| alertar que | avisar com tom de preocupação |\n| cobertura (jornalística) | conjunto de notícias sobre um tema |\n| dado (estatístico) | informação numérica usada como evidência |\n| divulgar (dados/resultado) | tornar público um dado/resultado |\n| editorial (de jornal) | texto de opinião institucional de um veículo |\n| em sua maioria | majoritariamente |\n| fonte (de informação) | pessoa/instituição de onde vem a informação |\n| nuance | detalhe sutil que matiza uma afirmação |\n| pauta (jornalística) | tema escolhido para ser noticiado |\n| posicionamento (de uma fonte) | opinião/posição declarada |\n| questionar (uma informação) | colocar em dúvida, pedir esclarecimento |\n| repercussão | reação/impacto causado por uma notícia |\n| síntese crítica | resumo que inclui análise, não só fatos |\n| viés (de uma notícia/análise) | tendência/inclinação não neutra |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "divulgar (dados/resultado)",
+      "definicao": "tornar público um dado/resultado",
+      "exemplo": "O instituto divulgou os dados hoje."
+    },
+    {
+      "termo": "alertar que",
+      "definicao": "avisar com tom de preocupação",
+      "exemplo": "Especialistas alertam que a situação é instável."
+    },
+    {
+      "termo": "ângulo (de uma notícia)",
+      "definicao": "perspectiva/ponto de vista adotado",
+      "exemplo": "A notícia tem dois ângulos em tensão."
+    },
+    {
+      "termo": "cobertura (jornalística)",
+      "definicao": "conjunto de notícias sobre um tema",
+      "exemplo": "A cobertura econômica foi intensa essa semana."
+    },
+    {
+      "termo": "fonte (de informação)",
+      "definicao": "pessoa/instituição de onde vem a informação",
+      "exemplo": "A fonte da notícia é o instituto de pesquisa."
+    },
+    {
+      "termo": "viés (de uma notícia/análise)",
+      "definicao": "tendência/inclinação não neutra",
+      "exemplo": "É preciso identificar o viés de cada fonte."
+    },
+    {
+      "termo": "dado (estatístico)",
+      "definicao": "informação numérica usada como evidência",
+      "exemplo": "Os dados mostram uma queda no desemprego."
+    },
+    {
+      "termo": "em sua maioria",
+      "definicao": "majoritariamente",
+      "exemplo": "Os empregos são, em sua maioria, informais."
+    },
+    {
+      "termo": "questionar (uma informação)",
+      "definicao": "colocar em dúvida, pedir esclarecimento",
+      "exemplo": "Especialistas questionam a qualidade dos dados."
+    },
+    {
+      "termo": "pauta (jornalística)",
+      "definicao": "tema escolhido para ser noticiado",
+      "exemplo": "Essa pauta ganhou destaque essa semana."
+    },
+    {
+      "termo": "repercussão",
+      "definicao": "reação/impacto causado por uma notícia",
+      "exemplo": "A notícia teve grande repercussão."
+    },
+    {
+      "termo": "posicionamento (de uma fonte)",
+      "definicao": "opinião/posição declarada",
+      "exemplo": "O posicionamento do ministro foi otimista."
+    },
+    {
+      "termo": "nuance",
+      "definicao": "detalhe sutil que matiza uma afirmação",
+      "exemplo": "A notícia tem nuances que vão além do número."
+    },
+    {
+      "termo": "síntese crítica",
+      "definicao": "resumo que inclui análise, não só fatos",
+      "exemplo": "Faça uma síntese crítica da reportagem."
+    },
+    {
+      "termo": "editorial (de jornal)",
+      "definicao": "texto de opinião institucional de um veículo",
+      "exemplo": "O editorial criticou a falta de transparência."
+    }
+  ],
+  "tagsVocabulario": [
+    "b2.6"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. O ministro ___ que a economia está se recuperando. (declaração segura)",
+      "resposta": "afirmou"
+    },
+    {
+      "enunciado": "2. Especialistas ___ que a situação pode piorar. (aviso preocupado)",
+      "resposta": "alertaram"
+    },
+    {
+      "enunciado": "3. A empresa ___ qualquer irregularidade no processo. (contestação)",
+      "resposta": "negou"
+    },
+    {
+      "enunciado": "\"Os novos empregos são, em sua maioria, informais.\" (especialistas alertaram)",
+      "resposta": "Especialistas alertaram que os novos empregos eram, em sua maioria, informais."
+    },
+    {
+      "enunciado": "1. \"O governo destaca o número absoluto de queda no desemprego.\"",
+      "resposta": "Ângulo governamental/otimista"
+    },
+    {
+      "enunciado": "2. \"Especialistas questionam a qualidade desses empregos.\"",
+      "resposta": "Ângulo crítico/cauteloso"
+    },
+    {
+      "enunciado": "\"O número de empregos subiu. ___, a qualidade desses empregos caiu.\"",
+      "resposta": "Por outro lado"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "ângulo (de uma notícia)",
+      "significado": "perspectiva/ponto de vista adotado"
+    },
+    {
+      "termo": "alertar que",
+      "significado": "avisar com tom de preocupação"
+    },
+    {
+      "termo": "cobertura (jornalística)",
+      "significado": "conjunto de notícias sobre um tema"
+    },
+    {
+      "termo": "dado (estatístico)",
+      "significado": "informação numérica usada como evidência"
+    },
+    {
+      "termo": "divulgar (dados/resultado)",
+      "significado": "tornar público um dado/resultado"
+    },
+    {
+      "termo": "editorial (de jornal)",
+      "significado": "texto de opinião institucional de um veículo"
+    },
+    {
+      "termo": "em sua maioria",
+      "significado": "majoritariamente"
+    },
+    {
+      "termo": "fonte (de informação)",
+      "significado": "pessoa/instituição de onde vem a informação"
+    },
+    {
+      "termo": "nuance",
+      "significado": "detalhe sutil que matiza uma afirmação"
+    },
+    {
+      "termo": "pauta (jornalística)",
+      "significado": "tema escolhido para ser noticiado"
+    },
+    {
+      "termo": "posicionamento (de uma fonte)",
+      "significado": "opinião/posição declarada"
+    },
+    {
+      "termo": "questionar (uma informação)",
+      "significado": "colocar em dúvida, pedir esclarecimento"
+    },
+    {
+      "termo": "repercussão",
+      "significado": "reação/impacto causado por uma notícia"
+    },
+    {
+      "termo": "síntese crítica",
+      "significado": "resumo que inclui análise, não só fatos"
+    },
+    {
+      "termo": "viés (de uma notícia/análise)",
+      "significado": "tendência/inclinação não neutra"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

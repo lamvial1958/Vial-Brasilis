@@ -1,0 +1,164 @@
+{
+  "nivel": "a1",
+  "slug": "08-saude-basica",
+  "ordem": 8,
+  "codigo": "A1.8",
+  "titulo": "Saúde Básica",
+  "tipo": "licao",
+  "notaIntro": "Esta unidade recicla e expande a PRE-A1.5 (\"Estou com dor de cabeça\", \"Estou mal\"), acrescentando vocabulário completo do corpo humano e a construção reflexiva \"sentir-se\".",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — farmácia:**\n> **Tom:** Boa tarde. Eu não estou me sentindo bem.\n> **Farmacêutica:** O que você está sentindo?\n> **Tom:** Estou com dor de garganta e um pouco de tosse.\n> **Farmacêutica:** Você está com febre também?\n> **Tom:** Não, acho que não. Só estou com o nariz entupido.\n> **Farmacêutica:** Parece um resfriado. Vou te dar um xarope e um remédio para a garganta.\n> **Tom:** Obrigado. Quanto custa?\n> **Farmacêutica:** São vinte e cinco reais.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer que não está bem | Eu não estou me sentindo bem. |\n| Descrever sintoma | Estou com dor de/em... / Estou com... (tosse, febre) |\n| Perguntar sintoma | O que você está sentindo? |\n| Receber recomendação | Vou te dar... / Parece (ser)... |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "cabeça, garganta, nariz, ouvido, barriga, costas, braço, perna, dor, tosse, febre, resfriado, gripe, xarope, remédio, comprimido, entupido(a), espirro — **(18 itens, tag `a1.8`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Verbo reflexivo \"sentir-se\":**\n| | Forma |\n|---|---|\n| eu | me sinto |\n| você/ele/ela | se sente |\n| nós | nos sentimos |\n| vocês/eles/elas | se sentem |\n\n*Eu não estou me sentindo bem. / Como você se sente hoje?*\n\n**B. \"Estar com dor de/em + parte do corpo\"** (revisão e expansão da PRE-A1.5):\n\"dor de\" + partes sem artigo claro (dor de cabeça, dor de garganta, dor de barriga) · \"dor em/nas/no\" + partes específicas (dor nas costas, dor no braço, dor na perna).\n\n**C. \"Estar com\" + sintoma (sem dor):** *Estou com febre. Estou com tosse. Estou com o nariz entupido.*"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"rr\"/\"r\" forte em \"garganta\" e \"resfriado\" (revisão).**\n**B. Nasalização em \"não\", \"entupido\"(o \"u\" aqui não é nasal — atenção ao contraste, é só vogal oral; reforçar que nem toda sílaba com \"n\" é nasal).**\n**C. Dígrafo \"ss\" /s/ em \"tosse\":** contrastar com o \"s\" simples entre vogais, que soa /z/ (ex.: \"nariz\")."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete o diálogo:**\n1. Eu não estou me ___ bem. → **sentindo**\n2. Estou com dor de ___. → **garganta**\n3. Você está com ___ também? → **febre**\n4. ___ um resfriado. → **Parece**\n\n**Exercício 2 — Associe a parte do corpo ao sintoma mais provável:**\ncabeça → dor de cabeça · garganta → dor de garganta/tosse · barriga → dor de barriga\n\n**Exercício 3 — Conjugue \"sentir-se\":**\neu ___ (me sinto) · ele ___ (se sente) · nós ___ (nos sentimos)\n\n**Exercício 4 — \"Dor de\" ou \"dor em/no/na\"? Complete:**\n\"dor ___ cabeça\" → **de** · \"dor ___ braço\" → **no** · \"dor ___ costas\" → **nas**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Atendente (posto de saúde):** O que você está sentindo?\n> **Sofia:** Eu estou com dor nas costas desde ontem, e também um pouco de dor de cabeça.\n> **Atendente:** Você está com febre?\n> **Sofia:** Não, sem febre. Só a dor mesmo.\n> **Atendente:** Vou te indicar um analgésico e recomendar descanso.\n\n**Perguntas:**\n1. Onde Sofia sente dor? → **Nas costas e na cabeça**\n2. Desde quando? → **Desde ontem**\n3. Ela está com febre? → **Não**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Role-play numa farmácia ou posto de saúde: descreva um sintoma (real ou inventado) usando \"estou com\" e \"sentir-se\", responda a perguntas do atendente, e receba/repita uma recomendação.\n\n**Checklist de autoavaliação:**\n- [ ] Usei \"Eu não estou me sentindo bem\" ou variação correta\n- [ ] Descrevi pelo menos 2 sintomas com \"estou com...\"\n- [ ] Usei corretamente \"dor de\" ou \"dor em/no/na\" conforme a parte do corpo\n- [ ] Conjuguei \"sentir-se\" corretamente em pelo menos uma pessoa\n- [ ] Pronunciei corretamente \"garganta\" com o \"r\" forte"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| barriga / braço / costas / perna | partes do corpo |\n| cabeça / garganta / nariz / ouvido | partes do corpo (cabeça e órgãos dos sentidos) |\n| comprimido | remédio em forma de pílula |\n| dor | sensação física desagradável |\n| entupido(a) | obstruído (ex.: nariz entupido) |\n| espirro | reflexo nasal repentino |\n| estar com dor de/em | descrever dor numa parte do corpo |\n| febre | temperatura corporal elevada |\n| gripe / resfriado | infecções comuns, geralmente virais |\n| parece (ser) | expressão para sugerir um diagnóstico provável |\n| remédio / xarope | medicamentos |\n| sentir-se | verbo reflexivo para expressar estado físico/emocional |\n| tosse | reflexo respiratório repetitivo |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [
+    "a1.8"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Eu não estou me ___ bem.",
+      "resposta": "sentindo"
+    },
+    {
+      "enunciado": "2. Estou com dor de ___.",
+      "resposta": "garganta"
+    },
+    {
+      "enunciado": "3. Você está com ___ também?",
+      "resposta": "febre"
+    },
+    {
+      "enunciado": "4. ___ um resfriado.",
+      "resposta": "Parece"
+    },
+    {
+      "enunciado": "cabeça",
+      "resposta": "dor de cabeça"
+    },
+    {
+      "enunciado": "garganta",
+      "resposta": "dor de garganta/tosse"
+    },
+    {
+      "enunciado": "barriga",
+      "resposta": "dor de barriga"
+    },
+    {
+      "enunciado": "eu ___",
+      "resposta": "me sinto"
+    },
+    {
+      "enunciado": "ele ___",
+      "resposta": "se sente"
+    },
+    {
+      "enunciado": "nós ___",
+      "resposta": "nos sentimos"
+    },
+    {
+      "enunciado": "\"dor ___ cabeça\"",
+      "resposta": "de"
+    },
+    {
+      "enunciado": "\"dor ___ braço\"",
+      "resposta": "no"
+    },
+    {
+      "enunciado": "\"dor ___ costas\"",
+      "resposta": "nas"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "barriga / braço / costas / perna",
+      "significado": "partes do corpo"
+    },
+    {
+      "termo": "cabeça / garganta / nariz / ouvido",
+      "significado": "partes do corpo (cabeça e órgãos dos sentidos)"
+    },
+    {
+      "termo": "comprimido",
+      "significado": "remédio em forma de pílula"
+    },
+    {
+      "termo": "dor",
+      "significado": "sensação física desagradável"
+    },
+    {
+      "termo": "entupido(a)",
+      "significado": "obstruído (ex.: nariz entupido)"
+    },
+    {
+      "termo": "espirro",
+      "significado": "reflexo nasal repentino"
+    },
+    {
+      "termo": "estar com dor de/em",
+      "significado": "descrever dor numa parte do corpo"
+    },
+    {
+      "termo": "febre",
+      "significado": "temperatura corporal elevada"
+    },
+    {
+      "termo": "gripe / resfriado",
+      "significado": "infecções comuns, geralmente virais"
+    },
+    {
+      "termo": "parece (ser)",
+      "significado": "expressão para sugerir um diagnóstico provável"
+    },
+    {
+      "termo": "remédio / xarope",
+      "significado": "medicamentos"
+    },
+    {
+      "termo": "sentir-se",
+      "significado": "verbo reflexivo para expressar estado físico/emocional"
+    },
+    {
+      "termo": "tosse",
+      "significado": "reflexo respiratório repetitivo"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

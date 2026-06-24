@@ -1,0 +1,227 @@
+{
+  "nivel": "pre-a1",
+  "slug": "02-chegando-ao-brasil",
+  "ordem": 3,
+  "codigo": "PRE-A1.2",
+  "titulo": "Chegando ao Brasil",
+  "tipo": "licao",
+  "notaIntro": "*Cena 1 — Imigração:*",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena 1 — Imigração:**\n> **Agente:** Bom dia. Passaporte, por favor.\n> **Tom:** Bom dia. Aqui está.\n> **Agente:** É a primeira vez no Brasil?\n> **Tom:** Sim, é a primeira vez.\n> **Agente:** Quanto tempo você vai ficar?\n> **Tom:** Eu vou ficar duas semanas.\n> **Agente:** Tudo certo. Boa viagem!\n> **Tom:** Obrigado!\n\n**Cena 2 — Táxi/app de transporte:**\n> **Tom:** Boa tarde. Para o Hotel Central, por favor.\n> **Motorista:** Tudo bem. É perto do centro?\n> **Tom:** Sim, é perto do centro. Pode seguir em frente e virar à direita, por favor?\n> **Motorista:** Pode deixar! Vou seguir em frente e virar à direita.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Entregar documento | Aqui está. |\n| Responder sobre primeira vez | É a primeira vez. / Não, é a segunda vez. |\n| Dizer duração da estadia | Eu vou ficar... (duas semanas / um mês) |\n| Dar um destino | Para..., por favor. |\n| Pedir uma ação com cortesia (a quem está no controle) | Pode..., por favor? |\n| Confirmar que vai fazer algo | Vou... |\n\n> **Nota pedagógica:** o imperativo puro (\"vire à direita\", \"siga\") só é natural quando alguém *dá uma instrução a um pedestre que vai andar* — esse uso aparece corretamente na PRE-A1.5. Num táxi, quem dirige é o motorista; por isso o passageiro pede com cortesia (\"Pode...?\") e o motorista confirma a própria ação (\"Vou...\")."
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "aeroporto, passaporte, visto, imigração, alfândega, bagagem, táxi, app de transporte, endereço, destino, esquerda, direita, em frente, perto, longe, centro, primeira vez, semana(s), viagem, motorista — **(20 itens, tag `pre-a1.2`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"R\" forte (início de palavra ou após consoante):** rua, carro, Brasil\n**B. \"R\" fraco/tap (entre vogais):** primeira, direita, motorista\n**C. Nasalização contínua:** viagem, também"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete o diálogo:**\n1. — ___, por favor. → **Passaporte**\n2. — É a ___ vez no Brasil? → **primeira**\n3. — Eu vou ___ duas semanas. → **ficar**\n4. — Boa ___! → **viagem**\n5. — (resposta a \"boa viagem\") → **Obrigado**\n6. — ___ seguir em frente e virar à direita, por favor? → **Pode**\n\n**Exercício 2 — Associe a ação ao desenho:** seguir em frente → seta para frente · virar à direita → seta para a direita · virar à esquerda → seta para a esquerda\n\n**Exercício 3 — Complete com a preposição correta:**\n\"Vou ___ o Hotel Central\" → **para** · \"O hotel é ___ do centro\" → **perto**\n\n**Exercício 4 — Classifique o \"r\" (forte/fraco):**\nrua(**forte**) · carro(**forte**) · primeira(**fraco**) · direita(**fraco**) · Brasil(**forte**)"
+    },
+    {
+      "ordem": 5,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Agente:** Boa tarde. Passaporte, por favor.\n> **Sofia:** Boa tarde. Aqui está.\n> **Agente:** É a primeira vez no Brasil?\n> **Sofia:** Não, é a segunda vez.\n> **Agente:** Quanto tempo você vai ficar?\n> **Sofia:** Eu vou ficar um mês.\n> **Agente:** Tudo certo. Boa estadia!\n\n**Perguntas:**\n1. É a primeira vez de Sofia no Brasil? → **Não, é a segunda vez**\n2. Quanto tempo ela vai ficar? → **Um mês**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Role-play (par ou tutor): você chega ao Brasil — passa pela imigração (responde a 3 perguntas) e depois pede um táxi/app dizendo o destino e pedindo uma ação ao motorista com cortesia (\"Pode..., por favor?\").\n\n**Checklist de autoavaliação:**\n- [ ] Respondi à pergunta sobre primeira vez no Brasil\n- [ ] Disse quanto tempo vou ficar\n- [ ] Dei o destino corretamente (\"Para..., por favor\")\n- [ ] Fiz um pedido cortês ao motorista (\"Pode...?\") e entendi a confirmação (\"Vou...\")\n- [ ] Pronunciei corretamente uma palavra com \"r\" forte e uma com \"r\" fraco"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| aeroporto | local de chegada/partida de aviões |\n| agente (de imigração) | funcionário que verifica documentos na entrada do país |\n| alfândega | setor que verifica bagagens na entrada do país |\n| app de transporte | aplicativo para chamar um carro (tipo Uber) |\n| aqui está | expressão para entregar algo a alguém |\n| bagagem | malas e itens de viagem |\n| boa viagem / boa estadia | expressão de despedida para quem viaja/chega |\n| centro | área central da cidade |\n| destino | lugar para onde se vai |\n| direita / esquerda | lados de orientação |\n| em frente | direção reta, sem virar |\n| endereço | local exato (rua, número) de um lugar |\n| imigração | controle de entrada de estrangeiros no país |\n| longe / perto | distância grande / pequena |\n| motorista | quem dirige o veículo |\n| para... | preposição usada para indicar destino (\"Para o Hotel Central\") |\n| passaporte | documento de identificação para viagens internacionais |\n| pode + infinitivo, por favor? | pedido cortês |\n| pode deixar | resposta que confirma que algo será feito |\n| primeira vez / segunda vez | quantas vezes algo já ocorreu |\n| semana(s) | período de 7 dias |\n| táxi | carro de transporte pago |\n| tudo certo | confirmação de que está tudo bem |\n| viagem | deslocamento de um lugar a outro |\n| virar à direita/esquerda | mudar de direção |\n| visto | autorização oficial para entrar em um país |\n| vou + infinitivo | forma de dizer o que a pessoa fará a seguir |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [
+    "pre-a1.2"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. — ___, por favor.",
+      "resposta": "Passaporte"
+    },
+    {
+      "enunciado": "2. — É a ___ vez no Brasil?",
+      "resposta": "primeira"
+    },
+    {
+      "enunciado": "3. — Eu vou ___ duas semanas.",
+      "resposta": "ficar"
+    },
+    {
+      "enunciado": "4. — Boa ___!",
+      "resposta": "viagem"
+    },
+    {
+      "enunciado": "5. — (resposta a \"boa viagem\")",
+      "resposta": "Obrigado"
+    },
+    {
+      "enunciado": "6. — ___ seguir em frente e virar à direita, por favor?",
+      "resposta": "Pode"
+    },
+    {
+      "enunciado": "**Exercício 2 — Associe a ação ao desenho:** seguir em frente",
+      "resposta": "seta para frente"
+    },
+    {
+      "enunciado": "virar à direita",
+      "resposta": "seta para a direita"
+    },
+    {
+      "enunciado": "virar à esquerda",
+      "resposta": "seta para a esquerda"
+    },
+    {
+      "enunciado": "\"Vou ___ o Hotel Central\"",
+      "resposta": "para"
+    },
+    {
+      "enunciado": "\"O hotel é ___ do centro\"",
+      "resposta": "perto"
+    },
+    {
+      "enunciado": "rua",
+      "resposta": "forte"
+    },
+    {
+      "enunciado": "carro",
+      "resposta": "forte"
+    },
+    {
+      "enunciado": "primeira",
+      "resposta": "fraco"
+    },
+    {
+      "enunciado": "direita",
+      "resposta": "fraco"
+    },
+    {
+      "enunciado": "Brasil",
+      "resposta": "forte"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "aeroporto",
+      "significado": "local de chegada/partida de aviões"
+    },
+    {
+      "termo": "agente (de imigração)",
+      "significado": "funcionário que verifica documentos na entrada do país"
+    },
+    {
+      "termo": "alfândega",
+      "significado": "setor que verifica bagagens na entrada do país"
+    },
+    {
+      "termo": "app de transporte",
+      "significado": "aplicativo para chamar um carro (tipo Uber)"
+    },
+    {
+      "termo": "aqui está",
+      "significado": "expressão para entregar algo a alguém"
+    },
+    {
+      "termo": "bagagem",
+      "significado": "malas e itens de viagem"
+    },
+    {
+      "termo": "boa viagem / boa estadia",
+      "significado": "expressão de despedida para quem viaja/chega"
+    },
+    {
+      "termo": "centro",
+      "significado": "área central da cidade"
+    },
+    {
+      "termo": "destino",
+      "significado": "lugar para onde se vai"
+    },
+    {
+      "termo": "direita / esquerda",
+      "significado": "lados de orientação"
+    },
+    {
+      "termo": "em frente",
+      "significado": "direção reta, sem virar"
+    },
+    {
+      "termo": "endereço",
+      "significado": "local exato (rua, número) de um lugar"
+    },
+    {
+      "termo": "imigração",
+      "significado": "controle de entrada de estrangeiros no país"
+    },
+    {
+      "termo": "longe / perto",
+      "significado": "distância grande / pequena"
+    },
+    {
+      "termo": "motorista",
+      "significado": "quem dirige o veículo"
+    },
+    {
+      "termo": "para...",
+      "significado": "preposição usada para indicar destino (\"Para o Hotel Central\")"
+    },
+    {
+      "termo": "passaporte",
+      "significado": "documento de identificação para viagens internacionais"
+    },
+    {
+      "termo": "pode + infinitivo, por favor?",
+      "significado": "pedido cortês"
+    },
+    {
+      "termo": "pode deixar",
+      "significado": "resposta que confirma que algo será feito"
+    },
+    {
+      "termo": "primeira vez / segunda vez",
+      "significado": "quantas vezes algo já ocorreu"
+    },
+    {
+      "termo": "semana(s)",
+      "significado": "período de 7 dias"
+    },
+    {
+      "termo": "táxi",
+      "significado": "carro de transporte pago"
+    },
+    {
+      "termo": "tudo certo",
+      "significado": "confirmação de que está tudo bem"
+    },
+    {
+      "termo": "viagem",
+      "significado": "deslocamento de um lugar a outro"
+    },
+    {
+      "termo": "virar à direita/esquerda",
+      "significado": "mudar de direção"
+    },
+    {
+      "termo": "visto",
+      "significado": "autorização oficial para entrar em um país"
+    },
+    {
+      "termo": "vou + infinitivo",
+      "significado": "forma de dizer o que a pessoa fará a seguir"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

@@ -1,0 +1,72 @@
+{
+  "nivel": "b2",
+  "slug": "10-revisao-direcionada-e-simulado-2",
+  "ordem": 10,
+  "codigo": "B2.10",
+  "titulo": "Revisão Direcionada + Simulado #2",
+  "tipo": "simulado",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b2.md`. Unidade final do nível B2 — fecha o ciclo com remediação direcionada às lacunas reais do aluno (não revisão genérica), seguida de um segundo simulado completo. A aprovação neste simulado é o **marco de saída do nível B2 e fim do escopo atual do curso** (C1/C2 permanecem congelados, retomados apenas mediante solicitação formal futura).",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Como Usar Esta Unidade",
+      "markdown": "Esta unidade não segue o template padrão de lição: ela parte do **Relatório de Lacunas** preenchido no final do B2.9 (Seção 7 daquela unidade). Em vez de revisar tudo igualmente, o aluno (ou o tutor) seleciona, entre os blocos de reforço abaixo, apenas os correspondentes às áreas marcadas como \"sim\" (dificuldade) no relatório, e revisa só essas."
+    },
+    {
+      "ordem": 2,
+      "titulo": "Blocos de Reforço Direcionado",
+      "markdown": "**Bloco A — Hipóteses e condicionais (se houve dificuldade em B2.1):**\n| Lembrete-chave | Onde revisar |\n|---|---|\n| Hipótese irreal: se + subjuntivo imperfeito + futuro do pretérito (condicional) | B2.1, Seção 3 |\n| Condição real/futuro em aberto: se + subjuntivo futuro/presente + futuro/presente | B2.1, Seção 3 |\n| Conectores além de \"se\": caso, a menos que, desde que (todos exigem subjuntivo) | B2.1, Seção 3 |\n\n**Bloco B — Discurso indireto (se houve dificuldade em B2.2):**\n| Lembrete-chave | Onde revisar |\n|---|---|\n| Presente→imperfeito, perfeito→mais-que-perfeito, futuro do presente→futuro do pretérito | B2.2, Seção 3 |\n| Hoje→naquele dia, ontem→no dia anterior, aqui→lá/ali | B2.2, Seção 3 |\n| Pedido/sugestão relatado exige subjuntivo (\"sugeriu que eu revisasse\") | B2.2, Seção 3 |\n\n**Bloco C — Argumentação avançada (se houve dificuldade em B2.3):**\n| Lembrete-chave | Onde revisar |\n|---|---|\n| Estrutura: tese → argumento(s) → contraponto reconhecido → conclusão | B2.3, Seção 3 |\n| Não obstante/na medida em que = indicativo; ainda que/a fim de que = subjuntivo | B2.3, Seção 3 |\n| Prefira nominalização (\"a ausência de mediação\") a frase verbal completa em registro dissertativo | B2.3, Seção 3 |\n\n**Bloco D — Reconhecimento de variação regional (se houve dificuldade em B2.4):**\n| Lembrete-chave | Onde revisar |\n|---|---|\n| Variação regional é reconhecimento, não produção obrigatória — \"você\" continua seguro em qualquer região | B2.4, Seção 3 |\n| Marcadores regionais (tchê, oxente, visse) têm função pragmática, não confundir com erro de registro (isso é tema do B1.8) | B2.4, Seção 3 |\n\n**Bloco E — Registro profissional (se houve dificuldade em B2.5):**\n| Lembrete-chave | Onde revisar |\n|---|---|\n| Estruturas fixas: \"ficou definido que\", \"fico à disposição para\", \"conforme combinado\" | B2.5, Seção 3 |\n| E-mail corporativo: abertura referenciando reunião → decisões → próximos passos → fecho cortês | B2.5, Seção 3 |\n\n**Bloco F — Síntese crítica de mídia (se houve dificuldade em B2.6):**\n| Lembrete-chave | Onde revisar |\n|---|---|\n| Verbos introdutores variados: afirmar, alertar, ressaltar, negar, reconhecer — cada um com nuance própria | B2.6, Seção 3 |\n| Síntese crítica identifica a tensão entre fontes/ângulos, não apenas resume um lado | B2.6, Seção 3 |\n\n**Bloco G — Humor, ironia e linguagem figurada (se houve dificuldade em B2.7):**\n| Lembrete-chave | Onde revisar |\n|---|---|\n| Toda piada de duplo sentido tem: situação → palavra-chave ambígua → resolução inesperada | B2.7, Seção 3 |\n| Ironia frequentemente usa exagero ou elogio em contexto negativo | B2.7, Seção 3 |\n| Sentido literal × figurado é a chave para entender expressões idiomáticas | B2.7, Seção 3 |\n\n**Bloco H — Leitura crítica de produção cultural (se houve dificuldade em B2.8):**\n| Lembrete-chave | Onde revisar |\n|---|---|\n| Pergunte sempre: o que isso diz literalmente? O que sugere além do literal? | B2.8, Seção 3 |\n| Conecte sempre a obra a um tema cultural mais amplo (migração, saudade, identidade regional) | B2.8, Seção 3 |"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Exercícios de Reforço Direcionado (com gabarito)",
+      "markdown": "**Exercício 1 (Bloco A — hipótese irreal):** Complete: \"Se eu ___ (ter) mais tempo, eu ___ (viajar) o Brasil inteiro.\" → **tivesse / viajaria**\n\n**Exercício 2 (Bloco B — discurso indireto):** Transforme: \"Vou entregar o relatório hoje.\" (ele disse, relatado no dia seguinte) → **Ele disse que ia entregar o relatório naquele dia.**\n\n**Exercício 3 (Bloco C — argumentação):** Complete: \"___ a tecnologia traga benefícios reais, a falta de mediação é o fator determinante dos riscos.\" → **Ainda que**\n\n**Exercício 4 (Bloco F — discurso jornalístico):** Reescreva usando um verbo introdutor diferente de \"disse\": \"O governo disse que a medida vai reduzir o desemprego.\" → **O governo afirmou/ressaltou que a medida reduziria o desemprego.**\n\n**Exercício 5 (Bloco G — linguagem figurada):** Explique o sentido figurado da expressão: \"Ele pagou o pato pela decisão da equipe inteira.\" → **Significa que ele sofreu uma consequência negativa por um erro/decisão que não foi exclusivamente dele.**"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Simulado #2 — Estrutura (idêntica ao B2.9, com novos estímulos)",
+      "markdown": "| Parte | Conteúdo | Tempo sugerido |\n|---|---|---|\n| Tarefa Escrita 1 | estímulo → conselho hipotético + discurso indireto, registro coerente | 30 min |\n| Tarefa Escrita 2 | estímulo → dissertação argumentativa completa | 35 min |\n| Compreensão Oral Integrada | áudio (mídia/atualidades) → questões + síntese crítica com discurso indireto | 20 min |\n| Parte Oral | entrevista guiada, incluindo explicação metalinguística de humor/expressão | 15 min |\n\n**Estímulo — Tarefa Escrita 1:** Uma amiga está em dúvida entre aceitar um intercâmbio de um ano em outro país ou continuar seu trabalho atual no Brasil. Escreva uma resposta (150–180 palavras) dando um conselho hipotético claro, com uma condição real/futuro em aberto, e relatando em discurso indireto uma experiência de alguém que você conhece (real ou inventada) que viveu algo parecido.\n\n**Estímulo — Tarefa Escrita 2:** \"Pesquisa indica que o uso de inteligência artificial generativa já é comum entre estudantes universitários brasileiros para auxiliar em trabalhos acadêmicos. Para alguns, a ferramenta democratiza o acesso ao conhecimento; para outros, compromete o desenvolvimento do pensamento crítico.\" Escreva uma dissertação argumentativa (250–300 palavras) com tese, argumentos, contraponto reconhecido e conclusão.\n\n**Estímulo — Compreensão Oral Integrada:**\n> \"Um tema recorrente na mídia brasileira atualmente é o crescimento do turismo interno. Segundo o Ministério do Turismo, viagens dentro do próprio país aumentaram 18% no último ano. Empresários do setor afirmam que isso se deve à valorização do real frente a outras moedas. Já pesquisadores de turismo ressaltam que a tendência também reflete uma busca crescente por experiências culturais regionais, e não apenas uma questão de custo.\"\n\nQuestões: (1) Qual é o tema do áudio? (2) Que ângulo os empresários trazem? (3) Que ângulo os pesquisadores trazem? — seguidas de síntese crítica escrita usando discurso indireto.\n\n**Roteiro da Parte Oral:** mesmas perguntas-guia do B2.9, com temas de opinião e explicação de humor adaptados para evitar repetição memorizada."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Rubrica Oficial de Correção (igual ao B2.9)",
+      "markdown": "| Critério | Peso |\n|---|---|\n| Cumprimento da tarefa comunicativa | Alto |\n| Adequação ao registro e ao gênero exigidos | Alto |\n| Coesão argumentativa avançada | Alto |\n| Correção gramatical (subjuntivo imperfeito/futuro, discurso indireto, condicional) | Médio |\n| Interação oral natural, com nuance | Alto (parte oral) |"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Critério de Aprovação — Marco de Saída do Nível B2",
+      "markdown": "A aprovação neste Simulado #2 é o marco formal de conclusão do nível B2 **e do escopo atual do curso**. O aluno é considerado aprovado no CELPE-Bras Intermediário Superior (nível didático) quando:\n- [ ] Cumpriu corretamente o comando das duas tarefas escritas (gênero, registro e coesão argumentativa adequados)\n- [ ] Usou hipóteses/condicionais e discurso indireto com poucos erros recorrentes\n- [ ] Demonstrou argumentação coerente, com contraponto reconhecido e conclusão consistente\n- [ ] Manteve uma interação oral natural e com nuance, incluindo explicação metalinguística clara de humor/expressão figurada quando solicitado\n- [ ] Não repetiu, no Simulado #2, as mesmas lacunas identificadas no relatório do B2.9"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Encerramento do Nível e do Escopo Atual do Curso",
+      "markdown": "Se alguma lacuna persistir após o Simulado #2, repita o bloco de reforço correspondente (Seção 2) e refaça apenas a tarefa relacionada a essa lacuna — não é necessário refazer o simulado inteiro.\n\nCom a aprovação nos 5 critérios da Seção 6, o aluno conclui o percurso PRE-A1 → B2 definido como escopo deste curso. Os níveis C1 e C2 permanecem **congelados** — não há, neste momento, unidades, fichas ou cronograma para eles. Qualquer extensão para C1/C2 deve ser tratada como solicitação formal futura, sem retrabalho da estrutura PRE-A1–B2 já validada e construída."
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [],
+  "exercicios": [
+    {
+      "enunciado": "**Exercício 1 (Bloco A — hipótese irreal):** Complete: \"Se eu ___ (ter) mais tempo, eu ___ (viajar) o Brasil inteiro.\"",
+      "resposta": "tivesse / viajaria"
+    },
+    {
+      "enunciado": "**Exercício 2 (Bloco B — discurso indireto):** Transforme: \"Vou entregar o relatório hoje.\" (ele disse, relatado no dia seguinte)",
+      "resposta": "Ele disse que ia entregar o relatório naquele dia."
+    },
+    {
+      "enunciado": "**Exercício 3 (Bloco C — argumentação):** Complete: \"___ a tecnologia traga benefícios reais, a falta de mediação é o fator determinante dos riscos.\"",
+      "resposta": "Ainda que"
+    },
+    {
+      "enunciado": "**Exercício 4 (Bloco F — discurso jornalístico):** Reescreva usando um verbo introdutor diferente de \"disse\": \"O governo disse que a medida vai reduzir o desemprego.\"",
+      "resposta": "O governo afirmou/ressaltou que a medida reduziria o desemprego."
+    },
+    {
+      "enunciado": "**Exercício 5 (Bloco G — linguagem figurada):** Explique o sentido figurado da expressão: \"Ele pagou o pato pela decisão da equipe inteira.\"",
+      "resposta": "Significa que ele sofreu uma consequência negativa por um erro/decisão que não foi exclusivamente dele."
+    }
+  ],
+  "glossario": [],
+  "tempoSugeridoMin": 100
+}

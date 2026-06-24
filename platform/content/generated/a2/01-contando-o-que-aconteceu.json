@@ -1,0 +1,253 @@
+{
+  "nivel": "a2",
+  "slug": "01-contando-o-que-aconteceu",
+  "ordem": 1,
+  "codigo": "A2.1",
+  "titulo": "Contando o que Aconteceu",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/a2.md`. A partir do A2, a narrativa de eventos passados se torna o eixo central — este é o primeiro item gramatical novo do nível: o pretérito perfeito regular.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — segunda-feira de manhã, dois colegas de curso de português se encontram:**\n> **Bruno:** Oi, Sarah! Como foi o seu fim de semana?\n> **Sarah:** Foi ótimo! Sábado eu visitei o Mercado Municipal com uma amiga. Nós compramos frutas e provamos um pastel de feira.\n> **Bruno:** Que legal! E domingo?\n> **Sarah:** Domingo eu descansei de manhã. À tarde eu caminhei na praia e depois jantei numa churrascaria.\n> **Bruno:** Eu também caminhei na praia! Mas eu não comi churrasco, eu cozinhei em casa.\n> **Sarah:** E você, o que mais você fez?\n> **Bruno:** Eu liguei para minha família no Canadá e conversamos por uma hora.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar sobre o passado recente | Como foi o seu fim de semana/dia/feriado? |\n| Narrar uma ação passada concluída | Eu + verbo no pretérito perfeito (visitei, comi, parti) |\n| Sequenciar eventos | Primeiro... depois... e depois... no final... |\n| Marcar quando algo aconteceu | ontem, sábado, domingo, semana passada, há dois dias |\n| Reagir a um relato | Que legal! / Que bom! / Sério? |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| ontem | dia anterior a hoje | Ontem eu trabalhei até tarde. |\n| anteontem | dois dias antes de hoje | Anteontem choveu muito. |\n| semana passada | a semana anterior | Semana passada eu viajei. |\n| mês passado | o mês anterior | Mês passado eu mudei de casa. |\n| há dois dias | tempo decorrido desde um evento | Há dois dias eu não durmo bem. |\n| de manhã | período da manhã | De manhã eu corri no parque. |\n| à tarde | período da tarde | À tarde eu estudei. |\n| à noite | período da noite | À noite eu jantei fora. |\n| no final de semana | sábado e domingo | No final de semana eu descansei. |\n| visitar | ir ver um lugar/pessoa | Eu visitei minha avó. |\n| caminhar | andar a pé, sem pressa | Eu caminhei na praia. |\n| descansar | não trabalhar, relaxar | Eu descansei o dia todo. |\n| ligar (para alguém) | telefonar | Eu liguei para minha mãe. |\n| provar (comida) | experimentar pela primeira vez | Eu provei um prato novo. |\n| churrascaria | restaurante de carne grelhada | Jantamos numa churrascaria. |\n| feira | mercado ao ar livre | Compramos frutas na feira. |\n\n**(16 itens, tag `a2.1`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Pretérito perfeito regular — verbos em -ar, -er, -ir:**\n\n| Pessoa | falar (-ar) | comer (-er) | partir (-ir) |\n|---|---|---|---|\n| eu | falei | comi | parti |\n| você/ele/ela | falou | comeu | partiu |\n| nós | falamos | comemos | partimos |\n| vocês/eles/elas | falaram | comeram | partiram |\n\n> **Nota:** a forma de \"nós\" no pretérito perfeito dos verbos -ar é idêntica à do presente (falamos pode ser hoje ou no passado) — o contexto e os marcadores temporais (ontem, semana passada) é que desfazem a ambiguidade.\n\n**B. Verbos -ar comuns neste padrão:** visitar, caminhar, descansar, ligar, trabalhar, viajar, cozinhar, jantar, almoçar, estudar.\n**C. Verbos -er comuns:** comer, beber, conhecer, vender, escrever.\n**D. Verbos -ir comuns:** partir, sair (irregular leve: saí, saiu, saímos, saíram), assistir, dormir."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Acento tônico na última sílaba (oxítona) em \"eu\" e \"ele\":** fal**ei**, com**i**, part**iu** — contraste com o presente, que tem acento em sílaba diferente: f**a**lo, c**o**mo.\n**B. Ditongo \"ou\" em \"ele/ela\" dos verbos -ar:** fal**ou**, jant**ou**, viaj**ou** — som fechado, parecido com \"o\" longo.\n**C. Nasalização em \"-am\" da terceira pessoa do plural:** falar**am**, jantar**am** — não pronunciar como \"fal-ã\", mas sim com a nasal mais aberta, como em \"fizeram\"."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com o pretérito perfeito:**\n1. Eu ___ (visitar) o Mercado Municipal. → **visitei**\n2. Nós ___ (comer) pastel de feira. → **comemos**\n3. Ela ___ (caminhar) na praia. → **caminhou**\n4. Eles ___ (jantar) numa churrascaria. → **jantaram**\n5. Você ___ (ligar) para sua família? → **ligou**\n\n**Exercício 2 — Transforme do presente para o passado:**\nEu trabalho de manhã → **Eu trabalhei de manhã** · Nós viajamos no sábado → **Nós viajamos no sábado** (mesma forma, contexto decide) · Ela cozinha em casa → **Ela cozinhou em casa**\n\n**Exercício 3 — Ordene a sequência usando conectores:**\n(caminhar na praia / jantar / ligar para a família) → **Primeiro eu caminhei na praia, depois jantei e no final liguei para a família.**\n\n**Exercício 4 — Responda com marcador temporal:**\nQuando você visitou o Mercado Municipal? (sábado) → **Eu visitei o Mercado Municipal sábado / no sábado.**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Apresentadora:** E você, Marco, como foi o seu fim de semana?\n> **Marco:** Foi tranquilo. Sexta à noite eu saí com amigos e voltei tarde. Sábado eu dormi até meio-dia! De tarde eu limpei a casa e à noite assisti um filme. Domingo eu visitei meus pais e almocei com eles.\n> **Apresentadora:** Você descansou bastante, então.\n> **Marco:** Descansei sim, foi um bom fim de semana.\n\n**Perguntas:**\n1. O que Marco fez na sexta à noite? → **Saiu com amigos e voltou tarde**\n2. Até que hora ele dormiu no sábado? → **Até meio-dia**\n3. O que ele fez no sábado à noite? → **Assistiu um filme**\n4. O que ele fez no domingo? → **Visitou os pais e almoçou com eles**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Grave um relato de 1 minuto (ou escreva um parágrafo) contando como foi o seu último fim de semana. Inclua:\n1. Pelo menos 4 verbos no pretérito perfeito\n2. Pelo menos 2 marcadores temporais (ontem, sábado, semana passada...)\n3. Uma sequência com \"primeiro... depois... no final...\"\n4. Pelo menos um verbo -ar, um -er e um -ir\n\n**Checklist de autoavaliação:**\n- [ ] Usei o pretérito perfeito corretamente nas pessoas necessárias\n- [ ] Usei pelo menos um verbo de cada conjugação (-ar, -er, -ir)\n- [ ] Sequenciei os eventos com conectores temporais\n- [ ] Usei marcadores de tempo passado (ontem, semana passada etc.)\n- [ ] Pronunciei corretamente a terminação \"-ou\" da terceira pessoa dos verbos -ar"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| à noite | período da noite |\n| à tarde | período da tarde |\n| anteontem | dois dias antes de hoje |\n| caminhar | andar a pé, sem pressa |\n| churrascaria | restaurante de carne grelhada |\n| de manhã | período da manhã |\n| descansar | não trabalhar, relaxar |\n| feira | mercado ao ar livre |\n| há dois dias | tempo decorrido desde um evento |\n| ligar (para alguém) | telefonar |\n| mês passado | o mês anterior |\n| no final de semana | sábado e domingo |\n| ontem | dia anterior a hoje |\n| primeiro... depois... no final... | conectores para sequenciar eventos |\n| provar (comida) | experimentar pela primeira vez |\n| que legal! | expressão de reação positiva |\n| semana passada | a semana anterior |\n| visitar | ir ver um lugar/pessoa |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "ontem",
+      "definicao": "dia anterior a hoje",
+      "exemplo": "Ontem eu trabalhei até tarde."
+    },
+    {
+      "termo": "anteontem",
+      "definicao": "dois dias antes de hoje",
+      "exemplo": "Anteontem choveu muito."
+    },
+    {
+      "termo": "semana passada",
+      "definicao": "a semana anterior",
+      "exemplo": "Semana passada eu viajei."
+    },
+    {
+      "termo": "mês passado",
+      "definicao": "o mês anterior",
+      "exemplo": "Mês passado eu mudei de casa."
+    },
+    {
+      "termo": "há dois dias",
+      "definicao": "tempo decorrido desde um evento",
+      "exemplo": "Há dois dias eu não durmo bem."
+    },
+    {
+      "termo": "de manhã",
+      "definicao": "período da manhã",
+      "exemplo": "De manhã eu corri no parque."
+    },
+    {
+      "termo": "à tarde",
+      "definicao": "período da tarde",
+      "exemplo": "À tarde eu estudei."
+    },
+    {
+      "termo": "à noite",
+      "definicao": "período da noite",
+      "exemplo": "À noite eu jantei fora."
+    },
+    {
+      "termo": "no final de semana",
+      "definicao": "sábado e domingo",
+      "exemplo": "No final de semana eu descansei."
+    },
+    {
+      "termo": "visitar",
+      "definicao": "ir ver um lugar/pessoa",
+      "exemplo": "Eu visitei minha avó."
+    },
+    {
+      "termo": "caminhar",
+      "definicao": "andar a pé, sem pressa",
+      "exemplo": "Eu caminhei na praia."
+    },
+    {
+      "termo": "descansar",
+      "definicao": "não trabalhar, relaxar",
+      "exemplo": "Eu descansei o dia todo."
+    },
+    {
+      "termo": "ligar (para alguém)",
+      "definicao": "telefonar",
+      "exemplo": "Eu liguei para minha mãe."
+    },
+    {
+      "termo": "provar (comida)",
+      "definicao": "experimentar pela primeira vez",
+      "exemplo": "Eu provei um prato novo."
+    },
+    {
+      "termo": "churrascaria",
+      "definicao": "restaurante de carne grelhada",
+      "exemplo": "Jantamos numa churrascaria."
+    },
+    {
+      "termo": "feira",
+      "definicao": "mercado ao ar livre",
+      "exemplo": "Compramos frutas na feira."
+    }
+  ],
+  "tagsVocabulario": [
+    "a2.1"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Eu ___ (visitar) o Mercado Municipal.",
+      "resposta": "visitei"
+    },
+    {
+      "enunciado": "2. Nós ___ (comer) pastel de feira.",
+      "resposta": "comemos"
+    },
+    {
+      "enunciado": "3. Ela ___ (caminhar) na praia.",
+      "resposta": "caminhou"
+    },
+    {
+      "enunciado": "4. Eles ___ (jantar) numa churrascaria.",
+      "resposta": "jantaram"
+    },
+    {
+      "enunciado": "5. Você ___ (ligar) para sua família?",
+      "resposta": "ligou"
+    },
+    {
+      "enunciado": "Eu trabalho de manhã",
+      "resposta": "Eu trabalhei de manhã"
+    },
+    {
+      "enunciado": "Nós viajamos no sábado",
+      "resposta": "**Nós viajamos no sábado** (mesma forma, contexto decide)"
+    },
+    {
+      "enunciado": "Ela cozinha em casa",
+      "resposta": "Ela cozinhou em casa"
+    },
+    {
+      "enunciado": "(caminhar na praia / jantar / ligar para a família)",
+      "resposta": "Primeiro eu caminhei na praia, depois jantei e no final liguei para a família."
+    },
+    {
+      "enunciado": "Quando você visitou o Mercado Municipal? (sábado)",
+      "resposta": "Eu visitei o Mercado Municipal sábado / no sábado."
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "à noite",
+      "significado": "período da noite"
+    },
+    {
+      "termo": "à tarde",
+      "significado": "período da tarde"
+    },
+    {
+      "termo": "anteontem",
+      "significado": "dois dias antes de hoje"
+    },
+    {
+      "termo": "caminhar",
+      "significado": "andar a pé, sem pressa"
+    },
+    {
+      "termo": "churrascaria",
+      "significado": "restaurante de carne grelhada"
+    },
+    {
+      "termo": "de manhã",
+      "significado": "período da manhã"
+    },
+    {
+      "termo": "descansar",
+      "significado": "não trabalhar, relaxar"
+    },
+    {
+      "termo": "feira",
+      "significado": "mercado ao ar livre"
+    },
+    {
+      "termo": "há dois dias",
+      "significado": "tempo decorrido desde um evento"
+    },
+    {
+      "termo": "ligar (para alguém)",
+      "significado": "telefonar"
+    },
+    {
+      "termo": "mês passado",
+      "significado": "o mês anterior"
+    },
+    {
+      "termo": "no final de semana",
+      "significado": "sábado e domingo"
+    },
+    {
+      "termo": "ontem",
+      "significado": "dia anterior a hoje"
+    },
+    {
+      "termo": "primeiro... depois... no final...",
+      "significado": "conectores para sequenciar eventos"
+    },
+    {
+      "termo": "provar (comida)",
+      "significado": "experimentar pela primeira vez"
+    },
+    {
+      "termo": "que legal!",
+      "significado": "expressão de reação positiva"
+    },
+    {
+      "termo": "semana passada",
+      "significado": "a semana anterior"
+    },
+    {
+      "termo": "visitar",
+      "significado": "ir ver um lugar/pessoa"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

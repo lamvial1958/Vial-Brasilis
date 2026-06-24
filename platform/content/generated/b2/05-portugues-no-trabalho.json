@@ -1,0 +1,273 @@
+{
+  "nivel": "b2",
+  "slug": "05-portugues-no-trabalho",
+  "ordem": 5,
+  "codigo": "B2.5",
+  "titulo": "Português no Trabalho",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b2.md`. Pré-requisitos: A1.6 (profissões/vocabulário escolar básico) e B1.3 (carta/e-mail formal). Projeta para B2.9 (Simulado Completo #1). Consolida o registro profissional, retomando e aprofundando o eixo formal de B1.8.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Cenário Motivador e Diálogo de Abertura",
+      "markdown": "**Cenário:** reunião de trabalho simulada para definir as próximas etapas de um projeto, seguida do e-mail corporativo de follow-up.\n\n**Diálogo — reunião de equipe:**\n> **Gerente:** Bom, vamos à pauta de hoje. Primeiro ponto: o cronograma do projeto.\n> **Ana:** Posso falar sobre isso. Estamos com um atraso de uma semana na entrega da primeira fase.\n> **Gerente:** Entendo. Qual é o motivo do atraso?\n> **Ana:** Tivemos um problema de integração com o fornecedor. Já está sendo resolvido.\n> **Gerente:** Certo. Ficou definido que vamos revisar o prazo final em uma semana, então. Pedro, você pode dar um retorno sobre o orçamento?\n> **Pedro:** Posso. O orçamento está dentro do previsto, mas vamos precisar de aprovação extra se o atraso persistir.\n> **Gerente:** Entendido. Vamos colocar isso em ata. Mais alguma pauta?\n> **Ana:** Só uma sugestão: que tal alinharmos expectativas com o cliente esta semana?\n> **Gerente:** Boa ideia. Combinado, então.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Abrir reunião/pauta | Vamos à pauta de hoje. Primeiro ponto:... |\n| Pedir posicionamento | Você pode dar um retorno sobre...? |\n| Registrar decisão | Ficou definido que.../Vamos colocar isso em ata. |\n| Propor algo formalmente | Que tal alinharmos...?/Sugiro que... |\n| Fechar acordo | Combinado, então./Entendido. |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| pauta | lista de assuntos a tratar numa reunião | Vamos seguir a pauta de hoje. |\n| ata | registro oficial do que foi discutido/decidido | Vamos colocar isso em ata. |\n| ficou definido que | fórmula de registro de decisão coletiva | Ficou definido que revisaremos o prazo. |\n| dar um retorno (sobre) | informar/responder formalmente sobre algo | Você pode dar um retorno sobre o orçamento? |\n| alinhar expectativas | combinar entendimentos entre as partes | Precisamos alinhar expectativas com o cliente. |\n| cronograma | planejamento de prazos de um projeto | O cronograma está atrasado uma semana. |\n| fornecedor | empresa/pessoa que fornece um serviço/produto | O atraso foi causado pelo fornecedor. |\n| dentro do previsto | conforme planejado, sem desvio | O orçamento está dentro do previsto. |\n| aprovação (de orçamento/decisão) | autorização formal | Vamos precisar de aprovação extra. |\n| follow-up | acompanhamento/retorno após uma reunião ou contato | Vou enviar o follow-up por e-mail ainda hoje. |\n| em anexo | (referindo-se a um arquivo enviado junto) | Segue em anexo o relatório. |\n| conforme combinado | de acordo com o que foi acertado antes | Conforme combinado, envio o resumo da reunião. |\n| ficar à disposição | oferecer-se formalmente para ajudar | Fico à disposição para esclarecimentos. |\n| prazo final | data limite de entrega | O prazo final foi revisado para a próxima semana. |\n| próximos passos | ações a seguir após uma decisão | Os próximos passos foram definidos em reunião. |\n| validar (uma decisão/informação) | confirmar formalmente | Preciso validar essa informação com a diretoria. |\n| pendência | assunto ainda não resolvido | Ainda há uma pendência sobre o orçamento. |\n| repassar (uma informação) | transmitir a outra pessoa/equipe | Vou repassar isso para o time. |\n| escalar (um problema) | levar a um nível hierárquico superior | Se não resolvermos, vamos escalar para a diretoria. |\n| ponto de atenção | aspecto que requer cuidado especial | Um ponto de atenção é o orçamento extra. |\n\n**(20 itens, tag `b2.5`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Função & Gramática em Foco",
+      "markdown": "**A. Registro profissional consolidado — retomada de B1.8 em contexto corporativo:**\n| Informal (evitar em contexto profissional) | Profissional/formal |\n|---|---|\n| \"Cara, isso tá atrasado.\" | \"Identificamos um atraso na entrega.\" |\n| \"Vamos ver isso depois.\" | \"Vamos retomar esse ponto na próxima reunião.\" |\n| \"Não sei, pergunta pro chefe.\" | \"Vou validar essa informação com a diretoria.\" |\n\n**B. Estruturas fixas de reunião:**\n| Estrutura | Uso |\n|---|---|\n| Vamos à pauta de hoje | abertura de reunião |\n| Ficou definido/decidido que | registro de decisão |\n| Fico à disposição para | fechamento cortês |\n| Conforme combinado/alinhado | retomada de algo já acordado |\n\n**C. E-mail corporativo de follow-up — estrutura padrão:**\n| Seção | Conteúdo típico |\n|---|---|\n| Abertura | \"Conforme reunião realizada em [data], segue resumo dos pontos discutidos.\" |\n| Corpo (decisões) | lista objetiva do que ficou definido |\n| Próximos passos | quem faz o quê, até quando |\n| Fecho | \"Fico à disposição para qualquer esclarecimento. Atenciosamente,\" |"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Entonação neutra e ritmo pausado de reuniões formais:** sem as marcas de oralidade informal (cê, tá, pra) vistas em contraste no B1.8 — aqui a meta é produção ativa consistente do registro formal falado.\n**B. Leitura de e-mails corporativos em voz alta:** praticar entonação plana, sem ênfase emocional, adequada à leitura de comunicação profissional."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Reescreva a frase informal em registro profissional:**\n\"Cara, isso tá super atrasado, alguém precisa resolver rápido.\" → **Identificamos um atraso significativo; é necessário resolver com urgência.**\n\n**Exercício 2 — Complete com a expressão profissional adequada:**\n1. \"___ que revisaríamos o cronograma na próxima semana.\" → **Ficou definido**\n2. \"Vou enviar o relatório ___, conforme solicitado.\" → **em anexo**\n3. \"___ para qualquer esclarecimento adicional.\" → **Fico à disposição**\n\n**Exercício 3 — Identifique a função de cada fala na reunião-modelo da Seção 1:**\n1. \"Vamos à pauta de hoje.\" → **abrir a reunião**\n2. \"Ficou definido que vamos revisar o prazo.\" → **registrar uma decisão**\n3. \"Que tal alinharmos expectativas com o cliente?\" → **propor algo formalmente**\n\n**Exercício 4 — Complete o e-mail de follow-up com a estrutura adequada:**\n\"Conforme reunião realizada hoje, ___ resumo dos pontos discutidos.\" → **segue**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Áudio — trecho de reunião:**\n> Bom, vamos retomar a pauta. Ficou pendente a definição do orçamento extra para o projeto. Marina, você conseguiu validar isso com a diretoria? Marina: Consegui. Foi aprovado um orçamento adicional de 15%, mas com a condição de entregarmos a próxima fase até o fim do mês. Gerente: Entendido, vou repassar essa informação para o time hoje ainda. Próximos passos: revisão do cronograma até quinta-feira, e um novo alinhamento com o cliente até sexta. Algum ponto de atenção que eu esteja esquecendo? Marina: Só reforçar que precisamos confirmar com o fornecedor se ele consegue cumprir o novo prazo.\n\n**Perguntas:**\n1. O que estava pendente no início da reunião? → **A definição do orçamento extra**\n2. Qual foi a decisão da diretoria sobre o orçamento? → **Aprovou 15% adicional, com a condição de entrega até o fim do mês**\n3. Quais são os dois próximos passos mencionados? → **Revisão do cronograma até quinta e alinhamento com o cliente até sexta**\n4. Qual ponto de atenção a Marina reforça no final? → **Confirmar com o fornecedor se ele cumpre o novo prazo**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Com base no áudio da Seção 6 (ou em uma reunião real/inventada de sua escolha), escreva um e-mail corporativo de follow-up (120–150 palavras) seguindo a estrutura da Seção 3.C. Em seguida, participe de uma simulação oral curta (3–5 minutos) de uma reunião de trabalho com um colega/tutor, abrindo a pauta, registrando uma decisão e fechando com \"fico à disposição\". O e-mail deve incluir:\n1. Abertura referenciando a reunião\n2. Resumo objetivo das decisões tomadas\n3. Próximos passos claros (quem faz o quê, até quando)\n4. Fecho cortês profissional\n\n**Checklist de autoavaliação:**\n- [ ] Meu e-mail não tem nenhuma marca de oralidade informal\n- [ ] Usei pelo menos três expressões fixas de reunião/e-mail corporativo\n- [ ] Os próximos passos estão claros e atribuídos\n- [ ] Mantive registro profissional consistente também na simulação oral"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| alinhar expectativas | combinar entendimentos entre as partes |\n| aprovação (de orçamento/decisão) | autorização formal |\n| ata | registro oficial do que foi discutido/decidido |\n| conforme combinado | de acordo com o que foi acertado antes |\n| cronograma | planejamento de prazos de um projeto |\n| dar um retorno (sobre) | informar/responder formalmente sobre algo |\n| dentro do previsto | conforme planejado, sem desvio |\n| em anexo | referindo-se a um arquivo enviado junto |\n| escalar (um problema) | levar a um nível hierárquico superior |\n| ficar à disposição | oferecer-se formalmente para ajudar |\n| ficou definido que | fórmula de registro de decisão coletiva |\n| follow-up | acompanhamento/retorno após uma reunião ou contato |\n| fornecedor | empresa/pessoa que fornece um serviço/produto |\n| pauta | lista de assuntos a tratar numa reunião |\n| pendência | assunto ainda não resolvido |\n| ponto de atenção | aspecto que requer cuidado especial |\n| prazo final | data limite de entrega |\n| próximos passos | ações a seguir após uma decisão |\n| repassar (uma informação) | transmitir a outra pessoa/equipe |\n| validar (uma decisão/informação) | confirmar formalmente |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "pauta",
+      "definicao": "lista de assuntos a tratar numa reunião",
+      "exemplo": "Vamos seguir a pauta de hoje."
+    },
+    {
+      "termo": "ata",
+      "definicao": "registro oficial do que foi discutido/decidido",
+      "exemplo": "Vamos colocar isso em ata."
+    },
+    {
+      "termo": "ficou definido que",
+      "definicao": "fórmula de registro de decisão coletiva",
+      "exemplo": "Ficou definido que revisaremos o prazo."
+    },
+    {
+      "termo": "dar um retorno (sobre)",
+      "definicao": "informar/responder formalmente sobre algo",
+      "exemplo": "Você pode dar um retorno sobre o orçamento?"
+    },
+    {
+      "termo": "alinhar expectativas",
+      "definicao": "combinar entendimentos entre as partes",
+      "exemplo": "Precisamos alinhar expectativas com o cliente."
+    },
+    {
+      "termo": "cronograma",
+      "definicao": "planejamento de prazos de um projeto",
+      "exemplo": "O cronograma está atrasado uma semana."
+    },
+    {
+      "termo": "fornecedor",
+      "definicao": "empresa/pessoa que fornece um serviço/produto",
+      "exemplo": "O atraso foi causado pelo fornecedor."
+    },
+    {
+      "termo": "dentro do previsto",
+      "definicao": "conforme planejado, sem desvio",
+      "exemplo": "O orçamento está dentro do previsto."
+    },
+    {
+      "termo": "aprovação (de orçamento/decisão)",
+      "definicao": "autorização formal",
+      "exemplo": "Vamos precisar de aprovação extra."
+    },
+    {
+      "termo": "follow-up",
+      "definicao": "acompanhamento/retorno após uma reunião ou contato",
+      "exemplo": "Vou enviar o follow-up por e-mail ainda hoje."
+    },
+    {
+      "termo": "em anexo",
+      "definicao": "(referindo-se a um arquivo enviado junto)",
+      "exemplo": "Segue em anexo o relatório."
+    },
+    {
+      "termo": "conforme combinado",
+      "definicao": "de acordo com o que foi acertado antes",
+      "exemplo": "Conforme combinado, envio o resumo da reunião."
+    },
+    {
+      "termo": "ficar à disposição",
+      "definicao": "oferecer-se formalmente para ajudar",
+      "exemplo": "Fico à disposição para esclarecimentos."
+    },
+    {
+      "termo": "prazo final",
+      "definicao": "data limite de entrega",
+      "exemplo": "O prazo final foi revisado para a próxima semana."
+    },
+    {
+      "termo": "próximos passos",
+      "definicao": "ações a seguir após uma decisão",
+      "exemplo": "Os próximos passos foram definidos em reunião."
+    },
+    {
+      "termo": "validar (uma decisão/informação)",
+      "definicao": "confirmar formalmente",
+      "exemplo": "Preciso validar essa informação com a diretoria."
+    },
+    {
+      "termo": "pendência",
+      "definicao": "assunto ainda não resolvido",
+      "exemplo": "Ainda há uma pendência sobre o orçamento."
+    },
+    {
+      "termo": "repassar (uma informação)",
+      "definicao": "transmitir a outra pessoa/equipe",
+      "exemplo": "Vou repassar isso para o time."
+    },
+    {
+      "termo": "escalar (um problema)",
+      "definicao": "levar a um nível hierárquico superior",
+      "exemplo": "Se não resolvermos, vamos escalar para a diretoria."
+    },
+    {
+      "termo": "ponto de atenção",
+      "definicao": "aspecto que requer cuidado especial",
+      "exemplo": "Um ponto de atenção é o orçamento extra."
+    }
+  ],
+  "tagsVocabulario": [
+    "b2.5"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "\"Cara, isso tá super atrasado, alguém precisa resolver rápido.\"",
+      "resposta": "Identificamos um atraso significativo; é necessário resolver com urgência."
+    },
+    {
+      "enunciado": "1. \"___ que revisaríamos o cronograma na próxima semana.\"",
+      "resposta": "Ficou definido"
+    },
+    {
+      "enunciado": "2. \"Vou enviar o relatório ___, conforme solicitado.\"",
+      "resposta": "em anexo"
+    },
+    {
+      "enunciado": "3. \"___ para qualquer esclarecimento adicional.\"",
+      "resposta": "Fico à disposição"
+    },
+    {
+      "enunciado": "1. \"Vamos à pauta de hoje.\"",
+      "resposta": "abrir a reunião"
+    },
+    {
+      "enunciado": "2. \"Ficou definido que vamos revisar o prazo.\"",
+      "resposta": "registrar uma decisão"
+    },
+    {
+      "enunciado": "3. \"Que tal alinharmos expectativas com o cliente?\"",
+      "resposta": "propor algo formalmente"
+    },
+    {
+      "enunciado": "\"Conforme reunião realizada hoje, ___ resumo dos pontos discutidos.\"",
+      "resposta": "segue"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "alinhar expectativas",
+      "significado": "combinar entendimentos entre as partes"
+    },
+    {
+      "termo": "aprovação (de orçamento/decisão)",
+      "significado": "autorização formal"
+    },
+    {
+      "termo": "ata",
+      "significado": "registro oficial do que foi discutido/decidido"
+    },
+    {
+      "termo": "conforme combinado",
+      "significado": "de acordo com o que foi acertado antes"
+    },
+    {
+      "termo": "cronograma",
+      "significado": "planejamento de prazos de um projeto"
+    },
+    {
+      "termo": "dar um retorno (sobre)",
+      "significado": "informar/responder formalmente sobre algo"
+    },
+    {
+      "termo": "dentro do previsto",
+      "significado": "conforme planejado, sem desvio"
+    },
+    {
+      "termo": "em anexo",
+      "significado": "referindo-se a um arquivo enviado junto"
+    },
+    {
+      "termo": "escalar (um problema)",
+      "significado": "levar a um nível hierárquico superior"
+    },
+    {
+      "termo": "ficar à disposição",
+      "significado": "oferecer-se formalmente para ajudar"
+    },
+    {
+      "termo": "ficou definido que",
+      "significado": "fórmula de registro de decisão coletiva"
+    },
+    {
+      "termo": "follow-up",
+      "significado": "acompanhamento/retorno após uma reunião ou contato"
+    },
+    {
+      "termo": "fornecedor",
+      "significado": "empresa/pessoa que fornece um serviço/produto"
+    },
+    {
+      "termo": "pauta",
+      "significado": "lista de assuntos a tratar numa reunião"
+    },
+    {
+      "termo": "pendência",
+      "significado": "assunto ainda não resolvido"
+    },
+    {
+      "termo": "ponto de atenção",
+      "significado": "aspecto que requer cuidado especial"
+    },
+    {
+      "termo": "prazo final",
+      "significado": "data limite de entrega"
+    },
+    {
+      "termo": "próximos passos",
+      "significado": "ações a seguir após uma decisão"
+    },
+    {
+      "termo": "repassar (uma informação)",
+      "significado": "transmitir a outra pessoa/equipe"
+    },
+    {
+      "termo": "validar (uma decisão/informação)",
+      "significado": "confirmar formalmente"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

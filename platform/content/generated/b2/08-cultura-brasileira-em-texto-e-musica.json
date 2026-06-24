@@ -1,0 +1,229 @@
+{
+  "nivel": "b2",
+  "slug": "08-cultura-brasileira-em-texto-e-musica",
+  "ordem": 8,
+  "codigo": "B2.8",
+  "titulo": "Cultura Brasileira em Texto e Música",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b2.md`. Pré-requisitos: A2.8 (vocabulário gastronômico/cultural regional) e B2.7 (humor/ironia/linguagem figurada). Projeta para B2.9 (Simulado Completo #1). Sem item gramatical novo obrigatório — o foco é leitura crítica de produção cultural autêntica (letra de música e conto curto adaptado).",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Cenário Motivador e Textos de Abertura",
+      "markdown": "**Cenário:** análise de uma letra de música brasileira e de um conto curto adaptado, com foco em apreciação crítica, não em decodificação gramatical.\n\n**Texto A — trecho de letra de música (estilo MPB, tema saudade/migração, adaptado para fins didáticos):**\n> Deixei minha terra, levei só a lembrança\n> De um cheiro de chuva, de uma velha esperança\n> Cidade grande me deu outro nome\n> Mas o coração ainda mora onde eu nasci\n\n**Texto B — trecho de conto curto adaptado (tema: encontro inesperado):**\n> Ela reconheceu o sotaque antes mesmo de virar o rosto. Não era exatamente a voz — era o jeito de alongar a última sílaba, como quem não tem pressa de terminar a frase. Vinte anos morando em outra cidade, e aquele sotaque ainda a puxava de volta, inteira, para a varanda da casa onde cresceu.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Identificar tema central | O texto trata de.../o tema central é... |\n| Apontar linguagem conotativa | A expressão \"X\" não é literal, sugere... |\n| Conectar texto a experiência cultural | Isso remete a.../é comum no contexto brasileiro de... |\n| Expressar apreciação crítica pessoal | O que mais me tocou foi.../acho que o autor quis dizer... |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| saudade | sentimento de falta de algo/alguém querido | A letra fala de saudade da terra natal. |\n| lembrança | memória guardada com afeto | Levei só a lembrança da minha terra. |\n| migração (interna) | deslocamento de pessoas dentro do próprio país | A música trata da migração para a cidade grande. |\n| linguagem conotativa | sentido sugerido, não literal | \"Coração mora onde nasci\" é linguagem conotativa. |\n| metáfora | comparação implícita entre duas coisas | \"Coração mora\" é uma metáfora de pertencimento. |\n| sotaque | pronúncia característica de uma região | Ela reconheceu o sotaque antes de virar o rosto. |\n| pertencimento | sensação de fazer parte de um lugar/grupo | A música expressa um conflito de pertencimento. |\n| raiz (cultural/afetiva) | origem, vínculo com a terra/cultura de origem | Apesar da distância, suas raízes continuam fortes. |\n| nostalgia | sentimento de afeto por algo do passado | A letra tem um tom de nostalgia. |\n| apreciação crítica | análise pessoal e fundamentada de uma obra | Faça uma apreciação crítica do conto. |\n| narrador (em 3ª pessoa) | voz que conta a história de fora | O conto usa um narrador em 3ª pessoa. |\n| trecho (de um texto) | parte/excerto de uma obra maior | Leia o trecho com atenção. |\n| literatura adaptada | texto literário simplificado para fins didáticos | Este conto é uma literatura adaptada. |\n| evocar (uma memória/sentimento) | trazer à mente, provocar uma lembrança | O cheiro de chuva evoca a infância dela. |\n| identidade cultural | conjunto de traços que definem o pertencimento a uma cultura | A música discute identidade cultural e migração. |\n| ritmo (musical/poético) | padrão sonoro/cadência de um texto cantado/poético | O ritmo da música acompanha o tema da saudade. |\n\n**(16 itens, tag `b2.8`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Função & Foco — Leitura Crítica (Sem Item Gramatical Novo)",
+      "markdown": "**A. Por que esta unidade não introduz gramática nova:** o objetivo é consolidar a capacidade de ler/ouvir produção cultural autêntica com apreciação crítica — habilidade que combina tudo o que já foi construído (vocabulário conotativo, discurso indireto, argumentação) sem exigir uma estrutura gramatical isolada.\n\n**B. Como ler linguagem conotativa — perguntas-guia:**\n| Pergunta | Função |\n|---|---|\n| O que essa frase diz literalmente? | Estabelece o sentido de base |\n| O que ela sugere além do literal? | Abre a leitura conotativa/metafórica |\n| Que sentimento/ideia essa escolha de palavra evoca? | Conecta forma e efeito |\n\n**C. Música e conto como janelas culturais:** letras de música e contos frequentemente tratam de temas recorrentes da experiência brasileira — migração interna (campo→cidade, Nordeste→Sudeste), saudade, identidade regional — todos já tocados nas unidades B2.4 (variação regional) e B1.5 (narrativa)."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Leitura em voz alta de letra de música com atenção à métrica:** o português cantado frequentemente altera levemente o acento natural das palavras para caber na melodia — comparar a leitura falada e a leitura \"cantada\" do Texto A.\n**B. Entonação de narrativa literária (3ª pessoa):** ritmo mais lento e pausado que o diálogo cotidiano, com pausas que constroem suspense ou ênfase emocional (ex.: a pausa antes de \"inteira\" no Texto B)."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Identifique o sentido conotativo das expressões abaixo (Texto A):**\n1. \"o coração ainda mora onde eu nasci\" → **O pertencimento emocional permanece no lugar de origem, mesmo vivendo em outro lugar**\n2. \"cidade grande me deu outro nome\" → **A vida na cidade grande mudou sua identidade/forma de ser visto**\n\n**Exercício 2 — Classifique cada trecho como sentido literal ou conotativo:**\n1. \"Deixei minha terra\" → **Pode ser lido literalmente (saiu do lugar) e conotativamente (abandonou parte de si)**\n2. \"levei só a lembrança\" → **Conotativo — não é possível \"levar\" uma lembrança fisicamente**\n\n**Exercício 3 — No Texto B, o que sinaliza que a personagem reconheceu alguém antes de vê-lo?** → **O sotaque, especificamente o jeito de alongar a última sílaba**\n\n**Exercício 4 — Explique a metáfora \"aquele sotaque ainda a puxava de volta, inteira\" (Texto B).** → **Sugere que o som do sotaque trouxe de volta, de forma completa e intensa, memórias e sentimentos da infância dela, como se ela fosse fisicamente levada de volta no tempo/espaço.**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Leitura — Texto Completo e Perguntas",
+      "markdown": "> **Conto curto adaptado — \"O Sotaque\" (continuação do Texto B):**\n> Ela se virou devagar, ainda sem certeza. E lá estava ele — o vizinho de infância, vinte anos mais velho, mas com o mesmo jeito de sorrir antes de falar. \"Você não mudou nada\", disse ele, e ela riu, porque os dois sabiam que não era verdade. O que não tinha mudado era outra coisa: o jeito de pertencer a um lugar, mesmo de longe.\n\n**Perguntas:**\n1. Quem é a pessoa que a protagonista reconhece? → **O vizinho de infância**\n2. Por que ela ri quando ele diz \"você não mudou nada\"? → **Porque sabe que mudou, e a frase é afetuosa, não literal**\n3. O que a última frase do conto sugere sobre identidade? → **Que pertencer a um lugar não depende de estar fisicamente nele**\n4. Esse conto se conecta a qual tema já visto na letra de música (Texto A)? → **O tema da saudade/pertencimento mesmo à distância**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Escolha uma música brasileira real (de qualquer gênero, em português) ou um conto/poema curto de sua escolha e produza uma análise/comentário crítico pessoal (oral, 2–3 minutos, ou escrito, 150–200 palavras) respondendo:\n1. Qual é o tema central da obra?\n2. Cite e explique pelo menos duas expressões de linguagem conotativa/metafórica\n3. A que aspecto da cultura/identidade brasileira essa obra se conecta?\n4. Qual foi sua reação pessoal — o que mais te tocou ou surpreendeu?\n\n**Checklist de autoavaliação:**\n- [ ] Identifiquei o tema central da obra com precisão\n- [ ] Expliquei pelo menos duas expressões conotativas, distinguindo sentido literal e figurado\n- [ ] Conectei a obra a um aspecto cultural/identitário brasileiro\n- [ ] Expressei uma apreciação crítica pessoal, não apenas uma descrição"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| apreciação crítica | análise pessoal e fundamentada de uma obra |\n| evocar (uma memória/sentimento) | trazer à mente, provocar uma lembrança |\n| identidade cultural | conjunto de traços que definem o pertencimento a uma cultura |\n| lembrança | memória guardada com afeto |\n| linguagem conotativa | sentido sugerido, não literal |\n| literatura adaptada | texto literário simplificado para fins didáticos |\n| metáfora | comparação implícita entre duas coisas |\n| migração (interna) | deslocamento de pessoas dentro do próprio país |\n| narrador (em 3ª pessoa) | voz que conta a história de fora |\n| nostalgia | sentimento de afeto por algo do passado |\n| pertencimento | sensação de fazer parte de um lugar/grupo |\n| raiz (cultural/afetiva) | origem, vínculo com a terra/cultura de origem |\n| ritmo (musical/poético) | padrão sonoro/cadência de um texto cantado/poético |\n| saudade | sentimento de falta de algo/alguém querido |\n| sotaque | pronúncia característica de uma região |\n| trecho (de um texto) | parte/excerto de uma obra maior |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "saudade",
+      "definicao": "sentimento de falta de algo/alguém querido",
+      "exemplo": "A letra fala de saudade da terra natal."
+    },
+    {
+      "termo": "lembrança",
+      "definicao": "memória guardada com afeto",
+      "exemplo": "Levei só a lembrança da minha terra."
+    },
+    {
+      "termo": "migração (interna)",
+      "definicao": "deslocamento de pessoas dentro do próprio país",
+      "exemplo": "A música trata da migração para a cidade grande."
+    },
+    {
+      "termo": "linguagem conotativa",
+      "definicao": "sentido sugerido, não literal",
+      "exemplo": "\"Coração mora onde nasci\" é linguagem conotativa."
+    },
+    {
+      "termo": "metáfora",
+      "definicao": "comparação implícita entre duas coisas",
+      "exemplo": "\"Coração mora\" é uma metáfora de pertencimento."
+    },
+    {
+      "termo": "sotaque",
+      "definicao": "pronúncia característica de uma região",
+      "exemplo": "Ela reconheceu o sotaque antes de virar o rosto."
+    },
+    {
+      "termo": "pertencimento",
+      "definicao": "sensação de fazer parte de um lugar/grupo",
+      "exemplo": "A música expressa um conflito de pertencimento."
+    },
+    {
+      "termo": "raiz (cultural/afetiva)",
+      "definicao": "origem, vínculo com a terra/cultura de origem",
+      "exemplo": "Apesar da distância, suas raízes continuam fortes."
+    },
+    {
+      "termo": "nostalgia",
+      "definicao": "sentimento de afeto por algo do passado",
+      "exemplo": "A letra tem um tom de nostalgia."
+    },
+    {
+      "termo": "apreciação crítica",
+      "definicao": "análise pessoal e fundamentada de uma obra",
+      "exemplo": "Faça uma apreciação crítica do conto."
+    },
+    {
+      "termo": "narrador (em 3ª pessoa)",
+      "definicao": "voz que conta a história de fora",
+      "exemplo": "O conto usa um narrador em 3ª pessoa."
+    },
+    {
+      "termo": "trecho (de um texto)",
+      "definicao": "parte/excerto de uma obra maior",
+      "exemplo": "Leia o trecho com atenção."
+    },
+    {
+      "termo": "literatura adaptada",
+      "definicao": "texto literário simplificado para fins didáticos",
+      "exemplo": "Este conto é uma literatura adaptada."
+    },
+    {
+      "termo": "evocar (uma memória/sentimento)",
+      "definicao": "trazer à mente, provocar uma lembrança",
+      "exemplo": "O cheiro de chuva evoca a infância dela."
+    },
+    {
+      "termo": "identidade cultural",
+      "definicao": "conjunto de traços que definem o pertencimento a uma cultura",
+      "exemplo": "A música discute identidade cultural e migração."
+    },
+    {
+      "termo": "ritmo (musical/poético)",
+      "definicao": "padrão sonoro/cadência de um texto cantado/poético",
+      "exemplo": "O ritmo da música acompanha o tema da saudade."
+    }
+  ],
+  "tagsVocabulario": [
+    "b2.8"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. \"o coração ainda mora onde eu nasci\"",
+      "resposta": "O pertencimento emocional permanece no lugar de origem, mesmo vivendo em outro lugar"
+    },
+    {
+      "enunciado": "2. \"cidade grande me deu outro nome\"",
+      "resposta": "A vida na cidade grande mudou sua identidade/forma de ser visto"
+    },
+    {
+      "enunciado": "1. \"Deixei minha terra\"",
+      "resposta": "Pode ser lido literalmente (saiu do lugar) e conotativamente (abandonou parte de si)"
+    },
+    {
+      "enunciado": "2. \"levei só a lembrança\"",
+      "resposta": "Conotativo — não é possível \"levar\" uma lembrança fisicamente"
+    },
+    {
+      "enunciado": "**Exercício 3 — No Texto B, o que sinaliza que a personagem reconheceu alguém antes de vê-lo?**",
+      "resposta": "O sotaque, especificamente o jeito de alongar a última sílaba"
+    },
+    {
+      "enunciado": "**Exercício 4 — Explique a metáfora \"aquele sotaque ainda a puxava de volta, inteira\" (Texto B).**",
+      "resposta": "Sugere que o som do sotaque trouxe de volta, de forma completa e intensa, memórias e sentimentos da infância dela, como se ela fosse fisicamente levada de volta no tempo/espaço."
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "apreciação crítica",
+      "significado": "análise pessoal e fundamentada de uma obra"
+    },
+    {
+      "termo": "evocar (uma memória/sentimento)",
+      "significado": "trazer à mente, provocar uma lembrança"
+    },
+    {
+      "termo": "identidade cultural",
+      "significado": "conjunto de traços que definem o pertencimento a uma cultura"
+    },
+    {
+      "termo": "lembrança",
+      "significado": "memória guardada com afeto"
+    },
+    {
+      "termo": "linguagem conotativa",
+      "significado": "sentido sugerido, não literal"
+    },
+    {
+      "termo": "literatura adaptada",
+      "significado": "texto literário simplificado para fins didáticos"
+    },
+    {
+      "termo": "metáfora",
+      "significado": "comparação implícita entre duas coisas"
+    },
+    {
+      "termo": "migração (interna)",
+      "significado": "deslocamento de pessoas dentro do próprio país"
+    },
+    {
+      "termo": "narrador (em 3ª pessoa)",
+      "significado": "voz que conta a história de fora"
+    },
+    {
+      "termo": "nostalgia",
+      "significado": "sentimento de afeto por algo do passado"
+    },
+    {
+      "termo": "pertencimento",
+      "significado": "sensação de fazer parte de um lugar/grupo"
+    },
+    {
+      "termo": "raiz (cultural/afetiva)",
+      "significado": "origem, vínculo com a terra/cultura de origem"
+    },
+    {
+      "termo": "ritmo (musical/poético)",
+      "significado": "padrão sonoro/cadência de um texto cantado/poético"
+    },
+    {
+      "termo": "saudade",
+      "significado": "sentimento de falta de algo/alguém querido"
+    },
+    {
+      "termo": "sotaque",
+      "significado": "pronúncia característica de uma região"
+    },
+    {
+      "termo": "trecho (de um texto)",
+      "significado": "parte/excerto de uma obra maior"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

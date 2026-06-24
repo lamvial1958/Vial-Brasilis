@@ -1,0 +1,156 @@
+{
+  "nivel": "a1",
+  "slug": "09-planos-e-convites",
+  "ordem": 9,
+  "codigo": "A1.9",
+  "titulo": "Planos e Convites",
+  "tipo": "licao",
+  "notaIntro": "*Cena — troca de mensagens combinando uma festa:*",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — troca de mensagens combinando uma festa:**\n> **Sofia:** Tom, eu vou fazer uma festa de aniversário no sábado. Você quer ir?\n> **Tom:** Adoraria! A que horas vai ser?\n> **Sofia:** Vai começar às vinte horas, na minha casa.\n> **Tom:** Combinado, eu vou levar um presente!\n> **Sofia:** Marco, e você? Você vai poder vir?\n> **Marco:** Ah, eu sinto muito, mas eu não vou poder ir. Eu vou viajar nesse fim de semana.\n> **Sofia:** Que pena! Na próxima então.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Convidar | Você quer ir...? / Você vai poder vir? |\n| Aceitar com entusiasmo | Adoraria! / Combinado! |\n| Recusar com cortesia | Eu sinto muito, mas eu não vou poder... |\n| Reagir à recusa | Que pena! / Na próxima. |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "festa, aniversário, presente, convite, compromisso, viagem, churrasco, jantar, encontro, desculpa, pena (que pena), combinado — **(12 itens, tag `a1.9`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Futuro perifrástico — \"ir + infinitivo\":**\n| | Forma | Exemplo |\n|---|---|---|\n| eu | vou + infinitivo | Eu vou levar um presente. |\n| você/ele/ela | vai + infinitivo | A festa vai começar às vinte horas. |\n| nós | vamos + infinitivo | Nós vamos viajar juntos. |\n| vocês/eles/elas | vão + infinitivo | Eles vão chegar mais tarde. |\n\n> É a forma de futuro mais usada na fala cotidiana brasileira — muito mais frequente que o futuro do presente terminado em \"-rei/-rá\" (esse último é mais formal/escrito e não é foco deste nível).\n\n**B. Fórmulas fixas de convite/aceite/recusa** (chunks, sem necessidade de analisar a estrutura interna ainda): \"Você quer ir...?\", \"Adoraria!\", \"Eu sinto muito, mas...\", \"Que pena!\"."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Ditongo \"ou\" em \"vou\":** abrir bem o som, sem nasalizar.\n**B. Nasalização em \"vão\" (revisão do grupo -ão).**\n**C. Entonação de convite (subida no final) vs. entonação de pena/lamento (descendente) — contraste de \"Você quer ir?\" × \"Que pena...\".**"
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com \"ir + infinitivo\":**\n1. Eu ___ (levar) um presente. → **vou levar**\n2. A festa ___ (começar) às vinte horas. → **vai começar**\n3. Marco ___ (viajar) no fim de semana. → **vai viajar**\n\n**Exercício 2 — Associe a fala à função:**\n\"Adoraria!\" → aceitar · \"Eu sinto muito, mas...\" → recusar · \"Você quer ir...?\" → convidar\n\n**Exercício 3 — Verdadeiro ou falso:**\n\"Marco vai à festa\" → **F** · \"A festa é na casa de Sofia\" → **V**\n\n**Exercício 4 — Complete a recusa educada:**\n\"___ muito, mas eu não vou poder ir.\" → **Sinto**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Mensagem de voz — Li:** Oi, gente! Eu vou organizar um churrasco no domingo, lá em casa, a partir do meio-dia. Vocês vão poder vir?\n> **Resposta — Marco:** Oi, Li! Eu vou sim, com certeza! Vou levar uma sobremesa.\n\n**Perguntas:**\n1. O que Li vai organizar? → **Um churrasco**\n2. Quando e a que horas? → **Domingo, a partir do meio-dia**\n3. O que Marco vai levar? → **Uma sobremesa**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Escreva uma troca de mensagens convidando um colega para algo (festa, churrasco, cinema), incluindo dia/hora. Depois, faça (oralmente, em par ou role-play solo) um diálogo em que uma pessoa aceita e outra recusa educadamente.\n\n**Checklist de autoavaliação:**\n- [ ] Convidei alguém usando uma fórmula do quadro funcional\n- [ ] Usei \"ir + infinitivo\" pelo menos 3 vezes em pessoas diferentes\n- [ ] Inclui uma aceitação entusiasmada\n- [ ] Inclui uma recusa cortês com motivo\n- [ ] Pronunciei corretamente o ditongo de \"vou\""
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| adoraria! | aceitação entusiasmada de um convite |\n| aniversário | data de nascimento, celebração anual |\n| churrasco / jantar | eventos/refeições sociais |\n| combinado! | confirmação de um acordo/plano |\n| compromisso | obrigação ou plano marcado |\n| convite | chamado para participar de algo |\n| desculpa | pedido de desculpas ou justificativa |\n| encontro | reunião marcada entre pessoas |\n| eu sinto muito, mas... | fórmula de recusa cortês |\n| festa | evento social de celebração |\n| ir + infinitivo | forma de futuro mais usada na fala cotidiana |\n| presente | objeto dado a alguém |\n| que pena! | reação a uma notícia decepcionante |\n| viagem | deslocamento para outro lugar |\n| você quer ir...? | fórmula de convite |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [
+    "a1.9"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Eu ___ (levar) um presente.",
+      "resposta": "vou levar"
+    },
+    {
+      "enunciado": "2. A festa ___ (começar) às vinte horas.",
+      "resposta": "vai começar"
+    },
+    {
+      "enunciado": "3. Marco ___ (viajar) no fim de semana.",
+      "resposta": "vai viajar"
+    },
+    {
+      "enunciado": "\"Adoraria!\"",
+      "resposta": "aceitar"
+    },
+    {
+      "enunciado": "\"Eu sinto muito, mas...\"",
+      "resposta": "recusar"
+    },
+    {
+      "enunciado": "\"Você quer ir...?\"",
+      "resposta": "convidar"
+    },
+    {
+      "enunciado": "\"Marco vai à festa\"",
+      "resposta": "F"
+    },
+    {
+      "enunciado": "\"A festa é na casa de Sofia\"",
+      "resposta": "V"
+    },
+    {
+      "enunciado": "\"___ muito, mas eu não vou poder ir.\"",
+      "resposta": "Sinto"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "adoraria!",
+      "significado": "aceitação entusiasmada de um convite"
+    },
+    {
+      "termo": "aniversário",
+      "significado": "data de nascimento, celebração anual"
+    },
+    {
+      "termo": "churrasco / jantar",
+      "significado": "eventos/refeições sociais"
+    },
+    {
+      "termo": "combinado!",
+      "significado": "confirmação de um acordo/plano"
+    },
+    {
+      "termo": "compromisso",
+      "significado": "obrigação ou plano marcado"
+    },
+    {
+      "termo": "convite",
+      "significado": "chamado para participar de algo"
+    },
+    {
+      "termo": "desculpa",
+      "significado": "pedido de desculpas ou justificativa"
+    },
+    {
+      "termo": "encontro",
+      "significado": "reunião marcada entre pessoas"
+    },
+    {
+      "termo": "eu sinto muito, mas...",
+      "significado": "fórmula de recusa cortês"
+    },
+    {
+      "termo": "festa",
+      "significado": "evento social de celebração"
+    },
+    {
+      "termo": "ir + infinitivo",
+      "significado": "forma de futuro mais usada na fala cotidiana"
+    },
+    {
+      "termo": "presente",
+      "significado": "objeto dado a alguém"
+    },
+    {
+      "termo": "que pena!",
+      "significado": "reação a uma notícia decepcionante"
+    },
+    {
+      "termo": "viagem",
+      "significado": "deslocamento para outro lugar"
+    },
+    {
+      "termo": "você quer ir...?",
+      "significado": "fórmula de convite"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

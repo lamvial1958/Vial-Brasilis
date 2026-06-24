@@ -1,0 +1,215 @@
+{
+  "nivel": "b1",
+  "slug": "06-subjuntivo-presente",
+  "ordem": 6,
+  "codigo": "B1.6",
+  "titulo": "Subjuntivo Presente",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b1.md`. Primeiro item gramatical estrutural novo do nível B1: subjuntivo presente após verbos de desejo/dúvida/recomendação — pré-requisito direto para B1.8 e B2.1.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — conselhos a um colega recém-chegado ao Brasil:**\n> **Marco:** Acabei de chegar, ainda tô meio perdido aqui. Você tem algum conselho?\n> **Renata:** Tenho! Primeiro, é importante que você abra uma conta bancária o quanto antes — muita coisa depende disso.\n> **Marco:** Faz sentido. E sobre morar, você recomenda algum bairro?\n> **Renata:** Recomendo que você visite alguns bairros antes de decidir, porque o custo de vida varia muito. Espero que você encontre um lugar que combine com seu orçamento.\n> **Marco:** E sobre o idioma? Acha que eu deveria fazer um curso?\n> **Renata:** Sugiro que você pratique todos os dias, mesmo que seja pouco tempo. Talvez seja difícil no início, mas duvido que você demore muito para se adaptar.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Expressar desejo/esperança | Espero que você encontre... |\n| Expressar recomendação | Recomendo/Sugiro que você visite... |\n| Expressar necessidade impessoal | É importante/preciso que você abra... |\n| Expressar dúvida | Duvido que você demore muito. |\n| Expressar possibilidade | Talvez seja difícil no início. |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| espero que | introduz desejo sobre algo incerto | Espero que você encontre um bom lugar. |\n| recomendo que | introduz uma recomendação | Recomendo que você visite os bairros. |\n| sugiro que | introduz uma sugestão | Sugiro que você pratique todo dia. |\n| é importante que | introduz uma necessidade impessoal | É importante que você abra uma conta. |\n| é preciso que | introduz uma necessidade forte | É preciso que você tenha paciência. |\n| talvez | introduz possibilidade incerta | Talvez seja difícil no início. |\n| duvido que | introduz dúvida/descrença | Duvido que você demore muito. |\n| quero que | introduz desejo direcionado a outra pessoa | Quero que você se sinta bem-vindo. |\n| é bom que | introduz avaliação positiva sobre algo incerto/futuro | É bom que você já tenha amigos aqui. |\n| espero conseguir | expressão de esperança sobre si mesmo | Espero conseguir me adaptar rápido. |\n| combinar com (algo) | ser adequado/compatível com | Espero que combine com seu orçamento. |\n| custo de vida | quantia necessária para viver num lugar | O custo de vida varia muito por bairro. |\n| pé no chão (figurado) | atitude realista/sem expectativas exageradas | É bom manter o pé no chão no início. |\n| se adaptar | se ajustar a uma nova situação | Duvido que demore para se adaptar. |\n\n**(14 itens, tag `b1.6`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Formação do subjuntivo presente — verbos regulares:**\n| Infinitivo | Indicativo (eu) | Subjuntivo (que eu/você/ele) |\n|---|---|---|\n| falar (-ar) | falo | que eu fale / que você fale |\n| comer (-er) | como | que eu coma / que você coma |\n| abrir (-ir) | abro | que eu abra / que você abra |\n\n> **Regra prática:** parte da forma \"eu\" do presente do indicativo, troca a vogal temática (-ar→-e / -er,-ir→-a).\n\n**B. Verbos irregulares frequentes no subjuntivo presente:**\n| Verbo | que eu | que você/ele | que nós |\n|---|---|---|---|\n| ser | seja | seja | sejamos |\n| estar | esteja | esteja | estejamos |\n| ter | tenha | tenha | tenhamos |\n| ir | vá | vá | vamos |\n| fazer | faça | faça | façamos |\n\n**C. Gatilhos que exigem subjuntivo (verbos/expressões da oração principal):**\n| Categoria | Gatilhos | Exemplo |\n|---|---|---|\n| Desejo | espero que, quero que | Espero que você consiga. |\n| Recomendação | recomendo que, sugiro que | Sugiro que você pratique. |\n| Necessidade impessoal | é importante que, é preciso que | É preciso que você se organize. |\n| Dúvida | duvido que, não acho que | Duvido que seja fácil. |\n| Possibilidade | talvez | Talvez seja difícil. |\n\n> **Nota:** quando não há incerteza/desejo/dúvida — apenas afirmação de fato — usa-se o indicativo: \"Sei que ele **vem**\" (fato, indicativo) vs. \"Espero que ele **venha**\" (desejo, subjuntivo)."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Contraste indicativo × subjuntivo no mesmo verbo:** \"ele **fala**\" (indicativo) × \"que ele **fale**\" (subjuntivo) — vogal final muda de \"a\" para \"e\", atenção à abertura vocálica.\n**B. \"Talvez\" — ditongo \"al\" fechado:** tal-VEZ, sem abrir demais a vogal \"a\"."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com o subjuntivo presente:**\n1. Espero que você ___ (conseguir) se adaptar rápido. → **consiga**\n2. É importante que nós ___ (ter) paciência. → **tenhamos**\n3. Recomendo que ele ___ (visitar) outros bairros. → **visite**\n\n**Exercício 2 — Indicativo ou subjuntivo? Escolha a forma correta:**\n1. Eu sei que ele ___ (morar) no centro. → **mora** (fato, indicativo)\n2. Espero que ele ___ (morar) perto do trabalho. → **more** (desejo, subjuntivo)\n\n**Exercício 3 — Complete com o verbo irregular adequado no subjuntivo:**\n\"Talvez ___ (ser) difícil no início, mas espero que tudo ___ (dar) certo.\" → **seja / dê**\n\n**Exercício 4 — Transforme a recomendação direta em recomendação com subjuntivo:**\n\"Visite outros bairros antes de decidir.\" → **Recomendo que você visite outros bairros antes de decidir.**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Apresentador (programa de conselhos para estrangeiros):**\n> Se você está chegando ao Brasil agora, aqui vão algumas dicas. É importante que você organize a documentação nos primeiros dias. Recomendo que você não tenha pressa para tomar decisões grandes, como assinar um contrato de aluguel. Espero que você encontre uma comunidade de apoio, seja de outros estrangeiros, seja de brasileiros. E talvez seja difícil no início, mas duvido que você se arrependa de ter vindo.\n\n**Perguntas:**\n1. Que recomendação é dada sobre documentação? → **Organizá-la nos primeiros dias**\n2. Que recomendação é dada sobre decisões grandes? → **Não ter pressa, como ao assinar contrato de aluguel**\n3. O que o apresentador espera para o ouvinte? → **Que encontre uma comunidade de apoio**\n4. Qual é a opinião final do apresentador, expressa com \"duvido que\"? → **Que o ouvinte não vai se arrepender de ter vindo**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Escreva (ou grave) uma lista de conselhos para um colega recém-chegado ao Brasil (oral ou escrito, 150 palavras / 1–2 minutos), com justificativa para cada conselho. Inclua:\n1. Pelo menos 3 conselhos usando gatilhos diferentes de subjuntivo (espero que, recomendo que, é importante que, sugiro que)\n2. Pelo menos 1 verbo irregular no subjuntivo (ser, estar, ter, ir, fazer)\n3. Uma frase com \"talvez\" expressando possibilidade\n4. Uma justificativa para cada conselho (por quê)\n\n**Checklist de autoavaliação:**\n- [ ] Usei pelo menos 3 gatilhos diferentes de subjuntivo corretamente\n- [ ] Usei pelo menos 1 verbo irregular no subjuntivo\n- [ ] Distingui corretamente quando usar indicativo (fato) e subjuntivo (desejo/dúvida)\n- [ ] Justifiquei cada conselho dado"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| combinar com (algo) | ser adequado/compatível com |\n| custo de vida | quantia necessária para viver num lugar |\n| duvido que | introduz dúvida/descrença |\n| é bom que | introduz avaliação positiva sobre algo incerto/futuro |\n| é importante que | introduz uma necessidade impessoal |\n| é preciso que | introduz uma necessidade forte |\n| espero conseguir | expressão de esperança sobre si mesmo |\n| espero que | introduz desejo sobre algo incerto |\n| pé no chão (figurado) | atitude realista/sem expectativas exageradas |\n| quero que | introduz desejo direcionado a outra pessoa |\n| recomendo que | introduz uma recomendação |\n| se adaptar | se ajustar a uma nova situação |\n| sugiro que | introduz uma sugestão |\n| talvez | introduz possibilidade incerta |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "espero que",
+      "definicao": "introduz desejo sobre algo incerto",
+      "exemplo": "Espero que você encontre um bom lugar."
+    },
+    {
+      "termo": "recomendo que",
+      "definicao": "introduz uma recomendação",
+      "exemplo": "Recomendo que você visite os bairros."
+    },
+    {
+      "termo": "sugiro que",
+      "definicao": "introduz uma sugestão",
+      "exemplo": "Sugiro que você pratique todo dia."
+    },
+    {
+      "termo": "é importante que",
+      "definicao": "introduz uma necessidade impessoal",
+      "exemplo": "É importante que você abra uma conta."
+    },
+    {
+      "termo": "é preciso que",
+      "definicao": "introduz uma necessidade forte",
+      "exemplo": "É preciso que você tenha paciência."
+    },
+    {
+      "termo": "talvez",
+      "definicao": "introduz possibilidade incerta",
+      "exemplo": "Talvez seja difícil no início."
+    },
+    {
+      "termo": "duvido que",
+      "definicao": "introduz dúvida/descrença",
+      "exemplo": "Duvido que você demore muito."
+    },
+    {
+      "termo": "quero que",
+      "definicao": "introduz desejo direcionado a outra pessoa",
+      "exemplo": "Quero que você se sinta bem-vindo."
+    },
+    {
+      "termo": "é bom que",
+      "definicao": "introduz avaliação positiva sobre algo incerto/futuro",
+      "exemplo": "É bom que você já tenha amigos aqui."
+    },
+    {
+      "termo": "espero conseguir",
+      "definicao": "expressão de esperança sobre si mesmo",
+      "exemplo": "Espero conseguir me adaptar rápido."
+    },
+    {
+      "termo": "combinar com (algo)",
+      "definicao": "ser adequado/compatível com",
+      "exemplo": "Espero que combine com seu orçamento."
+    },
+    {
+      "termo": "custo de vida",
+      "definicao": "quantia necessária para viver num lugar",
+      "exemplo": "O custo de vida varia muito por bairro."
+    },
+    {
+      "termo": "pé no chão (figurado)",
+      "definicao": "atitude realista/sem expectativas exageradas",
+      "exemplo": "É bom manter o pé no chão no início."
+    },
+    {
+      "termo": "se adaptar",
+      "definicao": "se ajustar a uma nova situação",
+      "exemplo": "Duvido que demore para se adaptar."
+    }
+  ],
+  "tagsVocabulario": [
+    "b1.6"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Espero que você ___ (conseguir) se adaptar rápido.",
+      "resposta": "consiga"
+    },
+    {
+      "enunciado": "2. É importante que nós ___ (ter) paciência.",
+      "resposta": "tenhamos"
+    },
+    {
+      "enunciado": "3. Recomendo que ele ___ (visitar) outros bairros.",
+      "resposta": "visite"
+    },
+    {
+      "enunciado": "1. Eu sei que ele ___ (morar) no centro.",
+      "resposta": "**mora** (fato, indicativo)"
+    },
+    {
+      "enunciado": "2. Espero que ele ___ (morar) perto do trabalho.",
+      "resposta": "**more** (desejo, subjuntivo)"
+    },
+    {
+      "enunciado": "\"Talvez ___ (ser) difícil no início, mas espero que tudo ___ (dar) certo.\"",
+      "resposta": "seja / dê"
+    },
+    {
+      "enunciado": "\"Visite outros bairros antes de decidir.\"",
+      "resposta": "Recomendo que você visite outros bairros antes de decidir."
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "combinar com (algo)",
+      "significado": "ser adequado/compatível com"
+    },
+    {
+      "termo": "custo de vida",
+      "significado": "quantia necessária para viver num lugar"
+    },
+    {
+      "termo": "duvido que",
+      "significado": "introduz dúvida/descrença"
+    },
+    {
+      "termo": "é bom que",
+      "significado": "introduz avaliação positiva sobre algo incerto/futuro"
+    },
+    {
+      "termo": "é importante que",
+      "significado": "introduz uma necessidade impessoal"
+    },
+    {
+      "termo": "é preciso que",
+      "significado": "introduz uma necessidade forte"
+    },
+    {
+      "termo": "espero conseguir",
+      "significado": "expressão de esperança sobre si mesmo"
+    },
+    {
+      "termo": "espero que",
+      "significado": "introduz desejo sobre algo incerto"
+    },
+    {
+      "termo": "pé no chão (figurado)",
+      "significado": "atitude realista/sem expectativas exageradas"
+    },
+    {
+      "termo": "quero que",
+      "significado": "introduz desejo direcionado a outra pessoa"
+    },
+    {
+      "termo": "recomendo que",
+      "significado": "introduz uma recomendação"
+    },
+    {
+      "termo": "se adaptar",
+      "significado": "se ajustar a uma nova situação"
+    },
+    {
+      "termo": "sugiro que",
+      "significado": "introduz uma sugestão"
+    },
+    {
+      "termo": "talvez",
+      "significado": "introduz possibilidade incerta"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

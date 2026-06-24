@@ -1,0 +1,181 @@
+{
+  "nivel": "pre-a1",
+  "slug": "04b-ferramentas-basicas-ii",
+  "ordem": 6,
+  "codigo": "PRE-A1.4b",
+  "titulo": "Ferramentas Básicas II",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/pre-a1.md`. Segunda unidade de apoio (transversal): dias da semana, meses do ano e cores são blocos lexicais de altíssima frequência que não pertencem a nenhuma tarefa de sobrevivência específica, por isso ficam isolados aqui, na metade do nível.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena 1 — Marcando uma consulta por telefone:**\n> **Atendente:** Bom dia, clínica São Lucas.\n> **Tom:** Bom dia. Eu queria marcar uma consulta.\n> **Atendente:** Que dia você prefere?\n> **Tom:** Pode ser na quinta-feira?\n> **Atendente:** Quinta-feira, dia 14 de agosto, às quinze horas. Pode ser?\n> **Tom:** Pode, sim. Muito obrigado.\n\n**Cena 2 — Achados e perdidos:**\n> **Tom:** Com licença, eu perdi minha mochila aqui ontem.\n> **Atendente:** Como ela é?\n> **Tom:** É uma mochila azul, com um bolso preto na frente.\n> **Atendente:** Ah, temos uma mochila azul aqui, sim! Deve ser a sua.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar o dia | Que dia é hoje? / Que dia você prefere? |\n| Dizer o dia | Hoje é... / Pode ser na/no... |\n| Marcar com mês e data | dia + número + de + mês (dia 14 de agosto) |\n| Situar no tempo | hoje, ontem, amanhã |\n| Descrever um objeto pela cor | É + cor (+ detalhe) |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Dias da Semana, Meses do Ano e Cores",
+      "markdown": "**Dias da semana:** segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado, domingo.\n> Nota: só sábado e domingo não levam \"-feira\". Para perguntar: \"Que dia é hoje?\" → \"Hoje é quarta-feira.\"\n\n**Meses do ano:** janeiro, fevereiro, março, abril, maio, junho, julho, agosto, setembro, outubro, novembro, dezembro.\n> Para situar algo num mês: \"**em** + mês\" (em janeiro, em julho).\n\n**Hoje, ontem, amanhã:** hoje · ontem · amanhã.\n\n**Cores básicas:** vermelho/vermelha, azul, amarelo/amarela, verde, branco/branca, preto/preta, cinza, marrom, rosa, roxo/roxa, laranja.\n> Concordância simples: a maioria muda -o/-a (vermelho/vermelha), mas azul, verde, rosa, cinza e laranja são invariáveis em gênero."
+    },
+    {
+      "ordem": 3,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"J\" em meses:** ja-neiro, ju-nho, ju-lho — som \"j\" como em \"Geneva\".\n**B. Nasalização revisão:** segu**n**da, segu**n**da-feira.\n**C. \"R\" forte em cores:** ve**rr**melho — atenção, \"r\" no início ou dobrado é sempre forte: ro-xo, ma-**rr**om."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete o diálogo:**\n1. Que ___ você prefere? → **dia**\n2. Pode ser na ___? → **quinta-feira**\n3. É uma mochila ___. → **azul**\n4. Eu perdi minha mochila ___. → **ontem**\n\n**Exercício 2 — Coloque em ordem os dias da semana, começando na segunda-feira:**\ndomingo, quinta-feira, segunda-feira, sábado, terça-feira, sexta-feira, quarta-feira → **segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado, domingo**\n\n**Exercício 3 — Associe o mês à estação no Brasil (revisão futura, só reconhecimento):**\njaneiro→verão · julho→inverno\n\n**Exercício 4 — Complete com a cor:**\nA bandeira do Brasil tem as cores ___, ___ e ___. → **verde, amarelo, azul** (e branco)"
+    },
+    {
+      "ordem": 5,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Recepção:** Boa tarde, em que posso ajudar?\n> **Sofia:** Boa tarde. Eu perdi um casaco aqui no sábado passado.\n> **Recepção:** Como ele é?\n> **Sofia:** É um casaco verde, bem quentinho.\n> **Recepção:** Deixa eu ver... Sim, temos um casaco verde aqui! Pode vir buscar quando quiser, estamos abertos de segunda a sábado.\n\n**Perguntas:**\n1. Que dia Sofia perdeu o casaco? → **No sábado**\n2. De que cor é o casaco? → **Verde**\n3. Quais dias a recepção está aberta? → **De segunda a sábado**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Role-play: marque uma data (consulta, passeio ou reserva) dizendo o dia da semana e a data completa (dia + mês). Depois, relate um objeto perdido descrevendo-o pela cor.\n\n**Checklist de autoavaliação:**\n- [ ] Disse um dia da semana corretamente\n- [ ] Disse uma data completa com \"dia + número + de + mês\"\n- [ ] Usei hoje/ontem/amanhã pelo menos uma vez\n- [ ] Descrevi um objeto usando uma cor com a concordância correta\n- [ ] Pronunciei corretamente o \"j\" de um mês (janeiro, junho ou julho)"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| amanhã | o dia depois de hoje |\n| amarelo/amarela | cor do sol, das bananas |\n| azul | cor do céu |\n| branco/branca | cor da neve, oposto de preto |\n| cinza | cor entre o branco e o preto |\n| domingo | sétimo dia da semana, dia de descanso para muitos |\n| em + mês | forma de dizer quando algo ocorre num mês (em julho) |\n| hoje | o dia atual |\n| laranja | cor da fruta laranja |\n| marrom | cor da terra, do chocolate |\n| ontem | o dia antes de hoje |\n| pode ser na/no...? | forma de propor um dia/horário |\n| preto/preta | cor da noite, oposto de branco |\n| que dia é hoje? | pergunta para saber o dia da semana ou a data |\n| quinta-feira | quarto dia útil da semana |\n| rosa | cor clara, tom de vermelho com branco |\n| roxo/roxa | cor entre o azul e o vermelho |\n| sábado | sexto dia da semana, início do fim de semana |\n| segunda-feira | primeiro dia útil da semana |\n| sexta-feira | quinto dia útil da semana, fim da semana de trabalho |\n| terça-feira | segundo dia útil da semana |\n| quarta-feira | terceiro dia útil da semana, meio da semana |\n| verde | cor das plantas |\n| vermelho/vermelha | cor do sangue, dos morangos |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [],
+  "exercicios": [
+    {
+      "enunciado": "1. Que ___ você prefere?",
+      "resposta": "dia"
+    },
+    {
+      "enunciado": "2. Pode ser na ___?",
+      "resposta": "quinta-feira"
+    },
+    {
+      "enunciado": "3. É uma mochila ___.",
+      "resposta": "azul"
+    },
+    {
+      "enunciado": "4. Eu perdi minha mochila ___.",
+      "resposta": "ontem"
+    },
+    {
+      "enunciado": "domingo, quinta-feira, segunda-feira, sábado, terça-feira, sexta-feira, quarta-feira",
+      "resposta": "segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado, domingo"
+    },
+    {
+      "enunciado": "janeiro",
+      "resposta": "verão"
+    },
+    {
+      "enunciado": "julho",
+      "resposta": "inverno"
+    },
+    {
+      "enunciado": "A bandeira do Brasil tem as cores ___, ___ e ___.",
+      "resposta": "**verde, amarelo, azul** (e branco)"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "amanhã",
+      "significado": "o dia depois de hoje"
+    },
+    {
+      "termo": "amarelo/amarela",
+      "significado": "cor do sol, das bananas"
+    },
+    {
+      "termo": "azul",
+      "significado": "cor do céu"
+    },
+    {
+      "termo": "branco/branca",
+      "significado": "cor da neve, oposto de preto"
+    },
+    {
+      "termo": "cinza",
+      "significado": "cor entre o branco e o preto"
+    },
+    {
+      "termo": "domingo",
+      "significado": "sétimo dia da semana, dia de descanso para muitos"
+    },
+    {
+      "termo": "em + mês",
+      "significado": "forma de dizer quando algo ocorre num mês (em julho)"
+    },
+    {
+      "termo": "hoje",
+      "significado": "o dia atual"
+    },
+    {
+      "termo": "laranja",
+      "significado": "cor da fruta laranja"
+    },
+    {
+      "termo": "marrom",
+      "significado": "cor da terra, do chocolate"
+    },
+    {
+      "termo": "ontem",
+      "significado": "o dia antes de hoje"
+    },
+    {
+      "termo": "pode ser na/no...?",
+      "significado": "forma de propor um dia/horário"
+    },
+    {
+      "termo": "preto/preta",
+      "significado": "cor da noite, oposto de branco"
+    },
+    {
+      "termo": "que dia é hoje?",
+      "significado": "pergunta para saber o dia da semana ou a data"
+    },
+    {
+      "termo": "quinta-feira",
+      "significado": "quarto dia útil da semana"
+    },
+    {
+      "termo": "rosa",
+      "significado": "cor clara, tom de vermelho com branco"
+    },
+    {
+      "termo": "roxo/roxa",
+      "significado": "cor entre o azul e o vermelho"
+    },
+    {
+      "termo": "sábado",
+      "significado": "sexto dia da semana, início do fim de semana"
+    },
+    {
+      "termo": "segunda-feira",
+      "significado": "primeiro dia útil da semana"
+    },
+    {
+      "termo": "sexta-feira",
+      "significado": "quinto dia útil da semana, fim da semana de trabalho"
+    },
+    {
+      "termo": "terça-feira",
+      "significado": "segundo dia útil da semana"
+    },
+    {
+      "termo": "quarta-feira",
+      "significado": "terceiro dia útil da semana, meio da semana"
+    },
+    {
+      "termo": "verde",
+      "significado": "cor das plantas"
+    },
+    {
+      "termo": "vermelho/vermelha",
+      "significado": "cor do sangue, dos morangos"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

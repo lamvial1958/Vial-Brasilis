@@ -1,0 +1,183 @@
+{
+  "nivel": "a2",
+  "slug": "09-lembrancas-e-habitos-passados",
+  "ordem": 9,
+  "codigo": "A2.9",
+  "titulo": "Lembranças e Hábitos Passados",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/a2.md`. Introduz o pretérito imperfeito e o contraste inicial com o pretérito perfeito — base direta para a narrativa integrada da A2.10.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — conversa sobre a vida antes e depois de morar no Brasil:**\n> **Yuki:** Como era sua vida antes de vir para o Brasil?\n> **Diego:** Era bem diferente. Eu morava com meus pais, trabalhava num escritório e quase não cozinhava — sempre comia fora.\n> **Yuki:** E agora?\n> **Diego:** Agora eu moro sozinho, trabalho de casa e cozinho quase todos os dias! Mudou tudo.\n> **Yuki:** Você sentia falta da sua cidade no início?\n> **Diego:** Sentia muito. Eu sempre pensava na minha família e nos amigos que eu tinha lá. Mas com o tempo eu me acostumei.\n> **Yuki:** E o que você fazia no seu tempo livre antes?\n> **Diego:** Eu jogava videogame e saía com amigos todo fim de semana. Hoje eu prefiro caminhar na praia.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar sobre hábito passado | Como era sua vida antes...? / O que você fazia...? |\n| Descrever hábito passado | Eu morava/trabalhava/jogava... (imperfeito) |\n| Contrastar passado e presente | Antes eu... mas agora eu... |\n| Expressar saudade | Sentia falta de... |\n| Indicar adaptação | Com o tempo eu me acostumei. |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| antes | em tempo anterior | Antes eu morava com meus pais. |\n| agora | no presente | Agora eu moro sozinho. |\n| sempre | em todas as ocasiões (no passado, hábito) | Eu sempre comia fora. |\n| quase nunca | raramente | Quase nunca cozinhava. |\n| sentir falta (de) | ter saudade | Eu sentia falta da minha família. |\n| se acostumar (com) | se adaptar | Com o tempo eu me acostumei. |\n| tempo livre | momento sem obrigações | O que você fazia no tempo livre? |\n| mudar (de vida/rotina) | transformar-se | Mudou tudo na minha vida. |\n| costume | hábito, prática repetida | Era costume jantar tarde. |\n| no meu país | referência ao local de origem | No meu país era diferente. |\n\n**(10 itens, tag `a2.9`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Pretérito imperfeito — verbos regulares (-ar, -er, -ir):**\n\n| Pessoa | morar (-ar) | comer (-er) | sentir (-ir) |\n|---|---|---|---|\n| eu | morava | comia | sentia |\n| você/ele/ela | morava | comia | sentia |\n| nós | morávamos | comíamos | sentíamos |\n| vocês/eles/elas | moravam | comiam | sentiam |\n\n> **Nota:** \"eu\" e \"você/ele/ela\" têm sempre a mesma forma no imperfeito — o contexto/pronome é que distingue quem fala.\n\n**B. Verbos irregulares frequentes no imperfeito:**\n| Verbo | eu | você/ele/ela | nós | eles |\n|---|---|---|---|---|\n| ser | era | era | éramos | eram |\n| ter | tinha | tinha | tínhamos | tinham |\n| ir | ia | ia | íamos | iam |\n\n**C. Uso do imperfeito:** descreve hábitos, rotinas e estados no passado, sem indicar quando começaram ou terminaram — contraste com o pretérito perfeito (A2.1), que marca um evento pontual e concluído.\n| Imperfeito (hábito/estado) | Perfeito (evento pontual) |\n|---|---|\n| Eu morava no Japão. (hábito de vida) | Eu morei no Japão por dois anos. (evento com duração definida) |\n| Eu sempre comia fora. | Ontem eu comi fora. |"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Terminação \"-ava/-ia\" — vogal aberta e clara:** mor-A-va, com-I-a — sem reduzir a vogal tônica.\n**B. \"Nós\" no imperfeito tem acento gráfico:** morávamos, comíamos, sentíamos — atenção ao acento na sílaba tônica antepenúltima (proparoxítona).\n**C. Contraste \"era\" (imperfeito) × \"foi\" (perfeito):** sons bem diferentes apesar de ambos vir de \"ser\" — não confundir."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com o pretérito imperfeito:**\n1. Antes eu ___ (morar) com meus pais. → **morava**\n2. Nós ___ (comer) fora quase todos os dias. → **comíamos**\n3. Eles ___ (ser) muito mais jovens. → **eram**\n4. Eu ___ (ter) menos responsabilidades. → **tinha**\n\n**Exercício 2 — Escolha perfeito ou imperfeito:**\n1. Ontem eu ___ (comer) numa churrascaria. → **comi** (perfeito, evento pontual)\n2. Antes eu sempre ___ (comer) fora. → **comia** (imperfeito, hábito)\n\n**Exercício 3 — Complete a comparação antes/agora:**\n\"Antes eu ___ (trabalhar) num escritório, mas agora eu ___ (trabalhar) de casa.\" → **trabalhava / trabalho**\n\n**Exercício 4 — Responda sobre seu próprio passado:**\nO que você fazia no seu tempo livre antes de [um momento de mudança na sua vida]? (resposta livre no imperfeito)"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Apresentadora:** Como era sua vida antes de se mudar para o Brasil, Marie?\n> **Marie:** Era bem mais corrida. Eu trabalhava doze horas por dia e quase não tinha tempo livre. Eu sempre estava cansada e sentia muito estresse.\n> **Apresentadora:** E o que mudou?\n> **Marie:** Hoje eu trabalho menos horas e tenho mais tempo para caminhar e cozinhar. No início eu sentia muita falta da minha rotina antiga, mas com o tempo eu me acostumei com esse ritmo mais calmo.\n\n**Perguntas:**\n1. Como era a vida de Marie antes? → **Mais corrida, trabalhava doze horas por dia**\n2. Como ela se sentia antes? → **Cansada e estressada**\n3. O que ela sentia no início da mudança? → **Falta da rotina antiga**\n4. Como ela se sente agora com o novo ritmo? → **Acostumada, mais calma**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Compare sua vida antes de um momento importante (mudança de país, cidade, emprego, fase de vida) com a vida atual (oral ou escrito, 1 minuto/1 parágrafo). Inclua:\n1. Pelo menos 4 verbos no pretérito imperfeito\n2. A estrutura \"antes eu... mas agora eu...\"\n3. Pelo menos uma expressão de saudade ou adaptação (\"sentia falta de...\", \"me acostumei com...\")\n\n**Checklist de autoavaliação:**\n- [ ] Usei o pretérito imperfeito corretamente para descrever hábitos passados\n- [ ] Contrastei claramente \"antes\" e \"agora\"\n- [ ] Usei pelo menos um verbo irregular no imperfeito (ser, ter, ir)\n- [ ] Expressei saudade ou adaptação com vocabulário apropriado\n- [ ] Pronunciei corretamente o acento da forma \"nós\" no imperfeito"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| agora | no presente |\n| antes | em tempo anterior |\n| costume | hábito, prática repetida |\n| mudar (de vida/rotina) | transformar-se |\n| no meu país | referência ao local de origem |\n| quase nunca | raramente |\n| se acostumar (com) | se adaptar |\n| sempre | em todas as ocasiões (no passado, hábito) |\n| sentir falta (de) | ter saudade |\n| tempo livre | momento sem obrigações |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "antes",
+      "definicao": "em tempo anterior",
+      "exemplo": "Antes eu morava com meus pais."
+    },
+    {
+      "termo": "agora",
+      "definicao": "no presente",
+      "exemplo": "Agora eu moro sozinho."
+    },
+    {
+      "termo": "sempre",
+      "definicao": "em todas as ocasiões (no passado, hábito)",
+      "exemplo": "Eu sempre comia fora."
+    },
+    {
+      "termo": "quase nunca",
+      "definicao": "raramente",
+      "exemplo": "Quase nunca cozinhava."
+    },
+    {
+      "termo": "sentir falta (de)",
+      "definicao": "ter saudade",
+      "exemplo": "Eu sentia falta da minha família."
+    },
+    {
+      "termo": "se acostumar (com)",
+      "definicao": "se adaptar",
+      "exemplo": "Com o tempo eu me acostumei."
+    },
+    {
+      "termo": "tempo livre",
+      "definicao": "momento sem obrigações",
+      "exemplo": "O que você fazia no tempo livre?"
+    },
+    {
+      "termo": "mudar (de vida/rotina)",
+      "definicao": "transformar-se",
+      "exemplo": "Mudou tudo na minha vida."
+    },
+    {
+      "termo": "costume",
+      "definicao": "hábito, prática repetida",
+      "exemplo": "Era costume jantar tarde."
+    },
+    {
+      "termo": "no meu país",
+      "definicao": "referência ao local de origem",
+      "exemplo": "No meu país era diferente."
+    }
+  ],
+  "tagsVocabulario": [
+    "a2.9"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Antes eu ___ (morar) com meus pais.",
+      "resposta": "morava"
+    },
+    {
+      "enunciado": "2. Nós ___ (comer) fora quase todos os dias.",
+      "resposta": "comíamos"
+    },
+    {
+      "enunciado": "3. Eles ___ (ser) muito mais jovens.",
+      "resposta": "eram"
+    },
+    {
+      "enunciado": "4. Eu ___ (ter) menos responsabilidades.",
+      "resposta": "tinha"
+    },
+    {
+      "enunciado": "1. Ontem eu ___ (comer) numa churrascaria.",
+      "resposta": "**comi** (perfeito, evento pontual)"
+    },
+    {
+      "enunciado": "2. Antes eu sempre ___ (comer) fora.",
+      "resposta": "**comia** (imperfeito, hábito)"
+    },
+    {
+      "enunciado": "\"Antes eu ___ (trabalhar) num escritório, mas agora eu ___ (trabalhar) de casa.\"",
+      "resposta": "trabalhava / trabalho"
+    },
+    {
+      "enunciado": "O que você fazia no seu tempo livre antes de [um momento de mudança na sua vida]?",
+      "resposta": "resposta livre no imperfeito"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "agora",
+      "significado": "no presente"
+    },
+    {
+      "termo": "antes",
+      "significado": "em tempo anterior"
+    },
+    {
+      "termo": "costume",
+      "significado": "hábito, prática repetida"
+    },
+    {
+      "termo": "mudar (de vida/rotina)",
+      "significado": "transformar-se"
+    },
+    {
+      "termo": "no meu país",
+      "significado": "referência ao local de origem"
+    },
+    {
+      "termo": "quase nunca",
+      "significado": "raramente"
+    },
+    {
+      "termo": "se acostumar (com)",
+      "significado": "se adaptar"
+    },
+    {
+      "termo": "sempre",
+      "significado": "em todas as ocasiões (no passado, hábito)"
+    },
+    {
+      "termo": "sentir falta (de)",
+      "significado": "ter saudade"
+    },
+    {
+      "termo": "tempo livre",
+      "significado": "momento sem obrigações"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

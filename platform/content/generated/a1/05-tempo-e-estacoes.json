@@ -1,0 +1,152 @@
+{
+  "nivel": "a1",
+  "slug": "05-tempo-e-estacoes",
+  "ordem": 5,
+  "codigo": "A1.5",
+  "titulo": "Tempo e Estações",
+  "tipo": "licao",
+  "notaIntro": "*Cena — Tom planeja uma viagem pelo Brasil com a ajuda de Sofia:*",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — Tom planeja uma viagem pelo Brasil com a ajuda de Sofia:**\n> **Tom:** Eu vou viajar para o Brasil em julho. Vou para o Rio de Janeiro e depois para o Sul, para Gramado.\n> **Sofia:** Ah, em julho faz frio no Sul! Em Gramado pode fazer até cinco graus.\n> **Tom:** Sério? E no Rio?\n> **Sofia:** No Rio, mesmo em julho, geralmente faz sol e está quente durante o dia.\n> **Tom:** Então eu preciso levar um casaco para Gramado e roupas leves para o Rio.\n> **Sofia:** Isso! E não esqueça um guarda-chuva, porque em julho também chove bastante no Sul.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Descrever o clima | Faz sol/calor/frio/vento. / Está quente/frio/nublado. / Chove. |\n| Perguntar a temperatura | Que temperatura está? / Quantos graus faz? |\n| Dizer o que sente | Eu estou com frio/calor. |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "verão, outono, inverno, primavera, sol, chuva, vento, nuvem, frio, calor, casaco, guarda-chuva, camiseta, calça, short, sandália, bota, óculos de sol, boné — **(19 itens, tag `a1.5`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Clima (verbos/expressões impessoais — sem sujeito definido):**\nfaz sol / faz calor / faz frio / faz vento · está nublado · chove / está chovendo\n\n**B. Contraste \"fazer frio/calor\" (o clima) vs. \"estar com frio/calor\" (a pessoa):**\n*\"Hoje faz frio no Sul\"* (fato sobre o tempo) ≠ *\"Eu estou com frio\"* (sensação da pessoa) — mesma lógica de \"estar com dor\" já vista na PRE-A1.5.\n\n**C. Estações no Brasil (hemisfério sul — atenção, inverso do hemisfério norte):**\nverão (dez–mar) · outono (mar–jun) · inverno (jun–set) · primavera (set–dez)"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"ch\" /ʃ/ em \"chuva\"/\"chover\" (revisão).**\n**B. Nasalização em \"vento\".**\n**C. Acento tônico em \"guarda-chuva\":** palavra composta, acento em \"chu-va\"."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com a expressão de clima correta:**\n1. Em Gramado, em julho, ___ frio. → **faz**\n2. No Rio, geralmente ___ sol. → **faz**\n3. No Sul, em julho, também ___. → **chove**\n\n**Exercício 2 — Associe a roupa ao clima:**\ncasaco → frio · óculos de sol → sol · guarda-chuva → chuva\n\n**Exercício 3 — \"Fazer\" ou \"estar com\"? Complete:**\n\"Hoje ___ muito calor.\" → **faz** · \"Eu ___ frio, posso pegar seu casaco?\" → **estou com**\n\n**Exercício 4 — Verdadeiro ou falso:**\n\"No Brasil, o inverno é em dezembro\" → **F** (é em junho–setembro) · \"Em Gramado pode fazer cinco graus em julho\" → **V**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Apresentador do tempo:** Boa noite! A previsão para amanhã: em São Paulo, tempo nublado com chance de chuva à tarde, máxima de dezoito graus. Já em Fortaleza, sol o dia todo, máxima de trinta e dois graus.\n\n**Perguntas:**\n1. Qual a previsão para São Paulo? → **Nublado, chance de chuva, máxima de 18 graus**\n2. Qual a previsão para Fortaleza? → **Sol o dia todo, máxima de 32 graus**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Escolha 3 cenários climáticos diferentes (ex.: praia no verão, serra no inverno, cidade chuvosa) e sugira, para cada um, o que vestir e o que levar — oral ou por escrito.\n\n**Checklist de autoavaliação:**\n- [ ] Usei \"faz\" para descrever o clima em pelo menos 2 cenários\n- [ ] Usei \"está com\" para uma sensação pessoal\n- [ ] Sugeri roupas/acessórios adequados a cada cenário\n- [ ] Mencionei pelo menos uma estação do ano corretamente\n- [ ] Pronunciei corretamente \"guarda-chuva\" com o acento certo"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| boné / bota / sandália | acessórios e calçados |\n| calça / camiseta / short | peças de roupa |\n| calor / frio | sensações/temperaturas |\n| casaco / guarda-chuva | itens para o frio/chuva |\n| chove / chuva | precipitação de água |\n| estou com frio/calor | sensação pessoal de temperatura |\n| faz sol/calor/frio/vento | expressão de clima |\n| inverno / verão / outono / primavera | estações do ano |\n| nuvem | formação no céu, indica possível chuva |\n| óculos de sol | acessório de proteção contra luz solar |\n| quantos graus faz? | pergunta sobre temperatura |\n| sol / vento | elementos do clima |\n| está nublado | céu com nuvens, sem sol visível |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [
+    "a1.5"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Em Gramado, em julho, ___ frio.",
+      "resposta": "faz"
+    },
+    {
+      "enunciado": "2. No Rio, geralmente ___ sol.",
+      "resposta": "faz"
+    },
+    {
+      "enunciado": "3. No Sul, em julho, também ___.",
+      "resposta": "chove"
+    },
+    {
+      "enunciado": "casaco",
+      "resposta": "frio"
+    },
+    {
+      "enunciado": "óculos de sol",
+      "resposta": "sol"
+    },
+    {
+      "enunciado": "guarda-chuva",
+      "resposta": "chuva"
+    },
+    {
+      "enunciado": "\"Hoje ___ muito calor.\"",
+      "resposta": "faz"
+    },
+    {
+      "enunciado": "\"Eu ___ frio, posso pegar seu casaco?\"",
+      "resposta": "estou com"
+    },
+    {
+      "enunciado": "\"No Brasil, o inverno é em dezembro\"",
+      "resposta": "**F** (é em junho–setembro)"
+    },
+    {
+      "enunciado": "\"Em Gramado pode fazer cinco graus em julho\"",
+      "resposta": "V"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "boné / bota / sandália",
+      "significado": "acessórios e calçados"
+    },
+    {
+      "termo": "calça / camiseta / short",
+      "significado": "peças de roupa"
+    },
+    {
+      "termo": "calor / frio",
+      "significado": "sensações/temperaturas"
+    },
+    {
+      "termo": "casaco / guarda-chuva",
+      "significado": "itens para o frio/chuva"
+    },
+    {
+      "termo": "chove / chuva",
+      "significado": "precipitação de água"
+    },
+    {
+      "termo": "estou com frio/calor",
+      "significado": "sensação pessoal de temperatura"
+    },
+    {
+      "termo": "faz sol/calor/frio/vento",
+      "significado": "expressão de clima"
+    },
+    {
+      "termo": "inverno / verão / outono / primavera",
+      "significado": "estações do ano"
+    },
+    {
+      "termo": "nuvem",
+      "significado": "formação no céu, indica possível chuva"
+    },
+    {
+      "termo": "óculos de sol",
+      "significado": "acessório de proteção contra luz solar"
+    },
+    {
+      "termo": "quantos graus faz?",
+      "significado": "pergunta sobre temperatura"
+    },
+    {
+      "termo": "sol / vento",
+      "significado": "elementos do clima"
+    },
+    {
+      "termo": "está nublado",
+      "significado": "céu com nuvens, sem sol visível"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

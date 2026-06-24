@@ -1,0 +1,262 @@
+{
+  "nivel": "b1",
+  "slug": "08-registro-formal-vs-informal",
+  "ordem": 8,
+  "codigo": "B1.8",
+  "titulo": "Registro Formal vs. Informal",
+  "tipo": "licao",
+  "notaIntro": "Unidade-piloto do template, detalhada na íntegra na Seção 8.2 de `docs/PROJETO_BASE.md`. O conteúdo abaixo reproduz fielmente essa unidade-piloto já validada, adaptado ao formato padrão de lição. Recicla B1.2 (e-mail/carta informal) e B1.3 (reclamação formal); projeta para B2.4 (variação regional do PT-BR). Por que existe: o CELPE-Bras penaliza diretamente o descompasso de registro na correção — esta unidade ataca esse critério de avaliação de frente.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Cenário Motivador e Textos de Abertura",
+      "markdown": "**Cenário (tarefa dupla):** há um vazamento de água no apartamento do aluno, vindo do banheiro do vizinho de cima. É preciso relatar o mesmo fato a duas pessoas diferentes, em registros diferentes.\n\n**Texto A — mensagem informal ao amigo (WhatsApp):**\n> Cara, você não vai crer! Tá vazando água do banheiro lá de cima, caiu até no meu teto! Já é a segunda vez esse mês, tô P da vida. Vou ter que falar com a síndica de novo, que saco.\n\n**Texto B — e-mail formal à administradora do prédio:**\n> Prezada Administradora,\n>\n> Venho por meio deste e-mail relatar um vazamento de água proveniente do apartamento 302, que está afetando o teto do meu apartamento (202) pela segunda vez neste mês.\n>\n> Solicito que seja providenciada uma vistoria técnica com urgência, a fim de identificar a origem do problema e evitar danos adicionais à estrutura do imóvel.\n>\n> Agradeço a atenção e aguardo retorno.\n>\n> Atenciosamente,\n> [nome do morador]\n\n**Quadro de contraste de registro:**\n| Elemento | Informal (Texto A) | Formal (Texto B) |\n|---|---|---|\n| Pronome de tratamento | (implícito, \"você\"/\"cê\") | \"a Administradora\" / 3ª pessoa |\n| Verbo de abertura | \"Cara, você não vai crer!\" | \"Venho por meio deste e-mail relatar...\" |\n| Pedido | \"Vou ter que falar com a síndica\" | \"Solicito que seja providenciada uma vistoria...\" |\n| Marcas de oralidade | tá, tô, cê, que saco | nenhuma |\n| Fecho | (nenhum, mensagem corrida) | \"Atenciosamente,\" |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário — Pares Formal ↔ Informal",
+      "markdown": "| Informal | Formal | Tag |\n|---|---|---|\n| apê | imóvel/apartamento | registro |\n| tá vazando | há um vazamento / está ocorrendo um vazamento | registro |\n| que saco | (sem equivalente formal direto — omite-se a queixa emocional) | registro |\n| tô P da vida | estou bastante incomodado/a | registro |\n| falar com | entrar em contato com / dirigir-se a | registro |\n| dar um jeito | providenciar uma solução | registro |\n| de novo | novamente | registro |\n| vou ter que | será necessário | registro |\n| lá de cima | do apartamento superior / do andar superior | registro |\n| caiu no meu teto | atingiu o teto do meu apartamento | registro |\n| vizinho | morador do apartamento vizinho/contíguo | registro |\n| síndica/síndico | administradora/administrador do condomínio | registro |\n| resolver rápido | solucionar com urgência | registro |\n| dá pra | é possível / seria possível | registro |\n| cê pode | poderia / seria possível que | registro |\n| lamento informar | (formal — sem equivalente informal direto, usado para más notícias) | registro |\n| imóvel | apê/casa (informal) | registro |\n| vistoria | (inspeção técnica — termo já formal, sem par informal direto) | registro |\n| providenciar | dar um jeito (informal) | registro |\n| danos | estrago/prejuízo (informal) | registro |\n\n**(20 itens, tag `registro`, cruzando vocabulário de B1.2 e B1.3)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Função & Gramática em Foco",
+      "markdown": "**A. Pronomes de tratamento por grau de formalidade:**\n| Grau | Pronome/forma | Contexto |\n|---|---|---|\n| Informal | você / cê | amigos, colegas próximos |\n| Neutro-formal | você (sem redução) | colegas de trabalho, atendimento padrão |\n| Formal/cortês | o(a) senhor(a) | autoridades, pessoas mais velhas, situações muito formais |\n\n**B. Cortesia: do direto ao cortês:**\n| Direto/informal | Cortês/formal |\n|---|---|\n| Dá pra resolver isso rápido? | Seria possível resolver isso com brevidade? |\n| Cê pode mandar alguém? | Poderia providenciar o envio de um técnico? |\n| Quero que resolvam isso. | Solicito que seja providenciada uma solução. |\n\n**C. Reduções da fala informal × forma escrita plena:**\n| Reduzida (fala/informal) | Plena (escrita formal) |\n|---|---|\n| cê, tá, pra, né, tipo | você, está, para, não é, (omitido) |\n\n**D. Imperativo cortês × direto:**\n| Direto | Cortês |\n|---|---|\n| Resolve isso! | Poderia resolver isso, por favor? |\n| Manda um técnico. | Seria possível enviar um técnico? |"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Reduções fonéticas informais:** \"cê\" (você), \"tá\" (está), \"pra\" (para), \"né\" (não é) — características do português brasileiro falado informal, evitadas por completo na escrita formal.\n**B. Entonação de queixa informal × entonação neutra formal:** \"que saco!\" com entonação exclamativa de frustração × \"venho relatar um problema\" com entonação plana e neutra."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Classifique como formal ou informal:**\n1. \"Cê pode resolver isso rápido?\" → **informal**\n2. \"Solicito que o problema seja resolvido com urgência.\" → **formal**\n3. \"Que saco, de novo isso!\" → **informal**\n\n**Exercício 2 — Transforme a frase informal em formal:**\n\"Tá vazando água lá de cima de novo, que saco.\" → **Venho relatar a ocorrência de um novo vazamento de água proveniente do apartamento superior.**\n\n**Exercício 3 — Complete com o pronome de tratamento adequado ao contexto:**\n1. (mensagem ao amigo) \"___ não vai crer no que aconteceu!\" → **Você/Cê**\n2. (e-mail à administradora) \"Solicito que ___ providencie uma vistoria.\" → **a Administradora / V.Sa.**\n\n**Exercício 4 — Identifique três marcas de informalidade no texto abaixo:**\n\"Cara, tá foda essa situação, cê pode dar um jeito nisso pra mim?\" → **\"cara\" (vocativo informal), \"tá foda\" (gíria), \"cê\" (redução de \"você\"), \"pra\" (redução de \"para\")**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Som & Compreensão — Áudios Contrastivos",
+      "markdown": "**Áudio 1 — ligação formal a uma central de atendimento:**\n> \"Bom dia, gostaria de relatar um vazamento de água no meu apartamento, vindo da unidade superior. Seria possível agendar uma vistoria técnica o mais breve possível?\"\n\n**Áudio 2 — mensagem de voz informal a um amigo:**\n> \"Mano, não vai crer, tá vazando água aqui de novo! Já liguei pra síndica, mas ela nunca responde rápido. Tô P da vida, sério.\"\n\n**Perguntas:**\n1. Qual áudio usa \"gostaria de\" em vez de \"quero\"? → **Áudio 1 (formal)**\n2. Que marca informal aparece no Áudio 2 que não aparece no Áudio 1? → **\"mano\", \"tá\", \"tô P da vida\"**\n3. Os dois áudios relatam o mesmo fato? → **Sim — vazamento de água vindo de cima**\n4. Qual é mais adequado para uma reclamação oficial ao condomínio? → **Áudio 1**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final — Tarefa Dupla (Espelho)",
+      "markdown": "Reproduza a tarefa-modelo desta unidade-piloto:\n1. **Mensagem informal** a um amigo (WhatsApp, 40–60 palavras) relatando o vazamento de água no seu apartamento\n2. **E-mail formal** à administradora do prédio (100–150 palavras) relatando o mesmo fato, com pedido de vistoria\n\nEm seguida, role-play oral: simule uma ligação formal de reporte do problema a uma central de atendimento condominial.\n\n**Rubrica desta unidade:**\n| Critério | Peso |\n|---|---|\n| Adequação ao registro exigido pela tarefa | Alto |\n| Cumprimento da tarefa comunicativa | Alto |\n| Coerência e coesão do texto | Médio |\n| Correção gramatical | Médio |\n\n**Checklist de autoavaliação:**\n- [ ] Minha mensagem informal usa reduções e tom de queixa pessoal apropriados\n- [ ] Meu e-mail formal não tem nenhuma marca de oralidade/informalidade\n- [ ] Usei o pronome de tratamento correto em cada texto\n- [ ] O pedido no e-mail formal está em linguagem cortês (\"solicito que\", \"seria possível\")\n- [ ] Os dois textos relatam exatamente o mesmo fato, apenas em registros diferentes"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| apê | imóvel/apartamento (informal) |\n| cê pode | poderia / seria possível que (informal) |\n| dá pra | é possível / seria possível (informal) |\n| danos | estrago/prejuízo (formal) |\n| dar um jeito | providenciar uma solução (informal) |\n| de novo | novamente |\n| imóvel | apê/casa (formal) |\n| lá de cima | do apartamento superior / do andar superior |\n| lamento informar | fórmula formal para introduzir más notícias |\n| providenciar | dar um jeito (formal) |\n| resolver rápido | solucionar com urgência |\n| síndica/síndico | administradora/administrador do condomínio |\n| tá vazando | há um vazamento / está ocorrendo um vazamento (informal) |\n| tô P da vida | estou bastante incomodado/a (informal) |\n| vistoria | inspeção técnica |\n| vizinho | morador do apartamento vizinho/contíguo |\n| vou ter que | será necessário (informal) |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "Informal",
+      "definicao": "Formal",
+      "exemplo": "Tag"
+    },
+    {
+      "termo": "apê",
+      "definicao": "imóvel/apartamento",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "tá vazando",
+      "definicao": "há um vazamento / está ocorrendo um vazamento",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "que saco",
+      "definicao": "(sem equivalente formal direto — omite-se a queixa emocional)",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "tô P da vida",
+      "definicao": "estou bastante incomodado/a",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "falar com",
+      "definicao": "entrar em contato com / dirigir-se a",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "dar um jeito",
+      "definicao": "providenciar uma solução",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "de novo",
+      "definicao": "novamente",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "vou ter que",
+      "definicao": "será necessário",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "lá de cima",
+      "definicao": "do apartamento superior / do andar superior",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "caiu no meu teto",
+      "definicao": "atingiu o teto do meu apartamento",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "vizinho",
+      "definicao": "morador do apartamento vizinho/contíguo",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "síndica/síndico",
+      "definicao": "administradora/administrador do condomínio",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "resolver rápido",
+      "definicao": "solucionar com urgência",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "dá pra",
+      "definicao": "é possível / seria possível",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "cê pode",
+      "definicao": "poderia / seria possível que",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "lamento informar",
+      "definicao": "(formal — sem equivalente informal direto, usado para más notícias)",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "imóvel",
+      "definicao": "apê/casa (informal)",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "vistoria",
+      "definicao": "(inspeção técnica — termo já formal, sem par informal direto)",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "providenciar",
+      "definicao": "dar um jeito (informal)",
+      "exemplo": "registro"
+    },
+    {
+      "termo": "danos",
+      "definicao": "estrago/prejuízo (informal)",
+      "exemplo": "registro"
+    }
+  ],
+  "tagsVocabulario": [
+    "registro"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. \"Cê pode resolver isso rápido?\"",
+      "resposta": "informal"
+    },
+    {
+      "enunciado": "2. \"Solicito que o problema seja resolvido com urgência.\"",
+      "resposta": "formal"
+    },
+    {
+      "enunciado": "3. \"Que saco, de novo isso!\"",
+      "resposta": "informal"
+    },
+    {
+      "enunciado": "\"Tá vazando água lá de cima de novo, que saco.\"",
+      "resposta": "Venho relatar a ocorrência de um novo vazamento de água proveniente do apartamento superior."
+    },
+    {
+      "enunciado": "1. (mensagem ao amigo) \"___ não vai crer no que aconteceu!\"",
+      "resposta": "Você/Cê"
+    },
+    {
+      "enunciado": "2. (e-mail à administradora) \"Solicito que ___ providencie uma vistoria.\"",
+      "resposta": "a Administradora / V.Sa."
+    },
+    {
+      "enunciado": "\"Cara, tá foda essa situação, cê pode dar um jeito nisso pra mim?\"",
+      "resposta": "\"cara\" (vocativo informal), \"tá foda\" (gíria), \"cê\" (redução de \"você\"), \"pra\" (redução de \"para\")"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "apê",
+      "significado": "imóvel/apartamento (informal)"
+    },
+    {
+      "termo": "cê pode",
+      "significado": "poderia / seria possível que (informal)"
+    },
+    {
+      "termo": "dá pra",
+      "significado": "é possível / seria possível (informal)"
+    },
+    {
+      "termo": "danos",
+      "significado": "estrago/prejuízo (formal)"
+    },
+    {
+      "termo": "dar um jeito",
+      "significado": "providenciar uma solução (informal)"
+    },
+    {
+      "termo": "de novo",
+      "significado": "novamente"
+    },
+    {
+      "termo": "imóvel",
+      "significado": "apê/casa (formal)"
+    },
+    {
+      "termo": "lá de cima",
+      "significado": "do apartamento superior / do andar superior"
+    },
+    {
+      "termo": "lamento informar",
+      "significado": "fórmula formal para introduzir más notícias"
+    },
+    {
+      "termo": "providenciar",
+      "significado": "dar um jeito (formal)"
+    },
+    {
+      "termo": "resolver rápido",
+      "significado": "solucionar com urgência"
+    },
+    {
+      "termo": "síndica/síndico",
+      "significado": "administradora/administrador do condomínio"
+    },
+    {
+      "termo": "tá vazando",
+      "significado": "há um vazamento / está ocorrendo um vazamento (informal)"
+    },
+    {
+      "termo": "tô P da vida",
+      "significado": "estou bastante incomodado/a (informal)"
+    },
+    {
+      "termo": "vistoria",
+      "significado": "inspeção técnica"
+    },
+    {
+      "termo": "vizinho",
+      "significado": "morador do apartamento vizinho/contíguo"
+    },
+    {
+      "termo": "vou ter que",
+      "significado": "será necessário (informal)"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

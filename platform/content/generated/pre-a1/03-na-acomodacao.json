@@ -1,0 +1,223 @@
+{
+  "nivel": "pre-a1",
+  "slug": "03-na-acomodacao",
+  "ordem": 4,
+  "codigo": "PRE-A1.3",
+  "titulo": "Na Acomodação",
+  "tipo": "licao",
+  "notaIntro": "*Cena 1 — Check-in:*",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena 1 — Check-in:**\n> **Recepcionista:** Boa tarde! Você tem reserva?\n> **Tom:** Tenho, sim. Em nome de Tom.\n> **Recepcionista:** Perfeito. Aqui está a chave do seu quarto.\n> **Tom:** Obrigado. Qual é o número do quarto?\n> **Recepcionista:** É o quarto 305.\n\n**Cena 2 — Relatando um problema:**\n> **Tom:** Com licença, o chuveiro não funciona.\n> **Recepcionista:** Ah, desculpa! Eu vou resolver isso agora.\n> **Tom:** Também preciso de uma toalha, por favor.\n> **Recepcionista:** Sem problema, eu trago já.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Confirmar reserva | Você tem reserva? / Tenho, sim. / Não, não tenho. |\n| Identificar-se | Em nome de... |\n| Pedir algo que falta | Eu preciso de... |\n| Relatar defeito | ...não funciona |\n| Tranquilizar/resolver | Sem problema / Eu trago já / Eu vou resolver isso |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "quarto, chave, reserva, toalha, travesseiro, lençol, chuveiro, ar-condicionado, wi-fi, recepção, recepcionista, número do quarto, não funciona, problema, malas, elevador — **(16 itens, tag `pre-a1.3`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"lh\" /ʎ/:** toalha\n**B. \"ch\" /ʃ/:** chave, chuveiro\n**C. Reforço nasal:** não"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete o diálogo:**\n1. Você tem ___? → **reserva**\n2. Em ___ de Tom. → **nome**\n3. O chuveiro não ___. → **funciona**\n4. Eu ___ de uma toalha. → **preciso**\n5. Sem ___. → **problema**\n\n**Exercício 2 — Associe o item ao ambiente:**\nchave→quarto · toalha→banheiro · travesseiro→cama · wi-fi→internet\n\n**Exercício 3 — Verdadeiro ou falso:**\n\"Tom tem reserva\" → **V** · \"O quarto é 405\" → **F** (é 305) · \"O chuveiro funciona bem\" → **F**\n\n**Exercício 4 — A palavra tem o som \"ch\" /ʃ/? (sim/não):**\nchave(**sim**) · cama(**não**) · chuveiro(**sim**) · carro(**não**)"
+    },
+    {
+      "ordem": 5,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Recepcionista:** Boa noite! Você tem reserva?\n> **Sofia:** Tenho, sim. Em nome de Sofia.\n> **Recepcionista:** Aqui está a chave, quarto 210.\n> **Sofia:** Obrigada. Ah, com licença — o wi-fi não funciona no meu quarto.\n> **Recepcionista:** Desculpa! Vou resolver isso agora.\n\n**Perguntas:**\n1. Qual é o número do quarto de Sofia? → **210**\n2. Qual é o problema dela? → **O wi-fi não funciona**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Role-play completo: faça o check-in (confirme a reserva, pegue a chave) e depois relate um problema no quarto + peça um item que falta.\n\n**Checklist de autoavaliação:**\n- [ ] Confirmei minha reserva com \"Tenho, sim. Em nome de...\"\n- [ ] Perguntei o número do quarto\n- [ ] Relatei um problema usando \"...não funciona\"\n- [ ] Pedi um item com \"Eu preciso de...\"\n- [ ] Pronunciei corretamente o som \"ch\" /ʃ/"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| ar-condicionado | aparelho que refresca o ambiente |\n| aqui está | expressão para entregar algo |\n| chave | objeto para abrir a porta do quarto |\n| chuveiro | equipamento para banho |\n| com licença | usado para pedir passagem ou interromper |\n| desculpa | pedido de desculpas |\n| elevador | equipamento para subir/descer andares |\n| em nome de... | forma de se identificar numa reserva |\n| eu trago já | promessa de trazer algo rapidamente |\n| eu vou resolver isso | promessa de solucionar um problema |\n| lençol | tecido que cobre o colchão |\n| malas | bagagem de viagem |\n| não funciona | expressão para relatar defeito |\n| número do quarto | identificação do quarto |\n| problema | algo que não está funcionando bem |\n| quarto | cômodo para dormir |\n| recepção | local de atendimento na entrada do hotel/pousada |\n| recepcionista | pessoa que atende na recepção |\n| reserva | confirmação prévia de um quarto |\n| sem problema | resposta tranquilizadora |\n| também preciso de... | forma de pedir mais um item |\n| tenho, sim | confirmação afirmativa |\n| toalha | pano usado para se secar |\n| travesseiro | usado para apoiar a cabeça ao dormir |\n| você tem reserva? | pergunta de confirmação na chegada |\n| wi-fi | internet sem fio |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [
+    "pre-a1.3"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Você tem ___?",
+      "resposta": "reserva"
+    },
+    {
+      "enunciado": "2. Em ___ de Tom.",
+      "resposta": "nome"
+    },
+    {
+      "enunciado": "3. O chuveiro não ___.",
+      "resposta": "funciona"
+    },
+    {
+      "enunciado": "4. Eu ___ de uma toalha.",
+      "resposta": "preciso"
+    },
+    {
+      "enunciado": "5. Sem ___.",
+      "resposta": "problema"
+    },
+    {
+      "enunciado": "chave",
+      "resposta": "quarto"
+    },
+    {
+      "enunciado": "toalha",
+      "resposta": "banheiro"
+    },
+    {
+      "enunciado": "travesseiro",
+      "resposta": "cama"
+    },
+    {
+      "enunciado": "wi-fi",
+      "resposta": "internet"
+    },
+    {
+      "enunciado": "\"Tom tem reserva\"",
+      "resposta": "V"
+    },
+    {
+      "enunciado": "\"O quarto é 405\"",
+      "resposta": "**F** (é 305)"
+    },
+    {
+      "enunciado": "\"O chuveiro funciona bem\"",
+      "resposta": "F"
+    },
+    {
+      "enunciado": "chave",
+      "resposta": "sim"
+    },
+    {
+      "enunciado": "cama",
+      "resposta": "não"
+    },
+    {
+      "enunciado": "chuveiro",
+      "resposta": "sim"
+    },
+    {
+      "enunciado": "carro",
+      "resposta": "não"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "ar-condicionado",
+      "significado": "aparelho que refresca o ambiente"
+    },
+    {
+      "termo": "aqui está",
+      "significado": "expressão para entregar algo"
+    },
+    {
+      "termo": "chave",
+      "significado": "objeto para abrir a porta do quarto"
+    },
+    {
+      "termo": "chuveiro",
+      "significado": "equipamento para banho"
+    },
+    {
+      "termo": "com licença",
+      "significado": "usado para pedir passagem ou interromper"
+    },
+    {
+      "termo": "desculpa",
+      "significado": "pedido de desculpas"
+    },
+    {
+      "termo": "elevador",
+      "significado": "equipamento para subir/descer andares"
+    },
+    {
+      "termo": "em nome de...",
+      "significado": "forma de se identificar numa reserva"
+    },
+    {
+      "termo": "eu trago já",
+      "significado": "promessa de trazer algo rapidamente"
+    },
+    {
+      "termo": "eu vou resolver isso",
+      "significado": "promessa de solucionar um problema"
+    },
+    {
+      "termo": "lençol",
+      "significado": "tecido que cobre o colchão"
+    },
+    {
+      "termo": "malas",
+      "significado": "bagagem de viagem"
+    },
+    {
+      "termo": "não funciona",
+      "significado": "expressão para relatar defeito"
+    },
+    {
+      "termo": "número do quarto",
+      "significado": "identificação do quarto"
+    },
+    {
+      "termo": "problema",
+      "significado": "algo que não está funcionando bem"
+    },
+    {
+      "termo": "quarto",
+      "significado": "cômodo para dormir"
+    },
+    {
+      "termo": "recepção",
+      "significado": "local de atendimento na entrada do hotel/pousada"
+    },
+    {
+      "termo": "recepcionista",
+      "significado": "pessoa que atende na recepção"
+    },
+    {
+      "termo": "reserva",
+      "significado": "confirmação prévia de um quarto"
+    },
+    {
+      "termo": "sem problema",
+      "significado": "resposta tranquilizadora"
+    },
+    {
+      "termo": "também preciso de...",
+      "significado": "forma de pedir mais um item"
+    },
+    {
+      "termo": "tenho, sim",
+      "significado": "confirmação afirmativa"
+    },
+    {
+      "termo": "toalha",
+      "significado": "pano usado para se secar"
+    },
+    {
+      "termo": "travesseiro",
+      "significado": "usado para apoiar a cabeça ao dormir"
+    },
+    {
+      "termo": "você tem reserva?",
+      "significado": "pergunta de confirmação na chegada"
+    },
+    {
+      "termo": "wi-fi",
+      "significado": "internet sem fio"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

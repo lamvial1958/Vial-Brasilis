@@ -1,0 +1,184 @@
+{
+  "nivel": "b1",
+  "slug": "01-entendendo-a-tarefa-integrada",
+  "ordem": 1,
+  "codigo": "B1.1",
+  "titulo": "Entendendo a Tarefa Integrada",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b1.md`. A partir do B1, as unidades espelham os gêneros textuais reais do exame CELPE-Bras. Esta é uma unidade \"meta\": ensina o formato da tarefa antes de qualquer conteúdo novo — sem item gramatical novo.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Cenário e Texto-Modelo de Abertura",
+      "markdown": "**Cena — professora explicando o formato do exame a um grupo de alunos:**\n> **Professora:** O CELPE-Bras não testa gramática isolada. Ele te dá um estímulo — um áudio ou um texto — e pede para você produzir algo a partir dele. Olhem este exemplo.\n>\n> **Tarefa-modelo (input):** *Você ouviu, no rádio, uma notícia sobre o aumento do uso de bicicletas nas grandes cidades brasileiras.*\n> **Comando:** *Escreva um comentário para o fórum do site da rádio, dando sua opinião sobre o uso de bicicletas na sua cidade.*\n>\n> **Aluno:** Então eu preciso comentar sobre bicicletas?\n> **Professora:** Quase. Releia o comando: ele pede um **comentário de fórum**, não uma redação livre, e pede sua **opinião**, não um resumo da notícia. Se você só resumir a notícia, a tarefa não foi cumprida — mesmo com português perfeito.\n> **Aluno:** Entendi, então o gênero do texto e o que ele pede importam tanto quanto a gramática.\n> **Professora:** Exatamente. Essa é a lição mais importante deste nível.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Identificar o gênero pedido | \"Escreva um/uma...\" (e-mail, carta, comentário, resumo) |\n| Identificar a ação pedida | \"redija\", \"elabore\", \"comente\", \"responda a\", \"dê sua opinião sobre\" |\n| Verificar se entendeu a tarefa | O que exatamente eu preciso produzir? Para quem? Com que objetivo? |\n| Distinguir resumir de opinar | Resumir = repetir o conteúdo. Opinar = dar um posicionamento próprio. |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| comando (da tarefa) | instrução que diz o que produzir | Leia o comando com atenção. |\n| estímulo/input | material de partida (áudio/texto) | O estímulo foi uma notícia de rádio. |\n| redigir | escrever de forma organizada | Redija uma carta de reclamação. |\n| elaborar | produzir algo com cuidado/planejamento | Elabore um comentário sobre o tema. |\n| comentar | dar uma opinião curta sobre algo | Comente a notícia no fórum. |\n| responder a | reagir/replicar a algo específico | Responda ao e-mail do seu amigo. |\n| gênero textual | tipo de texto com convenções próprias | E-mail, carta e fórum são gêneros diferentes. |\n| resumir | reduzir um texto às ideias principais | Resuma a notícia em três frases. |\n| dar sua opinião sobre | expressar um ponto de vista próprio | Dê sua opinião sobre o tema. |\n| cumprir a tarefa | atender exatamente ao que foi pedido | Cumprir a tarefa é mais importante que só escrever bem. |\n| adequação ao gênero | escrever no formato/tom esperado pelo gênero | A adequação ao gênero é avaliada na correção. |\n\n**(11 itens, tag `b1.1`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Função & Foco — Sem Item Gramatical Novo",
+      "markdown": "**A. Por que esta unidade não tem gramática nova:** o CELPE-Bras avalia tarefas integradas (compreender um estímulo → produzir um texto adequado), não itens gramaticais isolados. Antes de praticar qualquer estrutura nova do B1, é preciso saber **ler corretamente o que a tarefa pede**.\n\n**B. Os três elementos de toda tarefa integrada:**\n| Elemento | Pergunta-chave |\n|---|---|\n| Estímulo | O que eu ouvi/li? |\n| Comando | O que exatamente eu preciso produzir? |\n| Interlocutor/gênero | Para quem eu escrevo, e em que formato? |\n\n**C. Erro mais comum de candidatos:** responder ao tema do estímulo, mas no gênero errado (ex.: escrever um resumo quando o comando pedia uma carta de reclamação) — isso é penalizado mesmo com gramática impecável."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Verbos de comando no imperativo formal (\"você\"):** redija, elabore, comente, responda — todos seguem o padrão do imperativo já visto no A2.4, mas agora em contexto de instrução escrita formal.\n**B. Leitura em voz alta de comandos de tarefa:** praticar a entonação neutra e pausada de instruções formais, sem a entonação de pergunta ou pedido pessoal."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Identifique o gênero pedido em cada comando:**\n1. \"Escreva um e-mail respondendo à reclamação do cliente.\" → **e-mail (formal, resposta a reclamação)**\n2. \"Redija um comentário para o fórum do jornal.\" → **comentário de fórum**\n3. \"Escreva uma carta para um amigo contando sua viagem.\" → **carta pessoal informal**\n\n**Exercício 2 — Resumir ou opinar? Classifique:**\n1. \"Resuma as informações principais da notícia.\" → **resumir**\n2. \"Dê sua opinião sobre o tema da notícia.\" → **opinar**\n3. \"Comente o que você pensa sobre o assunto, considerando sua experiência.\" → **opinar**\n\n**Exercício 3 — Identifique os 3 elementos da tarefa abaixo:**\n*\"Você leu um anúncio de emprego. Escreva um e-mail formal para a empresa, perguntando sobre os detalhes da vaga.\"*\n→ **Estímulo: anúncio de emprego · Comando: escrever e-mail perguntando sobre detalhes · Interlocutor/gênero: empresa, e-mail formal**\n\n**Exercício 4 — Aponte o erro na resposta abaixo:**\n*Comando: \"Escreva um comentário de fórum dando sua opinião sobre o transporte público.\" Resposta de um candidato: um resumo de três parágrafos sobre como funciona o transporte público na cidade, sem nenhuma opinião pessoal.*\n→ **Erro: o candidato resumiu em vez de opinar — não cumpriu o comando, apesar de escrever sobre o tema certo.**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Leitura — Texto e Perguntas",
+      "markdown": "> **Tarefa-modelo (CELPE-Bras, adaptada):**\n> *Você assistiu a uma reportagem sobre o crescimento do trabalho remoto no Brasil depois da pandemia. Escreva um comentário para o fórum de um site de notícias, dando sua opinião sobre as vantagens e desvantagens do trabalho remoto.*\n\n**Perguntas:**\n1. Qual é o estímulo desta tarefa? → **Uma reportagem sobre o crescimento do trabalho remoto**\n2. Qual é o gênero textual pedido? → **Comentário de fórum**\n3. O que exatamente o comando pede (resumo ou opinião)? → **Opinião, com vantagens e desvantagens**\n4. Quem é o interlocutor (leitor) desse texto? → **Outros leitores do fórum do site de notícias**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Responda à tarefa-modelo da seção 6 com um comentário de fórum simplificado (80–120 palavras), incluindo:\n1. Uma opinião pessoal clara sobre o trabalho remoto (não um resumo da reportagem)\n2. Pelo menos uma vantagem e uma desvantagem mencionadas\n3. Linguagem adequada ao gênero \"comentário de fórum\" (mais direta que uma carta formal, mas ainda articulada)\n\nDepois, faça a autoavaliação de aderência ao comando: releia seu texto e marque se cumpriu exatamente o que foi pedido.\n\n**Checklist de autoavaliação:**\n- [ ] Identifiquei corretamente o gênero textual pedido antes de escrever\n- [ ] Minha resposta é uma opinião, não um resumo do estímulo\n- [ ] Respondi exatamente ao que o comando pediu, sem fugir do tema\n- [ ] Usei um tom adequado ao gênero \"comentário de fórum\"\n- [ ] Tenho clareza sobre quem é o interlocutor do meu texto"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| adequação ao gênero | escrever no formato/tom esperado pelo gênero |\n| comando (da tarefa) | instrução que diz o que produzir |\n| comentar | dar uma opinião curta sobre algo |\n| cumprir a tarefa | atender exatamente ao que foi pedido |\n| dar sua opinião sobre | expressar um ponto de vista próprio |\n| elaborar | produzir algo com cuidado/planejamento |\n| estímulo/input | material de partida (áudio/texto) |\n| gênero textual | tipo de texto com convenções próprias |\n| redigir | escrever de forma organizada |\n| responder a | reagir/replicar a algo específico |\n| resumir | reduzir um texto às ideias principais |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "comando (da tarefa)",
+      "definicao": "instrução que diz o que produzir",
+      "exemplo": "Leia o comando com atenção."
+    },
+    {
+      "termo": "estímulo/input",
+      "definicao": "material de partida (áudio/texto)",
+      "exemplo": "O estímulo foi uma notícia de rádio."
+    },
+    {
+      "termo": "redigir",
+      "definicao": "escrever de forma organizada",
+      "exemplo": "Redija uma carta de reclamação."
+    },
+    {
+      "termo": "elaborar",
+      "definicao": "produzir algo com cuidado/planejamento",
+      "exemplo": "Elabore um comentário sobre o tema."
+    },
+    {
+      "termo": "comentar",
+      "definicao": "dar uma opinião curta sobre algo",
+      "exemplo": "Comente a notícia no fórum."
+    },
+    {
+      "termo": "responder a",
+      "definicao": "reagir/replicar a algo específico",
+      "exemplo": "Responda ao e-mail do seu amigo."
+    },
+    {
+      "termo": "gênero textual",
+      "definicao": "tipo de texto com convenções próprias",
+      "exemplo": "E-mail, carta e fórum são gêneros diferentes."
+    },
+    {
+      "termo": "resumir",
+      "definicao": "reduzir um texto às ideias principais",
+      "exemplo": "Resuma a notícia em três frases."
+    },
+    {
+      "termo": "dar sua opinião sobre",
+      "definicao": "expressar um ponto de vista próprio",
+      "exemplo": "Dê sua opinião sobre o tema."
+    },
+    {
+      "termo": "cumprir a tarefa",
+      "definicao": "atender exatamente ao que foi pedido",
+      "exemplo": "Cumprir a tarefa é mais importante que só escrever bem."
+    },
+    {
+      "termo": "adequação ao gênero",
+      "definicao": "escrever no formato/tom esperado pelo gênero",
+      "exemplo": "A adequação ao gênero é avaliada na correção."
+    }
+  ],
+  "tagsVocabulario": [
+    "b1.1"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. \"Escreva um e-mail respondendo à reclamação do cliente.\"",
+      "resposta": "e-mail (formal, resposta a reclamação)"
+    },
+    {
+      "enunciado": "2. \"Redija um comentário para o fórum do jornal.\"",
+      "resposta": "comentário de fórum"
+    },
+    {
+      "enunciado": "3. \"Escreva uma carta para um amigo contando sua viagem.\"",
+      "resposta": "carta pessoal informal"
+    },
+    {
+      "enunciado": "1. \"Resuma as informações principais da notícia.\"",
+      "resposta": "resumir"
+    },
+    {
+      "enunciado": "2. \"Dê sua opinião sobre o tema da notícia.\"",
+      "resposta": "opinar"
+    },
+    {
+      "enunciado": "3. \"Comente o que você pensa sobre o assunto, considerando sua experiência.\"",
+      "resposta": "opinar"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "adequação ao gênero",
+      "significado": "escrever no formato/tom esperado pelo gênero"
+    },
+    {
+      "termo": "comando (da tarefa)",
+      "significado": "instrução que diz o que produzir"
+    },
+    {
+      "termo": "comentar",
+      "significado": "dar uma opinião curta sobre algo"
+    },
+    {
+      "termo": "cumprir a tarefa",
+      "significado": "atender exatamente ao que foi pedido"
+    },
+    {
+      "termo": "dar sua opinião sobre",
+      "significado": "expressar um ponto de vista próprio"
+    },
+    {
+      "termo": "elaborar",
+      "significado": "produzir algo com cuidado/planejamento"
+    },
+    {
+      "termo": "estímulo/input",
+      "significado": "material de partida (áudio/texto)"
+    },
+    {
+      "termo": "gênero textual",
+      "significado": "tipo de texto com convenções próprias"
+    },
+    {
+      "termo": "redigir",
+      "significado": "escrever de forma organizada"
+    },
+    {
+      "termo": "responder a",
+      "significado": "reagir/replicar a algo específico"
+    },
+    {
+      "termo": "resumir",
+      "significado": "reduzir um texto às ideias principais"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

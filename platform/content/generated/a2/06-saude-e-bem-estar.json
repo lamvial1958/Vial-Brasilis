@@ -1,0 +1,218 @@
+{
+  "nivel": "a2",
+  "slug": "06-saude-e-bem-estar",
+  "ordem": 6,
+  "codigo": "A2.6",
+  "titulo": "Saúde e Bem-Estar",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/a2.md`. Expande o vocabulário básico de saúde da A1.8 com descrição detalhada de sintomas e modais de recomendação — prepara terreno para o subjuntivo de recomendação, visto no B1.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — consulta médica:**\n> **Médico:** Bom dia. O que está sentindo?\n> **Paciente:** Bom dia, doutor. Estou com dor de cabeça forte e um pouco de febre.\n> **Médico:** Desde quando você está com esses sintomas?\n> **Paciente:** Desde ontem. Faz quase dois dias que não durmo bem.\n> **Médico:** Você tem dor em outra parte do corpo?\n> **Paciente:** Tenho sim, dor nas costas e no corpo todo.\n> **Médico:** Entendi. Você precisa descansar bastante e tomar bastante líquido. Eu vou passar um remédio para a febre. Você deveria evitar esforço físico por uns dias.\n> **Paciente:** É melhor eu fazer algum exame?\n> **Médico:** Não é necessário agora. Mas se a febre não baixar em dois dias, é melhor voltar aqui.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar sintoma | O que está sentindo? |\n| Descrever sintoma | Estou com dor de.../febre/tosse... |\n| Perguntar duração | Desde quando você está com isso? |\n| Indicar duração | Desde ontem. / Faz dois dias que... / Há dois dias... |\n| Dar recomendação | Você deveria.../ Você precisa.../ É melhor... |\n| Indicar condição | Se + situação, é melhor... |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| dor de cabeça | dor na cabeça | Estou com dor de cabeça. |\n| febre | temperatura corporal alta | Estou com febre. |\n| tosse | reflexo respiratório repetido | Tenho tosse há três dias. |\n| dor nas costas | dor na região dorsal | Sinto dor nas costas. |\n| sintoma | sinal de que algo não está bem no corpo | Quais são seus sintomas? |\n| remédio | medicamento | O médico passou um remédio. |\n| receita (médica) | papel com a indicação do remédio | Preciso da receita para comprar. |\n| exame | procedimento de diagnóstico | É melhor fazer um exame. |\n| esforço físico | atividade que exige energia do corpo | Evite esforço físico. |\n| clínico geral | médico de atendimento geral | Fui ao clínico geral. |\n| pediatra | médico especialista em crianças | A pediatra examinou a criança. |\n| dermatologista | médico especialista em pele | Marquei com a dermatologista. |\n| baixar (a febre) | diminuir | A febre não baixou ainda. |\n\n**(13 itens, tag `a2.6`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. \"Desde quando\" + presente do indicativo:** pergunta sobre o início de uma situação que continua.\n| Pergunta | Resposta |\n|---|---|\n| Desde quando você está com tosse? | Desde segunda-feira. / Desde ontem. |\n\n**B. Duração com \"há\" / \"faz... que\":**\n| Estrutura | Exemplo |\n|---|---|\n| Há + tempo | Há dois dias eu não durmo bem. |\n| Faz + tempo + que | Faz dois dias que eu não durmo bem. |\n\n> **Nota:** \"há\" e \"faz...que\" são intercambiáveis nesse uso — \"há dois dias\" = \"faz dois dias que\".\n\n**C. Modais de recomendação:**\n| Modal | Exemplo | Força |\n|---|---|---|\n| precisar (de) | Você precisa descansar. | obrigação/necessidade |\n| deveria | Você deveria evitar esforço físico. | recomendação forte |\n| é melhor | É melhor voltar se a febre não baixar. | sugestão |"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"Desde\" — \"e\" final reduzido, quase mudo na fala rápida:** \"desd'quando\".\n**B. \"Deveria\" — ditongo \"ia\" final átono,** igual ao padrão já visto em \"gostaria\" (A2.5).\n**C. Nasal em \"não\" dentro de \"se a febre não baixar\":** atenção ao ritmo da frase condicional, com leve pausa após a vírgula."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com \"desde\" ou \"há/faz...que\":**\n1. ___ quando você está com febre? → **Desde**\n2. ___ três dias eu tenho dor de cabeça. → **Há**\n3. ___ dois dias ___ eu não durmo bem. → **Faz...que**\n\n**Exercício 2 — Escolha o modal correto pelo contexto:**\n1. Se a dor continuar, ___ (é melhor/precisar) procurar um especialista. → **é melhor**\n2. Você ___ (deveria/é melhor) tomar bastante líquido. → **deveria**\n3. Você ___ (precisar) descansar pelo menos dois dias. → **precisa**\n\n**Exercício 3 — Complete o diálogo médico:**\n1. O que você está ___? → **sentindo**\n2. Estou ___ dor de cabeça e febre. → **com**\n3. O médico vai ___ um remédio. → **passar**\n\n**Exercício 4 — Associe sintoma e especialista:**\n(problema de pele / criança doente / dor geral) → (dermatologista / pediatra / clínico geral)"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Médica:** O que você está sentindo?\n> **Paciente:** Estou com tosse forte e dor de garganta. Faz quatro dias que estou assim.\n> **Médica:** Você tem febre também?\n> **Paciente:** Tive um pouco ontem, mas hoje não.\n> **Médica:** Entendi. Você precisa descansar a voz e tomar bastante líquido morno. É melhor evitar lugares com ar-condicionado por uns dias. Vou passar um remédio para a tosse.\n> **Paciente:** Preciso fazer algum exame?\n> **Médica:** Não por agora. Se não melhorar em uma semana, volte para reavaliarmos.\n\n**Perguntas:**\n1. Quais são os sintomas do paciente? → **Tosse forte e dor de garganta**\n2. Há quanto tempo ele está assim? → **Faz quatro dias**\n3. Ele tem febre hoje? → **Não, teve um pouco ontem**\n4. O que a médica recomenda evitar? → **Lugares com ar-condicionado**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Simule uma consulta médica (em par ou grave os dois papéis) em que você descreve sintomas detalhados e recebe recomendações. Inclua:\n1. Pelo menos 3 sintomas descritos com \"estou com...\"\n2. Uma pergunta e resposta usando \"desde quando\" ou \"há/faz...que\"\n3. Pelo menos 2 recomendações usando modais diferentes (precisar, deveria, é melhor)\n\n**Checklist de autoavaliação:**\n- [ ] Descrevi sintomas corretamente com \"estou com...\"\n- [ ] Usei \"desde quando\" ou \"há/faz...que\" para indicar duração\n- [ ] Usei pelo menos dois modais de recomendação diferentes\n- [ ] Pronunciei corretamente \"deveria\" com o ditongo átono final"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| baixar (a febre) | diminuir |\n| clínico geral | médico de atendimento geral |\n| dermatologista | médico especialista em pele |\n| dor de cabeça | dor na cabeça |\n| dor nas costas | dor na região dorsal |\n| esforço físico | atividade que exige energia do corpo |\n| exame | procedimento de diagnóstico |\n| febre | temperatura corporal alta |\n| pediatra | médico especialista em crianças |\n| receita (médica) | papel com a indicação do remédio |\n| remédio | medicamento |\n| sintoma | sinal de que algo não está bem no corpo |\n| tosse | reflexo respiratório repetido |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "dor de cabeça",
+      "definicao": "dor na cabeça",
+      "exemplo": "Estou com dor de cabeça."
+    },
+    {
+      "termo": "febre",
+      "definicao": "temperatura corporal alta",
+      "exemplo": "Estou com febre."
+    },
+    {
+      "termo": "tosse",
+      "definicao": "reflexo respiratório repetido",
+      "exemplo": "Tenho tosse há três dias."
+    },
+    {
+      "termo": "dor nas costas",
+      "definicao": "dor na região dorsal",
+      "exemplo": "Sinto dor nas costas."
+    },
+    {
+      "termo": "sintoma",
+      "definicao": "sinal de que algo não está bem no corpo",
+      "exemplo": "Quais são seus sintomas?"
+    },
+    {
+      "termo": "remédio",
+      "definicao": "medicamento",
+      "exemplo": "O médico passou um remédio."
+    },
+    {
+      "termo": "receita (médica)",
+      "definicao": "papel com a indicação do remédio",
+      "exemplo": "Preciso da receita para comprar."
+    },
+    {
+      "termo": "exame",
+      "definicao": "procedimento de diagnóstico",
+      "exemplo": "É melhor fazer um exame."
+    },
+    {
+      "termo": "esforço físico",
+      "definicao": "atividade que exige energia do corpo",
+      "exemplo": "Evite esforço físico."
+    },
+    {
+      "termo": "clínico geral",
+      "definicao": "médico de atendimento geral",
+      "exemplo": "Fui ao clínico geral."
+    },
+    {
+      "termo": "pediatra",
+      "definicao": "médico especialista em crianças",
+      "exemplo": "A pediatra examinou a criança."
+    },
+    {
+      "termo": "dermatologista",
+      "definicao": "médico especialista em pele",
+      "exemplo": "Marquei com a dermatologista."
+    },
+    {
+      "termo": "baixar (a febre)",
+      "definicao": "diminuir",
+      "exemplo": "A febre não baixou ainda."
+    }
+  ],
+  "tagsVocabulario": [
+    "a2.6"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. ___ quando você está com febre?",
+      "resposta": "Desde"
+    },
+    {
+      "enunciado": "2. ___ três dias eu tenho dor de cabeça.",
+      "resposta": "Há"
+    },
+    {
+      "enunciado": "3. ___ dois dias ___ eu não durmo bem.",
+      "resposta": "Faz...que"
+    },
+    {
+      "enunciado": "1. Se a dor continuar, ___ (é melhor/precisar) procurar um especialista.",
+      "resposta": "é melhor"
+    },
+    {
+      "enunciado": "2. Você ___ (deveria/é melhor) tomar bastante líquido.",
+      "resposta": "deveria"
+    },
+    {
+      "enunciado": "3. Você ___ (precisar) descansar pelo menos dois dias.",
+      "resposta": "precisa"
+    },
+    {
+      "enunciado": "1. O que você está ___?",
+      "resposta": "sentindo"
+    },
+    {
+      "enunciado": "2. Estou ___ dor de cabeça e febre.",
+      "resposta": "com"
+    },
+    {
+      "enunciado": "3. O médico vai ___ um remédio.",
+      "resposta": "passar"
+    },
+    {
+      "enunciado": "(problema de pele / criança doente / dor geral)",
+      "resposta": "(dermatologista / pediatra / clínico geral)"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "baixar (a febre)",
+      "significado": "diminuir"
+    },
+    {
+      "termo": "clínico geral",
+      "significado": "médico de atendimento geral"
+    },
+    {
+      "termo": "dermatologista",
+      "significado": "médico especialista em pele"
+    },
+    {
+      "termo": "dor de cabeça",
+      "significado": "dor na cabeça"
+    },
+    {
+      "termo": "dor nas costas",
+      "significado": "dor na região dorsal"
+    },
+    {
+      "termo": "esforço físico",
+      "significado": "atividade que exige energia do corpo"
+    },
+    {
+      "termo": "exame",
+      "significado": "procedimento de diagnóstico"
+    },
+    {
+      "termo": "febre",
+      "significado": "temperatura corporal alta"
+    },
+    {
+      "termo": "pediatra",
+      "significado": "médico especialista em crianças"
+    },
+    {
+      "termo": "receita (médica)",
+      "significado": "papel com a indicação do remédio"
+    },
+    {
+      "termo": "remédio",
+      "significado": "medicamento"
+    },
+    {
+      "termo": "sintoma",
+      "significado": "sinal de que algo não está bem no corpo"
+    },
+    {
+      "termo": "tosse",
+      "significado": "reflexo respiratório repetido"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

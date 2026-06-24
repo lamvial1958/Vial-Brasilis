@@ -1,0 +1,201 @@
+{
+  "nivel": "a2",
+  "slug": "07-viagens-pelo-brasil",
+  "ordem": 7,
+  "codigo": "A2.7",
+  "titulo": "Viagens pelo Brasil",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/a2.md`. Combina o futuro perifrástico (já visto no A1) com o pretérito perfeito (A2.1) num único ciclo de planejar → viajar → relatar.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — planejamento de viagem entre amigos, depois relato da viagem já feita:**\n> **Antes da viagem:**\n> **Júlia:** No mês que vem eu vou viajar para o Nordeste. Vou visitar Salvador e depois vou ficar uma semana em Porto de Galinhas.\n> **Renato:** Que demais! Como você vai se deslocar entre as duas cidades?\n> **Júlia:** Eu vou de avião até Salvador e depois vou alugar um carro para ir a Porto de Galinhas.\n> **Renato:** Você já fez a reserva da hospedagem?\n> **Júlia:** Já, vou ficar numa pousada na orla.\n>\n> **Depois da viagem:**\n> **Renato:** E aí, como foi a viagem ao Nordeste?\n> **Júlia:** Foi incrível! Eu visitei o Pelourinho em Salvador e depois fui para Porto de Galinhas. Lá eu conheci as piscinas naturais e me hospedei numa pousada maravilhosa.\n> **Renato:** Você pegou algum voo com atraso?\n> **Júlia:** Não, tudo correu bem. Só o aluguel do carro demorou um pouco mais do que esperado.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Anunciar plano de viagem | Vou viajar para... / Vou visitar... |\n| Perguntar sobre transporte planejado | Como você vai se deslocar? |\n| Confirmar reserva feita | Já fiz a reserva. |\n| Perguntar sobre viagem passada | Como foi a viagem? |\n| Relatar viagem já realizada | Eu visitei... / Eu conheci... / Eu me hospedei... |\n| Relatar imprevisto | Pegou atraso? / Demorou mais do que esperado. |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| reserva | confirmação prévia de um serviço | Fiz a reserva do hotel. |\n| hospedagem | lugar onde se fica durante a viagem | A hospedagem foi ótima. |\n| pousada | hospedagem pequena, geralmente turística | Fiquei numa pousada na praia. |\n| orla | faixa litorânea de uma cidade | A pousada fica na orla. |\n| alugar (carro) | usar um veículo temporariamente, pagando | Aluguei um carro para a viagem. |\n| voo | trajeto de avião | O voo atrasou uma hora. |\n| atraso | demora além do previsto | Pegamos atraso no voo. |\n| se deslocar | se mover de um lugar a outro | Como você vai se deslocar? |\n| região (do Brasil) | parte geográfica do país | O Nordeste é uma região. |\n| litoral | faixa de terra próxima ao mar | O litoral baiano é famoso. |\n| piscina natural | formação de água do mar/rio cercada de rochas/recifes | Conheci as piscinas naturais. |\n| pacote (de viagem) | conjunto de serviços vendidos juntos | Comprei um pacote de viagem. |\n\n**(12 itens, tag `a2.7`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Futuro perifrástico (plano futuro) — revisão do A1:**\n| Estrutura | Exemplo |\n|---|---|\n| ir (presente) + infinitivo | Vou viajar para o Nordeste. |\n\n**B. Pretérito perfeito (relato do que já aconteceu) — revisão do A2.1/A2.2:**\n| Estrutura | Exemplo |\n|---|---|\n| verbo no perfeito | Eu visitei o Pelourinho. Eu conheci as piscinas naturais. |\n\n**C. Combinação dos dois tempos numa mesma narrativa de viagem:** primeiro o plano (antes), depois o relato (depois) — o contraste entre os dois tempos verbais marca a passagem de \"planejado\" para \"realizado\".\n| Antes (plano) | Depois (relato) |\n|---|---|\n| Vou visitar Salvador. | Visitei Salvador. |\n| Vou ficar numa pousada. | Fiquei numa pousada. |\n| Vou alugar um carro. | Aluguei um carro. |"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Contração \"vou\" + infinitivo em fala rápida:** \"vô viajá\", redução natural do \"-r\" final do infinitivo na fala coloquial (não na escrita).\n**B. \"Hospedagem\" — \"g\" suave antes de \"e\":** som de \"j\" (como em \"geladeira\"), nunca \"g\" duro.\n**C. Acento em \"pousada\" (paroxítona):** pou-SA-da."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Transforme o plano em relato (futuro → perfeito):**\n1. Vou visitar Salvador. → **Visitei Salvador.**\n2. Vou ficar numa pousada. → **Fiquei numa pousada.**\n3. Vou alugar um carro. → **Aluguei um carro.**\n\n**Exercício 2 — Complete com vocabulário de viagem:**\n1. Fiz a ___ do hotel pela internet. → **reserva**\n2. O ___ atrasou duas horas. → **voo**\n3. A pousada fica na ___, perto da praia. → **orla**\n\n**Exercício 3 — Combine futuro e perfeito numa mesma frase:**\n\"Eu ___ (ir/visitar) o Pantanal no ano que vem, porque já ___ (conhecer) a Amazônia este ano.\" → **vou visitar / conheci**\n\n**Exercício 4 — Responda sobre uma viagem (real ou imaginada):**\nComo foi sua última viagem? (resposta livre usando pretérito perfeito)"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Apresentador:** Fernanda, conte para a gente sua última viagem.\n> **Fernanda:** Eu fui para o sul do Brasil. Visitei as Cataratas do Iguaçu e depois fui para Florianópolis. No Iguaçu eu peguei um barco que vai bem perto das quedas — foi incrível! Em Floripa eu aluguei uma bicicleta e conheci várias praias.\n> **Apresentador:** E você teve algum imprevisto?\n> **Fernanda:** Tive sim, o voo de volta atrasou quatro horas por causa do tempo. Mas valeu a pena.\n\n**Perguntas:**\n1. Quais lugares Fernanda visitou? → **Cataratas do Iguaçu e Florianópolis**\n2. O que ela fez no Iguaçu? → **Pegou um barco perto das quedas**\n3. Como ela se deslocou em Floripa? → **De bicicleta**\n4. Qual foi o imprevisto? → **O voo de volta atrasou quatro horas**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Conte sobre uma viagem em duas partes (oral ou escrito): primeiro o plano (antes de viajar) e depois o relato (já tendo viajado, real ou imaginado). Inclua:\n1. Pelo menos 2 frases no futuro perifrástico (plano)\n2. Pelo menos 4 frases no pretérito perfeito (relato)\n3. Pelo menos 3 itens de vocabulário de viagem (reserva, hospedagem, voo...)\n4. Um imprevisto relatado\n\n**Checklist de autoavaliação:**\n- [ ] Usei o futuro perifrástico para o plano\n- [ ] Usei o pretérito perfeito para o relato\n- [ ] Contrastei claramente \"antes\" e \"depois\" na narrativa\n- [ ] Usei vocabulário correto de viagem\n- [ ] Relatei pelo menos um imprevisto"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| alugar (carro) | usar um veículo temporariamente, pagando |\n| atraso | demora além do previsto |\n| hospedagem | lugar onde se fica durante a viagem |\n| litoral | faixa de terra próxima ao mar |\n| pacote (de viagem) | conjunto de serviços vendidos juntos |\n| piscina natural | formação de água do mar/rio cercada de rochas/recifes |\n| pousada | hospedagem pequena, geralmente turística |\n| região (do Brasil) | parte geográfica do país |\n| reserva | confirmação prévia de um serviço |\n| se deslocar | se mover de um lugar a outro |\n| voo | trajeto de avião |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "reserva",
+      "definicao": "confirmação prévia de um serviço",
+      "exemplo": "Fiz a reserva do hotel."
+    },
+    {
+      "termo": "hospedagem",
+      "definicao": "lugar onde se fica durante a viagem",
+      "exemplo": "A hospedagem foi ótima."
+    },
+    {
+      "termo": "pousada",
+      "definicao": "hospedagem pequena, geralmente turística",
+      "exemplo": "Fiquei numa pousada na praia."
+    },
+    {
+      "termo": "orla",
+      "definicao": "faixa litorânea de uma cidade",
+      "exemplo": "A pousada fica na orla."
+    },
+    {
+      "termo": "alugar (carro)",
+      "definicao": "usar um veículo temporariamente, pagando",
+      "exemplo": "Aluguei um carro para a viagem."
+    },
+    {
+      "termo": "voo",
+      "definicao": "trajeto de avião",
+      "exemplo": "O voo atrasou uma hora."
+    },
+    {
+      "termo": "atraso",
+      "definicao": "demora além do previsto",
+      "exemplo": "Pegamos atraso no voo."
+    },
+    {
+      "termo": "se deslocar",
+      "definicao": "se mover de um lugar a outro",
+      "exemplo": "Como você vai se deslocar?"
+    },
+    {
+      "termo": "região (do Brasil)",
+      "definicao": "parte geográfica do país",
+      "exemplo": "O Nordeste é uma região."
+    },
+    {
+      "termo": "litoral",
+      "definicao": "faixa de terra próxima ao mar",
+      "exemplo": "O litoral baiano é famoso."
+    },
+    {
+      "termo": "piscina natural",
+      "definicao": "formação de água do mar/rio cercada de rochas/recifes",
+      "exemplo": "Conheci as piscinas naturais."
+    },
+    {
+      "termo": "pacote (de viagem)",
+      "definicao": "conjunto de serviços vendidos juntos",
+      "exemplo": "Comprei um pacote de viagem."
+    }
+  ],
+  "tagsVocabulario": [
+    "a2.7"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "**Exercício 1 — Transforme o plano em relato (futuro",
+      "resposta": "perfeito):**"
+    },
+    {
+      "enunciado": "1. Vou visitar Salvador.",
+      "resposta": "Visitei Salvador."
+    },
+    {
+      "enunciado": "2. Vou ficar numa pousada.",
+      "resposta": "Fiquei numa pousada."
+    },
+    {
+      "enunciado": "3. Vou alugar um carro.",
+      "resposta": "Aluguei um carro."
+    },
+    {
+      "enunciado": "1. Fiz a ___ do hotel pela internet.",
+      "resposta": "reserva"
+    },
+    {
+      "enunciado": "2. O ___ atrasou duas horas.",
+      "resposta": "voo"
+    },
+    {
+      "enunciado": "3. A pousada fica na ___, perto da praia.",
+      "resposta": "orla"
+    },
+    {
+      "enunciado": "\"Eu ___ (ir/visitar) o Pantanal no ano que vem, porque já ___ (conhecer) a Amazônia este ano.\"",
+      "resposta": "vou visitar / conheci"
+    },
+    {
+      "enunciado": "Como foi sua última viagem?",
+      "resposta": "resposta livre usando pretérito perfeito"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "alugar (carro)",
+      "significado": "usar um veículo temporariamente, pagando"
+    },
+    {
+      "termo": "atraso",
+      "significado": "demora além do previsto"
+    },
+    {
+      "termo": "hospedagem",
+      "significado": "lugar onde se fica durante a viagem"
+    },
+    {
+      "termo": "litoral",
+      "significado": "faixa de terra próxima ao mar"
+    },
+    {
+      "termo": "pacote (de viagem)",
+      "significado": "conjunto de serviços vendidos juntos"
+    },
+    {
+      "termo": "piscina natural",
+      "significado": "formação de água do mar/rio cercada de rochas/recifes"
+    },
+    {
+      "termo": "pousada",
+      "significado": "hospedagem pequena, geralmente turística"
+    },
+    {
+      "termo": "região (do Brasil)",
+      "significado": "parte geográfica do país"
+    },
+    {
+      "termo": "reserva",
+      "significado": "confirmação prévia de um serviço"
+    },
+    {
+      "termo": "se deslocar",
+      "significado": "se mover de um lugar a outro"
+    },
+    {
+      "termo": "voo",
+      "significado": "trajeto de avião"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

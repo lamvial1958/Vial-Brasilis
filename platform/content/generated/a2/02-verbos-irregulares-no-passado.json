@@ -1,0 +1,191 @@
+{
+  "nivel": "a2",
+  "slug": "02-verbos-irregulares-no-passado",
+  "ordem": 2,
+  "codigo": "A2.2",
+  "titulo": "Verbos Irregulares no Passado",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/a2.md`. Esta unidade apresenta os 8 verbos irregulares mais frequentes no pretérito perfeito — essenciais para qualquer narrativa pessoal.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — entrevista informal sobre a chegada ao Brasil:**\n> **Jornalista:** Quando você veio para o Brasil?\n> **Helena:** Eu vim em 2022. Foi uma mudança grande.\n> **Jornalista:** E como foi a experiência?\n> **Helena:** No início foi difícil. Eu não tinha amigos, então fiz um curso de português e conheci pessoas novas.\n> **Jornalista:** Você disse que foi difícil. Por quê?\n> **Helena:** Porque eu estive sozinha nos primeiros meses. Mas depois tudo ficou melhor. Eu fui a muitas festas, vi lugares incríveis e tive experiências ótimas.\n> **Jornalista:** E você voltou ao seu país desde então?\n> **Helena:** Não, ainda não voltei. Mas quero ir no ano que vem.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Narrar chegada/início de algo | Eu vim/fui/fiz... |\n| Explicar uma dificuldade passada | Foi difícil porque... |\n| Marcar mudança no tempo | No início... mas depois... |\n| Indicar experiência vivida | Eu tive/vi/fui a... |\n| Falar de algo que ainda não aconteceu | Ainda não + verbo no perfeito |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| mudança | troca de lugar/situação | Foi uma mudança grande. |\n| no início | nos primeiros momentos | No início foi difícil. |\n| sozinho/sozinha | sem companhia | Eu estive sozinha. |\n| experiência | vivência, fato vivido | Tive uma experiência ótima. |\n| incrível | muito bom, surpreendente | Vi lugares incríveis. |\n| ainda não | até agora, não | Ainda não voltei. |\n| desde então | a partir daquele momento | Desde então, tudo mudou. |\n| ano que vem | o próximo ano | Quero ir no ano que vem. |\n| festa | evento social/comemoração | Eu fui a muitas festas. |\n| conhecer (pessoas) | fazer contato por primeira vez | Conheci pessoas novas. |\n\n**(10 itens, tag `a2.2`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Os 8 verbos irregulares mais frequentes no pretérito perfeito:**\n\n| Pessoa | ser | ir | ter | fazer |\n|---|---|---|---|---|\n| eu | fui | fui | tive | fiz |\n| você/ele/ela | foi | foi | teve | fez |\n| nós | fomos | fomos | tivemos | fizemos |\n| vocês/eles/elas | foram | foram | tiveram | fizeram |\n\n| Pessoa | estar | vir | ver | dizer |\n|---|---|---|---|---|\n| eu | estive | vim | vi | disse |\n| você/ele/ela | esteve | veio | viu | disse |\n| nós | estivemos | viemos | vimos | dissemos |\n| vocês/eles/elas | estiveram | vieram | viram | disseram |\n\n> **Nota:** \"ser\" e \"ir\" têm exatamente a mesma conjugação no pretérito perfeito (fui, foi, fomos, foram) — só o contexto distingue: \"Eu fui professor\" (ser) vs. \"Eu fui ao Brasil\" (ir).\n\n**B. Atenção à pronúncia/grafia de \"fiz/fez/fizemos/fizeram\"** (raiz muda de fa- para fi-/fe-) e de \"disse/disseram\" (raiz muda de diz- para diss-)."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Ditongo \"oi\" em \"foi\":** som fechado e rápido, sem separar as vogais.\n**B. Contraste \"vim\" (eu) × \"veio\" (ele):** vogal nasal fechada \"i\" vs. ditongo \"ei\" — atenção, são sons bem diferentes mesmo sendo o mesmo verbo.\n**C. \"Disse\" com \"ss\" surdo:** como em \"passe\", nunca como \"z\"."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com o verbo irregular correto:**\n1. Eu ___ (vir) para o Brasil em 2022. → **vim**\n2. Ela ___ (ser/ir) a muitas festas. → **foi**\n3. Nós ___ (ter) uma experiência ótima. → **tivemos**\n4. Eles ___ (fazer) um curso de português. → **fizeram**\n5. Você ___ (ver) lugares incríveis? → **viu**\n6. Eu ___ (dizer) que foi difícil. → **disse**\n7. Ela ___ (estar) sozinha nos primeiros meses. → **esteve**\n\n**Exercício 2 — Distinga ser × ir (mesma forma, contexto diferente):**\n\"Eu fui estudante\" (___) · \"Eu fui à escola\" (___) → **ser / ir**\n\n**Exercício 3 — Complete a narrativa:**\nEu ___ (vir) ao Brasil, ___ (fazer) amigos novos e ___ (ter) experiências incríveis. → **vim, fiz, tive**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Carlos:** Eu vim para o Brasil há três anos. No primeiro mês eu não tive nenhum amigo brasileiro, só estrangeiros. Depois eu fiz um curso de português e conheci muita gente. No ano passado eu fui a quinze festas diferentes! E vi praticamente todo o litoral do estado.\n> **Entrevistador:** E você disse que mudou de ideia sobre o Brasil?\n> **Carlos:** Disse sim. No início eu pensei em voltar para casa, mas hoje eu amo morar aqui.\n\n**Perguntas:**\n1. Há quanto tempo Carlos veio para o Brasil? → **Há três anos**\n2. O que ele fez depois do primeiro mês difícil? → **Fez um curso de português**\n3. A quantas festas ele foi no ano passado? → **A quinze festas**\n4. O que ele pensou no início? → **Em voltar para casa**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Conte (oral ou escrito, 1 minuto/1 parágrafo) a história da sua chegada a um lugar novo (Brasil, uma cidade nova, um emprego novo). Use obrigatoriamente:\n1. Pelo menos 4 dos 8 verbos irregulares apresentados\n2. A expressão \"no início... mas depois...\"\n3. Pelo menos uma experiência marcante com \"Eu tive/vi/fiz...\"\n\n**Checklist de autoavaliação:**\n- [ ] Usei corretamente pelo menos 4 verbos irregulares no pretérito perfeito\n- [ ] Distingui corretamente \"ser\" e \"ir\" pelo contexto\n- [ ] Usei \"no início... mas depois...\" para marcar mudança no tempo\n- [ ] Pronunciei corretamente o contraste \"vim\" × \"veio\""
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| ainda não | até agora, não |\n| ano que vem | o próximo ano |\n| conhecer (pessoas) | fazer contato por primeira vez |\n| desde então | a partir daquele momento |\n| experiência | vivência, fato vivido |\n| festa | evento social/comemoração |\n| incrível | muito bom, surpreendente |\n| mudança | troca de lugar/situação |\n| no início | nos primeiros momentos |\n| sozinho/sozinha | sem companhia |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "mudança",
+      "definicao": "troca de lugar/situação",
+      "exemplo": "Foi uma mudança grande."
+    },
+    {
+      "termo": "no início",
+      "definicao": "nos primeiros momentos",
+      "exemplo": "No início foi difícil."
+    },
+    {
+      "termo": "sozinho/sozinha",
+      "definicao": "sem companhia",
+      "exemplo": "Eu estive sozinha."
+    },
+    {
+      "termo": "experiência",
+      "definicao": "vivência, fato vivido",
+      "exemplo": "Tive uma experiência ótima."
+    },
+    {
+      "termo": "incrível",
+      "definicao": "muito bom, surpreendente",
+      "exemplo": "Vi lugares incríveis."
+    },
+    {
+      "termo": "ainda não",
+      "definicao": "até agora, não",
+      "exemplo": "Ainda não voltei."
+    },
+    {
+      "termo": "desde então",
+      "definicao": "a partir daquele momento",
+      "exemplo": "Desde então, tudo mudou."
+    },
+    {
+      "termo": "ano que vem",
+      "definicao": "o próximo ano",
+      "exemplo": "Quero ir no ano que vem."
+    },
+    {
+      "termo": "festa",
+      "definicao": "evento social/comemoração",
+      "exemplo": "Eu fui a muitas festas."
+    },
+    {
+      "termo": "conhecer (pessoas)",
+      "definicao": "fazer contato por primeira vez",
+      "exemplo": "Conheci pessoas novas."
+    }
+  ],
+  "tagsVocabulario": [
+    "a2.2"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Eu ___ (vir) para o Brasil em 2022.",
+      "resposta": "vim"
+    },
+    {
+      "enunciado": "2. Ela ___ (ser/ir) a muitas festas.",
+      "resposta": "foi"
+    },
+    {
+      "enunciado": "3. Nós ___ (ter) uma experiência ótima.",
+      "resposta": "tivemos"
+    },
+    {
+      "enunciado": "4. Eles ___ (fazer) um curso de português.",
+      "resposta": "fizeram"
+    },
+    {
+      "enunciado": "5. Você ___ (ver) lugares incríveis?",
+      "resposta": "viu"
+    },
+    {
+      "enunciado": "6. Eu ___ (dizer) que foi difícil.",
+      "resposta": "disse"
+    },
+    {
+      "enunciado": "7. Ela ___ (estar) sozinha nos primeiros meses.",
+      "resposta": "esteve"
+    },
+    {
+      "enunciado": "\"Eu fui estudante\"",
+      "resposta": "___"
+    },
+    {
+      "enunciado": "\"Eu fui à escola\" (___)",
+      "resposta": "ser / ir"
+    },
+    {
+      "enunciado": "Eu ___ (vir) ao Brasil, ___ (fazer) amigos novos e ___ (ter) experiências incríveis.",
+      "resposta": "vim, fiz, tive"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "ainda não",
+      "significado": "até agora, não"
+    },
+    {
+      "termo": "ano que vem",
+      "significado": "o próximo ano"
+    },
+    {
+      "termo": "conhecer (pessoas)",
+      "significado": "fazer contato por primeira vez"
+    },
+    {
+      "termo": "desde então",
+      "significado": "a partir daquele momento"
+    },
+    {
+      "termo": "experiência",
+      "significado": "vivência, fato vivido"
+    },
+    {
+      "termo": "festa",
+      "significado": "evento social/comemoração"
+    },
+    {
+      "termo": "incrível",
+      "significado": "muito bom, surpreendente"
+    },
+    {
+      "termo": "mudança",
+      "significado": "troca de lugar/situação"
+    },
+    {
+      "termo": "no início",
+      "significado": "nos primeiros momentos"
+    },
+    {
+      "termo": "sozinho/sozinha",
+      "significado": "sem companhia"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

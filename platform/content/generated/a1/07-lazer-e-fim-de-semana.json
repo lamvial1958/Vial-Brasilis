@@ -1,0 +1,148 @@
+{
+  "nivel": "a1",
+  "slug": "07-lazer-e-fim-de-semana",
+  "ordem": 7,
+  "codigo": "A1.7",
+  "titulo": "Lazer e Fim de Semana",
+  "tipo": "licao",
+  "notaIntro": "*Cena — amigos combinando o fim de semana:*",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — amigos combinando o fim de semana:**\n> **Sofia:** Gente, o que vocês fazem no fim de semana?\n> **Tom:** Eu adoro jogar futebol com os amigos no sábado de manhã.\n> **Li:** Eu prefiro ficar em casa, eu gosto de ler e assistir filmes.\n> **Marco:** Eu odeio ficar em casa! Eu adoro ir à praia ou fazer uma trilha.\n> **Sofia:** Então, que tal irmos à praia esse sábado? Todo fim de semana eu fico em casa, preciso sair um pouco.\n> **Tom:** Combinado! Depois do futebol, eu vou.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer o que gosta/não gosta | Eu gosto de... / Eu não gosto de... |\n| Dizer preferência forte | Eu adoro... / Eu odeio... |\n| Dizer preferência comparativa | Eu prefiro... |\n| Propor um plano | Que tal + infinitivo/substantivo...? |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "futebol, praia, trilha, filme, leitura, passeio, parque, shopping, festa, jogo, natação, academia, bicicleta, caminhada, churrasco — **(15 itens, tag `a1.7`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Verbos de preferência + infinitivo:**\n| Verbo | Estrutura | Exemplo |\n|---|---|---|\n| gostar | gostar **de** + infinitivo | Eu gosto **de** ler. |\n| adorar | adorar + infinitivo (sem preposição) | Eu adoro jogar futebol. |\n| odiar | odiar + infinitivo (sem preposição) | Eu odeio ficar em casa. |\n| preferir | preferir + infinitivo (sem preposição) | Eu prefiro assistir filmes. |\n\n> **Atenção:** só \"gostar\" exige a preposição \"de\" antes do infinitivo — é o erro mais comum de quem aprende: \"Eu gosto ler\" (✗) → \"Eu gosto **de** ler\" (✓).\n\n**B. \"Todo fim de semana eu...\" — marcador de hábito recorrente, reforça o presente simples já visto na A1.3.**"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Verbo irregular \"prefiro\" — vogal da raiz muda (e→i) na 1ª pessoa: prefiro, mas você prefere.**\n**B. \"lh\" em \"trilha\" (revisão).**\n**C. Nasalização revisão: \"também\", \"não\".**"
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com a preposição quando necessário:**\n1. Eu gosto ___ nadar. → **de**\n2. Eu adoro ___ futebol. → **jogar** (sem preposição)\n3. Ela prefere ___ em casa. → **ficar** (sem preposição)\n\n**Exercício 2 — Associe pessoa à atividade preferida:**\nTom → futebol · Li → ler/assistir filmes · Marco → praia/trilha\n\n**Exercício 3 — Reescreva usando \"gostar de\":**\n\"Eu adoro jogar futebol\" → **Eu gosto de jogar futebol** (mantendo o sentido geral, sem a intensidade de \"adorar\")\n\n**Exercício 4 — Verdadeiro ou falso:**\n\"Li gosta de ficar em casa\" → **V** · \"Marco odeia ir à praia\" → **F** (ele adora)"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Entrevistador:** O que você gosta de fazer no fim de semana?\n> **Pessoa 1:** Eu adoro andar de bicicleta no parque.\n> **Pessoa 2:** Eu prefiro ir ao shopping com amigas.\n> **Pessoa 3:** Eu odeio sair de casa, gosto mesmo é de descansar e ler.\n\n**Perguntas:**\n1. O que a Pessoa 1 adora fazer? → **Andar de bicicleta no parque**\n2. O que a Pessoa 3 prefere fazer? → **Descansar e ler em casa**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Converse (em par ou role-play solo) sobre planos e preferências de lazer: diga 3 coisas que gosta/adora/odeia/prefere fazer no fim de semana, pergunte ao colega e proponha um plano em conjunto usando \"Que tal...?\".\n\n**Checklist de autoavaliação:**\n- [ ] Usei \"gostar de\" com a preposição corretamente\n- [ ] Usei \"adorar/odiar/preferir\" sem preposição antes do infinitivo\n- [ ] Propus um plano com \"Que tal...?\"\n- [ ] Usei \"todo fim de semana eu...\" para um hábito\n- [ ] Pronunciei corretamente o \"prefiro\" irregular"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| academia | local para exercícios físicos |\n| bicicleta | veículo de duas rodas movido a pedal |\n| caminhada | passeio a pé |\n| churrasco | refeição com carne grelhada, comum no Brasil |\n| festa | evento social de celebração |\n| filme / leitura | entretenimento audiovisual / ato de ler |\n| futebol / natação | esportes |\n| gostar de / adorar / odiar / preferir | verbos de preferência |\n| jogo | partida de um esporte/competição |\n| parque / praia / trilha | lugares de lazer |\n| passeio | saída de lazer |\n| que tal...? | fórmula para propor um plano |\n| shopping | centro comercial |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [
+    "a1.7"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Eu gosto ___ nadar.",
+      "resposta": "de"
+    },
+    {
+      "enunciado": "2. Eu adoro ___ futebol.",
+      "resposta": "**jogar** (sem preposição)"
+    },
+    {
+      "enunciado": "3. Ela prefere ___ em casa.",
+      "resposta": "**ficar** (sem preposição)"
+    },
+    {
+      "enunciado": "Tom",
+      "resposta": "futebol"
+    },
+    {
+      "enunciado": "Li",
+      "resposta": "ler/assistir filmes"
+    },
+    {
+      "enunciado": "Marco",
+      "resposta": "praia/trilha"
+    },
+    {
+      "enunciado": "\"Eu adoro jogar futebol\"",
+      "resposta": "**Eu gosto de jogar futebol** (mantendo o sentido geral, sem a intensidade de \"adorar\")"
+    },
+    {
+      "enunciado": "\"Li gosta de ficar em casa\"",
+      "resposta": "V"
+    },
+    {
+      "enunciado": "\"Marco odeia ir à praia\"",
+      "resposta": "**F** (ele adora)"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "academia",
+      "significado": "local para exercícios físicos"
+    },
+    {
+      "termo": "bicicleta",
+      "significado": "veículo de duas rodas movido a pedal"
+    },
+    {
+      "termo": "caminhada",
+      "significado": "passeio a pé"
+    },
+    {
+      "termo": "churrasco",
+      "significado": "refeição com carne grelhada, comum no Brasil"
+    },
+    {
+      "termo": "festa",
+      "significado": "evento social de celebração"
+    },
+    {
+      "termo": "filme / leitura",
+      "significado": "entretenimento audiovisual / ato de ler"
+    },
+    {
+      "termo": "futebol / natação",
+      "significado": "esportes"
+    },
+    {
+      "termo": "gostar de / adorar / odiar / preferir",
+      "significado": "verbos de preferência"
+    },
+    {
+      "termo": "jogo",
+      "significado": "partida de um esporte/competição"
+    },
+    {
+      "termo": "parque / praia / trilha",
+      "significado": "lugares de lazer"
+    },
+    {
+      "termo": "passeio",
+      "significado": "saída de lazer"
+    },
+    {
+      "termo": "que tal...?",
+      "significado": "fórmula para propor um plano"
+    },
+    {
+      "termo": "shopping",
+      "significado": "centro comercial"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

@@ -1,0 +1,217 @@
+{
+  "nivel": "a2",
+  "slug": "03-comparando-e-avaliando",
+  "ordem": 3,
+  "codigo": "A2.3",
+  "titulo": "Comparando e Avaliando",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/a2.md`. Foco em opinião justificada e comparação — habilidades centrais para qualquer conversa cotidiana mais elaborada.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — dois amigos decidindo onde passar as férias:**\n> **Ana:** Estou pensando em viajar para o Rio ou para Florianópolis. Qual você acha melhor?\n> **Pedro:** Na minha opinião, Florianópolis é mais tranquila que o Rio. O Rio é mais agitado e tem mais opções de vida noturna.\n> **Ana:** É verdade. Mas o Rio tem praias tão bonitas quanto Floripa, não acha?\n> **Pedro:** Acho que sim, mas eu acho as praias de Floripa mais limpas. E os preços lá são menos altos que no Rio.\n> **Ana:** Então, na sua opinião, qual é o melhor destino para quem quer economizar?\n> **Pedro:** Sem dúvida, Floripa é a melhor opção para economizar. É a cidade mais barata das duas para hospedagem.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dar opinião | Na minha opinião... / Eu acho que... |\n| Comparar (superioridade) | X é mais ___ que/do que Y |\n| Comparar (inferioridade) | X é menos ___ que/do que Y |\n| Comparar (igualdade) | X é tão ___ quanto Y |\n| Superlativo | X é o/a mais ___ (de todos) |\n| Pedir opinião | Qual você acha melhor? / O que você acha? |\n| Concordar/discordar parcialmente | É verdade, mas... / Acho que sim, mas... |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| na minha opinião | fórmula para dar opinião | Na minha opinião, é melhor. |\n| eu acho que | fórmula para dar opinião | Eu acho que sim. |\n| tranquilo/tranquila | calmo, sem agitação | Floripa é tranquila. |\n| agitado/agitada | com muito movimento | O Rio é agitado. |\n| limpo/limpa | sem sujeira | As praias são limpas. |\n| barato/barata | de preço baixo | A hospedagem é barata. |\n| caro/cara | de preço alto | O Rio é mais caro. |\n| economizar | gastar menos, guardar dinheiro | Quero economizar nas férias. |\n| destino (de viagem) | lugar para onde se viaja | Qual é o melhor destino? |\n| sem dúvida | com certeza | Sem dúvida, é a melhor opção. |\n| vida noturna | atividades à noite (bares, baladas) | O Rio tem mais vida noturna. |\n| hospedagem | lugar para se alojar | A hospedagem é cara. |\n\n**(12 itens, tag `a2.3`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Comparativo de superioridade/inferioridade:**\n| Estrutura | Exemplo |\n|---|---|\n| mais + adjetivo + que/do que | Floripa é mais tranquila que o Rio. |\n| menos + adjetivo + que/do que | O Rio é menos tranquilo que Floripa. |\n\n**B. Comparativo de igualdade:**\n| Estrutura | Exemplo |\n|---|---|\n| tão + adjetivo + quanto | As praias são tão bonitas quanto as do Rio. |\n\n**C. Superlativo:**\n| Estrutura | Exemplo |\n|---|---|\n| o/a mais + adjetivo (+ de) | Floripa é a cidade mais barata (das duas). |\n| o/a menos + adjetivo (+ de) | É o destino menos caro do Brasil. |\n\n**D. Formas irregulares de comparativo/superlativo:**\n| Adjetivo | Comparativo | Superlativo |\n|---|---|---|\n| bom/boa | melhor | o/a melhor |\n| mau/má | pior | o/a pior |\n| grande | maior | o/a maior |\n| pequeno/pequena | menor | o/a menor |\n\n> **Nota:** \"melhor\", \"pior\", \"maior\" e \"menor\" já substituem \"mais bom\", \"mais mau\" etc. — nunca se diz \"mais melhor\"."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"que\" vs. \"do que\" em comparações:** ambos são corretos e intercambiáveis; \"do que\" é levemente mais formal/escrito.\n**B. Ditongo \"ão\" em \"não\" dentro de \"na minha opinião\":** atenção à nasalização final, igual à de \"então\".\n**C. Entonação de discordância parcial:** \"É verdade, **mas**...\" — a palavra \"mas\" carrega leve ênfase e pausa antes dela."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com mais/menos/tão...quanto:**\n1. O Rio é ___ agitado ___ Floripa. → **mais...que/do que**\n2. Floripa é ___ cara ___ o Rio. → **menos...que/do que**\n3. As praias são ___ bonitas ___ as do Rio. → **tão...quanto**\n\n**Exercício 2 — Use a forma irregular correta:**\n1. Esse hotel é ___ (bom, comparativo) que o outro. → **melhor**\n2. Esse é o ___ (grande, superlativo) prédio da cidade. → **maior**\n3. Esse restaurante é ___ (mau, comparativo) que o outro. → **pior**\n\n**Exercício 3 — Transforme em superlativo:**\n\"Essa praia é muito bonita, mais bonita que todas as outras.\" → **Essa é a praia mais bonita de todas.**\n\n**Exercício 4 — Dê sua opinião usando o quadro funcional:**\n(Pergunta: Qual é melhor, São Paulo ou o Rio de Janeiro?) → resposta livre, modelo: **Na minha opinião, o Rio é mais bonito, mas São Paulo é mais prático para trabalhar.**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Locutor:** E aí, qual cidade brasileira você recomendaria para um turista, Beatriz?\n> **Beatriz:** Eu recomendaria Salvador. Na minha opinião, é a cidade mais cultural do Brasil. A comida é tão boa quanto a do Rio, mas eu acho mais autêntica. O custo de vida é menor que em São Paulo, então é mais barato para o turista.\n> **Locutor:** E o que você acha pior em Salvador?\n> **Beatriz:** O trânsito é pior do que eu esperava, mas isso não tira o brilho da cidade.\n\n**Perguntas:**\n1. Qual cidade Beatriz recomenda? → **Salvador**\n2. Como ela compara a comida de Salvador com a do Rio? → **Tão boa quanto, mas mais autêntica**\n3. Como está o custo de vida em relação a São Paulo? → **Menor / mais barato**\n4. O que ela acha pior em Salvador? → **O trânsito**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Compare duas cidades, dois produtos ou duas experiências (oral ou escrito, 1 minuto/1 parágrafo). Use obrigatoriamente:\n1. Pelo menos um comparativo de superioridade (mais...que)\n2. Pelo menos um comparativo de igualdade (tão...quanto)\n3. Pelo menos um superlativo (o mais/o melhor)\n4. A fórmula \"na minha opinião\" ou \"eu acho que\" para justificar sua escolha\n\n**Checklist de autoavaliação:**\n- [ ] Usei corretamente \"mais/menos...que\" para comparar\n- [ ] Usei \"tão...quanto\" para igualdade\n- [ ] Usei um superlativo corretamente\n- [ ] Usei \"melhor/pior/maior/menor\" em vez de \"mais bom/mais mau\" etc.\n- [ ] Justifiquei minha opinião com pelo menos um motivo"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| agitado/agitada | com muito movimento |\n| barato/barata | de preço baixo |\n| caro/cara | de preço alto |\n| destino (de viagem) | lugar para onde se viaja |\n| economizar | gastar menos, guardar dinheiro |\n| eu acho que | fórmula para dar opinião |\n| hospedagem | lugar para se alojar |\n| limpo/limpa | sem sujeira |\n| maior | comparativo/superlativo irregular de \"grande\" |\n| melhor | comparativo/superlativo irregular de \"bom\" |\n| menor | comparativo/superlativo irregular de \"pequeno\" |\n| na minha opinião | fórmula para dar opinião |\n| pior | comparativo/superlativo irregular de \"mau\" |\n| sem dúvida | com certeza |\n| tranquilo/tranquila | calmo, sem agitação |\n| vida noturna | atividades à noite (bares, baladas) |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "na minha opinião",
+      "definicao": "fórmula para dar opinião",
+      "exemplo": "Na minha opinião, é melhor."
+    },
+    {
+      "termo": "eu acho que",
+      "definicao": "fórmula para dar opinião",
+      "exemplo": "Eu acho que sim."
+    },
+    {
+      "termo": "tranquilo/tranquila",
+      "definicao": "calmo, sem agitação",
+      "exemplo": "Floripa é tranquila."
+    },
+    {
+      "termo": "agitado/agitada",
+      "definicao": "com muito movimento",
+      "exemplo": "O Rio é agitado."
+    },
+    {
+      "termo": "limpo/limpa",
+      "definicao": "sem sujeira",
+      "exemplo": "As praias são limpas."
+    },
+    {
+      "termo": "barato/barata",
+      "definicao": "de preço baixo",
+      "exemplo": "A hospedagem é barata."
+    },
+    {
+      "termo": "caro/cara",
+      "definicao": "de preço alto",
+      "exemplo": "O Rio é mais caro."
+    },
+    {
+      "termo": "economizar",
+      "definicao": "gastar menos, guardar dinheiro",
+      "exemplo": "Quero economizar nas férias."
+    },
+    {
+      "termo": "destino (de viagem)",
+      "definicao": "lugar para onde se viaja",
+      "exemplo": "Qual é o melhor destino?"
+    },
+    {
+      "termo": "sem dúvida",
+      "definicao": "com certeza",
+      "exemplo": "Sem dúvida, é a melhor opção."
+    },
+    {
+      "termo": "vida noturna",
+      "definicao": "atividades à noite (bares, baladas)",
+      "exemplo": "O Rio tem mais vida noturna."
+    },
+    {
+      "termo": "hospedagem",
+      "definicao": "lugar para se alojar",
+      "exemplo": "A hospedagem é cara."
+    }
+  ],
+  "tagsVocabulario": [
+    "a2.3"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. O Rio é ___ agitado ___ Floripa.",
+      "resposta": "mais...que/do que"
+    },
+    {
+      "enunciado": "2. Floripa é ___ cara ___ o Rio.",
+      "resposta": "menos...que/do que"
+    },
+    {
+      "enunciado": "3. As praias são ___ bonitas ___ as do Rio.",
+      "resposta": "tão...quanto"
+    },
+    {
+      "enunciado": "1. Esse hotel é ___ (bom, comparativo) que o outro.",
+      "resposta": "melhor"
+    },
+    {
+      "enunciado": "2. Esse é o ___ (grande, superlativo) prédio da cidade.",
+      "resposta": "maior"
+    },
+    {
+      "enunciado": "3. Esse restaurante é ___ (mau, comparativo) que o outro.",
+      "resposta": "pior"
+    },
+    {
+      "enunciado": "\"Essa praia é muito bonita, mais bonita que todas as outras.\"",
+      "resposta": "Essa é a praia mais bonita de todas."
+    },
+    {
+      "enunciado": "(Pergunta: Qual é melhor, São Paulo ou o Rio de Janeiro?)",
+      "resposta": "resposta livre, modelo: **Na minha opinião, o Rio é mais bonito, mas São Paulo é mais prático para trabalhar.**"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "agitado/agitada",
+      "significado": "com muito movimento"
+    },
+    {
+      "termo": "barato/barata",
+      "significado": "de preço baixo"
+    },
+    {
+      "termo": "caro/cara",
+      "significado": "de preço alto"
+    },
+    {
+      "termo": "destino (de viagem)",
+      "significado": "lugar para onde se viaja"
+    },
+    {
+      "termo": "economizar",
+      "significado": "gastar menos, guardar dinheiro"
+    },
+    {
+      "termo": "eu acho que",
+      "significado": "fórmula para dar opinião"
+    },
+    {
+      "termo": "hospedagem",
+      "significado": "lugar para se alojar"
+    },
+    {
+      "termo": "limpo/limpa",
+      "significado": "sem sujeira"
+    },
+    {
+      "termo": "maior",
+      "significado": "comparativo/superlativo irregular de \"grande\""
+    },
+    {
+      "termo": "melhor",
+      "significado": "comparativo/superlativo irregular de \"bom\""
+    },
+    {
+      "termo": "menor",
+      "significado": "comparativo/superlativo irregular de \"pequeno\""
+    },
+    {
+      "termo": "na minha opinião",
+      "significado": "fórmula para dar opinião"
+    },
+    {
+      "termo": "pior",
+      "significado": "comparativo/superlativo irregular de \"mau\""
+    },
+    {
+      "termo": "sem dúvida",
+      "significado": "com certeza"
+    },
+    {
+      "termo": "tranquilo/tranquila",
+      "significado": "calmo, sem agitação"
+    },
+    {
+      "termo": "vida noturna",
+      "significado": "atividades à noite (bares, baladas)"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

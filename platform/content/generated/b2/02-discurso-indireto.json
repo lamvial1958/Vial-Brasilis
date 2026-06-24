@@ -1,0 +1,193 @@
+{
+  "nivel": "b2",
+  "slug": "02-discurso-indireto",
+  "ordem": 2,
+  "codigo": "B2.2",
+  "titulo": "Discurso Indireto",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b2.md`. Pré-requisito: B1.5 (narrativa com perfeito/imperfeito). Projeta para B2.6 (discurso relatado em contexto jornalístico).",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — colega relatando para um terceiro o que foi dito numa reunião:**\n> **Marina:** Você foi à reunião de ontem? O que ficou decidido?\n> **Tiago:** Fui. O gerente disse que o projeto **estava** atrasado e que nós **precisávamos** entregar a primeira versão até sexta.\n> **Marina:** Sério? E sobre o orçamento, alguém falou algo?\n> **Tiago:** A Carla perguntou se **haveria** mais recursos esse mês. O gerente respondeu que **veria** com a diretoria e que **daria** uma resposta na semana seguinte.\n> **Marina:** E quanto à equipe nova, comentaram alguma coisa?\n> **Tiago:** Sim, ele afirmou que **contratariam** mais duas pessoas, mas só depois que o projeto atual **fosse** entregue.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Relatar afirmação | (Ele) disse/afirmou que... |\n| Relatar pergunta | (Ela) perguntou se... |\n| Relatar promessa/previsão | (Ele) respondeu que veria/daria... |\n| Relatar condição futura relatada no passado | ...depois que o projeto fosse entregue |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| afirmar que | declarar algo com convicção | O gerente afirmou que o projeto estava atrasado. |\n| declarar que | dizer formalmente | A diretora declarou que apoiava a decisão. |\n| perguntar se | relatar uma pergunta de sim/não | A Carla perguntou se haveria recursos. |\n| perguntar o que/quando/como | relatar uma pergunta aberta | Ele perguntou quando entregaríamos o projeto. |\n| responder que | relatar uma resposta | Ele respondeu que veria com a diretoria. |\n| sugerir que | relatar uma sugestão | O gerente sugeriu que revisássemos o prazo. |\n| comentar que | relatar um comentário | Ela comentou que a equipe estava sobrecarregada. |\n| avisar que | relatar um aviso | Ele avisou que a reunião mudaria de horário. |\n| ficou decidido que | relatar uma decisão coletiva | Ficou decidido que a entrega seria adiada. |\n| segundo (alguém) | introduz a fonte de uma informação relatada | Segundo o gerente, o prazo é sexta. |\n| de acordo com | sinônimo formal de \"segundo\" | De acordo com a diretoria, haverá novos recursos. |\n| na ocasião | marca temporal formal para o momento relatado | Na ocasião, ele afirmou que tudo seguia como planejado. |\n\n**(12 itens, tag `b2.2`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Transposição de tempos verbais — discurso direto → indireto (verbo introdutor no passado):**\n| Discurso direto | Discurso indireto |\n|---|---|\n| Presente (\"O projeto **está** atrasado.\") | Pretérito imperfeito (\"Disse que o projeto **estava** atrasado.\") |\n| Pretérito perfeito (\"Eu **entreguei** o relatório.\") | Pretérito mais-que-perfeito/composto (\"Disse que **tinha entregue/entregara** o relatório.\") |\n| Futuro do presente (\"Eu **verei** com a diretoria.\") | Futuro do pretérito (\"Disse que **veria** com a diretoria.\") |\n| Imperativo (\"**Revise** o prazo.\") | Subjuntivo imperfeito introduzido por \"que\" (\"Sugeriu que **revisássemos** o prazo.\") |\n\n**B. Transposição de pronomes e possessivos:**\n| Direto | Indireto (relatado por terceiro) |\n|---|---|\n| \"Eu vou entregar **meu** relatório.\" | Disse que ia entregar **o** relatório (dele/dela). |\n| \"Você precisa revisar **seu** texto.\" | Disse que **eu/ele** precisava revisar **meu/seu** texto. |\n\n**C. Transposição de advérbios de tempo e lugar:**\n| Direto | Indireto |\n|---|---|\n| hoje | naquele dia / aquele dia |\n| ontem | no dia anterior |\n| amanhã | no dia seguinte |\n| aqui | lá / ali |\n| agora | naquele momento |\n\n**D. Verbos introdutores e a estrutura que regem:**\n| Tipo de fala relatada | Verbo introdutor | Estrutura |\n|---|---|---|\n| Afirmação | disse/afirmou/declarou que | + indicativo (transposto) |\n| Pergunta sim/não | perguntou se | + indicativo (transposto) |\n| Pergunta aberta | perguntou o que/quando/como/onde | + indicativo (transposto) |\n| Pedido/sugestão | pediu/sugeriu que | + subjuntivo |"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Entonação do discurso relatado:** ao contrário da fala direta (com possíveis exclamações/perguntas marcadas), o discurso indireto tem entonação mais plana e contínua, sem as marcas prosódicas da fala original.\n**B. Contraste \"disse que\" × \"perguntou se\":** \"que\" introduz afirmação (sem elevação de voz); \"se\" introduz pergunta relatada, mas **sem** a entonação ascendente de pergunta direta."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Transforme para o discurso indireto (verbo introdutor \"disse que\"):**\n1. \"Eu vou viajar amanhã.\" → **Disse que ia viajar no dia seguinte.**\n2. \"O projeto está atrasado.\" → **Disse que o projeto estava atrasado.**\n\n**Exercício 2 — Transforme a pergunta direta em pergunta relatada:**\n1. \"Você vai à reunião?\" (perguntou) → **Perguntou se eu ia à reunião.**\n2. \"Quando você entrega o relatório?\" (perguntou) → **Perguntou quando eu entregava/entregaria o relatório.**\n\n**Exercício 3 — Transforme o pedido/sugestão em discurso indireto com subjuntivo:**\n\"Revise o prazo.\" (sugeriu) → **Sugeriu que eu revisasse o prazo.**\n\n**Exercício 4 — Identifique os erros de transposição na frase abaixo e corrija:**\n\"Ele disse que vai viajar hoje.\" (relatado dias depois) → **Erro: \"vai\" deveria ser \"ia\" e \"hoje\" deveria ser \"naquele dia\". Correção: Ele disse que ia viajar naquele dia.**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Áudio — relato de uma conversa:**\n> Ontem eu conversei com o professor sobre a prova. Ele disse que a prova **seria** mais curta do que o normal e que **abordaria** principalmente os últimos dois capítulos. Perguntei se **poderíamos** usar dicionário, e ele respondeu que **não seria** necessário, porque o vocabulário **seria** simples. Também sugeriu que **revisássemos** os exercícios do livro antes da prova.\n\n**Perguntas:**\n1. O que o professor disse sobre o tamanho da prova? → **Que seria mais curta do que o normal**\n2. Que capítulos a prova abordaria, segundo o relato? → **Os últimos dois capítulos**\n3. O que o professor respondeu sobre o uso de dicionário? → **Que não seria necessário**\n4. O que o professor sugeriu como preparação? → **Que revisassem os exercícios do livro**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Relate por escrito (120–150 palavras) e depois oralmente uma conversa real ou inventada (uma reunião, uma aula, uma ligação) usando discurso indireto. Inclua:\n1. Pelo menos duas afirmações relatadas com transposição correta de tempo verbal\n2. Pelo menos uma pergunta relatada (com \"se\" ou com palavra interrogativa)\n3. Pelo menos um pedido ou sugestão relatado com subjuntivo\n4. Pelo menos uma transposição de advérbio de tempo/lugar (hoje→naquele dia, aqui→lá)\n\n**Checklist de autoavaliação:**\n- [ ] Transpus corretamente os tempos verbais do discurso direto para o indireto\n- [ ] Transpus corretamente pronomes e advérbios de tempo/lugar quando necessário\n- [ ] Usei \"perguntou se\" e \"perguntou o que/quando/como\" corretamente\n- [ ] Usei subjuntivo ao relatar pedidos/sugestões"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| afirmar que | declarar algo com convicção |\n| avisar que | relatar um aviso |\n| comentar que | relatar um comentário |\n| de acordo com | sinônimo formal de \"segundo\" |\n| declarar que | dizer formalmente |\n| ficou decidido que | relatar uma decisão coletiva |\n| na ocasião | marca temporal formal para o momento relatado |\n| perguntar o que/quando/como | relatar uma pergunta aberta |\n| perguntar se | relatar uma pergunta de sim/não |\n| responder que | relatar uma resposta |\n| segundo (alguém) | introduz a fonte de uma informação relatada |\n| sugerir que | relatar uma sugestão |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "afirmar que",
+      "definicao": "declarar algo com convicção",
+      "exemplo": "O gerente afirmou que o projeto estava atrasado."
+    },
+    {
+      "termo": "declarar que",
+      "definicao": "dizer formalmente",
+      "exemplo": "A diretora declarou que apoiava a decisão."
+    },
+    {
+      "termo": "perguntar se",
+      "definicao": "relatar uma pergunta de sim/não",
+      "exemplo": "A Carla perguntou se haveria recursos."
+    },
+    {
+      "termo": "perguntar o que/quando/como",
+      "definicao": "relatar uma pergunta aberta",
+      "exemplo": "Ele perguntou quando entregaríamos o projeto."
+    },
+    {
+      "termo": "responder que",
+      "definicao": "relatar uma resposta",
+      "exemplo": "Ele respondeu que veria com a diretoria."
+    },
+    {
+      "termo": "sugerir que",
+      "definicao": "relatar uma sugestão",
+      "exemplo": "O gerente sugeriu que revisássemos o prazo."
+    },
+    {
+      "termo": "comentar que",
+      "definicao": "relatar um comentário",
+      "exemplo": "Ela comentou que a equipe estava sobrecarregada."
+    },
+    {
+      "termo": "avisar que",
+      "definicao": "relatar um aviso",
+      "exemplo": "Ele avisou que a reunião mudaria de horário."
+    },
+    {
+      "termo": "ficou decidido que",
+      "definicao": "relatar uma decisão coletiva",
+      "exemplo": "Ficou decidido que a entrega seria adiada."
+    },
+    {
+      "termo": "segundo (alguém)",
+      "definicao": "introduz a fonte de uma informação relatada",
+      "exemplo": "Segundo o gerente, o prazo é sexta."
+    },
+    {
+      "termo": "de acordo com",
+      "definicao": "sinônimo formal de \"segundo\"",
+      "exemplo": "De acordo com a diretoria, haverá novos recursos."
+    },
+    {
+      "termo": "na ocasião",
+      "definicao": "marca temporal formal para o momento relatado",
+      "exemplo": "Na ocasião, ele afirmou que tudo seguia como planejado."
+    }
+  ],
+  "tagsVocabulario": [
+    "b2.2"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. \"Eu vou viajar amanhã.\"",
+      "resposta": "Disse que ia viajar no dia seguinte."
+    },
+    {
+      "enunciado": "2. \"O projeto está atrasado.\"",
+      "resposta": "Disse que o projeto estava atrasado."
+    },
+    {
+      "enunciado": "1. \"Você vai à reunião?\" (perguntou)",
+      "resposta": "Perguntou se eu ia à reunião."
+    },
+    {
+      "enunciado": "2. \"Quando você entrega o relatório?\" (perguntou)",
+      "resposta": "Perguntou quando eu entregava/entregaria o relatório."
+    },
+    {
+      "enunciado": "\"Revise o prazo.\" (sugeriu)",
+      "resposta": "Sugeriu que eu revisasse o prazo."
+    },
+    {
+      "enunciado": "\"Ele disse que vai viajar hoje.\" (relatado dias depois)",
+      "resposta": "Erro: \"vai\" deveria ser \"ia\" e \"hoje\" deveria ser \"naquele dia\". Correção: Ele disse que ia viajar naquele dia."
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "afirmar que",
+      "significado": "declarar algo com convicção"
+    },
+    {
+      "termo": "avisar que",
+      "significado": "relatar um aviso"
+    },
+    {
+      "termo": "comentar que",
+      "significado": "relatar um comentário"
+    },
+    {
+      "termo": "de acordo com",
+      "significado": "sinônimo formal de \"segundo\""
+    },
+    {
+      "termo": "declarar que",
+      "significado": "dizer formalmente"
+    },
+    {
+      "termo": "ficou decidido que",
+      "significado": "relatar uma decisão coletiva"
+    },
+    {
+      "termo": "na ocasião",
+      "significado": "marca temporal formal para o momento relatado"
+    },
+    {
+      "termo": "perguntar o que/quando/como",
+      "significado": "relatar uma pergunta aberta"
+    },
+    {
+      "termo": "perguntar se",
+      "significado": "relatar uma pergunta de sim/não"
+    },
+    {
+      "termo": "responder que",
+      "significado": "relatar uma resposta"
+    },
+    {
+      "termo": "segundo (alguém)",
+      "significado": "introduz a fonte de uma informação relatada"
+    },
+    {
+      "termo": "sugerir que",
+      "significado": "relatar uma sugestão"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

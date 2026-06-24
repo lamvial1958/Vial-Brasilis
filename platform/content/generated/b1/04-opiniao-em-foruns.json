@@ -1,0 +1,221 @@
+{
+  "nivel": "b1",
+  "slug": "04-opiniao-em-foruns",
+  "ordem": 4,
+  "codigo": "B1.4",
+  "titulo": "Opinião em Fóruns",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b1.md`. Terceiro gênero do nível: comentário argumentativo de fórum, com foco em conectores que organizam pontos de vista — base direta para B1.9 e B2.3.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Texto de Abertura",
+      "markdown": "**Post original do fórum (estímulo):**\n> **Tema do fórum:** Trabalho remoto: vantagem ou desvantagem para a produtividade?\n\n**Comentário-modelo:**\n> Na minha opinião, o trabalho remoto trouxe mais vantagens do que desvantagens, pelo menos pela minha experiência.\n>\n> Por um lado, ganhei muito tempo que antes gastava no trânsito, e isso melhorou minha qualidade de vida. Além disso, consigo organizar meu próprio horário, o que aumenta minha produtividade em horários que funcionam melhor para mim.\n>\n> Por outro lado, é verdade que sinto falta do contato direto com os colegas, e às vezes a comunicação por chat gera mal-entendidos que seriam resolvidos rapidamente numa conversa pessoal.\n>\n> No entanto, considerando o conjunto, acho que os benefícios superam os problemas. Portanto, defendo que o modelo remoto (ou ao menos híbrido) deveria continuar sendo oferecido como opção.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Apresentar opinião inicial | Na minha opinião, .../ Eu acho que... |\n| Apresentar um lado do argumento | Por um lado, ... |\n| Apresentar o lado contrário | Por outro lado, ... |\n| Acrescentar argumento no mesmo sentido | Além disso, ... |\n| Introduzir contraponto/ressalva | No entanto, ... |\n| Concluir/defender posição final | Portanto, defendo que... |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| na minha opinião | fórmula de abertura de ponto de vista | Na minha opinião, isso é positivo. |\n| por um lado | introduz o primeiro argumento de uma comparação | Por um lado, ganhei tempo. |\n| por outro lado | introduz o argumento contrário | Por outro lado, sinto falta do contato. |\n| além disso | acrescenta um argumento no mesmo sentido | Além disso, isso aumenta a produtividade. |\n| no entanto | introduz uma ressalva/contraponto | No entanto, há desvantagens também. |\n| portanto | introduz uma conclusão lógica | Portanto, defendo que... |\n| defender (um ponto de vista) | argumentar a favor de algo | Defendo que o modelo deveria continuar. |\n| ponto de vista | opinião, perspectiva pessoal | Esse é o meu ponto de vista sobre o tema. |\n| vantagem | aspecto positivo | A principal vantagem é a flexibilidade. |\n| desvantagem | aspecto negativo | A desvantagem é o isolamento social. |\n| superar (um problema) | ser maior/mais importante que | Os benefícios superam os problemas. |\n| mal-entendido | confusão de comunicação | O chat às vezes gera mal-entendidos. |\n| considerar (o conjunto) | avaliar tudo junto, no geral | Considerando o conjunto, prefiro o remoto. |\n| concordar (com) | ter a mesma opinião | Concordo parcialmente com esse argumento. |\n| discordar (de) | ter opinião diferente | Discordo dessa visão. |\n| do meu ponto de vista | fórmula alternativa de opinião pessoal | Do meu ponto de vista, é uma boa mudança. |\n\n**(15 itens, tag `b1.4`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Função & Gramática em Foco",
+      "markdown": "**A. Conectores argumentativos — mapa de uso:**\n| Conector | Função | Posição típica |\n|---|---|---|\n| por um lado / por outro lado | organizar argumentos opostos em par | início de frase/parágrafo |\n| além disso | somar argumento no mesmo sentido do anterior | início de frase |\n| no entanto | introduzir contraste/ressalva | início de frase |\n| portanto | introduzir conclusão | início de frase, geralmente no parágrafo final |\n\n**B. Estrutura de um comentário argumentativo bem organizado:**\n1. Posicionamento inicial claro (na minha opinião...)\n2. Argumento(s) a favor (por um lado / além disso)\n3. Reconhecimento do contraponto (por outro lado / no entanto)\n4. Conclusão que retoma a posição inicial (portanto)\n\n**C. Diferença entre concordar parcialmente e discordar totalmente:** \"Concordo parcialmente, mas...\" é mais nuançado e mais valorizado na correção do que uma opinião unilateral sem matização."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"Portanto\" — ditongo nasal \"-tanto\":** por-TAN-to, nasalização leve no \"an\".\n**B. Entonação de contraste em \"no entanto\":** leve pausa antes e depois do conector, marcando a virada argumentativa."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com o conector adequado:**\n\"Acho que o transporte público melhorou. ___, ainda falta investimento em segurança.\" (contraste) → **No entanto**\n\n**Exercício 2 — Organize os argumentos com \"por um lado / por outro lado\":**\n\"(trânsito reduzido) / (poluição do ar ainda alta)\" → **Por um lado, o trânsito reduziu. Por outro lado, a poluição do ar ainda está alta.**\n\n**Exercício 3 — Complete a conclusão com \"portanto\":**\n\"Os argumentos a favor são mais fortes. ___, defendo que a medida deve continuar.\" → **Portanto**\n\n**Exercício 4 — Identifique a função do conector sublinhado:**\n\"O projeto trouxe benefícios. **Além disso**, criou novos empregos.\" → **soma argumento no mesmo sentido**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Leitura — Texto e Perguntas",
+      "markdown": "> **Comentário de fórum (estímulo de tarefa):**\n> Tema: uso de celular em sala de aula.\n>\n> Na minha opinião, o celular deveria ser permitido com restrições, não banido totalmente. Por um lado, ele distrai os alunos durante a explicação. Por outro lado, é uma ferramenta útil para pesquisa rápida e atividades em grupo. Além disso, proibir totalmente pode gerar mais resistência do que adesão. No entanto, reconheço que sem regras claras o uso vira um problema sério. Portanto, defendo regras específicas (horários permitidos) em vez de proibição total.\n\n**Perguntas:**\n1. Qual é a posição final do autor? → **Regras específicas de uso, não proibição total**\n2. Que argumento contrário ele reconhece? → **Que sem regras claras, o uso do celular vira um problema sério**\n3. Quais conectores ele usa para organizar o texto? → **Por um lado, por outro lado, além disso, no entanto, portanto**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Escreva um comentário argumentativo de fórum (150–200 palavras) sobre um tema cotidiano (transporte público, redes sociais, trabalho remoto, uso de celular em sala de aula, ou outro tema à sua escolha). Inclua:\n1. Posicionamento inicial claro\n2. Pelo menos dois argumentos a favor da sua posição\n3. Pelo menos um contraponto reconhecido (por outro lado / no entanto)\n4. Conclusão com \"portanto\", retomando sua posição\n\n**Checklist de autoavaliação:**\n- [ ] Apresentei um posicionamento claro desde o início\n- [ ] Usei pelo menos 4 conectores argumentativos diferentes\n- [ ] Reconheci pelo menos um contraponto, sem abandonar minha posição\n- [ ] Minha conclusão retoma e reforça o posicionamento inicial"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| além disso | acrescenta um argumento no mesmo sentido |\n| concordar (com) | ter a mesma opinião |\n| considerar (o conjunto) | avaliar tudo junto, no geral |\n| defender (um ponto de vista) | argumentar a favor de algo |\n| desvantagem | aspecto negativo |\n| discordar (de) | ter opinião diferente |\n| do meu ponto de vista | fórmula alternativa de opinião pessoal |\n| mal-entendido | confusão de comunicação |\n| na minha opinião | fórmula de abertura de ponto de vista |\n| no entanto | introduz uma ressalva/contraponto |\n| ponto de vista | opinião, perspectiva pessoal |\n| por outro lado | introduz o argumento contrário |\n| por um lado | introduz o primeiro argumento de uma comparação |\n| portanto | introduz uma conclusão lógica |\n| superar (um problema) | ser maior/mais importante que |\n| vantagem | aspecto positivo |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "na minha opinião",
+      "definicao": "fórmula de abertura de ponto de vista",
+      "exemplo": "Na minha opinião, isso é positivo."
+    },
+    {
+      "termo": "por um lado",
+      "definicao": "introduz o primeiro argumento de uma comparação",
+      "exemplo": "Por um lado, ganhei tempo."
+    },
+    {
+      "termo": "por outro lado",
+      "definicao": "introduz o argumento contrário",
+      "exemplo": "Por outro lado, sinto falta do contato."
+    },
+    {
+      "termo": "além disso",
+      "definicao": "acrescenta um argumento no mesmo sentido",
+      "exemplo": "Além disso, isso aumenta a produtividade."
+    },
+    {
+      "termo": "no entanto",
+      "definicao": "introduz uma ressalva/contraponto",
+      "exemplo": "No entanto, há desvantagens também."
+    },
+    {
+      "termo": "portanto",
+      "definicao": "introduz uma conclusão lógica",
+      "exemplo": "Portanto, defendo que..."
+    },
+    {
+      "termo": "defender (um ponto de vista)",
+      "definicao": "argumentar a favor de algo",
+      "exemplo": "Defendo que o modelo deveria continuar."
+    },
+    {
+      "termo": "ponto de vista",
+      "definicao": "opinião, perspectiva pessoal",
+      "exemplo": "Esse é o meu ponto de vista sobre o tema."
+    },
+    {
+      "termo": "vantagem",
+      "definicao": "aspecto positivo",
+      "exemplo": "A principal vantagem é a flexibilidade."
+    },
+    {
+      "termo": "desvantagem",
+      "definicao": "aspecto negativo",
+      "exemplo": "A desvantagem é o isolamento social."
+    },
+    {
+      "termo": "superar (um problema)",
+      "definicao": "ser maior/mais importante que",
+      "exemplo": "Os benefícios superam os problemas."
+    },
+    {
+      "termo": "mal-entendido",
+      "definicao": "confusão de comunicação",
+      "exemplo": "O chat às vezes gera mal-entendidos."
+    },
+    {
+      "termo": "considerar (o conjunto)",
+      "definicao": "avaliar tudo junto, no geral",
+      "exemplo": "Considerando o conjunto, prefiro o remoto."
+    },
+    {
+      "termo": "concordar (com)",
+      "definicao": "ter a mesma opinião",
+      "exemplo": "Concordo parcialmente com esse argumento."
+    },
+    {
+      "termo": "discordar (de)",
+      "definicao": "ter opinião diferente",
+      "exemplo": "Discordo dessa visão."
+    },
+    {
+      "termo": "do meu ponto de vista",
+      "definicao": "fórmula alternativa de opinião pessoal",
+      "exemplo": "Do meu ponto de vista, é uma boa mudança."
+    }
+  ],
+  "tagsVocabulario": [
+    "b1.4"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "\"Acho que o transporte público melhorou. ___, ainda falta investimento em segurança.\" (contraste)",
+      "resposta": "No entanto"
+    },
+    {
+      "enunciado": "\"(trânsito reduzido) / (poluição do ar ainda alta)\"",
+      "resposta": "Por um lado, o trânsito reduziu. Por outro lado, a poluição do ar ainda está alta."
+    },
+    {
+      "enunciado": "\"Os argumentos a favor são mais fortes. ___, defendo que a medida deve continuar.\"",
+      "resposta": "Portanto"
+    },
+    {
+      "enunciado": "\"O projeto trouxe benefícios. **Além disso**, criou novos empregos.\"",
+      "resposta": "soma argumento no mesmo sentido"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "além disso",
+      "significado": "acrescenta um argumento no mesmo sentido"
+    },
+    {
+      "termo": "concordar (com)",
+      "significado": "ter a mesma opinião"
+    },
+    {
+      "termo": "considerar (o conjunto)",
+      "significado": "avaliar tudo junto, no geral"
+    },
+    {
+      "termo": "defender (um ponto de vista)",
+      "significado": "argumentar a favor de algo"
+    },
+    {
+      "termo": "desvantagem",
+      "significado": "aspecto negativo"
+    },
+    {
+      "termo": "discordar (de)",
+      "significado": "ter opinião diferente"
+    },
+    {
+      "termo": "do meu ponto de vista",
+      "significado": "fórmula alternativa de opinião pessoal"
+    },
+    {
+      "termo": "mal-entendido",
+      "significado": "confusão de comunicação"
+    },
+    {
+      "termo": "na minha opinião",
+      "significado": "fórmula de abertura de ponto de vista"
+    },
+    {
+      "termo": "no entanto",
+      "significado": "introduz uma ressalva/contraponto"
+    },
+    {
+      "termo": "ponto de vista",
+      "significado": "opinião, perspectiva pessoal"
+    },
+    {
+      "termo": "por outro lado",
+      "significado": "introduz o argumento contrário"
+    },
+    {
+      "termo": "por um lado",
+      "significado": "introduz o primeiro argumento de uma comparação"
+    },
+    {
+      "termo": "portanto",
+      "significado": "introduz uma conclusão lógica"
+    },
+    {
+      "termo": "superar (um problema)",
+      "significado": "ser maior/mais importante que"
+    },
+    {
+      "termo": "vantagem",
+      "significado": "aspecto positivo"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

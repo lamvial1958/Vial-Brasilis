@@ -1,0 +1,221 @@
+{
+  "nivel": "b1",
+  "slug": "07-linguagem-de-noticia",
+  "ordem": 7,
+  "codigo": "B1.7",
+  "titulo": "Linguagem de Notícia",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b1.md`. Quarto gênero do nível: notícia jornalística, introduzindo voz passiva e nominalização — base para B2.6.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Texto de Abertura",
+      "markdown": "**Notícia-modelo (adaptada, estímulo de tarefa):**\n> **Nova ciclovia é inaugurada na zona sul da cidade**\n>\n> Uma nova ciclovia de 8 quilômetros foi inaugurada nesta semana na zona sul da cidade. O projeto foi criado pela prefeitura como parte de um plano de mobilidade urbana e foi financiado com recursos municipais e estaduais.\n>\n> Segundo a administração, a obra foi concluída em oito meses e deve beneficiar cerca de 15 mil ciclistas por mês. A inauguração foi marcada por um evento com a participação de moradores e autoridades locais.\n>\n> Moradores entrevistados disseram que a ciclovia era esperada há anos e que vai melhorar a segurança no trânsito da região.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Anunciar fato principal (manchete) | [Sujeito] + é/foi + verbo no participio |\n| Relatar com voz passiva | foi criado(a) por... / foi anunciado(a) que... |\n| Atribuir fonte de informação | Segundo a administração, .../ Moradores disseram que... |\n| Indicar dados/números | de 8 quilômetros / cerca de 15 mil... |\n| Citar opinião de entrevistados | [Pessoa] disse que... |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| inaugurar | abrir oficialmente algo novo | A ciclovia foi inaugurada nesta semana. |\n| financiar | fornecer dinheiro para um projeto | A obra foi financiada com recursos municipais. |\n| recursos (financeiros) | dinheiro/fundos disponíveis | Recursos estaduais ajudaram no projeto. |\n| concluir (uma obra) | terminar um projeto/construção | A obra foi concluída em oito meses. |\n| beneficiar | trazer vantagem/ajuda a alguém | Deve beneficiar 15 mil ciclistas por mês. |\n| segundo (fonte) | de acordo com (introduz fonte) | Segundo a administração, tudo correu bem. |\n| autoridade(s) | pessoa(s) com poder/cargo oficial | Autoridades locais participaram do evento. |\n| entrevistado/a | pessoa que respondeu a perguntas de um repórter | Moradores entrevistados comentaram a obra. |\n| mobilidade urbana | sistema de transporte/circulação na cidade | O plano de mobilidade urbana inclui ciclovias. |\n| ser esperado/a (há anos) | algo aguardado por muito tempo | A ciclovia era esperada há anos. |\n| manchete | título principal de uma notícia | A manchete anunciava a inauguração. |\n| reportagem | matéria jornalística completa sobre um fato | Li uma reportagem sobre o assunto. |\n| divulgar | tornar público/anunciar | A prefeitura divulgou os dados da obra. |\n| de acordo com | fórmula equivalente a \"segundo\" | De acordo com os dados, o uso aumentou. |\n| previsão (de prazo/data) | estimativa de quando algo vai acontecer | A previsão é de conclusão em um ano. |\n| impacto (social/ambiental) | efeito de uma ação sobre algo/alguém | O impacto da obra foi positivo. |\n\n**(16 itens, tag `b1.7`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Função & Gramática em Foco",
+      "markdown": "**A. Voz passiva — formação:**\n| Voz ativa | Voz passiva |\n|---|---|\n| A prefeitura criou o projeto. | O projeto foi criado pela prefeitura. |\n| O governo anunciou a medida. | A medida foi anunciada pelo governo. |\n| Os engenheiros concluíram a obra. | A obra foi concluída pelos engenheiros. |\n\n> **Regra:** sujeito da ativa → agente da passiva (com \"por\"); objeto da ativa → sujeito da passiva; verbo = \"ser\" (no tempo da ativa) + participio do verbo principal.\n\n**B. \"Foi anunciado que...\" — passiva com oração completiva (sem agente expresso):**\n| Estrutura | Exemplo |\n|---|---|\n| Foi anunciado que + oração | Foi anunciado que a obra terminará em dezembro. |\n| Foi informado que + oração | Foi informado que o prazo mudou. |\n\n**C. Nominalização comum em manchetes (verbo→substantivo):**\n| Verbo | Substantivo (nominalização) | Exemplo em manchete |\n|---|---|---|\n| inaugurar | inauguração | Inauguração de ciclovia atrai moradores |\n| aumentar | aumento | Aumento de ciclistas é registrado na região |\n| reduzir | redução | Redução de acidentes é apontada por dados |"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Leitura de manchete — ritmo telegráfico, sem artigos desnecessários:** \"Nova ciclovia é inaugurada\" lido com ênfase nas palavras de conteúdo, não nas funcionais.\n**B. Participios irregulares frequentes em notícia:** feito, dito, aberto, concluído — atenção à pronúncia do \"í\" tônico em \"concluído\"."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Transforme para a voz passiva:**\n\"O governo anunciou a nova lei.\" → **A nova lei foi anunciada pelo governo.**\n\n**Exercício 2 — Complete a manchete com a nominalização adequada:**\n\"___ (aumentar) do uso de bicicletas é registrado em pesquisa.\" → **Aumento**\n\n**Exercício 3 — Identifique a fonte da informação na frase:**\n\"Segundo a prefeitura, a obra termina em dezembro.\" → **a prefeitura**\n\n**Exercício 4 — Complete com \"foi + participio + que\":**\n\"___ ___ ___ a obra vai custar 2 milhões de reais.\" → **Foi informado que**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Leitura — Texto e Perguntas",
+      "markdown": "> **Notícia (estímulo de tarefa):**\n> **Pesquisa aponta aumento no uso de transporte por aplicativo nas capitais**\n>\n> Uma pesquisa divulgada nesta semana mostrou que o uso de transporte por aplicativo aumentou 18% nas capitais brasileiras no último ano. Segundo os pesquisadores, o crescimento foi impulsionado pela falta de investimento no transporte público tradicional.\n>\n> De acordo com os dados, os usuários mais jovens lideram o crescimento. Foi informado que uma nova pesquisa, com foco em cidades médias, será divulgada no próximo semestre.\n\n**Perguntas:**\n1. Qual é o dado principal da notícia? → **Aumento de 18% no uso de transporte por aplicativo nas capitais**\n2. Qual é a causa apontada pelos pesquisadores? → **Falta de investimento no transporte público tradicional**\n3. Quem lidera o crescimento, segundo os dados? → **Os usuários mais jovens**\n4. O que foi informado sobre o futuro? → **Que uma nova pesquisa sobre cidades médias será divulgada no próximo semestre**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Escreva um resumo (80–100 palavras) da notícia da seção 6, seguido de uma opinião pessoal breve (40–60 palavras) sobre o fato relatado. Inclua:\n1. No resumo: pelo menos 2 construções com voz passiva\n2. No resumo: identificação clara da fonte da informação (\"segundo...\", \"de acordo com...\")\n3. Na opinião: um posicionamento pessoal claro sobre o tema\n\n**Checklist de autoavaliação:**\n- [ ] Meu resumo usa voz passiva corretamente em pelo menos 2 frases\n- [ ] Identifiquei a fonte da informação no resumo\n- [ ] Separei claramente o resumo (fatos) da opinião pessoal (meu ponto de vista)\n- [ ] Não copiei frases inteiras do texto original — reformulei com minhas palavras"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| autoridade(s) | pessoa(s) com poder/cargo oficial |\n| beneficiar | trazer vantagem/ajuda a alguém |\n| concluir (uma obra) | terminar um projeto/construção |\n| de acordo com | fórmula equivalente a \"segundo\" |\n| divulgar | tornar público/anunciar |\n| entrevistado/a | pessoa que respondeu a perguntas de um repórter |\n| financiar | fornecer dinheiro para um projeto |\n| impacto (social/ambiental) | efeito de uma ação sobre algo/alguém |\n| inaugurar | abrir oficialmente algo novo |\n| manchete | título principal de uma notícia |\n| mobilidade urbana | sistema de transporte/circulação na cidade |\n| previsão (de prazo/data) | estimativa de quando algo vai acontecer |\n| recursos (financeiros) | dinheiro/fundos disponíveis |\n| reportagem | matéria jornalística completa sobre um fato |\n| segundo (fonte) | de acordo com (introduz fonte) |\n| ser esperado/a (há anos) | algo aguardado por muito tempo |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "inaugurar",
+      "definicao": "abrir oficialmente algo novo",
+      "exemplo": "A ciclovia foi inaugurada nesta semana."
+    },
+    {
+      "termo": "financiar",
+      "definicao": "fornecer dinheiro para um projeto",
+      "exemplo": "A obra foi financiada com recursos municipais."
+    },
+    {
+      "termo": "recursos (financeiros)",
+      "definicao": "dinheiro/fundos disponíveis",
+      "exemplo": "Recursos estaduais ajudaram no projeto."
+    },
+    {
+      "termo": "concluir (uma obra)",
+      "definicao": "terminar um projeto/construção",
+      "exemplo": "A obra foi concluída em oito meses."
+    },
+    {
+      "termo": "beneficiar",
+      "definicao": "trazer vantagem/ajuda a alguém",
+      "exemplo": "Deve beneficiar 15 mil ciclistas por mês."
+    },
+    {
+      "termo": "segundo (fonte)",
+      "definicao": "de acordo com (introduz fonte)",
+      "exemplo": "Segundo a administração, tudo correu bem."
+    },
+    {
+      "termo": "autoridade(s)",
+      "definicao": "pessoa(s) com poder/cargo oficial",
+      "exemplo": "Autoridades locais participaram do evento."
+    },
+    {
+      "termo": "entrevistado/a",
+      "definicao": "pessoa que respondeu a perguntas de um repórter",
+      "exemplo": "Moradores entrevistados comentaram a obra."
+    },
+    {
+      "termo": "mobilidade urbana",
+      "definicao": "sistema de transporte/circulação na cidade",
+      "exemplo": "O plano de mobilidade urbana inclui ciclovias."
+    },
+    {
+      "termo": "ser esperado/a (há anos)",
+      "definicao": "algo aguardado por muito tempo",
+      "exemplo": "A ciclovia era esperada há anos."
+    },
+    {
+      "termo": "manchete",
+      "definicao": "título principal de uma notícia",
+      "exemplo": "A manchete anunciava a inauguração."
+    },
+    {
+      "termo": "reportagem",
+      "definicao": "matéria jornalística completa sobre um fato",
+      "exemplo": "Li uma reportagem sobre o assunto."
+    },
+    {
+      "termo": "divulgar",
+      "definicao": "tornar público/anunciar",
+      "exemplo": "A prefeitura divulgou os dados da obra."
+    },
+    {
+      "termo": "de acordo com",
+      "definicao": "fórmula equivalente a \"segundo\"",
+      "exemplo": "De acordo com os dados, o uso aumentou."
+    },
+    {
+      "termo": "previsão (de prazo/data)",
+      "definicao": "estimativa de quando algo vai acontecer",
+      "exemplo": "A previsão é de conclusão em um ano."
+    },
+    {
+      "termo": "impacto (social/ambiental)",
+      "definicao": "efeito de uma ação sobre algo/alguém",
+      "exemplo": "O impacto da obra foi positivo."
+    }
+  ],
+  "tagsVocabulario": [
+    "b1.7"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "\"O governo anunciou a nova lei.\"",
+      "resposta": "A nova lei foi anunciada pelo governo."
+    },
+    {
+      "enunciado": "\"___ (aumentar) do uso de bicicletas é registrado em pesquisa.\"",
+      "resposta": "Aumento"
+    },
+    {
+      "enunciado": "\"Segundo a prefeitura, a obra termina em dezembro.\"",
+      "resposta": "a prefeitura"
+    },
+    {
+      "enunciado": "\"___ ___ ___ a obra vai custar 2 milhões de reais.\"",
+      "resposta": "Foi informado que"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "autoridade(s)",
+      "significado": "pessoa(s) com poder/cargo oficial"
+    },
+    {
+      "termo": "beneficiar",
+      "significado": "trazer vantagem/ajuda a alguém"
+    },
+    {
+      "termo": "concluir (uma obra)",
+      "significado": "terminar um projeto/construção"
+    },
+    {
+      "termo": "de acordo com",
+      "significado": "fórmula equivalente a \"segundo\""
+    },
+    {
+      "termo": "divulgar",
+      "significado": "tornar público/anunciar"
+    },
+    {
+      "termo": "entrevistado/a",
+      "significado": "pessoa que respondeu a perguntas de um repórter"
+    },
+    {
+      "termo": "financiar",
+      "significado": "fornecer dinheiro para um projeto"
+    },
+    {
+      "termo": "impacto (social/ambiental)",
+      "significado": "efeito de uma ação sobre algo/alguém"
+    },
+    {
+      "termo": "inaugurar",
+      "significado": "abrir oficialmente algo novo"
+    },
+    {
+      "termo": "manchete",
+      "significado": "título principal de uma notícia"
+    },
+    {
+      "termo": "mobilidade urbana",
+      "significado": "sistema de transporte/circulação na cidade"
+    },
+    {
+      "termo": "previsão (de prazo/data)",
+      "significado": "estimativa de quando algo vai acontecer"
+    },
+    {
+      "termo": "recursos (financeiros)",
+      "significado": "dinheiro/fundos disponíveis"
+    },
+    {
+      "termo": "reportagem",
+      "significado": "matéria jornalística completa sobre um fato"
+    },
+    {
+      "termo": "segundo (fonte)",
+      "significado": "de acordo com (introduz fonte)"
+    },
+    {
+      "termo": "ser esperado/a (há anos)",
+      "significado": "algo aguardado por muito tempo"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

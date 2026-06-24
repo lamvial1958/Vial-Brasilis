@@ -1,0 +1,200 @@
+{
+  "nivel": "a2",
+  "slug": "05-burocracia-do-dia-a-dia",
+  "ordem": 5,
+  "codigo": "A2.5",
+  "titulo": "Burocracia do Dia a Dia",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/a2.md`. Primeira aproximação à linguagem formal, indispensável para resolver situações práticas em bancos, correios e repartições no Brasil.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — atendimento numa agência bancária:**\n> **Atendente:** Bom dia! Em que posso ajudar?\n> **Cliente:** Bom dia. Eu gostaria de abrir uma conta corrente.\n> **Atendente:** Sem problema. Você tem CPF e comprovante de residência?\n> **Cliente:** Tenho sim, aqui estão os documentos.\n> **Atendente:** Perfeito. Seria possível preencher este formulário, por favor?\n> **Cliente:** Claro. É só assinar no final?\n> **Atendente:** Sim, e depois eu preciso de uma foto sua para o cadastro. Aqui está o seu protocolo de atendimento.\n> **Cliente:** Obrigado. Quanto tempo demora para a conta ficar pronta?\n> **Atendente:** Em até cinco dias úteis, você recebe o cartão em casa.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Pedir algo formalmente | Eu gostaria de... / Seria possível...? |\n| Oferecer ajuda formalmente | Em que posso ajudar? |\n| Confirmar disponibilidade de documento | Você tem...? / Tenho sim. |\n| Pedir para preencher algo | Seria possível preencher...? |\n| Perguntar prazo | Quanto tempo demora para...? |\n| Indicar prazo | Em até X dias (úteis) |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| CPF | número de identificação fiscal no Brasil | Preciso do meu CPF para abrir a conta. |\n| comprovante de residência | documento que prova onde você mora | Trouxe meu comprovante de residência. |\n| formulário | documento para preencher dados | Preencha este formulário. |\n| protocolo | número que identifica um atendimento | Guarde o número do protocolo. |\n| senha de atendimento | número/código para ser chamado | Pegue sua senha de atendimento. |\n| conta corrente | tipo de conta bancária para o dia a dia | Quero abrir uma conta corrente. |\n| cadastro | registro de dados de uma pessoa | Preciso fazer o cadastro. |\n| assinar | escrever o próprio nome num documento | Assine aqui, por favor. |\n| dias úteis | dias de funcionamento normal (sem fins de semana/feriados) | Demora cinco dias úteis. |\n| repartição (pública) | órgão público de atendimento | Fui à repartição renovar o documento. |\n| encomenda | pacote/correspondência | Vou retirar uma encomenda no correio. |\n\n**(11 itens, tag `a2.5`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Linguagem formal de pedido:**\n| Estrutura | Exemplo | Nível de formalidade |\n|---|---|---|\n| Eu quero + verbo | Eu quero abrir uma conta. | informal |\n| Eu gostaria de + verbo | Eu gostaria de abrir uma conta. | formal/educado |\n| Seria possível + verbo? | Seria possível preencher este formulário? | mais formal |\n\n**B. \"Gostaria\" é o condicional de \"gostar\"** — usado de forma fixa para pedidos educados, sem precisar conjugar outras formas do condicional neste nível.\n**C. Vocabulário de documentos:** combine com substantivos formais (comprovante, formulário, protocolo) em vez de equivalentes informais."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"Gostaria\" — ditongo \"ia\" final, átono e rápido:** gosta-RI-a, sem acento na última sílaba.\n**B. Sigla \"CPF\" pronunciada letra por letra:** \"cê-pê-éfe\", nunca como uma palavra só.\n**C. \"Seria possível\" — entonação ascendente de pergunta educada,** mais suave que uma pergunta direta."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Transforme em pedido formal:**\n\"Eu quero abrir uma conta\" → **Eu gostaria de abrir uma conta.**\n\"Você pode preencher isso?\" → **Seria possível preencher isso?**\n\n**Exercício 2 — Complete o diálogo de atendimento:**\n1. ___ posso ajudar? → **Em que**\n2. Eu ___ de retirar uma encomenda. → **gostaria**\n3. ___ possível ver meu protocolo? → **Seria**\n\n**Exercício 3 — Associe o documento à situação:**\n(CPF / comprovante de residência / formulário) com (abrir conta / provar endereço / preencher dados) → **CPF → identificação fiscal; comprovante de residência → provar endereço; formulário → preencher dados**\n\n**Exercício 4 — Complete com vocabulário de burocracia:**\nDepois de preencher o ___, guarde o número do ___ para acompanhar seu atendimento. → **formulário, protocolo**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Atendente dos Correios:** Bom dia! Em que posso ajudar?\n> **Cliente:** Bom dia. Eu gostaria de retirar uma encomenda.\n> **Atendente:** Você tem o código de rastreamento e um documento com foto?\n> **Cliente:** Tenho sim, aqui está.\n> **Atendente:** Seria possível assinar aqui para confirmar o recebimento?\n> **Cliente:** Claro. Pronto.\n> **Atendente:** Perfeito, aqui está sua encomenda. Tenha um bom dia!\n\n**Perguntas:**\n1. O que o cliente quer fazer? → **Retirar uma encomenda**\n2. O que ele precisa apresentar? → **Código de rastreamento e documento com foto**\n3. O que ele precisa fazer para confirmar o recebimento? → **Assinar**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Faça um role-play (em par, ou grave os dois papéis) simulando um atendimento bancário ou nos correios. Inclua:\n1. Pelo menos 2 pedidos formais com \"eu gostaria de\" ou \"seria possível\"\n2. Pelo menos 3 itens de vocabulário de documentos (CPF, comprovante, formulário, protocolo...)\n3. Uma pergunta sobre prazo e a resposta correspondente\n\n**Checklist de autoavaliação:**\n- [ ] Usei \"eu gostaria de\" para pedidos formais\n- [ ] Usei \"seria possível...?\" para pedidos mais formais ainda\n- [ ] Usei vocabulário correto de documentos brasileiros\n- [ ] Perguntei e respondi sobre prazo (dias úteis)\n- [ ] Pronunciei a sigla CPF letra por letra"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| assinar | escrever o próprio nome num documento |\n| cadastro | registro de dados de uma pessoa |\n| comprovante de residência | documento que prova onde você mora |\n| conta corrente | tipo de conta bancária para o dia a dia |\n| CPF | número de identificação fiscal no Brasil |\n| dias úteis | dias de funcionamento normal (sem fins de semana/feriados) |\n| em que posso ajudar? | fórmula formal de oferecer ajuda |\n| encomenda | pacote/correspondência |\n| eu gostaria de | fórmula de pedido formal |\n| formulário | documento para preencher dados |\n| protocolo | número que identifica um atendimento |\n| repartição (pública) | órgão público de atendimento |\n| senha de atendimento | número/código para ser chamado |\n| seria possível...? | fórmula de pedido ainda mais formal |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "CPF",
+      "definicao": "número de identificação fiscal no Brasil",
+      "exemplo": "Preciso do meu CPF para abrir a conta."
+    },
+    {
+      "termo": "comprovante de residência",
+      "definicao": "documento que prova onde você mora",
+      "exemplo": "Trouxe meu comprovante de residência."
+    },
+    {
+      "termo": "formulário",
+      "definicao": "documento para preencher dados",
+      "exemplo": "Preencha este formulário."
+    },
+    {
+      "termo": "protocolo",
+      "definicao": "número que identifica um atendimento",
+      "exemplo": "Guarde o número do protocolo."
+    },
+    {
+      "termo": "senha de atendimento",
+      "definicao": "número/código para ser chamado",
+      "exemplo": "Pegue sua senha de atendimento."
+    },
+    {
+      "termo": "conta corrente",
+      "definicao": "tipo de conta bancária para o dia a dia",
+      "exemplo": "Quero abrir uma conta corrente."
+    },
+    {
+      "termo": "cadastro",
+      "definicao": "registro de dados de uma pessoa",
+      "exemplo": "Preciso fazer o cadastro."
+    },
+    {
+      "termo": "assinar",
+      "definicao": "escrever o próprio nome num documento",
+      "exemplo": "Assine aqui, por favor."
+    },
+    {
+      "termo": "dias úteis",
+      "definicao": "dias de funcionamento normal (sem fins de semana/feriados)",
+      "exemplo": "Demora cinco dias úteis."
+    },
+    {
+      "termo": "repartição (pública)",
+      "definicao": "órgão público de atendimento",
+      "exemplo": "Fui à repartição renovar o documento."
+    },
+    {
+      "termo": "encomenda",
+      "definicao": "pacote/correspondência",
+      "exemplo": "Vou retirar uma encomenda no correio."
+    }
+  ],
+  "tagsVocabulario": [
+    "a2.5"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "\"Eu quero abrir uma conta\"",
+      "resposta": "Eu gostaria de abrir uma conta."
+    },
+    {
+      "enunciado": "\"Você pode preencher isso?\"",
+      "resposta": "Seria possível preencher isso?"
+    },
+    {
+      "enunciado": "1. ___ posso ajudar?",
+      "resposta": "Em que"
+    },
+    {
+      "enunciado": "2. Eu ___ de retirar uma encomenda.",
+      "resposta": "gostaria"
+    },
+    {
+      "enunciado": "3. ___ possível ver meu protocolo?",
+      "resposta": "Seria"
+    },
+    {
+      "enunciado": "(CPF / comprovante de residência / formulário) com (abrir conta / provar endereço / preencher dados)",
+      "resposta": "CPF → identificação fiscal; comprovante de residência → provar endereço; formulário → preencher dados"
+    },
+    {
+      "enunciado": "Depois de preencher o ___, guarde o número do ___ para acompanhar seu atendimento.",
+      "resposta": "formulário, protocolo"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "assinar",
+      "significado": "escrever o próprio nome num documento"
+    },
+    {
+      "termo": "cadastro",
+      "significado": "registro de dados de uma pessoa"
+    },
+    {
+      "termo": "comprovante de residência",
+      "significado": "documento que prova onde você mora"
+    },
+    {
+      "termo": "conta corrente",
+      "significado": "tipo de conta bancária para o dia a dia"
+    },
+    {
+      "termo": "CPF",
+      "significado": "número de identificação fiscal no Brasil"
+    },
+    {
+      "termo": "dias úteis",
+      "significado": "dias de funcionamento normal (sem fins de semana/feriados)"
+    },
+    {
+      "termo": "em que posso ajudar?",
+      "significado": "fórmula formal de oferecer ajuda"
+    },
+    {
+      "termo": "encomenda",
+      "significado": "pacote/correspondência"
+    },
+    {
+      "termo": "eu gostaria de",
+      "significado": "fórmula de pedido formal"
+    },
+    {
+      "termo": "formulário",
+      "significado": "documento para preencher dados"
+    },
+    {
+      "termo": "protocolo",
+      "significado": "número que identifica um atendimento"
+    },
+    {
+      "termo": "repartição (pública)",
+      "significado": "órgão público de atendimento"
+    },
+    {
+      "termo": "senha de atendimento",
+      "significado": "número/código para ser chamado"
+    },
+    {
+      "termo": "seria possível...?",
+      "significado": "fórmula de pedido ainda mais formal"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

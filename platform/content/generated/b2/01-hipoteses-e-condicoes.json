@@ -1,0 +1,223 @@
+{
+  "nivel": "b2",
+  "slug": "01-hipoteses-e-condicoes",
+  "ordem": 1,
+  "codigo": "B2.1",
+  "titulo": "Hipóteses e Condições",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b2.md`. Primeira unidade do nível B2: retoma o subjuntivo (consolidado no B1.6 e B1.9) e introduz o subjuntivo imperfeito/futuro e o futuro do pretérito (condicional) em períodos hipotéticos — pré-requisito direto para B2.2.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — dois colegas de trabalho discutindo uma decisão de carreira:**\n> **Júlia:** Recebi uma proposta de outra empresa. Não sei se aceito.\n> **Bruno:** Se eu estivesse no seu lugar, eu pensaria com calma antes de decidir. O que te faz hesitar?\n> **Júlia:** Se eu aceitasse, eu ganharia mais, mas teria que mudar de cidade.\n> **Bruno:** E se você não aceitasse? Você se arrependeria?\n> **Júlia:** Talvez. Se eu tivesse certeza de que vou crescer aqui, eu ficaria sem pensar duas vezes.\n> **Bruno:** Então a pergunta real não é sobre dinheiro, é sobre certeza. Se eu fosse você, conversaria com seu chefe atual antes de decidir qualquer coisa.\n> **Júlia:** Boa ideia. Se as coisas não melhorarem aqui, aí sim eu aceitaria a proposta sem culpa.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Hipótese irreal/improvável no presente | Se eu estivesse..., eu pensaria... |\n| Condição possível com consequência | Se eu aceitasse, eu ganharia... |\n| Pergunta hipotética | E se você não aceitasse? |\n| Conselho hipotético (no lugar do outro) | Se eu fosse você,... |\n| Condição futura em aberto | Se as coisas não melhorarem, eu aceitaria... |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| se eu estivesse no seu lugar | fórmula de aconselhamento hipotético | Se eu estivesse no seu lugar, esperaria mais. |\n| se eu fosse você | variante da fórmula anterior | Se eu fosse você, conversaria com ele. |\n| hesitar | ter dúvida antes de decidir | O que te faz hesitar? |\n| se arrepender | sentir pesar por uma decisão | Você se arrependeria de não aceitar? |\n| pensar com calma | refletir sem pressa | Pense com calma antes de decidir. |\n| ter certeza de | estar seguro de algo | Se eu tivesse certeza, ficaria. |\n| crescer (na carreira) | evoluir profissionalmente | Espero crescer nesta empresa. |\n| sem pensar duas vezes | decidir rapidamente, com convicção | Eu ficaria sem pensar duas vezes. |\n| caso | conector condicional formal | Caso aceite, avise com antecedência. |\n| a menos que | condição negativa exclusiva | Não vou aceitar, a menos que melhorem a oferta. |\n| desde que | condição necessária | Aceito, desde que eu possa trabalhar remoto. |\n| pesar os prós e contras | avaliar vantagens e desvantagens | É preciso pesar os prós e contras. |\n| decisão de peso | decisão importante | Mudar de emprego é uma decisão de peso. |\n| ficar sem culpa | decidir sem remorso | Eu aceitaria sem culpa. |\n\n**(14 itens, tag `b2.1`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Subjuntivo imperfeito — formação:** parte da 3ª pessoa do plural do pretérito perfeito, retira-se \"-ram\" e acrescentam-se as terminações -sse/-sses/-sse/-ssemos/-ssem.\n| Infinitivo | Pretérito perfeito (eles) | Subjuntivo imperfeito (eu/ele) |\n|---|---|---|\n| estar | estiveram | estivesse |\n| aceitar | aceitaram | aceitasse |\n| ser/ir | foram | fosse |\n| ter | tiveram | tivesse |\n| fazer | fizeram | fizesse |\n\n**B. Futuro do pretérito (condicional) — formação:** infinitivo + terminações -ia/-ias/-ia/-íamos/-iam (mesma base do futuro do indicativo).\n| Infinitivo | Futuro do pretérito (eu) |\n|---|---|\n| pensar | pensaria |\n| ganhar | ganharia |\n| ficar | ficaria |\n| ser | seria |\n\n**C. Período hipotético irreal (presente/futuro hipotético) — estrutura central da unidade:**\n> **Se + subjuntivo imperfeito, + futuro do pretérito (condicional)**\n> Se eu **tivesse** mais tempo, eu **viajaria** mais.\n\n**D. Período condicional real/futuro (condição em aberto, ainda possível):**\n> **Se + presente do indicativo (ou subjuntivo futuro), + futuro/presente**\n> Se as coisas não **melhorarem**, eu **aceito/aceitarei** a proposta.\n\n**E. Conectores condicionais além de \"se\":**\n| Conector | Uso | Exemplo |\n|---|---|---|\n| caso | mais formal que \"se\" | Caso aceite, avise com antecedência. |\n| a menos que | exclui uma condição | Não aceito, a menos que mudem os termos. |\n| desde que | impõe uma condição necessária | Aceito, desde que possa trabalhar remoto. |\n\n> **Nota:** \"caso\", \"a menos que\" e \"desde que\" exigem subjuntivo na oração que introduzem (presente ou imperfeito, conforme o tempo da hipótese)."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Contraste subjuntivo imperfeito × pretérito imperfeito do indicativo:** \"se eu **tivesse**\" (subjuntivo, hipótese) × \"eu **tinha**\" (indicativo, fato passado) — atenção à terminação \"-sse\" marcada e um pouco mais longa na fala cuidada.\n**B. Encadeamento \"se eu fosse você\" como bloco fixo de entonação:** pronunciado como uma unidade rítmica única, sem pausas internas."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com o subjuntivo imperfeito:**\n1. Se eu ___ (ter) mais dinheiro, eu viajaria mais. → **tivesse**\n2. Se ela ___ (ser) mais paciente, resolveria o problema com calma. → **fosse**\n3. Se nós ___ (estar) lá, ajudaríamos. → **estivéssemos**\n\n**Exercício 2 — Complete com o futuro do pretérito (condicional):**\n1. Se eu fosse você, eu ___ (conversar) com o chefe antes. → **conversaria**\n2. Nessa situação, eles ___ (ficar) sem pensar duas vezes. → **ficariam**\n\n**Exercício 3 — Hipótese irreal ou condição real? Classifique e complete:**\n1. \"Se as coisas não ___ (melhorar), eu aceito a proposta.\" → **melhorarem** (condição real/futuro, subjuntivo futuro)\n2. \"Se eu ___ (ter) certeza, eu ficaria sem pensar duas vezes.\" → **tivesse** (hipótese irreal, subjuntivo imperfeito)\n\n**Exercício 4 — Transforme usando \"se eu fosse você\":**\n\"Eu conversaria com seu chefe antes de decidir.\" → **Se eu fosse você, conversaria com seu chefe antes de decidir.**\n\n**Exercício 5 — Complete com o conector condicional adequado (caso / a menos que / desde que):**\n\"Não vou aceitar a proposta, ___ eles melhorem a oferta.\" → **a menos que**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Podcast de carreira:**\n> Muita gente me pergunta: \"o que você faria se recebesse duas propostas de emprego ao mesmo tempo?\" Bom, se eu estivesse nessa situação, eu não decidiria só pelo salário. Eu pesaria os prós e contras de cada uma: o ambiente de trabalho, a possibilidade de crescer, o equilíbrio entre vida pessoal e profissional. Se uma das propostas exigisse mudar de cidade, eu pensaria com calma antes de aceitar — a menos que fosse uma oportunidade realmente única. E se, depois de tudo isso, eu ainda tivesse dúvida, eu conversaria com pessoas de confiança antes de decidir.\n\n**Perguntas:**\n1. Segundo o podcast, o que o apresentador não decidiria só pelo salário? → **Qual proposta de emprego aceitar**\n2. Quais três fatores ele pesaria além do salário? → **Ambiente de trabalho, possibilidade de crescer, equilíbrio vida pessoal/profissional**\n3. Em que condição ele aceitaria mudar de cidade sem hesitar? → **Se fosse uma oportunidade realmente única**\n4. O que ele faria se ainda tivesse dúvida no final? → **Conversaria com pessoas de confiança**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Grave ou escreva uma resposta (oral, 1–2 minutos, ou escrita, 120–150 palavras) à pergunta: \"O que você faria se tivesse que tomar uma decisão de peso (trabalho, moradia, estudos) com pouco tempo para decidir?\" Inclua:\n1. Pelo menos uma hipótese irreal completa (se + subjuntivo imperfeito + condicional)\n2. Pelo menos uma condição real/futuro em aberto (se + subjuntivo futuro/presente)\n3. Um conector condicional diferente de \"se\" (caso, a menos que, desde que)\n4. Uma justificativa pessoal para a decisão hipotética\n\n**Checklist de autoavaliação:**\n- [ ] Usei corretamente a estrutura \"se + subjuntivo imperfeito + condicional\" para a hipótese irreal\n- [ ] Distingui claramente hipótese irreal de condição real/futuro\n- [ ] Usei pelo menos um conector condicional além de \"se\"\n- [ ] Justifiquei minha decisão hipotética com argumentos próprios"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| a menos que | condição negativa exclusiva |\n| caso | conector condicional formal |\n| crescer (na carreira) | evoluir profissionalmente |\n| decisão de peso | decisão importante |\n| desde que | condição necessária |\n| ficar sem culpa | decidir sem remorso |\n| hesitar | ter dúvida antes de decidir |\n| pensar com calma | refletir sem pressa |\n| pesar os prós e contras | avaliar vantagens e desvantagens |\n| se arrepender | sentir pesar por uma decisão |\n| se eu estivesse no seu lugar | fórmula de aconselhamento hipotético |\n| se eu fosse você | variante da fórmula anterior |\n| sem pensar duas vezes | decidir rapidamente, com convicção |\n| ter certeza de | estar seguro de algo |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "se eu estivesse no seu lugar",
+      "definicao": "fórmula de aconselhamento hipotético",
+      "exemplo": "Se eu estivesse no seu lugar, esperaria mais."
+    },
+    {
+      "termo": "se eu fosse você",
+      "definicao": "variante da fórmula anterior",
+      "exemplo": "Se eu fosse você, conversaria com ele."
+    },
+    {
+      "termo": "hesitar",
+      "definicao": "ter dúvida antes de decidir",
+      "exemplo": "O que te faz hesitar?"
+    },
+    {
+      "termo": "se arrepender",
+      "definicao": "sentir pesar por uma decisão",
+      "exemplo": "Você se arrependeria de não aceitar?"
+    },
+    {
+      "termo": "pensar com calma",
+      "definicao": "refletir sem pressa",
+      "exemplo": "Pense com calma antes de decidir."
+    },
+    {
+      "termo": "ter certeza de",
+      "definicao": "estar seguro de algo",
+      "exemplo": "Se eu tivesse certeza, ficaria."
+    },
+    {
+      "termo": "crescer (na carreira)",
+      "definicao": "evoluir profissionalmente",
+      "exemplo": "Espero crescer nesta empresa."
+    },
+    {
+      "termo": "sem pensar duas vezes",
+      "definicao": "decidir rapidamente, com convicção",
+      "exemplo": "Eu ficaria sem pensar duas vezes."
+    },
+    {
+      "termo": "caso",
+      "definicao": "conector condicional formal",
+      "exemplo": "Caso aceite, avise com antecedência."
+    },
+    {
+      "termo": "a menos que",
+      "definicao": "condição negativa exclusiva",
+      "exemplo": "Não vou aceitar, a menos que melhorem a oferta."
+    },
+    {
+      "termo": "desde que",
+      "definicao": "condição necessária",
+      "exemplo": "Aceito, desde que eu possa trabalhar remoto."
+    },
+    {
+      "termo": "pesar os prós e contras",
+      "definicao": "avaliar vantagens e desvantagens",
+      "exemplo": "É preciso pesar os prós e contras."
+    },
+    {
+      "termo": "decisão de peso",
+      "definicao": "decisão importante",
+      "exemplo": "Mudar de emprego é uma decisão de peso."
+    },
+    {
+      "termo": "ficar sem culpa",
+      "definicao": "decidir sem remorso",
+      "exemplo": "Eu aceitaria sem culpa."
+    }
+  ],
+  "tagsVocabulario": [
+    "b2.1"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Se eu ___ (ter) mais dinheiro, eu viajaria mais.",
+      "resposta": "tivesse"
+    },
+    {
+      "enunciado": "2. Se ela ___ (ser) mais paciente, resolveria o problema com calma.",
+      "resposta": "fosse"
+    },
+    {
+      "enunciado": "3. Se nós ___ (estar) lá, ajudaríamos.",
+      "resposta": "estivéssemos"
+    },
+    {
+      "enunciado": "1. Se eu fosse você, eu ___ (conversar) com o chefe antes.",
+      "resposta": "conversaria"
+    },
+    {
+      "enunciado": "2. Nessa situação, eles ___ (ficar) sem pensar duas vezes.",
+      "resposta": "ficariam"
+    },
+    {
+      "enunciado": "1. \"Se as coisas não ___ (melhorar), eu aceito a proposta.\"",
+      "resposta": "**melhorarem** (condição real/futuro, subjuntivo futuro)"
+    },
+    {
+      "enunciado": "2. \"Se eu ___ (ter) certeza, eu ficaria sem pensar duas vezes.\"",
+      "resposta": "**tivesse** (hipótese irreal, subjuntivo imperfeito)"
+    },
+    {
+      "enunciado": "\"Eu conversaria com seu chefe antes de decidir.\"",
+      "resposta": "Se eu fosse você, conversaria com seu chefe antes de decidir."
+    },
+    {
+      "enunciado": "\"Não vou aceitar a proposta, ___ eles melhorem a oferta.\"",
+      "resposta": "a menos que"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "a menos que",
+      "significado": "condição negativa exclusiva"
+    },
+    {
+      "termo": "caso",
+      "significado": "conector condicional formal"
+    },
+    {
+      "termo": "crescer (na carreira)",
+      "significado": "evoluir profissionalmente"
+    },
+    {
+      "termo": "decisão de peso",
+      "significado": "decisão importante"
+    },
+    {
+      "termo": "desde que",
+      "significado": "condição necessária"
+    },
+    {
+      "termo": "ficar sem culpa",
+      "significado": "decidir sem remorso"
+    },
+    {
+      "termo": "hesitar",
+      "significado": "ter dúvida antes de decidir"
+    },
+    {
+      "termo": "pensar com calma",
+      "significado": "refletir sem pressa"
+    },
+    {
+      "termo": "pesar os prós e contras",
+      "significado": "avaliar vantagens e desvantagens"
+    },
+    {
+      "termo": "se arrepender",
+      "significado": "sentir pesar por uma decisão"
+    },
+    {
+      "termo": "se eu estivesse no seu lugar",
+      "significado": "fórmula de aconselhamento hipotético"
+    },
+    {
+      "termo": "se eu fosse você",
+      "significado": "variante da fórmula anterior"
+    },
+    {
+      "termo": "sem pensar duas vezes",
+      "significado": "decidir rapidamente, com convicção"
+    },
+    {
+      "termo": "ter certeza de",
+      "significado": "estar seguro de algo"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

@@ -1,0 +1,228 @@
+{
+  "nivel": "a2",
+  "slug": "08-comida-e-cultura-a-mesa",
+  "ordem": 8,
+  "codigo": "A2.8",
+  "titulo": "Comida e Cultura à Mesa",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/a2.md`. Aprofunda o vocabulário gastronômico da A1.7 com adjetivos de sabor/textura e uma primeira introdução (apenas de reconhecimento) ao mais-que-perfeito composto.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — restaurante regional, comentário sobre os pratos:**\n> **Garçom:** E então, o que acharam da feijoada?\n> **Tom:** Estava deliciosa! Eu nunca tinha comido feijoada antes, é uma experiência nova para mim.\n> **Garçom:** E a senhora, o que achou do açaí?\n> **Sarah:** Adorei! É bem doce, mas também tem uma textura cremosa interessante. Eu já tinha provado açaí em casa, mas esse aqui é mais autêntico.\n> **Garçom:** E a moqueca, como estava?\n> **Tom:** Estava saborosa, um pouco picante, mas no ponto certo. O peixe estava bem fresco.\n> **Garçom:** Que bom que gostaram! É um prato bem tradicional da Bahia.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar opinião sobre um prato | O que achou de...? / Como estava...? |\n| Comentar sabor/textura | Estava + adjetivo (delicioso, picante, doce, cremoso...) |\n| Indicar primeira experiência | Eu nunca tinha comido/provado... antes |\n| Indicar experiência repetida | Eu já tinha provado... (antes desta vez) |\n| Elogiar um prato | Que bom que gostou(aram)! |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| delicioso/deliciosa | com sabor muito bom | A feijoada estava deliciosa. |\n| saboroso/saborosa | com bom sabor, gostoso | O peixe estava saboroso. |\n| picante | que arde/queima na boca (pimenta) | A moqueca é um pouco picante. |\n| doce | com sabor de açúcar | O açaí é bem doce. |\n| azedo/azeda | com sabor ácido | O limão é azedo. |\n| salgado/salgada | com sabor de sal | A bacalhoada é salgada. |\n| amargo/amarga | com sabor forte e desagradável | O café puro é amargo. |\n| cremoso/cremosa | textura suave como creme | O açaí tem textura cremosa. |\n| crocante | textura que faz ruído ao mastigar | A farofa é crocante. |\n| fresco/fresca | recém-feito/colhido, não estragado | O peixe estava fresco. |\n| no ponto (certo) | cozido/preparado na medida ideal | A carne estava no ponto. |\n| feijoada | prato tradicional brasileiro à base de feijão preto e carnes | Provei feijoada pela primeira vez. |\n| moqueca | prato tradicional de peixe/frutos do mar com leite de coco e dendê | A moqueca baiana é famosa. |\n| açaí | fruta amazônica, geralmente servida como creme/sorvete | Tomei açaí na praia. |\n| dendê | óleo de palma usado na cozinha baiana | A moqueca tem azeite de dendê. |\n\n**(15 itens, tag `a2.8`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Adjetivos de sabor e textura — concordância de gênero/número:**\n| Masculino singular | Feminino singular | Exemplo |\n|---|---|---|\n| delicioso | deliciosa | O bolo estava delicioso. / A torta estava deliciosa. |\n| saboroso | saborosa | O peixe estava saboroso. |\n| cremoso | cremosa | O creme estava cremoso. |\n> *Picante, doce, azedo, salgado, amargo e crocante não variam em gênero (terminam em -e ou consoante), só em número (picante/picantes).*\n\n**B. \"Nunca tinha + participado\" — mais-que-perfeito composto (apenas reconhecimento, não produção ativa neste nível):**\n| Estrutura | Exemplo |\n|---|---|\n| (eu) nunca tinha + participio | Eu nunca tinha comido feijoada antes. |\n| (eu) já tinha + participio | Eu já tinha provado açaí antes. |\n\n> **Nota:** este tempo verbal (pretérito mais-que-perfeito composto) será produzido ativamente apenas no B1/B2. Aqui o objetivo é apenas reconhecer e entender o sentido — \"algo que aconteceu (ou não) antes de outro momento do passado\" — usando os chunks fixos \"nunca tinha + participado\" e \"já tinha + participado\"."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"Açaí\" — acento na última sílaba, hiato \"a-í\":** a-ça-Í, sem ditongo.\n**B. \"Moqueca\" — \"qu\" com som de \"k\":** mo-KÊ-ca.\n**C. Contraste \"picante\" (sabor) × \"pi-CAN-te\" (acento paroxítono):** atenção ao acento, comum erro é colocar acento na primeira sílaba."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Concorde o adjetivo de sabor:**\n1. A feijoada estava muito ___ (delicioso). → **deliciosa**\n2. O peixe estava bem ___ (fresco). → **fresco**\n3. Essas pimentas são muito ___ (picante). → **picantes**\n\n**Exercício 2 — Complete com \"nunca tinha\" ou \"já tinha\":**\n1. Eu ___ comido moqueca antes desta viagem — foi minha primeira vez. → **nunca tinha**\n2. Eu ___ provado açaí em outro país antes de vir ao Brasil. → **já tinha**\n\n**Exercício 3 — Associe o prato à descrição:**\n(feijoada / açaí / moqueca) com (creme amazônico doce / prato de feijão preto com carnes / peixe com leite de coco e dendê)\n\n**Exercício 4 — Complete o diálogo de restaurante:**\n1. O que você ___ do prato? → **achou**\n2. Estava ___, um pouco picante. → **saboroso**\n3. Eu nunca ___ comido isso antes. → **tinha**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Entrevistador:** Qual foi a comida brasileira que mais te surpreendeu?\n> **Lukas:** Com certeza o açaí. Eu nunca tinha provado nada parecido antes de vir ao Brasil — a textura é cremosa, mas o sabor não é tão doce quanto eu esperava. Também adorei a moqueca capixaba, estava super saborosa e no ponto certo de pimenta.\n> **Entrevistador:** E teve algo que você não gostou?\n> **Lukas:** O café brasileiro puro é muito amargo para mim, eu prefiro com leite.\n\n**Perguntas:**\n1. Qual comida mais surpreendeu Lukas? → **O açaí**\n2. Como ele descreve a textura do açaí? → **Cremosa**\n3. Como estava a moqueca capixaba? → **Saborosa e no ponto certo de pimenta**\n4. O que ele não gostou? → **O café brasileiro puro, muito amargo**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Escreva ou grave um comentário (estilo review) sobre uma experiência gastronômica (real ou imaginada) no Brasil. Inclua:\n1. Pelo menos 4 adjetivos de sabor/textura, com concordância correta\n2. Pelo menos uma frase com \"nunca tinha + participado\" ou \"já tinha + participado\"\n3. O nome de pelo menos um prato regional brasileiro\n4. Uma opinião final sobre a experiência\n\n**Checklist de autoavaliação:**\n- [ ] Usei adjetivos de sabor/textura com concordância correta\n- [ ] Usei corretamente \"nunca tinha\" ou \"já tinha\" + participação passada\n- [ ] Mencionei pelo menos um prato regional brasileiro\n- [ ] Pronunciei corretamente o hiato em \"açaí\""
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| açaí | fruta amazônica, geralmente servida como creme/sorvete |\n| amargo/amarga | com sabor forte e desagradável |\n| azedo/azeda | com sabor ácido |\n| crocante | textura que faz ruído ao mastigar |\n| delicioso/deliciosa | com sabor muito bom |\n| dendê | óleo de palma usado na cozinha baiana |\n| doce | com sabor de açúcar |\n| feijoada | prato tradicional brasileiro à base de feijão preto e carnes |\n| fresco/fresca | recém-feito/colhido, não estragado |\n| moqueca | prato tradicional de peixe/frutos do mar com leite de coco e dendê |\n| no ponto (certo) | cozido/preparado na medida ideal |\n| picante | que arde/queima na boca (pimenta) |\n| salgado/salgada | com sabor de sal |\n| saboroso/saborosa | com bom sabor, gostoso |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "delicioso/deliciosa",
+      "definicao": "com sabor muito bom",
+      "exemplo": "A feijoada estava deliciosa."
+    },
+    {
+      "termo": "saboroso/saborosa",
+      "definicao": "com bom sabor, gostoso",
+      "exemplo": "O peixe estava saboroso."
+    },
+    {
+      "termo": "picante",
+      "definicao": "que arde/queima na boca (pimenta)",
+      "exemplo": "A moqueca é um pouco picante."
+    },
+    {
+      "termo": "doce",
+      "definicao": "com sabor de açúcar",
+      "exemplo": "O açaí é bem doce."
+    },
+    {
+      "termo": "azedo/azeda",
+      "definicao": "com sabor ácido",
+      "exemplo": "O limão é azedo."
+    },
+    {
+      "termo": "salgado/salgada",
+      "definicao": "com sabor de sal",
+      "exemplo": "A bacalhoada é salgada."
+    },
+    {
+      "termo": "amargo/amarga",
+      "definicao": "com sabor forte e desagradável",
+      "exemplo": "O café puro é amargo."
+    },
+    {
+      "termo": "cremoso/cremosa",
+      "definicao": "textura suave como creme",
+      "exemplo": "O açaí tem textura cremosa."
+    },
+    {
+      "termo": "crocante",
+      "definicao": "textura que faz ruído ao mastigar",
+      "exemplo": "A farofa é crocante."
+    },
+    {
+      "termo": "fresco/fresca",
+      "definicao": "recém-feito/colhido, não estragado",
+      "exemplo": "O peixe estava fresco."
+    },
+    {
+      "termo": "no ponto (certo)",
+      "definicao": "cozido/preparado na medida ideal",
+      "exemplo": "A carne estava no ponto."
+    },
+    {
+      "termo": "feijoada",
+      "definicao": "prato tradicional brasileiro à base de feijão preto e carnes",
+      "exemplo": "Provei feijoada pela primeira vez."
+    },
+    {
+      "termo": "moqueca",
+      "definicao": "prato tradicional de peixe/frutos do mar com leite de coco e dendê",
+      "exemplo": "A moqueca baiana é famosa."
+    },
+    {
+      "termo": "açaí",
+      "definicao": "fruta amazônica, geralmente servida como creme/sorvete",
+      "exemplo": "Tomei açaí na praia."
+    },
+    {
+      "termo": "dendê",
+      "definicao": "óleo de palma usado na cozinha baiana",
+      "exemplo": "A moqueca tem azeite de dendê."
+    }
+  ],
+  "tagsVocabulario": [
+    "a2.8"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. A feijoada estava muito ___ (delicioso).",
+      "resposta": "deliciosa"
+    },
+    {
+      "enunciado": "2. O peixe estava bem ___ (fresco).",
+      "resposta": "fresco"
+    },
+    {
+      "enunciado": "3. Essas pimentas são muito ___ (picante).",
+      "resposta": "picantes"
+    },
+    {
+      "enunciado": "1. Eu ___ comido moqueca antes desta viagem — foi minha primeira vez.",
+      "resposta": "nunca tinha"
+    },
+    {
+      "enunciado": "2. Eu ___ provado açaí em outro país antes de vir ao Brasil.",
+      "resposta": "já tinha"
+    },
+    {
+      "enunciado": "(feijoada / açaí / moqueca) com",
+      "resposta": "creme amazônico doce / prato de feijão preto com carnes / peixe com leite de coco e dendê"
+    },
+    {
+      "enunciado": "1. O que você ___ do prato?",
+      "resposta": "achou"
+    },
+    {
+      "enunciado": "2. Estava ___, um pouco picante.",
+      "resposta": "saboroso"
+    },
+    {
+      "enunciado": "3. Eu nunca ___ comido isso antes.",
+      "resposta": "tinha"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "açaí",
+      "significado": "fruta amazônica, geralmente servida como creme/sorvete"
+    },
+    {
+      "termo": "amargo/amarga",
+      "significado": "com sabor forte e desagradável"
+    },
+    {
+      "termo": "azedo/azeda",
+      "significado": "com sabor ácido"
+    },
+    {
+      "termo": "crocante",
+      "significado": "textura que faz ruído ao mastigar"
+    },
+    {
+      "termo": "delicioso/deliciosa",
+      "significado": "com sabor muito bom"
+    },
+    {
+      "termo": "dendê",
+      "significado": "óleo de palma usado na cozinha baiana"
+    },
+    {
+      "termo": "doce",
+      "significado": "com sabor de açúcar"
+    },
+    {
+      "termo": "feijoada",
+      "significado": "prato tradicional brasileiro à base de feijão preto e carnes"
+    },
+    {
+      "termo": "fresco/fresca",
+      "significado": "recém-feito/colhido, não estragado"
+    },
+    {
+      "termo": "moqueca",
+      "significado": "prato tradicional de peixe/frutos do mar com leite de coco e dendê"
+    },
+    {
+      "termo": "no ponto (certo)",
+      "significado": "cozido/preparado na medida ideal"
+    },
+    {
+      "termo": "picante",
+      "significado": "que arde/queima na boca (pimenta)"
+    },
+    {
+      "termo": "salgado/salgada",
+      "significado": "com sabor de sal"
+    },
+    {
+      "termo": "saboroso/saborosa",
+      "significado": "com bom sabor, gostoso"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

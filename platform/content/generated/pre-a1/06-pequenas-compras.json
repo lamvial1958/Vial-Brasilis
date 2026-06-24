@@ -1,0 +1,191 @@
+{
+  "nivel": "pre-a1",
+  "slug": "06-pequenas-compras",
+  "ordem": 8,
+  "codigo": "PRE-A1.6",
+  "titulo": "Pequenas Compras (Projeto Integrador do Nível)",
+  "tipo": "licao",
+  "notaIntro": "*Cena 1 — Mercado:*",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena 1 — Mercado:**\n> **Tom:** Bom dia. Tem pão aqui?\n> **Atendente:** Tem, sim. Está ali, na segunda fileira.\n> **Tom:** Quanto é o pão?\n> **Atendente:** É quatro reais.\n> **Tom:** Eu queria dois pães, por favor.\n> **Atendente:** São oito reais. Mais alguma coisa?\n> **Tom:** Não, só isso. Aqui está o dinheiro.\n> **Atendente:** Aqui está o seu troco. Obrigado pela compra!\n\n**Cena 2 — Farmácia:**\n> **Tom:** Boa tarde. Vocês têm escova de dente?\n> **Farmacêutico:** Temos, sim. Aqui está.\n> **Tom:** Quanto custa?\n> **Farmacêutico:** Custa sete reais.\n> **Tom:** Obrigado. Tchau!\n\n**Quadro funcional (revisão consolidada do nível):** Tem...? · Quanto é/custa? · Eu queria... · Aqui está · Pode me dar troco? · Obrigado/De nada"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "mercado, farmácia, troco, remédio, escova de dente, sabonete, dinheiro, fileira, compra, pão, leite, fruta, caixa (do supermercado), sacola, preço, desconto, promoção, lista de compras — **(18 itens, tag `pre-a1.6`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Bloco de Pronúncia (revisão consolidada do nível)",
+      "markdown": "Nasalização (pão, não) · \"r\" forte/fraco (rua/primeira) · \"ch\"/\"lh\" (chuveiro/toalha) · /k/ \"qu\" (quanto/queria)"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete o diálogo:**\n1. Tem ___ aqui? → **pão**\n2. Quanto ___ o pão? → **é**\n3. Eu ___ dois pães. → **queria**\n4. Pode me dar ___? → **troco**\n5. Obrigado pela ___. → **compra**\n\n**Exercício 2 — Associe o item ao local:** mercado→pão · farmácia→remédio\n\n**Exercício 3 — Calcule e escreva o valor por extenso:**\n\"2 pães a 4 reais cada = ?\" → **oito reais** · \"1 escova (7 reais) + 1 sabonete (3 reais) = ?\" → **dez reais**\n\n**Exercício 4 — Revisão fonética, marque a opção correta:**\nQual tem som nasal? a) pão b) pau → **a** · Qual tem o som \"ch\" /ʃ/? a) chuveiro b) carro → **a**"
+    },
+    {
+      "ordem": 5,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Sofia:** Boa tarde. Tem leite aqui?\n> **Atendente:** Tem, sim. Custa cinco reais.\n> **Sofia:** Eu queria dois, por favor. E também uma fruta, essa maçã.\n> **Atendente:** São doze reais no total.\n> **Sofia:** Aqui está. Pode me dar troco?\n> **Atendente:** Claro, aqui está seu troco de três reais.\n\n**Perguntas:**\n1. Quanto custa um leite? → **Cinco reais**\n2. Quanto Sofia pagou no total? → **Doze reais**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Tarefa de Produção Final — Projeto Integrador do PRE-A1",
+      "markdown": "Simulação completa de \"ida ao mercado e à farmácia\" com uma lista de 5 itens, combinando o vocabulário e as funções de **todas as 6 unidades do nível**: peça uma indicação de caminho até o mercado (unidade 2), compre 3 itens perguntando preço (unidades 4 e 6), relate que esqueceu algo no hotel ao voltar (unidade 3), e peça um item na farmácia mencionando um mal-estar leve (unidade 5). Produção oral de 1–2 minutos.\n\n**Rubrica cumulativa do nível PRE-A1:**\n| Critério | Peso |\n|---|---|\n| Cumprimento da tarefa (lista completa + sub-tarefas) | Alto |\n| Uso adequado das fórmulas de cada unidade | Alto |\n| Compreensibilidade da pronúncia (nasalização, r, ch/lh, qu) | Médio-alto |\n| Fluência mínima (sem pausas que quebrem a comunicação) | Médio |\n\n**Checklist final do nível:**\n- [ ] Saudei adequadamente ao horário\n- [ ] Perguntei se um item estava disponível (\"Tem...?\")\n- [ ] Perguntei o preço e entendi a resposta\n- [ ] Pedi pelo menos 2 itens diferentes\n- [ ] Pedi troco\n- [ ] Relatei um pequeno problema (ex.: item faltando no hotel)\n- [ ] Agradeci e me despedi adequadamente\n- [ ] Pronunciei corretamente os 4 pontos fonéticos do nível"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| aqui está o troco | entrega do valor de volta |\n| caixa (do supermercado) | local/pessoa que recebe o pagamento |\n| compra | ato de comprar |\n| desconto | redução no preço |\n| dinheiro | valor usado para pagar |\n| escova de dente | item de higiene bucal |\n| farmácia | local para comprar remédios |\n| fileira | fila/corredor de produtos |\n| fruta | alimento vegetal, ex.: maçã |\n| leite | bebida de origem animal/vegetal |\n| lista de compras | lista de itens a comprar |\n| mercado | local para comprar alimentos |\n| obrigado pela compra | agradecimento do vendedor |\n| pão | alimento básico de farinha |\n| pode me dar troco? | pedido de troco |\n| preço | valor de um item |\n| promoção | oferta especial |\n| quanto é/custa? | pergunta de preço |\n| remédio | medicamento |\n| sabonete | item de higiene para banho |\n| sacola | saco para carregar compras |\n| tem...? / vocês têm...? | pergunta sobre disponibilidade |\n| troco | valor devolvido após pagamento |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [
+    "pre-a1.6"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Tem ___ aqui?",
+      "resposta": "pão"
+    },
+    {
+      "enunciado": "2. Quanto ___ o pão?",
+      "resposta": "é"
+    },
+    {
+      "enunciado": "3. Eu ___ dois pães.",
+      "resposta": "queria"
+    },
+    {
+      "enunciado": "4. Pode me dar ___?",
+      "resposta": "troco"
+    },
+    {
+      "enunciado": "5. Obrigado pela ___.",
+      "resposta": "compra"
+    },
+    {
+      "enunciado": "**Exercício 2 — Associe o item ao local:** mercado",
+      "resposta": "pão"
+    },
+    {
+      "enunciado": "farmácia",
+      "resposta": "remédio"
+    },
+    {
+      "enunciado": "\"2 pães a 4 reais cada = ?\"",
+      "resposta": "oito reais"
+    },
+    {
+      "enunciado": "\"1 escova (7 reais) + 1 sabonete (3 reais) = ?\"",
+      "resposta": "dez reais"
+    },
+    {
+      "enunciado": "Qual tem som nasal? a) pão b) pau",
+      "resposta": "a"
+    },
+    {
+      "enunciado": "Qual tem o som \"ch\" /ʃ/? a) chuveiro b) carro",
+      "resposta": "a"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "aqui está o troco",
+      "significado": "entrega do valor de volta"
+    },
+    {
+      "termo": "caixa (do supermercado)",
+      "significado": "local/pessoa que recebe o pagamento"
+    },
+    {
+      "termo": "compra",
+      "significado": "ato de comprar"
+    },
+    {
+      "termo": "desconto",
+      "significado": "redução no preço"
+    },
+    {
+      "termo": "dinheiro",
+      "significado": "valor usado para pagar"
+    },
+    {
+      "termo": "escova de dente",
+      "significado": "item de higiene bucal"
+    },
+    {
+      "termo": "farmácia",
+      "significado": "local para comprar remédios"
+    },
+    {
+      "termo": "fileira",
+      "significado": "fila/corredor de produtos"
+    },
+    {
+      "termo": "fruta",
+      "significado": "alimento vegetal, ex.: maçã"
+    },
+    {
+      "termo": "leite",
+      "significado": "bebida de origem animal/vegetal"
+    },
+    {
+      "termo": "lista de compras",
+      "significado": "lista de itens a comprar"
+    },
+    {
+      "termo": "mercado",
+      "significado": "local para comprar alimentos"
+    },
+    {
+      "termo": "obrigado pela compra",
+      "significado": "agradecimento do vendedor"
+    },
+    {
+      "termo": "pão",
+      "significado": "alimento básico de farinha"
+    },
+    {
+      "termo": "pode me dar troco?",
+      "significado": "pedido de troco"
+    },
+    {
+      "termo": "preço",
+      "significado": "valor de um item"
+    },
+    {
+      "termo": "promoção",
+      "significado": "oferta especial"
+    },
+    {
+      "termo": "quanto é/custa?",
+      "significado": "pergunta de preço"
+    },
+    {
+      "termo": "remédio",
+      "significado": "medicamento"
+    },
+    {
+      "termo": "sabonete",
+      "significado": "item de higiene para banho"
+    },
+    {
+      "termo": "sacola",
+      "significado": "saco para carregar compras"
+    },
+    {
+      "termo": "tem...? / vocês têm...?",
+      "significado": "pergunta sobre disponibilidade"
+    },
+    {
+      "termo": "troco",
+      "significado": "valor devolvido após pagamento"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

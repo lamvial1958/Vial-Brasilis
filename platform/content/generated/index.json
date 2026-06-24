@@ -1,0 +1,377 @@
+[
+  {
+    "nivel": "pre-a1",
+    "unidades": [
+      {
+        "slug": "00-ferramentas-basicas-i",
+        "ordem": 1,
+        "codigo": "PRE-A1.0",
+        "titulo": "Ferramentas Básicas I",
+        "tipo": "licao"
+      },
+      {
+        "slug": "01-primeiro-contato",
+        "ordem": 2,
+        "codigo": "PRE-A1.1",
+        "titulo": "Primeiro Contato",
+        "tipo": "licao"
+      },
+      {
+        "slug": "02-chegando-ao-brasil",
+        "ordem": 3,
+        "codigo": "PRE-A1.2",
+        "titulo": "Chegando ao Brasil",
+        "tipo": "licao"
+      },
+      {
+        "slug": "03-na-acomodacao",
+        "ordem": 4,
+        "codigo": "PRE-A1.3",
+        "titulo": "Na Acomodação",
+        "tipo": "licao"
+      },
+      {
+        "slug": "04-comendo-e-bebendo",
+        "ordem": 5,
+        "codigo": "PRE-A1.4",
+        "titulo": "Comendo e Bebendo",
+        "tipo": "licao"
+      },
+      {
+        "slug": "04b-ferramentas-basicas-ii",
+        "ordem": 6,
+        "codigo": "PRE-A1.4b",
+        "titulo": "Ferramentas Básicas II",
+        "tipo": "licao"
+      },
+      {
+        "slug": "05-ajuda-e-emergencia",
+        "ordem": 7,
+        "codigo": "PRE-A1.5",
+        "titulo": "Ajuda e Emergência",
+        "tipo": "licao"
+      },
+      {
+        "slug": "06-pequenas-compras",
+        "ordem": 8,
+        "codigo": "PRE-A1.6",
+        "titulo": "Pequenas Compras (Projeto Integrador do Nível)",
+        "tipo": "licao"
+      }
+    ]
+  },
+  {
+    "nivel": "a1",
+    "unidades": [
+      {
+        "slug": "01-quem-sou-eu",
+        "ordem": 1,
+        "codigo": "A1.1",
+        "titulo": "Quem Sou Eu",
+        "tipo": "licao"
+      },
+      {
+        "slug": "02-familia-e-amigos",
+        "ordem": 2,
+        "codigo": "A1.2",
+        "titulo": "Família e Amigos",
+        "tipo": "licao"
+      },
+      {
+        "slug": "03-minha-rotina",
+        "ordem": 3,
+        "codigo": "A1.3",
+        "titulo": "Minha Rotina",
+        "tipo": "licao"
+      },
+      {
+        "slug": "04-casa-e-bairro",
+        "ordem": 4,
+        "codigo": "A1.4",
+        "titulo": "Casa e Bairro",
+        "tipo": "licao"
+      },
+      {
+        "slug": "05-tempo-e-estacoes",
+        "ordem": 5,
+        "codigo": "A1.5",
+        "titulo": "Tempo e Estações",
+        "tipo": "licao"
+      },
+      {
+        "slug": "06-trabalho-e-estudos",
+        "ordem": 6,
+        "codigo": "A1.6",
+        "titulo": "Trabalho e Estudos",
+        "tipo": "licao"
+      },
+      {
+        "slug": "07-lazer-e-fim-de-semana",
+        "ordem": 7,
+        "codigo": "A1.7",
+        "titulo": "Lazer e Fim de Semana",
+        "tipo": "licao"
+      },
+      {
+        "slug": "08-saude-basica",
+        "ordem": 8,
+        "codigo": "A1.8",
+        "titulo": "Saúde Básica",
+        "tipo": "licao"
+      },
+      {
+        "slug": "09-planos-e-convites",
+        "ordem": 9,
+        "codigo": "A1.9",
+        "titulo": "Planos e Convites",
+        "tipo": "licao"
+      },
+      {
+        "slug": "10-projeto-integrador",
+        "ordem": 10,
+        "codigo": "A1.10",
+        "titulo": "Projeto Integrador A1",
+        "tipo": "licao"
+      }
+    ]
+  },
+  {
+    "nivel": "a2",
+    "unidades": [
+      {
+        "slug": "01-contando-o-que-aconteceu",
+        "ordem": 1,
+        "codigo": "A2.1",
+        "titulo": "Contando o que Aconteceu",
+        "tipo": "licao"
+      },
+      {
+        "slug": "02-verbos-irregulares-no-passado",
+        "ordem": 2,
+        "codigo": "A2.2",
+        "titulo": "Verbos Irregulares no Passado",
+        "tipo": "licao"
+      },
+      {
+        "slug": "03-comparando-e-avaliando",
+        "ordem": 3,
+        "codigo": "A2.3",
+        "titulo": "Comparando e Avaliando",
+        "tipo": "licao"
+      },
+      {
+        "slug": "04-instrucoes-e-indicacoes",
+        "ordem": 4,
+        "codigo": "A2.4",
+        "titulo": "Instruções e Indicações",
+        "tipo": "licao"
+      },
+      {
+        "slug": "05-burocracia-do-dia-a-dia",
+        "ordem": 5,
+        "codigo": "A2.5",
+        "titulo": "Burocracia do Dia a Dia",
+        "tipo": "licao"
+      },
+      {
+        "slug": "06-saude-e-bem-estar",
+        "ordem": 6,
+        "codigo": "A2.6",
+        "titulo": "Saúde e Bem-Estar",
+        "tipo": "licao"
+      },
+      {
+        "slug": "07-viagens-pelo-brasil",
+        "ordem": 7,
+        "codigo": "A2.7",
+        "titulo": "Viagens pelo Brasil",
+        "tipo": "licao"
+      },
+      {
+        "slug": "08-comida-e-cultura-a-mesa",
+        "ordem": 8,
+        "codigo": "A2.8",
+        "titulo": "Comida e Cultura à Mesa",
+        "tipo": "licao"
+      },
+      {
+        "slug": "09-lembrancas-e-habitos-passados",
+        "ordem": 9,
+        "codigo": "A2.9",
+        "titulo": "Lembranças e Hábitos Passados",
+        "tipo": "licao"
+      },
+      {
+        "slug": "10-ponte-para-o-b1",
+        "ordem": 10,
+        "codigo": "A2.10",
+        "titulo": "Ponte para o B1",
+        "tipo": "licao"
+      }
+    ]
+  },
+  {
+    "nivel": "b1",
+    "unidades": [
+      {
+        "slug": "01-entendendo-a-tarefa-integrada",
+        "ordem": 1,
+        "codigo": "B1.1",
+        "titulo": "Entendendo a Tarefa Integrada",
+        "tipo": "licao"
+      },
+      {
+        "slug": "02-email-e-carta-pessoal",
+        "ordem": 2,
+        "codigo": "B1.2",
+        "titulo": "E-mail e Carta Pessoal",
+        "tipo": "licao"
+      },
+      {
+        "slug": "03-reclamando-e-resolvendo",
+        "ordem": 3,
+        "codigo": "B1.3",
+        "titulo": "Reclamando e Resolvendo",
+        "tipo": "licao"
+      },
+      {
+        "slug": "04-opiniao-em-foruns",
+        "ordem": 4,
+        "codigo": "B1.4",
+        "titulo": "Opinião em Fóruns",
+        "tipo": "licao"
+      },
+      {
+        "slug": "05-narrando-uma-experiencia",
+        "ordem": 5,
+        "codigo": "B1.5",
+        "titulo": "Narrando uma Experiência",
+        "tipo": "licao"
+      },
+      {
+        "slug": "06-subjuntivo-presente",
+        "ordem": 6,
+        "codigo": "B1.6",
+        "titulo": "Subjuntivo Presente",
+        "tipo": "licao"
+      },
+      {
+        "slug": "07-linguagem-de-noticia",
+        "ordem": 7,
+        "codigo": "B1.7",
+        "titulo": "Linguagem de Notícia",
+        "tipo": "licao"
+      },
+      {
+        "slug": "08-registro-formal-vs-informal",
+        "ordem": 8,
+        "codigo": "B1.8",
+        "titulo": "Registro Formal vs. Informal",
+        "tipo": "licao"
+      },
+      {
+        "slug": "09-debatendo-temas-sociais",
+        "ordem": 9,
+        "codigo": "B1.9",
+        "titulo": "Debatendo Temas Sociais",
+        "tipo": "licao"
+      },
+      {
+        "slug": "10-entrevista-oral",
+        "ordem": 10,
+        "codigo": "B1.10",
+        "titulo": "Entrevista Oral",
+        "tipo": "licao"
+      },
+      {
+        "slug": "11-simulado-completo-1",
+        "ordem": 11,
+        "codigo": "B1.11",
+        "titulo": "Simulado Completo #1",
+        "tipo": "simulado"
+      },
+      {
+        "slug": "12-revisao-direcionada-e-simulado-2",
+        "ordem": 12,
+        "codigo": "B1.12",
+        "titulo": "Revisão Direcionada + Simulado #2",
+        "tipo": "simulado"
+      }
+    ]
+  },
+  {
+    "nivel": "b2",
+    "unidades": [
+      {
+        "slug": "01-hipoteses-e-condicoes",
+        "ordem": 1,
+        "codigo": "B2.1",
+        "titulo": "Hipóteses e Condições",
+        "tipo": "licao"
+      },
+      {
+        "slug": "02-discurso-indireto",
+        "ordem": 2,
+        "codigo": "B2.2",
+        "titulo": "Discurso Indireto",
+        "tipo": "licao"
+      },
+      {
+        "slug": "03-argumentacao-avancada",
+        "ordem": 3,
+        "codigo": "B2.3",
+        "titulo": "Argumentação Avançada",
+        "tipo": "licao"
+      },
+      {
+        "slug": "04-variacao-regional-pt-br",
+        "ordem": 4,
+        "codigo": "B2.4",
+        "titulo": "Variação Regional do PT-BR",
+        "tipo": "licao"
+      },
+      {
+        "slug": "05-portugues-no-trabalho",
+        "ordem": 5,
+        "codigo": "B2.5",
+        "titulo": "Português no Trabalho",
+        "tipo": "licao"
+      },
+      {
+        "slug": "06-midia-e-atualidades",
+        "ordem": 6,
+        "codigo": "B2.6",
+        "titulo": "Mídia e Atualidades",
+        "tipo": "licao"
+      },
+      {
+        "slug": "07-humor-ironia-e-linguagem-figurada",
+        "ordem": 7,
+        "codigo": "B2.7",
+        "titulo": "Humor, Ironia e Linguagem Figurada",
+        "tipo": "licao"
+      },
+      {
+        "slug": "08-cultura-brasileira-em-texto-e-musica",
+        "ordem": 8,
+        "codigo": "B2.8",
+        "titulo": "Cultura Brasileira em Texto e Música",
+        "tipo": "licao"
+      },
+      {
+        "slug": "09-simulado-completo-1",
+        "ordem": 9,
+        "codigo": "B2.9",
+        "titulo": "Simulado Completo #1",
+        "tipo": "simulado"
+      },
+      {
+        "slug": "10-revisao-direcionada-e-simulado-2",
+        "ordem": 10,
+        "codigo": "B2.10",
+        "titulo": "Revisão Direcionada + Simulado #2",
+        "tipo": "simulado"
+      }
+    ]
+  }
+]

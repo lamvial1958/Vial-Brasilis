@@ -1,0 +1,283 @@
+{
+  "nivel": "b2",
+  "slug": "04-variacao-regional-pt-br",
+  "ordem": 4,
+  "codigo": "B2.4",
+  "titulo": "Variação Regional do PT-BR",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b2.md`. Extensão natural do strand sociolinguístico iniciado em B1.8 (registro formal/informal) — agora no eixo regional. Pré-requisito: B1.8. Projeta para B2.5 (registro profissional) e B2.7 (humor/ironia, que frequentemente se apoia em marcas regionais).",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Cenário Motivador e Textos de Abertura",
+      "markdown": "**Cenário:** o aluno ouve três falantes de regiões diferentes do Brasil comentando o mesmo assunto — o trânsito da cidade — e precisa identificar a origem regional e o conteúdo de cada fala, sem precisar produzir os traços regionais.\n\n**Fala 1 — falante do Rio Grande do Sul (Sul):**\n> \"Tu vai pegar bastante trânsito agora, tchê. Melhor tu ires pela outra rua, é mais rápido.\"\n\n**Fala 2 — falante de Pernambuco (Nordeste):**\n> \"Visse, o trânsito tá um horror agora, oxente. Pega o busão que é mais rápido do que ir de carro.\"\n\n**Fala 3 — falante de São Paulo (Sudeste, padrão neutro mais próximo da norma):**\n> \"Você vai pegar muito trânsito agora. Melhor você ir por outra rua, é mais rápido.\"\n\n**Quadro de contraste regional:**\n| Elemento | Sul (RS) | Nordeste (PE) | Sudeste (SP, neutro) |\n|---|---|---|---|\n| Pronome de 2ª pessoa | tu (+ conjugação própria: \"tu vai/tu ires\") | você (uso predominante) | você |\n| Marcador discursivo regional | tchê | oxente, visse | (nenhum marcador saliente) |\n| Vocabulário | — | busão (ônibus) | ônibus |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário — Pares Regionais",
+      "markdown": "| Termo regional | Equivalente neutro/SP | Região associada | Tag |\n|---|---|---|---|\n| busão | ônibus | Nordeste (informal, mas usado em várias regiões) | regional |\n| tchê | (marcador de fala, sem tradução direta — equivale a \"véio\"/\"cara\") | Rio Grande do Sul | regional |\n| oxente | (interjeição de surpresa, sem tradução direta) | Nordeste (especialmente PE, BA) | regional |\n| visse | \"sabe\", \"entendeu\" (marcador discursivo) | Pernambuco | regional |\n| mandioca | aipim/macaxeira (mesmo alimento, nomes regionais) | uso variável (Sudeste/Sul) | regional |\n| aipim | mandioca/macaxeira | Sudeste/Sul | regional |\n| macaxeira | mandioca/aipim | Nordeste | regional |\n| bergamota | tangerina/mexerica | Sul | regional |\n| mexerica | tangerina/bergamota | Sudeste | regional |\n| guri/guria | menino/menina | Sul | regional |\n| moleque | menino (informal) | uso nacional, mais marcado no Sudeste/Nordeste | regional |\n| bah | (interjeição de ênfase/surpresa, sem tradução direta) | Rio Grande do Sul | regional |\n| égua | (interjeição de surpresa/ênfase, sem tradução direta) | Norte/Nordeste (especialmente PA, MA) | regional |\n| sacola | bolsa de plástico | uso nacional | regional |\n| geladeira | refrigerador (mais formal, uso nacional) | — | regional |\n| tu | você (2ª pessoa, com conjugação verbal própria em algumas regiões) | Sul, parte do Nordeste e Norte | regional |\n| cacete (interjeição) | (marcador de ênfase/frustração) | uso amplo, mais informal | regional |\n| sotaque carioca | pronúncia característica do Rio de Janeiro (ex.: \"s\" como \"x/sh\" no final de sílaba) | Rio de Janeiro | regional |\n| sotaque nordestino | pronúncia característica do Nordeste (entonação melódica distinta) | Nordeste | regional |\n| sotaque gaúcho | pronúncia característica do Rio Grande do Sul (influência italiana/espanhola) | Rio Grande do Sul | regional |\n| sotaque caipira | pronúncia característica do interior de SP/MG/GO (retroflexo no \"r\") | interior Sudeste/Centro-Oeste | regional |\n\n**(20 itens, tag `regional`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Função & Gramática em Foco",
+      "markdown": "**A. Variação pronominal regional — \"tu\" com conjugação própria × \"você\":**\n| Região/registro | Padrão | Exemplo |\n|---|---|---|\n| Norma padrão neutra (a maior parte do Brasil) | você + verbo na 3ª pessoa | Você vai/foi/tem |\n| Sul e parte do Norte/Nordeste (uso popular regional) | tu + verbo na 2ª pessoa OU tu + verbo na 3ª pessoa (variação interna) | Tu vai / Tu vais (ambas variantes existem regionalmente) |\n\n> **Importante para o aluno de PLE:** a meta desta unidade é **reconhecer**, não produzir obrigatoriamente, essas variantes. O \"você\" neutro continua sendo a forma mais segura para uso ativo em qualquer região do Brasil.\n\n**B. Marcadores discursivos regionais — função pragmática, não gramatical:**\n| Marcador | Função pragmática | Região |\n|---|---|---|\n| tchê | marca proximidade/informalidade, similar a \"cara\"/\"véio\" | RS |\n| oxente | expressa surpresa/espanto | Nordeste |\n| visse/sabe | busca confirmação/atenção do interlocutor | Nordeste (visse), nacional (sabe) |\n| bah | ênfase/surpresa | RS |\n\n**C. Vocabulário regional não é \"erro\" — é variação legítima:** diferente de um desvio de registro (B1.8), a variação regional é geográfica e culturalmente válida em seu contexto; não deve ser \"corrigida\", apenas reconhecida."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Sotaque carioca — \"s\" final como \"x/sh\":** \"luz\" pronunciado como \"luxe\", \"mas\" como \"máx\" — característico do Rio de Janeiro.\n**B. Sotaque gaúcho — entonação mais \"cantada\" e \"r\" mais forte em início de palavra:** influência de imigração italiana/espanhola na região Sul.\n**C. Sotaque nordestino — entonação melódica com vogais mais abertas:** ritmo de fala frequentemente percebido como mais \"cantado\" por falantes de outras regiões.\n**D. Meta desta unidade:** treinar a **compreensão** desses sotaques em áudio autêntico, não a produção ativa de nenhum deles."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Associe o termo regional ao equivalente neutro:**\n1. busão → **ônibus**\n2. guri → **menino**\n3. mexerica → **tangerina**\n\n**Exercício 2 — Identifique a região provável de origem de cada marcador:**\n1. \"tchê\" → **Rio Grande do Sul**\n2. \"oxente\" → **Nordeste**\n3. \"égua\" → **Norte/Nordeste (PA, MA)**\n\n**Exercício 3 — Classifique: isso é variação regional legítima ou desvio de registro (formal/informal)?**\n1. Um gaúcho dizer \"tu vais\" numa conversa informal com amigos. → **Variação regional legítima**\n2. Escrever \"tá vazando\" num e-mail formal à administradora do prédio. → **Desvio de registro (não regional, é B1.8)**\n\n**Exercício 4 — Reescreva a frase regional usando vocabulário neutro, sem perder o sentido:**\n\"Visse, o trânsito tá um horror, pega o busão que é mais rápido.\" → **Sabe, o trânsito está terrível, pegue o ônibus que é mais rápido.**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Som & Compreensão — Banco de Áudios Regionais",
+      "markdown": "**Áudio 1 — sotaque gaúcho (Sul):**\n> \"Bah, tu não vai crer no trânsito hoje, tchê! Fiquei quase uma hora pra chegar.\"\n\n**Áudio 2 — sotaque nordestino (Pernambuco):**\n> \"Oxente, visse como esse trânsito tá complicado hoje? Acho bom a gente sair mais cedo.\"\n\n**Áudio 3 — sotaque carioca (Rio de Janeiro):**\n> \"Cara, o trânsito hoje tá um caos. Acho melhor a gente ir de metrô.\"\n\n**Perguntas:**\n1. Qual áudio usa \"tu\" com marcador \"tchê\"? → **Áudio 1 (gaúcho)**\n2. Qual áudio usa \"oxente\" e \"visse\"? → **Áudio 2 (nordestino)**\n3. Os três falantes comentam o mesmo assunto. Qual é? → **O trânsito**\n4. Qual áudio tem vocabulário mais próximo da norma neutra, com marcadores menos regionais? → **Áudio 3 (carioca)**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Tarefa de **reconhecimento e relato**, não de produção de sotaque:\n1. Ouça (ou leia) os três áudios da Seção 6 novamente e escreva um pequeno relato (80–100 palavras) explicando que marcas linguísticas você notou em cada um (vocabulário, pronome, marcador discursivo)\n2. Em seguida, simule oralmente uma pequena troca usando **uma** marca regional que você reconheceu (ex.: usar \"tchê\" ou \"oxente\" em contexto apropriado, informal) — não é exigido em registro formal, é uma tarefa de familiarização cultural\n\n**Checklist de autoavaliação:**\n- [ ] Identifiquei corretamente pelo menos duas marcas regionais distintas nos áudios\n- [ ] Entendi o conteúdo comunicado mesmo com vocabulário/sotaque regional diferente do que já conhecia\n- [ ] Reconheço que variação regional não é erro, mas distingo isso de desvio de registro (B1.8)\n- [ ] Consegui usar pelo menos uma marca regional num contexto informal apropriado"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| aipim | mandioca/macaxeira (Sudeste/Sul) |\n| bah | interjeição de ênfase/surpresa (RS) |\n| bergamota | tangerina/mexerica (Sul) |\n| busão | ônibus (informal, várias regiões) |\n| cacete (interjeição) | marcador de ênfase/frustração |\n| égua | interjeição de surpresa/ênfase (Norte/Nordeste) |\n| guri/guria | menino/menina (Sul) |\n| macaxeira | mandioca/aipim (Nordeste) |\n| mandioca | aipim/macaxeira |\n| mexerica | tangerina/bergamota (Sudeste) |\n| moleque | menino (informal) |\n| oxente | interjeição de surpresa (Nordeste) |\n| sotaque caipira | pronúncia do interior de SP/MG/GO |\n| sotaque carioca | pronúncia do Rio de Janeiro |\n| sotaque gaúcho | pronúncia do Rio Grande do Sul |\n| sotaque nordestino | pronúncia do Nordeste |\n| tchê | marcador de proximidade/informalidade (RS) |\n| tu | você (2ª pessoa, com conjugação própria em algumas regiões) |\n| visse | marcador discursivo de confirmação (Pernambuco) |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "Termo regional",
+      "definicao": "Equivalente neutro/SP",
+      "exemplo": "Região associada"
+    },
+    {
+      "termo": "busão",
+      "definicao": "ônibus",
+      "exemplo": "Nordeste (informal, mas usado em várias regiões)"
+    },
+    {
+      "termo": "tchê",
+      "definicao": "(marcador de fala, sem tradução direta — equivale a \"véio\"/\"cara\")",
+      "exemplo": "Rio Grande do Sul"
+    },
+    {
+      "termo": "oxente",
+      "definicao": "(interjeição de surpresa, sem tradução direta)",
+      "exemplo": "Nordeste (especialmente PE, BA)"
+    },
+    {
+      "termo": "visse",
+      "definicao": "\"sabe\", \"entendeu\" (marcador discursivo)",
+      "exemplo": "Pernambuco"
+    },
+    {
+      "termo": "mandioca",
+      "definicao": "aipim/macaxeira (mesmo alimento, nomes regionais)",
+      "exemplo": "uso variável (Sudeste/Sul)"
+    },
+    {
+      "termo": "aipim",
+      "definicao": "mandioca/macaxeira",
+      "exemplo": "Sudeste/Sul"
+    },
+    {
+      "termo": "macaxeira",
+      "definicao": "mandioca/aipim",
+      "exemplo": "Nordeste"
+    },
+    {
+      "termo": "bergamota",
+      "definicao": "tangerina/mexerica",
+      "exemplo": "Sul"
+    },
+    {
+      "termo": "mexerica",
+      "definicao": "tangerina/bergamota",
+      "exemplo": "Sudeste"
+    },
+    {
+      "termo": "guri/guria",
+      "definicao": "menino/menina",
+      "exemplo": "Sul"
+    },
+    {
+      "termo": "moleque",
+      "definicao": "menino (informal)",
+      "exemplo": "uso nacional, mais marcado no Sudeste/Nordeste"
+    },
+    {
+      "termo": "bah",
+      "definicao": "(interjeição de ênfase/surpresa, sem tradução direta)",
+      "exemplo": "Rio Grande do Sul"
+    },
+    {
+      "termo": "égua",
+      "definicao": "(interjeição de surpresa/ênfase, sem tradução direta)",
+      "exemplo": "Norte/Nordeste (especialmente PA, MA)"
+    },
+    {
+      "termo": "sacola",
+      "definicao": "bolsa de plástico",
+      "exemplo": "uso nacional"
+    },
+    {
+      "termo": "geladeira",
+      "definicao": "refrigerador (mais formal, uso nacional)",
+      "exemplo": "—"
+    },
+    {
+      "termo": "tu",
+      "definicao": "você (2ª pessoa, com conjugação verbal própria em algumas regiões)",
+      "exemplo": "Sul, parte do Nordeste e Norte"
+    },
+    {
+      "termo": "cacete (interjeição)",
+      "definicao": "(marcador de ênfase/frustração)",
+      "exemplo": "uso amplo, mais informal"
+    },
+    {
+      "termo": "sotaque carioca",
+      "definicao": "pronúncia característica do Rio de Janeiro (ex.: \"s\" como \"x/sh\" no final de sílaba)",
+      "exemplo": "Rio de Janeiro"
+    },
+    {
+      "termo": "sotaque nordestino",
+      "definicao": "pronúncia característica do Nordeste (entonação melódica distinta)",
+      "exemplo": "Nordeste"
+    },
+    {
+      "termo": "sotaque gaúcho",
+      "definicao": "pronúncia característica do Rio Grande do Sul (influência italiana/espanhola)",
+      "exemplo": "Rio Grande do Sul"
+    },
+    {
+      "termo": "sotaque caipira",
+      "definicao": "pronúncia característica do interior de SP/MG/GO (retroflexo no \"r\")",
+      "exemplo": "interior Sudeste/Centro-Oeste"
+    }
+  ],
+  "tagsVocabulario": [
+    "regional"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. busão",
+      "resposta": "ônibus"
+    },
+    {
+      "enunciado": "2. guri",
+      "resposta": "menino"
+    },
+    {
+      "enunciado": "3. mexerica",
+      "resposta": "tangerina"
+    },
+    {
+      "enunciado": "1. \"tchê\"",
+      "resposta": "Rio Grande do Sul"
+    },
+    {
+      "enunciado": "2. \"oxente\"",
+      "resposta": "Nordeste"
+    },
+    {
+      "enunciado": "3. \"égua\"",
+      "resposta": "Norte/Nordeste (PA, MA)"
+    },
+    {
+      "enunciado": "1. Um gaúcho dizer \"tu vais\" numa conversa informal com amigos.",
+      "resposta": "Variação regional legítima"
+    },
+    {
+      "enunciado": "2. Escrever \"tá vazando\" num e-mail formal à administradora do prédio.",
+      "resposta": "Desvio de registro (não regional, é B1.8)"
+    },
+    {
+      "enunciado": "\"Visse, o trânsito tá um horror, pega o busão que é mais rápido.\"",
+      "resposta": "Sabe, o trânsito está terrível, pegue o ônibus que é mais rápido."
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "aipim",
+      "significado": "mandioca/macaxeira (Sudeste/Sul)"
+    },
+    {
+      "termo": "bah",
+      "significado": "interjeição de ênfase/surpresa (RS)"
+    },
+    {
+      "termo": "bergamota",
+      "significado": "tangerina/mexerica (Sul)"
+    },
+    {
+      "termo": "busão",
+      "significado": "ônibus (informal, várias regiões)"
+    },
+    {
+      "termo": "cacete (interjeição)",
+      "significado": "marcador de ênfase/frustração"
+    },
+    {
+      "termo": "égua",
+      "significado": "interjeição de surpresa/ênfase (Norte/Nordeste)"
+    },
+    {
+      "termo": "guri/guria",
+      "significado": "menino/menina (Sul)"
+    },
+    {
+      "termo": "macaxeira",
+      "significado": "mandioca/aipim (Nordeste)"
+    },
+    {
+      "termo": "mandioca",
+      "significado": "aipim/macaxeira"
+    },
+    {
+      "termo": "mexerica",
+      "significado": "tangerina/bergamota (Sudeste)"
+    },
+    {
+      "termo": "moleque",
+      "significado": "menino (informal)"
+    },
+    {
+      "termo": "oxente",
+      "significado": "interjeição de surpresa (Nordeste)"
+    },
+    {
+      "termo": "sotaque caipira",
+      "significado": "pronúncia do interior de SP/MG/GO"
+    },
+    {
+      "termo": "sotaque carioca",
+      "significado": "pronúncia do Rio de Janeiro"
+    },
+    {
+      "termo": "sotaque gaúcho",
+      "significado": "pronúncia do Rio Grande do Sul"
+    },
+    {
+      "termo": "sotaque nordestino",
+      "significado": "pronúncia do Nordeste"
+    },
+    {
+      "termo": "tchê",
+      "significado": "marcador de proximidade/informalidade (RS)"
+    },
+    {
+      "termo": "tu",
+      "significado": "você (2ª pessoa, com conjugação própria em algumas regiões)"
+    },
+    {
+      "termo": "visse",
+      "significado": "marcador discursivo de confirmação (Pernambuco)"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

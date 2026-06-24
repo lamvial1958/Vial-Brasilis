@@ -1,0 +1,211 @@
+{
+  "nivel": "pre-a1",
+  "slug": "04-comendo-e-bebendo",
+  "ordem": 5,
+  "codigo": "PRE-A1.4",
+  "titulo": "Comendo e Bebendo",
+  "tipo": "licao",
+  "notaIntro": "*Cena 1 — Padaria:*",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena 1 — Padaria:**\n> **Tom:** Bom dia! Eu queria um pão de queijo e um café, por favor.\n> **Atendente:** Para comer aqui ou para levar?\n> **Tom:** Para comer aqui, por favor.\n> **Atendente:** Mais alguma coisa?\n> **Tom:** Não, só isso. Quanto custa?\n> **Atendente:** São oito reais.\n\n**Cena 2 — Restaurante:**\n> **Garçom:** Boa noite! Vocês já escolheram?\n> **Tom:** Sim. Eu queria o prato do dia.\n> **Garçom:** Perfeito. E para beber?\n> **Tom:** Uma água, por favor. Ah, eu sou alérgico a amendoim — tem amendoim nesse prato?\n> **Garçom:** Não, não tem. Pode ficar tranquilo.\n> **Tom:** Obrigado. A conta, por favor.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Pedir algo educadamente | Eu queria... |\n| Perguntar se é para consumir no local | Para comer aqui ou para levar? |\n| Perguntar o preço | Quanto custa? / Quanto é? |\n| Encerrar o pedido | Mais alguma coisa? / Não, só isso. |\n| Avisar restrição alimentar | Eu sou alérgico(a) a... |\n| Pedir a conta | A conta, por favor. |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "cardápio, conta, água, suco, café, pão de queijo, prato do dia, garçom, atendente, alérgico a, amendoim, para comer aqui, para levar, quanto custa, real/reais, copo, prato, colher, garfo, faca, guardanapo, gorjeta — **(22 itens, tag `pre-a1.4`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Valores monetários (reais):** treinar \"são oito reais\", \"são quinze reais\"\n**B. Som /k/ na grafia \"qu\":** quanto, queria, quero"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete o diálogo:**\n1. Eu ___ um café. → **queria**\n2. ___ comer aqui ou para levar? → **Para**\n3. Quanto ___? → **custa**\n4. Eu sou ___ a amendoim. → **alérgico**\n5. A ___, por favor. → **conta**\n\n**Exercício 2 — Associe o utensílio ao uso:**\ncolher→sopa · garfo→carne · faca→cortar · guardanapo→limpar a boca\n\n**Exercício 3 — Calcule e escreva o valor por extenso:**\n\"Um café (5 reais) + um pão de queijo (3 reais) = ?\" → **oito reais**\n\n**Exercício 4 — A palavra é escrita com \"qu\"? (sim/não):**\nquanto(**sim**) · custa(**não**, é \"c\") · queria(**sim**) · copo(**não**)"
+    },
+    {
+      "ordem": 5,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Garçom:** Boa tarde! Já escolheu?\n> **Sofia:** Já. Eu queria o prato do dia. Ah, eu sou vegetariana — tem carne nesse prato?\n> **Garçom:** Tem, sim. Mas temos uma opção vegetariana também.\n> **Sofia:** Ótimo, eu queria essa, por favor. E um suco de laranja.\n> **Garçom:** Perfeito.\n\n**Perguntas:**\n1. Sofia é vegetariana ou alérgica? → **Vegetariana**\n2. O que ela pede para beber? → **Suco de laranja**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Role-play completo: peça em uma padaria e depois em um restaurante, mencionando uma restrição alimentar e pedindo a conta ao final.\n\n**Checklist de autoavaliação:**\n- [ ] Usei \"Eu queria...\" para pedir\n- [ ] Perguntei o preço com \"Quanto custa?\"\n- [ ] Mencionei uma restrição alimentar\n- [ ] Pedi a conta\n- [ ] Pronunciei corretamente o som /k/ em \"qu\""
+    },
+    {
+      "ordem": 7,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| a conta, por favor | pedido para encerrar e pagar |\n| água | bebida básica |\n| alérgico a... | expressão de restrição alimentar por alergia |\n| amendoim | tipo de oleaginosa, alérgeno comum |\n| atendente | pessoa que atende no balcão |\n| café | bebida quente feita do grão de café |\n| cardápio | lista de pratos/bebidas de um restaurante |\n| colher / garfo / faca | utensílios de mesa |\n| conta | valor total a pagar |\n| copo / prato | recipientes para bebida/comida |\n| eu queria... | forma educada de pedir |\n| garçom | quem atende mesas no restaurante |\n| gorjeta | valor extra dado como agradecimento |\n| guardanapo | pano/papel para limpar a boca |\n| mais alguma coisa? | pergunta para saber se o pedido terminou |\n| não, só isso | resposta que encerra o pedido |\n| pão de queijo | pãozinho brasileiro feito com queijo |\n| para comer aqui / para levar | opção de consumir no local ou viagem |\n| pode ficar tranquilo | expressão tranquilizadora |\n| prato do dia | prato especial oferecido naquele dia |\n| quanto custa? | pergunta de preço |\n| real/reais | moeda do Brasil |\n| suco (de laranja) | bebida feita de fruta |\n| vegetariano/a | pessoa que não come carne |\n| vocês já escolheram? | pergunta do garçom sobre o pedido |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [
+    "pre-a1.4"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Eu ___ um café.",
+      "resposta": "queria"
+    },
+    {
+      "enunciado": "2. ___ comer aqui ou para levar?",
+      "resposta": "Para"
+    },
+    {
+      "enunciado": "3. Quanto ___?",
+      "resposta": "custa"
+    },
+    {
+      "enunciado": "4. Eu sou ___ a amendoim.",
+      "resposta": "alérgico"
+    },
+    {
+      "enunciado": "5. A ___, por favor.",
+      "resposta": "conta"
+    },
+    {
+      "enunciado": "colher",
+      "resposta": "sopa"
+    },
+    {
+      "enunciado": "garfo",
+      "resposta": "carne"
+    },
+    {
+      "enunciado": "faca",
+      "resposta": "cortar"
+    },
+    {
+      "enunciado": "guardanapo",
+      "resposta": "limpar a boca"
+    },
+    {
+      "enunciado": "\"Um café (5 reais) + um pão de queijo (3 reais) = ?\"",
+      "resposta": "oito reais"
+    },
+    {
+      "enunciado": "quanto",
+      "resposta": "sim"
+    },
+    {
+      "enunciado": "custa",
+      "resposta": "**não**, é \"c\""
+    },
+    {
+      "enunciado": "queria",
+      "resposta": "sim"
+    },
+    {
+      "enunciado": "copo",
+      "resposta": "não"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "a conta, por favor",
+      "significado": "pedido para encerrar e pagar"
+    },
+    {
+      "termo": "água",
+      "significado": "bebida básica"
+    },
+    {
+      "termo": "alérgico a...",
+      "significado": "expressão de restrição alimentar por alergia"
+    },
+    {
+      "termo": "amendoim",
+      "significado": "tipo de oleaginosa, alérgeno comum"
+    },
+    {
+      "termo": "atendente",
+      "significado": "pessoa que atende no balcão"
+    },
+    {
+      "termo": "café",
+      "significado": "bebida quente feita do grão de café"
+    },
+    {
+      "termo": "cardápio",
+      "significado": "lista de pratos/bebidas de um restaurante"
+    },
+    {
+      "termo": "colher / garfo / faca",
+      "significado": "utensílios de mesa"
+    },
+    {
+      "termo": "conta",
+      "significado": "valor total a pagar"
+    },
+    {
+      "termo": "copo / prato",
+      "significado": "recipientes para bebida/comida"
+    },
+    {
+      "termo": "eu queria...",
+      "significado": "forma educada de pedir"
+    },
+    {
+      "termo": "garçom",
+      "significado": "quem atende mesas no restaurante"
+    },
+    {
+      "termo": "gorjeta",
+      "significado": "valor extra dado como agradecimento"
+    },
+    {
+      "termo": "guardanapo",
+      "significado": "pano/papel para limpar a boca"
+    },
+    {
+      "termo": "mais alguma coisa?",
+      "significado": "pergunta para saber se o pedido terminou"
+    },
+    {
+      "termo": "não, só isso",
+      "significado": "resposta que encerra o pedido"
+    },
+    {
+      "termo": "pão de queijo",
+      "significado": "pãozinho brasileiro feito com queijo"
+    },
+    {
+      "termo": "para comer aqui / para levar",
+      "significado": "opção de consumir no local ou viagem"
+    },
+    {
+      "termo": "pode ficar tranquilo",
+      "significado": "expressão tranquilizadora"
+    },
+    {
+      "termo": "prato do dia",
+      "significado": "prato especial oferecido naquele dia"
+    },
+    {
+      "termo": "quanto custa?",
+      "significado": "pergunta de preço"
+    },
+    {
+      "termo": "real/reais",
+      "significado": "moeda do Brasil"
+    },
+    {
+      "termo": "suco (de laranja)",
+      "significado": "bebida feita de fruta"
+    },
+    {
+      "termo": "vegetariano/a",
+      "significado": "pessoa que não come carne"
+    },
+    {
+      "termo": "vocês já escolheram?",
+      "significado": "pergunta do garçom sobre o pedido"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

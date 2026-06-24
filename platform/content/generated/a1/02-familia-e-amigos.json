@@ -1,0 +1,176 @@
+{
+  "nivel": "a1",
+  "slug": "02-familia-e-amigos",
+  "ordem": 2,
+  "codigo": "A1.2",
+  "titulo": "Família e Amigos",
+  "tipo": "licao",
+  "notaIntro": "*Cena — Tom mostra uma foto da família para Li:*",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — Tom mostra uma foto da família para Li:**\n> **Tom:** Olha, essa é a minha família.\n> **Li:** Que legal! Quem é essa mulher?\n> **Tom:** Essa é a minha mãe. Ela se chama Helen.\n> **Li:** E o homem ao lado dela?\n> **Tom:** É o meu pai, Richard. E essa é a minha irmã, Emma.\n> **Li:** Ela é muito parecida com você!\n> **Tom:** É verdade! Ela é alta e simpática, como eu.\n> **Li:** E quem são essas crianças?\n> **Tom:** São os filhos da minha irmã — meus sobrinhos.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Apresentar uma pessoa da família | Esse é o meu... / Essa é a minha... |\n| Perguntar quem é alguém | Quem é essa pessoa? / Quem é esse/essa? |\n| Descrever aparência/personalidade | Ele é alto/baixo/simpático... |\n| Indicar semelhança | Ele/ela é parecido(a) com... |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "pai, mãe, irmão, irmã, filho, filha, avô, avó, tio, tia, primo, prima, sobrinho, sobrinha, marido, esposa, namorado, namorada, amigo, amiga, alto/alta, baixo/baixa, simpático/simpática, parecido/parecida — **(24 itens, tag `a1.2`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Possessivos** — concordam com o substantivo possuído, não com quem possui:\n| | Singular | Plural |\n|---|---|---|\n| (eu) | meu pai / minha mãe | meus pais / minhas tias |\n| (você/ele/ela) | seu pai / sua mãe | seus pais / suas tias |\n\n**B. Adjetivos descritivos** — concordância de gênero e número:\nalto/alta/altos/altas · baixo/baixa/baixos/baixas · simpático/simpática/simpáticos/simpáticas\n\n**C. \"Parecido(a) com\"** — para indicar semelhança: *Ela é parecida com a mãe. Eles são parecidos com o pai.*"
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"lh\" /ʎ/ (revisão):** filho, filha, mulher (atenção: \"lh\" ≠ \"l\" — não confundir com \"filo\")\n**B. Nasalização em parentesco:** mãe, irmã, também\n**C. Acento tônico em \"parecido\":** pa-re-**ci**-do"
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete o diálogo:**\n1. Essa é a ___ mãe. → **minha**\n2. Quem é ___ mulher? → **essa**\n3. Ela é muito ___ com você. → **parecida**\n4. São os filhos da minha irmã, meus ___. → **sobrinhos**\n\n**Exercício 2 — Complete com o possessivo correto:**\n\"Esse é (eu) ___ pai\" → **meu** · \"Essas são (você) ___ tias\" → **suas** · \"Esses são (eu) ___ amigos\" → **meus**\n\n**Exercício 3 — Concorde o adjetivo:**\nEla é alt___ (**alta**) · Eles são simpátic___ (**simpáticos**) · Elas são baix___ (**baixas**)\n\n**Exercício 4 — Associe o parentesco à definição:**\nfilho do meu irmão → **sobrinho** · mãe do meu pai → **avó** · irmão da minha mãe → **tio**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Marco:** Essa é a minha família. Esse é o meu pai, Giuseppe, e essa é a minha mãe, Anna. Eu tenho dois irmãos: o Paolo, que é alto e muito simpático, e a Giulia, que é baixa.\n> **Entrevistador:** Você é parecido com alguém da família?\n> **Marco:** Sim, eu sou parecido com o meu pai.\n\n**Perguntas:**\n1. Como se chamam os pais de Marco? → **Giuseppe e Anna**\n2. Quantos irmãos Marco tem? → **Dois**\n3. Com quem Marco é parecido? → **Com o pai**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Descreva (oral ou por escrito) 3 pessoas próximas a você — uma da família e duas amigas — usando: quem é (relação), como se chama, como é (aparência/personalidade) e, se possível, uma semelhança com outra pessoa.\n\n**Checklist de autoavaliação:**\n- [ ] Usei \"Esse é o meu.../Essa é a minha...\" para apresentar cada pessoa\n- [ ] Usei pelo menos 2 possessivos diferentes corretamente\n- [ ] Concordei os adjetivos descritivos em gênero e número\n- [ ] Usei \"parecido(a) com\" pelo menos uma vez\n- [ ] Pronunciei corretamente uma palavra com \"lh\""
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| alto/alta | de estatura grande |\n| amigo/amiga | pessoa querida que não é da família |\n| avô/avó | pai ou mãe do pai/da mãe |\n| baixo/baixa | de estatura pequena |\n| esposa / marido | cônjuge da pessoa |\n| esse é o meu... / essa é a minha... | fórmula para apresentar uma pessoa |\n| filho/filha | descendente direto de alguém |\n| irmão/irmã | filho(a) dos mesmos pais |\n| namorado/namorada | parceiro(a) romântico(a), sem casamento |\n| pai/mãe | progenitores |\n| parecido/parecida (com) | semelhante a alguém |\n| primo/prima | filho(a) de um tio/tia |\n| quem é essa pessoa? | pergunta para identificar alguém |\n| simpático/simpática | de personalidade agradável |\n| sobrinho/sobrinha | filho(a) de um irmão/irmã |\n| tio/tia | irmão/irmã de um dos pais |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [
+    "a1.2"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. Essa é a ___ mãe.",
+      "resposta": "minha"
+    },
+    {
+      "enunciado": "2. Quem é ___ mulher?",
+      "resposta": "essa"
+    },
+    {
+      "enunciado": "3. Ela é muito ___ com você.",
+      "resposta": "parecida"
+    },
+    {
+      "enunciado": "4. São os filhos da minha irmã, meus ___.",
+      "resposta": "sobrinhos"
+    },
+    {
+      "enunciado": "\"Esse é (eu) ___ pai\"",
+      "resposta": "meu"
+    },
+    {
+      "enunciado": "\"Essas são (você) ___ tias\"",
+      "resposta": "suas"
+    },
+    {
+      "enunciado": "\"Esses são (eu) ___ amigos\"",
+      "resposta": "meus"
+    },
+    {
+      "enunciado": "Ela é alt___",
+      "resposta": "alta"
+    },
+    {
+      "enunciado": "Eles são simpátic___",
+      "resposta": "simpáticos"
+    },
+    {
+      "enunciado": "Elas são baix___",
+      "resposta": "baixas"
+    },
+    {
+      "enunciado": "filho do meu irmão",
+      "resposta": "sobrinho"
+    },
+    {
+      "enunciado": "mãe do meu pai",
+      "resposta": "avó"
+    },
+    {
+      "enunciado": "irmão da minha mãe",
+      "resposta": "tio"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "alto/alta",
+      "significado": "de estatura grande"
+    },
+    {
+      "termo": "amigo/amiga",
+      "significado": "pessoa querida que não é da família"
+    },
+    {
+      "termo": "avô/avó",
+      "significado": "pai ou mãe do pai/da mãe"
+    },
+    {
+      "termo": "baixo/baixa",
+      "significado": "de estatura pequena"
+    },
+    {
+      "termo": "esposa / marido",
+      "significado": "cônjuge da pessoa"
+    },
+    {
+      "termo": "esse é o meu... / essa é a minha...",
+      "significado": "fórmula para apresentar uma pessoa"
+    },
+    {
+      "termo": "filho/filha",
+      "significado": "descendente direto de alguém"
+    },
+    {
+      "termo": "irmão/irmã",
+      "significado": "filho(a) dos mesmos pais"
+    },
+    {
+      "termo": "namorado/namorada",
+      "significado": "parceiro(a) romântico(a), sem casamento"
+    },
+    {
+      "termo": "pai/mãe",
+      "significado": "progenitores"
+    },
+    {
+      "termo": "parecido/parecida (com)",
+      "significado": "semelhante a alguém"
+    },
+    {
+      "termo": "primo/prima",
+      "significado": "filho(a) de um tio/tia"
+    },
+    {
+      "termo": "quem é essa pessoa?",
+      "significado": "pergunta para identificar alguém"
+    },
+    {
+      "termo": "simpático/simpática",
+      "significado": "de personalidade agradável"
+    },
+    {
+      "termo": "sobrinho/sobrinha",
+      "significado": "filho(a) de um irmão/irmã"
+    },
+    {
+      "termo": "tio/tia",
+      "significado": "irmão/irmã de um dos pais"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

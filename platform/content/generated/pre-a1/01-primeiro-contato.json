@@ -1,0 +1,298 @@
+{
+  "nivel": "pre-a1",
+  "slug": "01-primeiro-contato",
+  "ordem": 2,
+  "codigo": "PRE-A1.1",
+  "titulo": "Primeiro Contato",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/pre-a1.md`. Este arquivo contém o conteúdo de lição pronto para uso: diálogo, vocabulário, pronúncia, exercícios com gabarito, listening e tarefa final.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena:** recepção de uma pousada em Florianópolis, fim de tarde.\n\n> **Marta (recepcionista):** Boa tarde! Bem-vindo!\n> **Tom (hóspede):** Boa tarde! Obrigado.\n> **Marta:** Qual é o seu nome?\n> **Tom:** Eu me chamo Tom. E você?\n> **Marta:** Eu me chamo Marta. Muito prazer, Tom!\n> **Tom:** Muito prazer, Marta!\n> **Marta:** Você é de onde?\n> **Tom:** Eu sou da Inglaterra. E você, é de Florianópolis?\n> **Marta:** Sou, sim! Bem-vindo ao Brasil, Tom!\n\n**Quadro funcional (chunks para reter, não analisar gramaticalmente):**\n| Função | Fórmula |\n|---|---|\n| Saudar | Bom dia / Boa tarde / Boa noite |\n| Dizer o nome | Eu me chamo... |\n| Perguntar o nome | Qual é o seu nome? |\n| Reagir a uma apresentação | Muito prazer! |\n| Dizer a origem | Eu sou de... / Eu sou da/do... |\n| Perguntar a origem | Você é de onde? |\n| Agradecer / responder | Obrigado(a) / De nada |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| oi | saudação informal e rápida | Oi! Tudo bem? |\n| olá | saudação neutra, serve em qualquer hora | Olá, bem-vindo! |\n| bom dia | saudação da manhã | Bom dia, professor! |\n| boa tarde | saudação da tarde | Boa tarde a todos. |\n| boa noite | saudação da noite (chegada ou despedida) | Boa noite, até amanhã. |\n| tchau | despedida informal | Tchau, até logo! |\n| até logo | despedida — \"vejo você em breve\" | Tchau, até logo! |\n| por favor | usado para pedir algo com educação | Um café, por favor. |\n| obrigado/obrigada | agradecimento (forma masc./fem.) | Obrigado pela ajuda! |\n| de nada | resposta a um agradecimento | — Obrigada! — De nada! |\n| com licença | pedir passagem ou interromper | Com licença, posso passar? |\n| desculpa/desculpe | pedir desculpas | Desculpa, não entendi. |\n| eu me chamo... | dizer o próprio nome | Eu me chamo Ana. |\n| qual é o seu nome? | perguntar o nome de alguém | Qual é o seu nome? |\n| muito prazer | usado ao conhecer alguém | Muito prazer, Carlos! |\n| eu sou | verbo ser, 1ª pessoa | Eu sou estudante. |\n| você é | verbo ser, 2ª pessoa | Você é brasileiro? |\n| números 0–20 | zero, um, dois, três, quatro, cinco, seis, sete, oito, nove, dez, onze, doze, treze, catorze, quinze, dezesseis, dezessete, dezoito, dezenove, vinte | \"Tenho vinte anos.\" |\n\n(38 itens no total, incluindo os 21 numerais — todos entram no motor de repetição espaçada com tag `pre-a1.1`.)"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Vogais nasais finais** — repita em voz alta, sentindo a vibração no nariz: *pão, mão, não, então, também, bem, sim, bom, um*\n\n**B. Contraste nasal × oral (pares mínimos):**\n- pão / pau\n- mão / mau\n\n**C. Sons novos em palavras-chave da unidade:** *nh* em \"amanhã\" (despedida) — destacar que soa como \"ny\" em \"canyon\"."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete o diálogo:**\n1. — ___ tarde! (Bom/Boa) → **Boa**\n2. — Qual é o seu ___? → **nome**\n3. — Eu me ___ Marta. → **chamo**\n4. — Muito ___! → **prazer**\n5. — Você é ___ onde? → **de**\n\n**Exercício 2 — Associe a saudação ao horário:**\na) Bom dia → manhã · b) Boa tarde → tarde · c) Boa noite → noite\n\n**Exercício 3 — Escreva o número em português:**\n7→**sete** · 12→**doze** · 15→**quinze** · 19→**dezenove** · 20→**vinte**\n\n**Exercício 4 — A palavra tem som nasal? (sim/não):**\npão(**sim**) · pau(**não**) · mão(**sim**) · mau(**não**) · café(**não**)"
+    },
+    {
+      "ordem": 5,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "**Áudio (cena alternativa, narrado por falantes nativos):**\n> **Recepcionista:** Boa noite! Bem-vinda à pousada!\n> **Sofia:** Boa noite! Muito obrigada.\n> **Recepcionista:** Qual é o seu nome?\n> **Sofia:** Eu me chamo Sofia.\n> **Recepcionista:** Muito prazer, Sofia! Você é de onde?\n> **Sofia:** Eu sou da Argentina.\n> **Recepcionista:** Que bom! Bem-vinda ao Brasil!\n\n**Perguntas:**\n1. Que horário do dia é a cena? → **Noite** (pista: \"Boa noite\")\n2. Qual é o nome da hóspede? → **Sofia**\n3. De onde é Sofia? → **Da Argentina**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Grave um áudio de 30 segundos (ou pratique ao vivo com um colega/tutor) em que você:\n1. Saúda a outra pessoa de forma adequada ao horário\n2. Diz seu nome\n3. Pergunta o nome da outra pessoa\n4. Diz de onde você é\n5. Se despede\n\n**Checklist de autoavaliação:**\n- [ ] Usei a saudação correta para o horário\n- [ ] Disse meu nome com \"Eu me chamo...\"\n- [ ] Perguntei o nome da outra pessoa\n- [ ] Disse minha origem com \"Eu sou de/da/do...\"\n- [ ] Pronunciei os sons nasais praticados\n- [ ] Me despedi adequadamente"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| até logo | despedida — \"vejo você em breve\" |\n| bem-vindo/bem-vinda | expressão de boas-vindas a quem chega |\n| boa noite | saudação ou despedida noturna |\n| boa tarde | saudação da tarde |\n| bom dia | saudação da manhã |\n| com licença | pedir passagem ou interromper educadamente |\n| de nada | resposta a um agradecimento |\n| desculpa/desculpe | pedir desculpas |\n| eu me chamo... | forma de dizer o próprio nome |\n| eu sou (de/da/do) | verbo ser, 1ª pessoa, indicando origem |\n| muito prazer | expressão usada ao conhecer alguém |\n| números 0–20 | zero a vinte (ver seção 2 para a lista completa) |\n| obrigado/obrigada | agradecimento (forma masc./fem.) |\n| oi | saudação informal |\n| olá | saudação neutra |\n| por favor | usado para pedir algo com educação |\n| qual é o seu nome? | pergunta para saber o nome de alguém |\n| que bom! | expressão de satisfação/aprovação |\n| tchau | despedida informal |\n| você é (de/da/do) | verbo ser, 2ª pessoa, perguntando origem |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "oi",
+      "definicao": "saudação informal e rápida",
+      "exemplo": "Oi! Tudo bem?"
+    },
+    {
+      "termo": "olá",
+      "definicao": "saudação neutra, serve em qualquer hora",
+      "exemplo": "Olá, bem-vindo!"
+    },
+    {
+      "termo": "bom dia",
+      "definicao": "saudação da manhã",
+      "exemplo": "Bom dia, professor!"
+    },
+    {
+      "termo": "boa tarde",
+      "definicao": "saudação da tarde",
+      "exemplo": "Boa tarde a todos."
+    },
+    {
+      "termo": "boa noite",
+      "definicao": "saudação da noite (chegada ou despedida)",
+      "exemplo": "Boa noite, até amanhã."
+    },
+    {
+      "termo": "tchau",
+      "definicao": "despedida informal",
+      "exemplo": "Tchau, até logo!"
+    },
+    {
+      "termo": "até logo",
+      "definicao": "despedida — \"vejo você em breve\"",
+      "exemplo": "Tchau, até logo!"
+    },
+    {
+      "termo": "por favor",
+      "definicao": "usado para pedir algo com educação",
+      "exemplo": "Um café, por favor."
+    },
+    {
+      "termo": "obrigado/obrigada",
+      "definicao": "agradecimento (forma masc./fem.)",
+      "exemplo": "Obrigado pela ajuda!"
+    },
+    {
+      "termo": "de nada",
+      "definicao": "resposta a um agradecimento",
+      "exemplo": "— Obrigada! — De nada!"
+    },
+    {
+      "termo": "com licença",
+      "definicao": "pedir passagem ou interromper",
+      "exemplo": "Com licença, posso passar?"
+    },
+    {
+      "termo": "desculpa/desculpe",
+      "definicao": "pedir desculpas",
+      "exemplo": "Desculpa, não entendi."
+    },
+    {
+      "termo": "eu me chamo...",
+      "definicao": "dizer o próprio nome",
+      "exemplo": "Eu me chamo Ana."
+    },
+    {
+      "termo": "qual é o seu nome?",
+      "definicao": "perguntar o nome de alguém",
+      "exemplo": "Qual é o seu nome?"
+    },
+    {
+      "termo": "muito prazer",
+      "definicao": "usado ao conhecer alguém",
+      "exemplo": "Muito prazer, Carlos!"
+    },
+    {
+      "termo": "eu sou",
+      "definicao": "verbo ser, 1ª pessoa",
+      "exemplo": "Eu sou estudante."
+    },
+    {
+      "termo": "você é",
+      "definicao": "verbo ser, 2ª pessoa",
+      "exemplo": "Você é brasileiro?"
+    },
+    {
+      "termo": "números 0–20",
+      "definicao": "zero, um, dois, três, quatro, cinco, seis, sete, oito, nove, dez, onze, doze, treze, catorze, quinze, dezesseis, dezessete, dezoito, dezenove, vinte",
+      "exemplo": "\"Tenho vinte anos.\""
+    }
+  ],
+  "tagsVocabulario": [
+    "pre-a1.1"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. — ___ tarde! (Bom/Boa)",
+      "resposta": "Boa"
+    },
+    {
+      "enunciado": "2. — Qual é o seu ___?",
+      "resposta": "nome"
+    },
+    {
+      "enunciado": "3. — Eu me ___ Marta.",
+      "resposta": "chamo"
+    },
+    {
+      "enunciado": "4. — Muito ___!",
+      "resposta": "prazer"
+    },
+    {
+      "enunciado": "5. — Você é ___ onde?",
+      "resposta": "de"
+    },
+    {
+      "enunciado": "a) Bom dia",
+      "resposta": "manhã"
+    },
+    {
+      "enunciado": "b) Boa tarde",
+      "resposta": "tarde"
+    },
+    {
+      "enunciado": "c) Boa noite",
+      "resposta": "noite"
+    },
+    {
+      "enunciado": "7",
+      "resposta": "sete"
+    },
+    {
+      "enunciado": "12",
+      "resposta": "doze"
+    },
+    {
+      "enunciado": "15",
+      "resposta": "quinze"
+    },
+    {
+      "enunciado": "19",
+      "resposta": "dezenove"
+    },
+    {
+      "enunciado": "20",
+      "resposta": "vinte"
+    },
+    {
+      "enunciado": "pão",
+      "resposta": "sim"
+    },
+    {
+      "enunciado": "pau",
+      "resposta": "não"
+    },
+    {
+      "enunciado": "mão",
+      "resposta": "sim"
+    },
+    {
+      "enunciado": "mau",
+      "resposta": "não"
+    },
+    {
+      "enunciado": "café",
+      "resposta": "não"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "até logo",
+      "significado": "despedida — \"vejo você em breve\""
+    },
+    {
+      "termo": "bem-vindo/bem-vinda",
+      "significado": "expressão de boas-vindas a quem chega"
+    },
+    {
+      "termo": "boa noite",
+      "significado": "saudação ou despedida noturna"
+    },
+    {
+      "termo": "boa tarde",
+      "significado": "saudação da tarde"
+    },
+    {
+      "termo": "bom dia",
+      "significado": "saudação da manhã"
+    },
+    {
+      "termo": "com licença",
+      "significado": "pedir passagem ou interromper educadamente"
+    },
+    {
+      "termo": "de nada",
+      "significado": "resposta a um agradecimento"
+    },
+    {
+      "termo": "desculpa/desculpe",
+      "significado": "pedir desculpas"
+    },
+    {
+      "termo": "eu me chamo...",
+      "significado": "forma de dizer o próprio nome"
+    },
+    {
+      "termo": "eu sou (de/da/do)",
+      "significado": "verbo ser, 1ª pessoa, indicando origem"
+    },
+    {
+      "termo": "muito prazer",
+      "significado": "expressão usada ao conhecer alguém"
+    },
+    {
+      "termo": "números 0–20",
+      "significado": "zero a vinte (ver seção 2 para a lista completa)"
+    },
+    {
+      "termo": "obrigado/obrigada",
+      "significado": "agradecimento (forma masc./fem.)"
+    },
+    {
+      "termo": "oi",
+      "significado": "saudação informal"
+    },
+    {
+      "termo": "olá",
+      "significado": "saudação neutra"
+    },
+    {
+      "termo": "por favor",
+      "significado": "usado para pedir algo com educação"
+    },
+    {
+      "termo": "qual é o seu nome?",
+      "significado": "pergunta para saber o nome de alguém"
+    },
+    {
+      "termo": "que bom!",
+      "significado": "expressão de satisfação/aprovação"
+    },
+    {
+      "termo": "tchau",
+      "significado": "despedida informal"
+    },
+    {
+      "termo": "você é (de/da/do)",
+      "significado": "verbo ser, 2ª pessoa, perguntando origem"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

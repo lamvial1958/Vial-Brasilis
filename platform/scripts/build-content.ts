@@ -1,4 +1,4 @@
-import { readFileSync, readdirSync, mkdirSync, writeFileSync } from "fs";
+import { readFileSync, readdirSync, mkdirSync, writeFileSync, existsSync } from "fs";
 import { join } from "path";
 import { parseUnitMarkdown } from "../lib/content/parse";
 import type { Nivel, NivelIndex } from "../lib/content/schema";
@@ -6,6 +6,11 @@ import type { Nivel, NivelIndex } from "../lib/content/schema";
 const NIVEIS: Nivel[] = ["pre-a1", "a1", "a2", "b1", "b2"];
 const CONTEUDO_DIR = join(__dirname, "..", "..", "docs", "conteudo");
 const OUT_DIR = join(__dirname, "..", "content", "generated");
+
+if (!existsSync(CONTEUDO_DIR)) {
+  console.log("[content] docs/conteudo não encontrado — usando arquivos pré-gerados em content/generated/");
+  process.exit(0);
+}
 
 mkdirSync(OUT_DIR, { recursive: true });
 

@@ -1,0 +1,56 @@
+{
+  "nivel": "b1",
+  "slug": "11-simulado-completo-1",
+  "ordem": 11,
+  "codigo": "B1.11",
+  "titulo": "Simulado Completo #1",
+  "tipo": "simulado",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/b1.md`. Unidade de avaliação cumulativa — sem item gramatical novo. Estrutura diferente do template padrão: reproduz o formato oficial do CELPE-Bras Intermediário (B1) para diagnóstico real de prontidão antes da unidade final (B1.12).",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Apresentação do Simulado",
+      "markdown": "Esta unidade não tem diálogo de abertura nem vocabulário novo: é uma avaliação no formato e tempo oficiais do exame, reunindo tudo o que foi praticado em B1.1–B1.10 (gêneros textuais, registro, subjuntivo, conectores argumentativos e de concessão, estratégias de interação oral).\n\n**Por que existe:** simular as condições reais do exame — tempo limitado, tarefas integradas, múltiplos gêneros — é a única forma de saber, antes do fim do nível, exatamente onde estão as lacunas reais do aluno (não lacunas hipotéticas).\n\n**Estrutura oficial do exame (CELPE-Bras Intermediário, adaptada para fins didáticos):**\n| Parte | Conteúdo | Tempo sugerido |\n|---|---|---|\n| Compreensão + Produção Escrita — Tarefa 1 | estímulo (áudio/texto curto) → produção de um gênero (e-mail/carta/comentário) | 30 min |\n| Compreensão + Produção Escrita — Tarefa 2 | estímulo (texto/notícia) → produção de outro gênero (reclamação, resumo+opinião) | 30 min |\n| Compreensão Oral Integrada | áudio mais longo → questões de compreensão que alimentam uma reflexão escrita curta | 15 min |\n| Parte Oral (simulada) | entrevista oral guiada, 1 entrevistador + candidato | 10–15 min |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Simulado — Tarefa Escrita 1",
+      "markdown": "**Estímulo:** Você recebeu o seguinte e-mail de um amigo brasileiro:\n\n> \"Oi! Faz tempo que não converso com você. Soube que você está enfrentando alguns desafios para se adaptar à rotina por aqui. Me conta como tem sido essa experiência e se precisa de alguma dica. Um abraço, Diego.\"\n\n**Comando:** Escreva um e-mail respondendo a Diego (120–150 palavras), contando sobre sua adaptação (use ao menos um momento narrado com marcadores como \"de repente\" ou \"naquele momento\") e pedindo um conselho específico sobre a vida no Brasil."
+    },
+    {
+      "ordem": 3,
+      "titulo": "Simulado — Tarefa Escrita 2",
+      "markdown": "**Estímulo:** Você leu a seguinte notícia:\n\n> \"Pesquisa aponta que aumentou em 22% o número de estrangeiros buscando cursos de português no último ano. Segundo especialistas, o crescimento está relacionado à maior facilidade de obtenção de visto de trabalho remoto no Brasil.\"\n\n**Comando:** Escreva um comentário para o fórum do site de notícias (150–200 palavras), resumindo brevemente o fato (1–2 frases) e depois dando sua opinião sobre as possíveis vantagens e desvantagens desse crescimento, usando pelo menos dois conectores argumentativos (por um lado/por outro lado/no entanto/portanto) e uma concessão com subjuntivo (embora/mesmo que/ainda que)."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Simulado — Compreensão Oral Integrada",
+      "markdown": "> **Áudio (script):** \"Hoje vamos falar sobre um problema comum em condomínios: os conflitos entre vizinhos. Segundo uma pesquisa recente, mais de 60% dos moradores de apartamentos já tiveram algum tipo de desentendimento, geralmente por ruído ou uso de áreas comuns. Especialistas recomendam que os moradores conversem diretamente antes de recorrer à administração, e sugerem que, quando necessário, o contato formal seja feito por escrito, de forma educada e objetiva.\"\n\n**Questões de compreensão:**\n1. Qual é o problema discutido no áudio? → **Conflitos entre vizinhos em condomínios**\n2. Qual é a causa mais comum desses conflitos, segundo a pesquisa? → **Ruído ou uso de áreas comuns**\n3. Qual é a primeira recomendação dos especialistas? → **Conversar diretamente antes de recorrer à administração**\n4. Como deve ser o contato formal, segundo o áudio? → **Por escrito, educado e objetivo**\n\n**Tarefa de reflexão escrita (curta, 60–80 palavras):** Com base no áudio, escreva um breve conselho para alguém que está tendo um conflito com um vizinho, usando ao menos um gatilho de subjuntivo (recomendo que/sugiro que/é importante que)."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Simulado — Parte Oral (Roteiro de Entrevista Simulada)",
+      "markdown": "Realize, com um colega, tutor, ou em autoavaliação gravada, uma entrevista de 10–15 minutos com as seguintes perguntas-guia (o entrevistador pode adaptar/aprofundar conforme as respostas):\n1. Fale um pouco sobre você e sua trajetória até chegar ao Brasil.\n2. Conte sobre um desafio de adaptação que você enfrentou e como resolveu.\n3. Qual é sua opinião sobre [um tema atual — trabalho remoto, transporte público, uso de tecnologia]? Por quê?\n4. Se você pudesse dar um conselho a alguém que está chegando agora ao Brasil, qual seria?\n\n**Lembre-se de usar:** estratégias de interação (ganhar tempo, reformular, pedir esclarecimento) praticadas no B1.10."
+    },
+    {
+      "ordem": 6,
+      "titulo": "Rubrica Oficial de Correção",
+      "markdown": "| Critério | Peso |\n|---|---|\n| Cumprimento da tarefa comunicativa (respondeu ao que foi pedido?) | Alto |\n| Adequação ao gênero e ao registro exigidos | Alto |\n| Coerência e coesão do texto (uso de conectores, organização lógica) | Médio |\n| Correção gramatical (incluindo subjuntivo, voz passiva, concordância) | Médio |\n| Interação oral natural (não monólogo decorado) | Alto (parte oral) |"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Relatório de Lacunas — Modelo",
+      "markdown": "Depois de corrigir suas produções (sozinho, com tutor, ou trocando com colega), preencha este relatório antes de seguir para o B1.12:\n\n| Área | Tive dificuldade? (sim/não) | Unidade(s) relacionada(s) para revisar |\n|---|---|---|\n| Escolha do gênero/registro adequado | | B1.1, B1.2, B1.3, B1.8 |\n| Conectores argumentativos (por um lado, no entanto, portanto) | | B1.4 |\n| Marcadores narrativos avançados (de repente, naquele momento) | | B1.5 |\n| Subjuntivo presente (desejo, recomendação, dúvida) | | B1.6 |\n| Voz passiva e nominalização | | B1.7 |\n| Subjuntivo em concessões (embora, mesmo que, ainda que) | | B1.9 |\n| Estratégias de interação oral (ganhar tempo, reformular) | | B1.10 |"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Checklist Final de Autoavaliação do Simulado",
+      "markdown": "- [ ] Completei as duas tarefas escritas dentro do tempo sugerido\n- [ ] Respondi exatamente ao que cada comando pediu (não resumi quando deveria opinar, por exemplo)\n- [ ] Usei o registro adequado a cada gênero pedido\n- [ ] Participei da entrevista oral como uma interação real, não um monólogo\n- [ ] Preenchi o relatório de lacunas com honestidade, identificando pontos reais para revisar no B1.12"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [],
+  "exercicios": [],
+  "glossario": [],
+  "tempoSugeridoMin": 90
+}

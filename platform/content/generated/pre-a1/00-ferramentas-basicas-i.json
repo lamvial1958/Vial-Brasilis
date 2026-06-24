@@ -1,0 +1,204 @@
+{
+  "nivel": "pre-a1",
+  "slug": "00-ferramentas-basicas-i",
+  "ordem": 1,
+  "codigo": "PRE-A1.0",
+  "titulo": "Ferramentas Básicas I",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/pre-a1.md`. Unidade de apoio (transversal): antes do primeiro contato social, o aluno recebe as ferramentas gráfico-sonoras e numéricas que vão aparecer em todas as unidades seguintes — alfabeto, sílabas, números (incluindo decimais e grandes quantidades) e o sistema métrico brasileiro.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Cena de Abertura",
+      "markdown": "**Cena:** balcão de uma pousada, antes do check-in oficial — o atendente confirma o nome letra por letra (o sistema não aceita acentos) e mostra o preço da diária e a previsão do tempo.\n\n> **Atendente:** Pode soletrar seu nome para mim, por favor?\n> **Tom:** Pode, sim. T-O-M.\n> **Atendente:** T, O, M. Perfeito. E o sobrenome?\n> **Tom:** Smith. S-M-I-T-H.\n> **Atendente:** Ótimo. A diária aqui é cento e vinte reais, ou cento e dez vírgula cinquenta se pagar em dinheiro.\n> **Tom:** Entendi. E qual é a temperatura hoje?\n> **Atendente:** Está fazendo vinte e três graus, bem agradável.\n\n**Quadro funcional (chunks para reter):**\n| Função | Fórmula |\n|---|---|\n| Pedir para soletrar | Pode soletrar...? |\n| Soletrar | (dizer cada letra separadamente: T-O-M) |\n| Dizer um preço | É/Custa + número + reais (e centavos) |\n| Dizer um preço com decimal | ...vírgula... (cento e dez vírgula cinquenta) |\n| Perguntar a temperatura | Qual é a temperatura? / Quantos graus está? |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "O Alfabeto",
+      "markdown": "| Letra | Nome | Letra | Nome | Letra | Nome |\n|---|---|---|---|---|---|\n| A | á | J | jota | S | esse |\n| B | bê | K | cá | T | tê |\n| C | cê | L | ele | U | u |\n| D | dê | M | eme | V | vê |\n| E | é | N | ene | W | dáblio |\n| F | efe | O | ó | X | xis |\n| G | gê | P | pê | Y | ípsilon |\n| H | agá | Q | quê | Z | zê |\n| I | i | R | erre | | |\n\n**Letra especial:** ç (cê-cedilha) — só aparece antes de a/o/u (ex.: França, açúcar).\n**Acentos não são letras novas:** á, â, ã, é, ê, í, ó, ô, õ, ú são a mesma letra com um sinal gráfico (acento) que muda o som ou a tonicidade."
+    },
+    {
+      "ordem": 3,
+      "titulo": "Sílabas",
+      "markdown": "Palavras em português se dividem por vogal: cada sílaba tem (quase sempre) uma vogal só. Exemplos: **ca-sa**, **pa-pel**, **Bra-sil**, **o-bri-ga-do**.\n\n**Sílaba tônica** é a sílaba mais forte da palavra (não precisa de regra de acentuação agora — só notar onde \"pesa\" a voz): **CA**-sa, pa-**PEL**, bra-**SIL**, o-bri-**GA**-do."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Números: de 0 a bilhões, e os decimais",
+      "markdown": "| 0–10 | 11–19 | Dezenas | Centenas |\n|---|---|---|---|\n| zero, um, dois, três, quatro, cinco, seis, sete, oito, nove, dez | onze, doze, treze, catorze, quinze, dezesseis, dezessete, dezoito, dezenove | vinte, trinta, quarenta, cinquenta, sessenta, setenta, oitenta, noventa, cem | cem, duzentos, trezentos, quatrocentos, quinhentos, seiscentos, setecentos, oitocentos, novecentos |\n\n**Combinação com \"e\":** vinte **e** três, cento **e** dez, trezentos **e** quarenta **e** cinco.\n\n| Grandes números | Exemplo |\n|---|---|\n| mil | mil reais, dois mil e vinte e seis |\n| dez mil / cem mil | cem mil habitantes |\n| um milhão / dois milhões | dois milhões de pessoas |\n| um bilhão / dois bilhões | um bilhão de reais |\n\n**Decimais com vírgula** (o Brasil usa vírgula, não ponto): **R$ 19,90** → \"dezenove **e** noventa\" (ou \"dezenove reais e noventa centavos\"). **1,75 m** → \"um **vírgula** setenta e cinco\" ou \"um metro **e** setenta e cinco\". **2,5** → \"dois **vírgula** cinco\"."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Sistema Métrico Brasileiro",
+      "markdown": "O Brasil usa o sistema métrico (não o sistema imperial de polegadas/libras/Fahrenheit).\n\n| Grandeza | Unidades | Exemplo de uso |\n|---|---|---|\n| Comprimento | centímetro (cm) · metro (m) · quilômetro (km) | \"Eu tenho um metro e setenta de altura.\" |\n| Peso | grama (g) · quilo/quilograma (kg) | \"Esse melão tem dois quilos.\" |\n| Volume | mililitro (ml) · litro (l) | \"Uma garrafa de um litro e meio.\" |\n| Temperatura | grau Celsius (°C) | \"Hoje está fazendo vinte e três graus.\" |\n\n**Para quem vem do sistema imperial (EUA/Reino Unido):** não existe \"pé\", \"polegada\", \"milha\", \"libra\" ou \"Fahrenheit\" no dia a dia brasileiro — tudo é metro, quilo e grau Celsius."
+    },
+    {
+      "ordem": 6,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. \"H\" não tem som próprio:** hotel, hospital — a letra existe na escrita, mas não se pronuncia como em inglês.\n**B. \"X\" tem vários sons possíveis:** xícara (som \"sh\"), táxi (som \"ks\"), exame (som \"z\") — será praticado caso a caso ao longo do curso.\n**C. \"Lh\" /ʎ/ e \"Nh\" /ɲ/ (prévia):** mi**lh**ão, ba**nh**o — sons que não existem isolados em inglês."
+    },
+    {
+      "ordem": 7,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Soletre seu próprio nome em voz alta (sem gabarito — autoavaliação com tutor/colega).**\n\n**Exercício 2 — Escreva o número por extenso:**\n347 → **trezentos e quarenta e sete** · 1.000 → **mil** · 2.026 → **dois mil e vinte e seis** · 1.000.000 → **um milhão**\n\n**Exercício 3 — Leia o valor em voz alta:**\nR$ 25,50 → **vinte e cinco e cinquenta** · 1,80 m → **um e oitenta** · 36,5 °C → **trinta e seis vírgula cinco graus**\n\n**Exercício 4 — Escolha a unidade métrica certa:**\ndistância entre duas cidades → **quilômetro** · peso de uma maçã → **grama** · altura de uma pessoa → **metro** · água de uma garrafa → **litro**"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Atendente:** Qual é o seu e-mail, para eu confirmar a reserva?\n> **Sofia:** sofia, S-O-F-I-A, ponto, lima, L-I-M-A, arroba, e-mail ponto com.\n> **Atendente:** Perfeito. E são duzentos e quinze reais a diária, certo?\n> **Sofia:** Isso, duzentos e quinze.\n> **Atendente:** E uma última coisa: a previsão é de quinze graus à noite, então leve um casaco.\n\n**Perguntas:**\n1. Quanto custa a diária? → **Duzentos e quinze reais**\n2. Qual é a temperatura prevista para a noite? → **Quinze graus**"
+    },
+    {
+      "ordem": 9,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Grave um áudio (ou pratique com um colega/tutor) em que você:\n1. Soletra seu nome completo\n2. Diz o número da sua casa/apartamento e o nome da sua rua\n3. Diz três medidas do seu dia a dia: sua altura (em metros), o peso de uma fruta (em quilos ou gramas) e a temperatura de hoje (em graus Celsius)\n\n**Checklist de autoavaliação:**\n- [ ] Soletrei meu nome letra por letra corretamente\n- [ ] Disse um número de três dígitos por extenso\n- [ ] Li um valor decimal usando \"vírgula\" ou \"e\"\n- [ ] Usei a unidade métrica correta para cada medida (m, kg/g, °C)\n- [ ] Pronunciei corretamente uma palavra com \"lh\" ou \"nh\""
+    },
+    {
+      "ordem": 10,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| açúcar | exemplo de palavra com \"ç\" |\n| alfabeto | conjunto ordenado das letras de uma língua |\n| centímetro (cm) | unidade de comprimento, menor que o metro |\n| cem mil | 100.000 |\n| cento e dez vírgula cinquenta | forma de ler 110,50 |\n| dez mil | 10.000 |\n| grama (g) | unidade de peso, menor que o quilo |\n| grau Celsius (°C) | unidade de temperatura usada no Brasil |\n| litro (l) | unidade de volume |\n| mil | 1.000 |\n| mililitro (ml) | unidade de volume, menor que o litro |\n| milhão | 1.000.000 |\n| bilhão | 1.000.000.000 |\n| pode soletrar...? | pedido para que alguém diga uma palavra letra por letra |\n| quanto é a temperatura?/quantos graus está? | pergunta sobre o clima atual |\n| quilo/quilograma (kg) | unidade de peso |\n| quilômetro (km) | unidade de distância, maior que o metro |\n| sílaba | unidade sonora de uma palavra, geralmente em torno de uma vogal |\n| sílaba tônica | a sílaba pronunciada com mais força numa palavra |\n| sistema métrico | sistema de medidas oficial do Brasil (metro, quilo, litro, grau Celsius) |\n| sistema imperial | sistema de medidas usado em países como EUA e Reino Unido (pé, libra, Fahrenheit) — não usado no Brasil |\n| soletrar | dizer uma palavra letra por letra |\n| vírgula decimal | sinal usado no Brasil para separar a parte inteira da decimal de um número (ex.: 19,90) |"
+    }
+  ],
+  "vocabulario": [],
+  "tagsVocabulario": [],
+  "exercicios": [
+    {
+      "enunciado": "347",
+      "resposta": "trezentos e quarenta e sete"
+    },
+    {
+      "enunciado": "1.000",
+      "resposta": "mil"
+    },
+    {
+      "enunciado": "2.026",
+      "resposta": "dois mil e vinte e seis"
+    },
+    {
+      "enunciado": "1.000.000",
+      "resposta": "um milhão"
+    },
+    {
+      "enunciado": "R$ 25,50",
+      "resposta": "vinte e cinco e cinquenta"
+    },
+    {
+      "enunciado": "1,80 m",
+      "resposta": "um e oitenta"
+    },
+    {
+      "enunciado": "36,5 °C",
+      "resposta": "trinta e seis vírgula cinco graus"
+    },
+    {
+      "enunciado": "distância entre duas cidades",
+      "resposta": "quilômetro"
+    },
+    {
+      "enunciado": "peso de uma maçã",
+      "resposta": "grama"
+    },
+    {
+      "enunciado": "altura de uma pessoa",
+      "resposta": "metro"
+    },
+    {
+      "enunciado": "água de uma garrafa",
+      "resposta": "litro"
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "açúcar",
+      "significado": "exemplo de palavra com \"ç\""
+    },
+    {
+      "termo": "alfabeto",
+      "significado": "conjunto ordenado das letras de uma língua"
+    },
+    {
+      "termo": "centímetro (cm)",
+      "significado": "unidade de comprimento, menor que o metro"
+    },
+    {
+      "termo": "cem mil",
+      "significado": "100.000"
+    },
+    {
+      "termo": "cento e dez vírgula cinquenta",
+      "significado": "forma de ler 110,50"
+    },
+    {
+      "termo": "dez mil",
+      "significado": "10.000"
+    },
+    {
+      "termo": "grama (g)",
+      "significado": "unidade de peso, menor que o quilo"
+    },
+    {
+      "termo": "grau Celsius (°C)",
+      "significado": "unidade de temperatura usada no Brasil"
+    },
+    {
+      "termo": "litro (l)",
+      "significado": "unidade de volume"
+    },
+    {
+      "termo": "mil",
+      "significado": "1.000"
+    },
+    {
+      "termo": "mililitro (ml)",
+      "significado": "unidade de volume, menor que o litro"
+    },
+    {
+      "termo": "milhão",
+      "significado": "1.000.000"
+    },
+    {
+      "termo": "bilhão",
+      "significado": "1.000.000.000"
+    },
+    {
+      "termo": "pode soletrar...?",
+      "significado": "pedido para que alguém diga uma palavra letra por letra"
+    },
+    {
+      "termo": "quanto é a temperatura?/quantos graus está?",
+      "significado": "pergunta sobre o clima atual"
+    },
+    {
+      "termo": "quilo/quilograma (kg)",
+      "significado": "unidade de peso"
+    },
+    {
+      "termo": "quilômetro (km)",
+      "significado": "unidade de distância, maior que o metro"
+    },
+    {
+      "termo": "sílaba",
+      "significado": "unidade sonora de uma palavra, geralmente em torno de uma vogal"
+    },
+    {
+      "termo": "sílaba tônica",
+      "significado": "a sílaba pronunciada com mais força numa palavra"
+    },
+    {
+      "termo": "sistema métrico",
+      "significado": "sistema de medidas oficial do Brasil (metro, quilo, litro, grau Celsius)"
+    },
+    {
+      "termo": "sistema imperial",
+      "significado": "sistema de medidas usado em países como EUA e Reino Unido (pé, libra, Fahrenheit) — não usado no Brasil"
+    },
+    {
+      "termo": "soletrar",
+      "significado": "dizer uma palavra letra por letra"
+    },
+    {
+      "termo": "vírgula decimal",
+      "significado": "sinal usado no Brasil para separar a parte inteira da decimal de um número (ex.: 19,90)"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}

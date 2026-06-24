@@ -1,0 +1,205 @@
+{
+  "nivel": "a2",
+  "slug": "04-instrucoes-e-indicacoes",
+  "ordem": 4,
+  "codigo": "A2.4",
+  "titulo": "Instruções e Indicações",
+  "tipo": "licao",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/a2.md`. Retoma o tema de indicações de caminho (já visto de forma básica na PRE-A1.2), agora com o imperativo e mais detalhe espacial.",
+  "secoes": [
+    {
+      "ordem": 1,
+      "titulo": "Diálogo de Abertura",
+      "markdown": "**Cena — turista perguntando o caminho na rua:**\n> **Turista:** Com licença, como eu chego ao Museu de Arte Moderna?\n> **Morador:** É fácil. Siga em frente até o semáforo, depois vire à direita na Avenida Paulista.\n> **Turista:** Vire à direita na Paulista, entendi.\n> **Morador:** Isso. Depois continue até a segunda rua e vire à esquerda. Não vire na primeira, vire na segunda!\n> **Turista:** Certo, não virar na primeira.\n> **Morador:** Exatamente. O museu fica em direção ao parque, depois da agência bancária. Você não pode perder.\n> **Turista:** Muito obrigado! E quanto tempo demora a pé?\n> **Morador:** Mais ou menos quinze minutos.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Pedir indicação | Com licença, como eu chego a/ao...? |\n| Dar instrução (afirmativa) | Siga / Vire / Continue / Atravesse + complemento |\n| Dar instrução (negativa) | Não vire / Não atravesse + complemento |\n| Indicar referência espacial | em frente, à direita, à esquerda, em direção a, depois de, até |\n| Confirmar entendimento | Entendi. / Certo. |\n| Perguntar duração | Quanto tempo demora? |"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| seguir em frente | continuar na mesma direção | Siga em frente até o semáforo. |\n| virar | mudar de direção | Vire à direita. |\n| continuar | seguir, não parar | Continue até a praça. |\n| atravessar | passar de um lado a outro | Atravesse a rua com cuidado. |\n| semáforo | sinal de trânsito | Pare no semáforo vermelho. |\n| em direção a | rumo a, na direção de | O museu fica em direção ao parque. |\n| até | limite de um percurso | Vá até a segunda esquina. |\n| depois de | posterior a um ponto | Vire depois da agência bancária. |\n| esquina | encontro de duas ruas | Vire na esquina. |\n| quadra | trecho de rua entre esquinas | Ande duas quadras. |\n| ponto de referência | local fácil de identificar | A igreja é um bom ponto de referência. |\n| perder-se | não saber onde está | É fácil, você não vai se perder. |\n\n**(12 itens, tag `a2.4`)**"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Gramática em Foco",
+      "markdown": "**A. Imperativo afirmativo (com \"você\"):** forma idêntica à terceira pessoa do presente do indicativo.\n| Verbo | Imperativo afirmativo (você) |\n|---|---|\n| seguir | siga |\n| virar | vire |\n| continuar | continue |\n| atravessar | atravesse |\n| ir | vá |\n| parar | pare |\n\n**B. Imperativo negativo:** \"não\" + mesma forma do imperativo afirmativo.\n| Afirmativo | Negativo |\n|---|---|\n| vire | não vire |\n| atravesse | não atravesse |\n| pare | não pare |\n\n> **Nota:** no português falado no Brasil, o imperativo com \"você\" usa a mesma forma do presente do indicativo na 3ª pessoa — diferente do imperativo \"tu\" usado em algumas regiões (vira, atravessa), que não é o foco deste curso.\n\n**C. Preposições de movimento:** até (limite), em direção a (rumo), depois de (posição relativa posterior), antes de (posição relativa anterior)."
+    },
+    {
+      "ordem": 4,
+      "titulo": "Bloco de Pronúncia",
+      "markdown": "**A. Imperativo \"vire/siga/atravesse\" — vogal final fechada e breve:** atenção para não alongar a vogal final.\n**B. Contraste \"à direita\" × \"à esquerda\":** \"direita\" tem \"ei\" ditongo fechado; \"esquerda\" tem \"e\" aberto na primeira sílaba.\n**C. Redução de \"em direção a\" na fala rápida:** frequentemente soa como \"endireção a\"."
+    },
+    {
+      "ordem": 5,
+      "titulo": "Exercícios (com gabarito)",
+      "markdown": "**Exercício 1 — Complete com o imperativo correto:**\n1. ___ (seguir) em frente até a praça. → **Siga**\n2. ___ (virar) à esquerda na próxima rua. → **Vire**\n3. Não ___ (atravessar) aqui, é perigoso. → **atravesse**\n4. ___ (continuar) até o final da rua. → **Continue**\n\n**Exercício 2 — Complete com a preposição correta (até/em direção a/depois de):**\n1. O banco fica ___ a praça, perto da farmácia. → **em direção a**\n2. Vá ___ a segunda esquina. → **até**\n3. O museu é ___ a agência bancária. → **depois de**\n\n**Exercício 3 — Transforme em instrução negativa:**\n\"Vire na primeira rua\" → **Não vire na primeira rua.**\n\n**Exercício 4 — Reordene o diálogo:**\n(Com licença / Siga em frente / Como chego ao museu? / depois vire à direita) → **Com licença, como chego ao museu? Siga em frente, depois vire à direita.**"
+    },
+    {
+      "ordem": 6,
+      "titulo": "Listening — Script e Perguntas",
+      "markdown": "> **Pedestre:** Com licença, como eu chego à estação de metrô mais próxima?\n> **Morador:** Siga em frente por essa rua, atravesse a praça e continue até o final. A estação fica à esquerda, em direção ao shopping. Não vire antes da praça, só depois!\n> **Pedestre:** Entendi. E demora quanto tempo?\n> **Morador:** Uns dez minutos a pé.\n\n**Perguntas:**\n1. O que o pedestre precisa atravessar? → **A praça**\n2. Onde fica a estação? → **À esquerda, em direção ao shopping**\n3. Quando ele deve virar? → **Só depois da praça, não antes**\n4. Quanto tempo demora a pé? → **Uns dez minutos**"
+    },
+    {
+      "ordem": 7,
+      "titulo": "Tarefa de Produção Final",
+      "markdown": "Escolha um trajeto real (da sua casa até um lugar conhecido) ou invente um bairro fictício. Explique como chegar lá (oral ou escrito), incluindo:\n1. Pelo menos 3 verbos no imperativo afirmativo\n2. Pelo menos 1 instrução no imperativo negativo\n3. Pelo menos 2 preposições de movimento (até, em direção a, depois de)\n4. Um ponto de referência claro\n\n**Checklist de autoavaliação:**\n- [ ] Usei o imperativo afirmativo corretamente\n- [ ] Usei o imperativo negativo corretamente\n- [ ] Usei pelo menos duas preposições de movimento\n- [ ] Indiquei um ponto de referência claro\n- [ ] Pronunciei corretamente a vogal final fechada do imperativo"
+    },
+    {
+      "ordem": 8,
+      "titulo": "Glossário da Unidade",
+      "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| atravessar | passar de um lado a outro |\n| até | limite de um percurso |\n| continuar | seguir, não parar |\n| depois de | posterior a um ponto |\n| em direção a | rumo a, na direção de |\n| esquina | encontro de duas ruas |\n| perder-se | não saber onde está |\n| ponto de referência | local fácil de identificar |\n| quadra | trecho de rua entre esquinas |\n| semáforo | sinal de trânsito |\n| seguir em frente | continuar na mesma direção |\n| virar | mudar de direção |"
+    }
+  ],
+  "vocabulario": [
+    {
+      "termo": "seguir em frente",
+      "definicao": "continuar na mesma direção",
+      "exemplo": "Siga em frente até o semáforo."
+    },
+    {
+      "termo": "virar",
+      "definicao": "mudar de direção",
+      "exemplo": "Vire à direita."
+    },
+    {
+      "termo": "continuar",
+      "definicao": "seguir, não parar",
+      "exemplo": "Continue até a praça."
+    },
+    {
+      "termo": "atravessar",
+      "definicao": "passar de um lado a outro",
+      "exemplo": "Atravesse a rua com cuidado."
+    },
+    {
+      "termo": "semáforo",
+      "definicao": "sinal de trânsito",
+      "exemplo": "Pare no semáforo vermelho."
+    },
+    {
+      "termo": "em direção a",
+      "definicao": "rumo a, na direção de",
+      "exemplo": "O museu fica em direção ao parque."
+    },
+    {
+      "termo": "até",
+      "definicao": "limite de um percurso",
+      "exemplo": "Vá até a segunda esquina."
+    },
+    {
+      "termo": "depois de",
+      "definicao": "posterior a um ponto",
+      "exemplo": "Vire depois da agência bancária."
+    },
+    {
+      "termo": "esquina",
+      "definicao": "encontro de duas ruas",
+      "exemplo": "Vire na esquina."
+    },
+    {
+      "termo": "quadra",
+      "definicao": "trecho de rua entre esquinas",
+      "exemplo": "Ande duas quadras."
+    },
+    {
+      "termo": "ponto de referência",
+      "definicao": "local fácil de identificar",
+      "exemplo": "A igreja é um bom ponto de referência."
+    },
+    {
+      "termo": "perder-se",
+      "definicao": "não saber onde está",
+      "exemplo": "É fácil, você não vai se perder."
+    }
+  ],
+  "tagsVocabulario": [
+    "a2.4"
+  ],
+  "exercicios": [
+    {
+      "enunciado": "1. ___ (seguir) em frente até a praça.",
+      "resposta": "Siga"
+    },
+    {
+      "enunciado": "2. ___ (virar) à esquerda na próxima rua.",
+      "resposta": "Vire"
+    },
+    {
+      "enunciado": "3. Não ___ (atravessar) aqui, é perigoso.",
+      "resposta": "atravesse"
+    },
+    {
+      "enunciado": "4. ___ (continuar) até o final da rua.",
+      "resposta": "Continue"
+    },
+    {
+      "enunciado": "1. O banco fica ___ a praça, perto da farmácia.",
+      "resposta": "em direção a"
+    },
+    {
+      "enunciado": "2. Vá ___ a segunda esquina.",
+      "resposta": "até"
+    },
+    {
+      "enunciado": "3. O museu é ___ a agência bancária.",
+      "resposta": "depois de"
+    },
+    {
+      "enunciado": "\"Vire na primeira rua\"",
+      "resposta": "Não vire na primeira rua."
+    },
+    {
+      "enunciado": "(Com licença / Siga em frente / Como chego ao museu? / depois vire à direita)",
+      "resposta": "Com licença, como chego ao museu? Siga em frente, depois vire à direita."
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "atravessar",
+      "significado": "passar de um lado a outro"
+    },
+    {
+      "termo": "até",
+      "significado": "limite de um percurso"
+    },
+    {
+      "termo": "continuar",
+      "significado": "seguir, não parar"
+    },
+    {
+      "termo": "depois de",
+      "significado": "posterior a um ponto"
+    },
+    {
+      "termo": "em direção a",
+      "significado": "rumo a, na direção de"
+    },
+    {
+      "termo": "esquina",
+      "significado": "encontro de duas ruas"
+    },
+    {
+      "termo": "perder-se",
+      "significado": "não saber onde está"
+    },
+    {
+      "termo": "ponto de referência",
+      "significado": "local fácil de identificar"
+    },
+    {
+      "termo": "quadra",
+      "significado": "trecho de rua entre esquinas"
+    },
+    {
+      "termo": "semáforo",
+      "significado": "sinal de trânsito"
+    },
+    {
+      "termo": "seguir em frente",
+      "significado": "continuar na mesma direção"
+    },
+    {
+      "termo": "virar",
+      "significado": "mudar de direção"
+    }
+  ],
+  "tempoSugeridoMin": 0
+}
