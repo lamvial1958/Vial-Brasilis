@@ -21,10 +21,10 @@ function getAdminApp(): App {
 
     const projectId = raw(process.env.FIREBASE_ADMIN_PROJECT_ID);
     const clientEmail = raw(process.env.FIREBASE_ADMIN_CLIENT_EMAIL);
-    const privateKey = raw(process.env.FIREBASE_ADMIN_PRIVATE_KEY).replace(
-      /\\n/g,
-      "\n"
-    );
+    const privateKey = raw(process.env.FIREBASE_ADMIN_PRIVATE_KEY)
+      .replace(/\r\n/g, "\n")   // CRLF → LF (Vercel UI no Windows)
+      .replace(/\r/g, "\n")     // CR solto
+      .replace(/\\n/g, "\n");   // literal \n → LF (quando salvo como JSON string)
 
     if (!projectId || !clientEmail || !privateKey) {
       throw new Error("Firebase Admin: credenciais ausentes");
