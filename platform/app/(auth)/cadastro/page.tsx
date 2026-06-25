@@ -25,7 +25,7 @@ export default function CadastroPage() {
         role: "student",
         criadoEm: serverTimestamp(),
       });
-      await sendEmailVerification(cred.user);
+      sendEmailVerification(cred.user).catch(() => {});
       router.push("/verificar-email");
     } catch (err) {
       setErro(err instanceof Error ? err.message : "Erro ao cadastrar.");

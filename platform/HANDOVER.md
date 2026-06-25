@@ -1,6 +1,6 @@
 # Handover — Plataforma PLE (Português Brasil)
 
-Estado em 2026-06-24 (fim de sessão ~17h). Retome daqui sem perder contexto.
+Estado em 2026-06-25 (fim de sessão ~09h). Retome daqui sem perder contexto.
 
 ---
 
@@ -8,7 +8,7 @@ Estado em 2026-06-24 (fim de sessão ~17h). Retome daqui sem perder contexto.
 
 - **Frontend + API routes**: Next.js 16 no Vercel (plano Spark — gratuito)
 - **Auth + DB**: Firebase Auth + Firestore (plano Spark — gratuito)
-- **Sem Firebase Admin SDK no Next.js** — substituído por REST APIs (ver abaixo)
+- **Sem Firebase Admin SDK no Next.js** — substituído por REST APIs
 - **Sem Firebase Blaze** até captação de clientes pagantes
 
 ---
@@ -21,119 +21,124 @@ Estado em 2026-06-24 (fim de sessão ~17h). Retome daqui sem perder contexto.
 
 ---
 
-## Estado atual (fim desta sessão)
+## O que foi resolvido nesta sessão (2026-06-25)
 
-### O que foi resolvido nesta sessão
+### 1. BOM UTF-8 nas variáveis de ambiente (RESOLVIDO)
+`NEXT_PUBLIC_FIREBASE_API_KEY` e possivelmente outras vars tinham um BOM (`﻿`, `%EF%BB%BF`) no início do valor. O Firebase SDK incluía o BOM num header HTTP → browser rejeitava o fetch com "String contains non ISO-8859-1 code point" → wrappado como `auth/network-request-failed`.
 
-#### 1. ERR_REQUIRE_ESM (bloqueador principal — RESOLVIDO)
-O Firebase Admin SDK causava `ERR_REQUIRE_ESM` no Turbopack porque:
-- `firebase-admin` → `jwks-rsa` (CJS) → `require('jose')` (ESM-only)
-- `serverExternalPackages` não funciona com Turbopack
-- Downgrade para v12 não resolveu (jose v4 também é ESM-only)
+**Como foi diagnosticado**: interceptor de `fetch` no Console mostrou `key=%EF%BB%BFAIzaSy...` na URL.
 
-**Solução**: removido 100% do `firebase-admin` do Next.js. Substituído por REST APIs:
-- `platform/lib/firebase/auth-rest.ts` — Auth completo via REST (verifyIdToken, createSessionCookie, getUser, listUsers, updateUser, deleteUser, revokeRefreshTokens)
-- `platform/lib/firebase/firestore-rest.ts` — Firestore via REST (getCollection, deleteDoc, updateDocFields, querySubCollection)
-- `platform/lib/firebase/admin.ts` — ESVAZIADO (só tem um comentário de stub)
-- `scripts/set-admin-claim.ts` — ainda usa firebase-admin, mas roda só localmente via `npx tsx` (não afetado pelo Turbopack)
+**Fix**: todas as 6 vars `NEXT_PUBLIC_FIREBASE_*` recriadas no Vercel UI sem BOM. Redeploy feito.
 
-#### 2. Firebase client SDK inicializando durante SSR (RESOLVIDO)
-`getAuth()` era chamado em nível de módulo em `client.ts`, causando `auth/invalid-api-key` durante o prerender do build.
+### 2. Firestore não havia sido criado (RESOLVIDO)
+O banco não existia no projeto Firebase. `setDoc` ficava pendurado infinitamente.
 
-**Solução**: `client.ts` agora inicializa Firebase só no browser via `typeof window !== 'undefined'`.
+**Fix**: Firestore criado em modo nativo, região us-central. As regras de segurança já estavam corretas no código (ver seção de regras abaixo).
 
-#### 3. NEXT_PUBLIC_FIREBASE_* vars estavam erradas no Vercel (RESOLVIDO)
-As variáveis estavam com valores incorretos ou vazios desde o início. Agora configuradas corretamente:
-
-| Variável | Valor |
-|---|---|
-| NEXT_PUBLIC_FIREBASE_API_KEY | AIzaSyC0HCqsCIdaBf4M_Quj2kHQ32BTokysRR4 |
-| NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN | portugues-brasil-ple.firebaseapp.com |
-| NEXT_PUBLIC_FIREBASE_PROJECT_ID | portugues-brasil-ple |
-| NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET | portugues-brasil-ple.firebasestorage.app |
-| NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID | 199410587722 |
-| NEXT_PUBLIC_FIREBASE_APP_ID | 1:199410587722:web:329850cbcd27c43a1a2eb3 |
-
-#### 4. Último deploy
-- Commit: `f3406ac`
-- Status: **READY** — build passou limpo, todas as 12 rotas OK
-- URL: https://platform-henna-nine.vercel.app
+### 3. Conta viallamv@gmail.com criada com sucesso
+Confirmado no Firebase Console → Authentication → Users. A conta existe, e-mail ainda não verificado.
 
 ---
 
 ## PRÓXIMA SESSÃO — Retome exatamente aqui
 
-### Bloqueador ativo: `auth/network-request-failed` no cadastro
+### Problema 1 — Frontend trava em "Criando..." após cadastro (PRIORIDADE)
 
-O erro persiste após todos os fixes desta sessão. O que já foi descartado como causa:
+**Causa identificada**: `sendEmailVerification` está sendo `await`-ado antes do `router.push`. Se `sendEmailVerification` demorar ou falhar silenciosamente, a página never avança.
 
-| Hipótese | Resultado |
-|---|---|
-| Email/Password desabilitado no Firebase | ❌ Descartado — está ativado |
-| Restrição HTTP referrer na API key | ❌ Descartado — está em "Nenhum" |
-| Extensão de browser bloqueando | ❌ Descartado — mesmo erro em incognito |
-| NEXT_PUBLIC vars vazias/erradas | ❌ Descartado — corrigidas e verificadas no bundle |
-| Firebase Admin SDK causando ERR_REQUIRE_ESM | ❌ Descartado — removido completamente |
-| Firebase inicializando durante SSR | ❌ Descartado — corrigido com typeof window |
+**Fix a aplicar em `platform/app/(auth)/cadastro/page.tsx`**:
 
-**O que foi observado**: o teste `fetch('https://identitytoolkit.googleapis.com/')` no Console retornou erro de CORS (esperado no root) mas o servidor respondeu com 404, confirmando que a rede alcança o Google. Porém, nenhuma requisição para `identitytoolkit.googleapis.com` apareceu na aba Network do DevTools ao clicar "Criar conta".
+```ts
+// ANTES (trava se sendEmailVerification demorar):
+await sendEmailVerification(cred.user);
+router.push("/verificar-email");
 
-**Hipóteses restantes para investigar na próxima sessão**:
-
-1. **Content Security Policy (CSP)** — se `next.config.ts` ou middleware tiver um header `Content-Security-Policy` que não inclua `identitytoolkit.googleapis.com` na lista `connect-src`, o browser bloqueia silenciosamente sem aparecer no Network tab. Verificar com `! grep -r "Content-Security-Policy" platform/` e `! grep -r "connect-src" platform/`.
-
-2. **DevTools não estava aberto antes do clique** — nas capturas, o Network tab pode não ter capturado a requisição porque foi aberto após o erro aparecer. Na próxima sessão: abrir DevTools ANTES, clicar em "Criar conta" e verificar se aparece qualquer requisição vermelha.
-
-3. **Firebase SDK version** — verificar `firebase` package.json version e testar downgrade se necessário.
-
-### Passo 1 — Diagnosticar o bloqueio (PRIORIDADE)
-
-**Diagnóstico A** (CSP): rodar no terminal:
-```
-! grep -rn "Content-Security-Policy\|connect-src\|script-src" platform/next.config.ts platform/middleware.ts 2>/dev/null
+// DEPOIS (fire-and-forget — não bloqueia a navegação):
+sendEmailVerification(cred.user).catch(() => {});
+router.push("/verificar-email");
 ```
 
-**Diagnóstico B** (Network tab correto): abrir https://platform-henna-nine.vercel.app/cadastro, abrir DevTools → Network → marcar "Preserve log" → digitar email/senha → clicar "Criar conta" → verificar se aparece alguma requisição para googleapis.com (com ou sem erro).
+### Problema 2 — E-mail de verificação não chegou
 
-**Diagnóstico C** (teste direto no Console com chave real):
-```javascript
-fetch('https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyC0HCqsCIdaBf4M_Quj2kHQ32BTokysRR4', {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:'teste@teste.com',password:'Teste12345!',returnSecureToken:true})}).then(r=>r.json()).then(d=>console.log(JSON.stringify(d))).catch(e=>console.log('ERRO:',e.message))
+O e-mail de confirmação enviado para `viallamv@gmail.com` não foi recebido.
+
+**Passos para investigar**:
+1. Verificar pasta de **spam/lixo eletrônico** no Gmail
+2. No Firebase Console → Authentication → Users → `viallamv@gmail.com` → "Enviar e-mail de redefinição de senha" (alternativa para entrar)
+3. Se o e-mail de verificação nunca chega: Firebase Console → Authentication → Templates → confirmar que o template de verificação está configurado
+4. Tentar usar o botão "Reenviar e-mail de confirmação" em https://platform-henna-nine.vercel.app/verificar-email
+
+### Passo 3 — Entrar na conta após verificação
+
+Após verificar o e-mail, fazer login em https://platform-henna-nine.vercel.app/login com `viallamv@gmail.com`.
+
+### Passo 4 — Definir papel admin
+
+Após login com sucesso, rodar no terminal:
 ```
-Se retornar `{"kind":"identitytoolkit#SignupNewUserResponse",...}` → Firebase está OK, problema é no SDK.
-Se retornar erro de CORS ou rede → problema de CSP ou network.
-
-### Passo 2 — Após resolver o cadastro
-
-### Passo 3 — Definir papel admin
-Após criar conta com sucesso, rodar no terminal do Claude Code:
-```
-! npx tsx platform/scripts/set-admin-claim.ts viallamv@gmail.com
+npx tsx platform/scripts/set-admin-claim.ts viallamv@gmail.com
 ```
 Depois fazer logout e login novamente para o custom claim valer.
 
-### Passo 4 — Verificar painel admin
+### Passo 5 — Verificar painel admin
 Acessar https://platform-henna-nine.vercel.app/admin — deve listar alunos.
 
-### Passo 5 — Testar lições
+### Passo 6 — Testar lições
 Acessar https://platform-henna-nine.vercel.app/licoes — deve funcionar sem erro 500.
 
-### Passo 6 (opcional) — Google Sign-In
-Firebase Auth já tem Google habilitado (confirmado nesta sessão). Falta apenas:
+### Passo 7 (opcional) — Google Sign-In
+Firebase Auth já tem Google habilitado. Falta apenas:
 - Adicionar botão "Entrar com Google" nas páginas `/cadastro` e `/login`
 - Usar `signInWithPopup(auth, new GoogleAuthProvider())` no cliente
-- Nenhuma mudança server-side necessária
 
 ---
 
-## Variáveis de ambiente no Vercel (estado atual)
+## Variáveis de ambiente no Vercel (estado atual — todas limpas, sem BOM)
 
-Todas configuradas para Production:
 ```
 FIREBASE_ADMIN_PROJECT_ID        = portugues-brasil-ple
 FIREBASE_ADMIN_CLIENT_EMAIL      = firebase-adminsdk-fbsvc@portugues-brasil-ple.iam.gserviceaccount.com
-FIREBASE_ADMIN_PRIVATE_KEY       = [chave gerada em 2026-06-24, configurada no Vercel]
+FIREBASE_ADMIN_PRIVATE_KEY       = [chave RSA configurada no Vercel]
 SESSION_SECRET                   = [configurado]
-NEXT_PUBLIC_FIREBASE_*           = [6 variáveis — valores na tabela acima]
+NEXT_PUBLIC_FIREBASE_API_KEY     = AIzaSyC0HCqsCIdaBf4M_Quj2kHQ32BTokysRR4
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN = portugues-brasil-ple.firebaseapp.com
+NEXT_PUBLIC_FIREBASE_PROJECT_ID  = portugues-brasil-ple
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET     = portugues-brasil-ple.firebasestorage.app
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID = 199410587722
+NEXT_PUBLIC_FIREBASE_APP_ID      = 1:199410587722:web:329850cbcd27c43a1a2eb3
+```
+
+---
+
+## Firestore — Regras de segurança (configuradas e corretas)
+
+```
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isSignedIn() { return request.auth != null; }
+    function isAdmin() { return isSignedIn() && request.auth.token.role == 'admin'; }
+    function isOwner(uid) { return isSignedIn() && request.auth.uid == uid; }
+
+    match /users/{uid} {
+      allow read: if isOwner(uid) || isAdmin();
+      allow create: if isOwner(uid) && request.resource.data.role == 'student';
+      allow update: if (isOwner(uid) && request.resource.data.role == resource.data.role) || isAdmin();
+      allow delete: if isAdmin();
+    }
+    match /progress/{uid} {
+      allow read, write: if isOwner(uid) || isAdmin();
+    }
+    match /srsItems/{uid}/items/{itemId} {
+      allow read, write: if isOwner(uid) || isAdmin();
+    }
+    match /simuladoSubmissions/{uid}/attempts/{attemptId} {
+      allow read: if isOwner(uid) || isAdmin();
+      allow create: if isOwner(uid);
+      allow update: if isAdmin();
+    }
+  }
+}
 ```
 
 ---
@@ -163,12 +168,13 @@ Browser                    Next.js (Vercel)              Google APIs
 
 ---
 
-## Commits desta sessão
+## Como rodar localmente
 
-```
-f3406ac  Fix Firebase client init during SSR — only initialize in browser
-3267e8f  Remove firebase-admin do Next.js; usa REST APIs para ERR_REQUIRE_ESM
-eed2f53  Remove firebase-admin/auth — substitui por REST API + jsonwebtoken
+```bash
+cd platform
+npm install
+# .env.local precisa ter as variáveis FIREBASE_ADMIN_* e NEXT_PUBLIC_FIREBASE_*
+npm run dev
 ```
 
 ---
@@ -179,14 +185,3 @@ eed2f53  Remove firebase-admin/auth — substitui por REST API + jsonwebtoken
 - Áudio TTS/STT
 - Upload de produção oral
 - Testes automatizados
-
----
-
-## Como rodar localmente
-
-```bash
-cd platform
-npm install
-# .env.local precisa ter as variáveis FIREBASE_ADMIN_* e NEXT_PUBLIC_FIREBASE_*
-npm run dev
-```
