@@ -8,7 +8,7 @@
 
 **Atendente:** - Pode soletrar seu nome para mim, por favor?
 
-**Tom:** - Pode, sim. T-O-M.
+**Tom:** - Posso sim. T-O-M.
 
 **Atendente:** - T, O, M. Perfeito. E o sobrenome?
 
