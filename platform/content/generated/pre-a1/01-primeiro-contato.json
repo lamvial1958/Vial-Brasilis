@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena:** recepção de uma pousada em Florianópolis, fim de tarde.\n\n> **Marta (recepcionista):** Boa tarde! Bem-vindo!\n> **Tom (hóspede):** Boa tarde! Obrigado.\n> **Marta:** Qual é o seu nome?\n> **Tom:** Eu me chamo Tom. E você?\n> **Marta:** Eu me chamo Marta. Muito prazer, Tom!\n> **Tom:** Muito prazer, Marta!\n> **Marta:** Você é de onde?\n> **Tom:** Eu sou da Inglaterra. E você, é de Florianópolis?\n> **Marta:** Sou, sim! Bem-vindo ao Brasil, Tom!\n\n**Quadro funcional (chunks para reter, não analisar gramaticalmente):**\n| Função | Fórmula |\n|---|---|\n| Saudar | Bom dia / Boa tarde / Boa noite |\n| Dizer o nome | Eu me chamo... |\n| Perguntar o nome | Qual é o seu nome? |\n| Reagir a uma apresentação | Muito prazer! |\n| Dizer a origem | Eu sou de... / Eu sou da/do... |\n| Perguntar a origem | Você é de onde? |\n| Agradecer / responder | Obrigado(a) / De nada |"
+      "markdown": "**Cena:** recepção de uma pousada em Florianópolis, fim de tarde.\n\n**Marta (recepcionista):** - Boa tarde! Bem-vindo!\n\n**Tom (hóspede):** - Boa tarde! Obrigado.\n\n**Marta:** - Qual é o seu nome?\n\n**Tom:** - Eu me chamo Tom. E você?\n\n**Marta:** - Eu me chamo Marta. Muito prazer, Tom!\n\n**Tom:** - Muito prazer, Marta!\n\n**Marta:** - Você é de onde?\n\n**Tom:** - Eu sou da Inglaterra. E você, é de Florianópolis?\n\n**Marta:** - Sou, sim! Bem-vindo ao Brasil, Tom!\n\n**Quadro funcional (chunks para reter, não analisar gramaticalmente):**\n| Função | Fórmula |\n|---|---|\n| Saudar | Bom dia / Boa tarde / Boa noite |\n| Dizer o nome | Eu me chamo... |\n| Perguntar o nome | Qual é o seu nome? |\n| Reagir a uma apresentação | Muito prazer! |\n| Dizer a origem | Eu sou de... / Eu sou da/do... |\n| Perguntar a origem | Você é de onde? |\n| Agradecer / responder | Obrigado(a) / De nada |"
     },
     {
       "ordem": 2,
@@ -30,7 +30,7 @@
     {
       "ordem": 5,
       "titulo": "Listening — Script e Perguntas",
-      "markdown": "**Áudio (cena alternativa, narrado por falantes nativos):**\n> **Recepcionista:** Boa noite! Bem-vinda à pousada!\n> **Sofia:** Boa noite! Muito obrigada.\n> **Recepcionista:** Qual é o seu nome?\n> **Sofia:** Eu me chamo Sofia.\n> **Recepcionista:** Muito prazer, Sofia! Você é de onde?\n> **Sofia:** Eu sou da Argentina.\n> **Recepcionista:** Que bom! Bem-vinda ao Brasil!\n\n**Perguntas:**\n1. Que horário do dia é a cena? → **Noite** (pista: \"Boa noite\")\n2. Qual é o nome da hóspede? → **Sofia**\n3. De onde é Sofia? → **Da Argentina**"
+      "markdown": "**Áudio (cena alternativa, narrado por falantes nativos):**\n\n**Recepcionista:** - Boa noite! Bem-vinda à pousada!\n\n**Sofia:** - Boa noite! Muito obrigada.\n\n**Recepcionista:** - Qual é o seu nome?\n\n**Sofia:** - Eu me chamo Sofia.\n\n**Recepcionista:** - Muito prazer, Sofia! Você é de onde?\n\n**Sofia:** - Eu sou da Argentina.\n\n**Recepcionista:** - Que bom! Bem-vinda ao Brasil!\n\n**Perguntas:**\n1. A que horas é a janta? → **À noite** (pista: \"Boa noite\")\n2. Qual é o nome da hóspede? → **Sofia**\n3. De onde é Sofia? → **Da Argentina**"
     },
     {
       "ordem": 6,

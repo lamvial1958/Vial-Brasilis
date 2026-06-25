@@ -6,15 +6,23 @@
 
 **Cena:** recepção de uma pousada em Florianópolis, fim de tarde.
 
-> **Marta (recepcionista):** Boa tarde! Bem-vindo!
-> **Tom (hóspede):** Boa tarde! Obrigado.
-> **Marta:** Qual é o seu nome?
-> **Tom:** Eu me chamo Tom. E você?
-> **Marta:** Eu me chamo Marta. Muito prazer, Tom!
-> **Tom:** Muito prazer, Marta!
-> **Marta:** Você é de onde?
-> **Tom:** Eu sou da Inglaterra. E você, é de Florianópolis?
-> **Marta:** Sou, sim! Bem-vindo ao Brasil, Tom!
+**Marta (recepcionista):** - Boa tarde! Bem-vindo!
+
+**Tom (hóspede):** - Boa tarde! Obrigado.
+
+**Marta:** - Qual é o seu nome?
+
+**Tom:** - Eu me chamo Tom. E você?
+
+**Marta:** - Eu me chamo Marta. Muito prazer, Tom!
+
+**Tom:** - Muito prazer, Marta!
+
+**Marta:** - Você é de onde?
+
+**Tom:** - Eu sou da Inglaterra. E você, é de Florianópolis?
+
+**Marta:** - Sou, sim! Bem-vindo ao Brasil, Tom!
 
 **Quadro funcional (chunks para reter, não analisar gramaticalmente):**
 | Função | Fórmula |
@@ -83,16 +91,23 @@ pão(**sim**) · pau(**não**) · mão(**sim**) · mau(**não**) · café(**não
 ## 5. Listening — Script e Perguntas
 
 **Áudio (cena alternativa, narrado por falantes nativos):**
-> **Recepcionista:** Boa noite! Bem-vinda à pousada!
-> **Sofia:** Boa noite! Muito obrigada.
-> **Recepcionista:** Qual é o seu nome?
-> **Sofia:** Eu me chamo Sofia.
-> **Recepcionista:** Muito prazer, Sofia! Você é de onde?
-> **Sofia:** Eu sou da Argentina.
-> **Recepcionista:** Que bom! Bem-vinda ao Brasil!
+
+**Recepcionista:** - Boa noite! Bem-vinda à pousada!
+
+**Sofia:** - Boa noite! Muito obrigada.
+
+**Recepcionista:** - Qual é o seu nome?
+
+**Sofia:** - Eu me chamo Sofia.
+
+**Recepcionista:** - Muito prazer, Sofia! Você é de onde?
+
+**Sofia:** - Eu sou da Argentina.
+
+**Recepcionista:** - Que bom! Bem-vinda ao Brasil!
 
 **Perguntas:**
-1. Que horário do dia é a cena? → **Noite** (pista: "Boa noite")
+1. A que horas é a janta? → **À noite** (pista: "Boa noite")
 2. Qual é o nome da hóspede? → **Sofia**
 3. De onde é Sofia? → **Da Argentina**
 
