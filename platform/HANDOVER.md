@@ -1,116 +1,114 @@
-# Handover — Plataforma PLE (Português Brasil)
+# Handover — Plataforma VIAL Brasilis PLE
 
-Estado em 2026-06-25 (fim de sessão ~09h). Retome daqui sem perder contexto.
+Estado em 2026-06-25 (fim de sessão ~tarde). Retome daqui sem perder contexto.
 
 ---
 
-## Stack decidida (não muda)
+## Stack (não muda)
 
-- **Frontend + API routes**: Next.js 16 no Vercel (plano Spark — gratuito)
+- **Frontend + API routes**: Next.js 16.2.9 no Vercel (plano Spark — gratuito)
 - **Auth + DB**: Firebase Auth + Firestore (plano Spark — gratuito)
-- **Sem Firebase Admin SDK no Next.js** — substituído por REST APIs
+- **Sem Firebase Admin SDK no Next.js** — substituído por REST APIs (`lib/firebase/auth-rest.ts`)
 - **Sem Firebase Blaze** até captação de clientes pagantes
 
 ---
 
 ## URLs
 
-- **Produção**: https://platform-henna-nine.vercel.app  (alias de platform-br.vercel.app)
+- **Produção**: https://platform-henna-nine.vercel.app
 - **Vercel project**: luiz-antonio-m-vials-projects / platform-br
 - **Firebase project**: portugues-brasil-ple
 
 ---
 
-## O que foi resolvido nesta sessão (2026-06-25)
+## Estado atual — tudo funcional
 
-### 1. BOM UTF-8 nas variáveis de ambiente (RESOLVIDO)
-`NEXT_PUBLIC_FIREBASE_API_KEY` e possivelmente outras vars tinham um BOM (`﻿`, `%EF%BB%BF`) no início do valor. O Firebase SDK incluía o BOM num header HTTP → browser rejeitava o fetch com "String contains non ISO-8859-1 code point" → wrappado como `auth/network-request-failed`.
+### Auth
+- Google Sign-In funcionando (popup)
+- Email/senha funcionando
+- Sem gate de verificação de e-mail (removido — Firebase Spark não entrega bem)
+- Admin role via custom claim Firebase (`scripts/set-admin-claim.ts`)
+- Sessão via cookie JWT HS256 (5 dias)
 
-**Como foi diagnosticado**: interceptor de `fetch` no Console mostrou `key=%EF%BB%BFAIzaSy...` na URL.
+### Conta admin
+- `viallamv@gmail.com` — email verificado, role=admin configurado
 
-**Fix**: todas as 6 vars `NEXT_PUBLIC_FIREBASE_*` recriadas no Vercel UI sem BOM. Redeploy feito.
+### Conteúdo
+- PRE-A1 → B2: 50 lições geradas
+- Pipeline: `docs/conteudo/**/*.md` → `scripts/build-content.ts` → `content/generated/**/*.json`
+- Vercel usa os JSONs pré-gerados (docs/ não sobe para produção)
+- Para regenerar após editar markdown: `npx tsx scripts/build-content.ts` (dentro de `platform/`)
 
-### 2. Firestore não havia sido criado (RESOLVIDO)
-O banco não existia no projeto Firebase. `setDoc` ficava pendurado infinitamente.
-
-**Fix**: Firestore criado em modo nativo, região us-central. As regras de segurança já estavam corretas no código (ver seção de regras abaixo).
-
-### 3. Conta viallamv@gmail.com criada com sucesso
-Confirmado no Firebase Console → Authentication → Users. A conta existe, e-mail ainda não verificado.
-
----
-
-## PRÓXIMA SESSÃO — Retome exatamente aqui
-
-### Problema 1 — Frontend trava em "Criando..." após cadastro (PRIORIDADE)
-
-**Causa identificada**: `sendEmailVerification` está sendo `await`-ado antes do `router.push`. Se `sendEmailVerification` demorar ou falhar silenciosamente, a página never avança.
-
-**Fix a aplicar em `platform/app/(auth)/cadastro/page.tsx`**:
-
-```ts
-// ANTES (trava se sendEmailVerification demorar):
-await sendEmailVerification(cred.user);
-router.push("/verificar-email");
-
-// DEPOIS (fire-and-forget — não bloqueia a navegação):
-sendEmailVerification(cred.user).catch(() => {});
-router.push("/verificar-email");
-```
-
-### Problema 2 — E-mail de verificação não chegou
-
-O e-mail de confirmação enviado para `viallamv@gmail.com` não foi recebido.
-
-**Passos para investigar**:
-1. Verificar pasta de **spam/lixo eletrônico** no Gmail
-2. No Firebase Console → Authentication → Users → `viallamv@gmail.com` → "Enviar e-mail de redefinição de senha" (alternativa para entrar)
-3. Se o e-mail de verificação nunca chega: Firebase Console → Authentication → Templates → confirmar que o template de verificação está configurado
-4. Tentar usar o botão "Reenviar e-mail de confirmação" em https://platform-henna-nine.vercel.app/verificar-email
-
-### Passo 3 — Entrar na conta após verificação
-
-Após verificar o e-mail, fazer login em https://platform-henna-nine.vercel.app/login com `viallamv@gmail.com`.
-
-### Passo 4 — Definir papel admin
-
-Após login com sucesso, rodar no terminal:
-```
-npx tsx platform/scripts/set-admin-claim.ts viallamv@gmail.com
-```
-Depois fazer logout e login novamente para o custom claim valer.
-
-### Passo 5 — Verificar painel admin
-Acessar https://platform-henna-nine.vercel.app/admin — deve listar alunos.
-
-### Passo 6 — Testar lições
-Acessar https://platform-henna-nine.vercel.app/licoes — deve funcionar sem erro 500.
-
-### Passo 7 (opcional) — Google Sign-In
-Firebase Auth já tem Google habilitado. Falta apenas:
-- Adicionar botão "Entrar com Google" nas páginas `/cadastro` e `/login`
-- Usar `signInWithPopup(auth, new GoogleAuthProvider())` no cliente
+### Brand
+- Nome: **VIAL Brasilis**, marca **V&M** (Vial & Monticelli)
+- Domínio futuro: vialbrasilis
+- Logo: `platform/public/logo.png` (coração com listras)
+- Cores: navy `#0f2744`, blue `#2f7fc1`, coral `#d9624a`, green `#1a6b3a`
 
 ---
 
-## Variáveis de ambiente no Vercel (estado atual — todas limpas, sem BOM)
+## Limpeza de conteúdo feita nesta sessão
+
+Aplicado em todos os 50 arquivos de lição:
+
+1. `notaIntro` removido da renderização do aluno (bloco interno pedagógico)
+2. Metadados SRS `(N itens, tag level.X)` removidos do markdown
+3. "chunks" → "expressões prontas/fixas" (English jargon eliminado)
+4. Diálogos reformatados: `> **Falante:** texto` → `**Falante:** - texto` com parágrafo por fala
+   - Notas, regras, textos de estímulo mantidos como blockquote (`> **Nota:**`, `> **Regra:**`, etc.)
+
+---
+
+## Correções pontuais de conteúdo
+
+### PRE-A1.1 (01-primeiro-contato.md)
+- Pergunta "Que horário do dia é a cena?" → "A que horas é a janta?" / resposta "À noite"
+
+### PRE-A1.0 (00-ferramentas-basicas-i.md)
+- "Tom: - Pode, sim." → "Tom: - Posso sim." (verbo primeira pessoa)
+- "cento e dez vírgula cinquenta se pagar em dinheiro" → "cento e dez e cinquenta, se pagar em dinheiro"
+
+---
+
+## Variáveis de ambiente no Vercel
 
 ```
-FIREBASE_ADMIN_PROJECT_ID        = portugues-brasil-ple
-FIREBASE_ADMIN_CLIENT_EMAIL      = firebase-adminsdk-fbsvc@portugues-brasil-ple.iam.gserviceaccount.com
-FIREBASE_ADMIN_PRIVATE_KEY       = [chave RSA configurada no Vercel]
-SESSION_SECRET                   = [configurado]
-NEXT_PUBLIC_FIREBASE_API_KEY     = AIzaSyC0HCqsCIdaBf4M_Quj2kHQ32BTokysRR4
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN = portugues-brasil-ple.firebaseapp.com
-NEXT_PUBLIC_FIREBASE_PROJECT_ID  = portugues-brasil-ple
-NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET     = portugues-brasil-ple.firebasestorage.app
+FIREBASE_ADMIN_PROJECT_ID         = portugues-brasil-ple
+FIREBASE_ADMIN_CLIENT_EMAIL       = firebase-adminsdk-fbsvc@portugues-brasil-ple.iam.gserviceaccount.com
+FIREBASE_ADMIN_PRIVATE_KEY        = [chave RSA configurada no Vercel]
+SESSION_SECRET                    = [configurado]
+NEXT_PUBLIC_FIREBASE_API_KEY      = AIzaSyC0HCqsCIdaBf4M_Quj2kHQ32BTokysRR4
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN  = portugues-brasil-ple.firebaseapp.com
+NEXT_PUBLIC_FIREBASE_PROJECT_ID   = portugues-brasil-ple
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET      = portugues-brasil-ple.firebasestorage.app
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID = 199410587722
-NEXT_PUBLIC_FIREBASE_APP_ID      = 1:199410587722:web:329850cbcd27c43a1a2eb3
+NEXT_PUBLIC_FIREBASE_APP_ID       = 1:199410587722:web:329850cbcd27c43a1a2eb3
 ```
 
 ---
 
-## Firestore — Regras de segurança (configuradas e corretas)
+## Arquitetura server-side
+
+```
+Browser                    Next.js (Vercel)              Google APIs
+  |                              |                             |
+  |-- POST /api/auth/session --> |                             |
+  |   { idToken }               |-- verifyIdToken() --------> |
+  |                             |<-- cert + jwt.verify() -----|
+  |<-- Set-Cookie session ------|                             |
+  |   (HS256 JWT, 5 dias)       |                             |
+```
+
+**Arquivos chave**:
+- `lib/firebase/auth-rest.ts` — auth server-side + `getAccessToken()` (scopes: firebase, identitytoolkit, datastore)
+- `lib/firebase/firestore-rest.ts` — leitura/escrita no Firestore via REST
+- `lib/firebase/session.ts` — helpers de sessão (`requireAdmin`, `getSessionUser`)
+- `lib/firebase/client.ts` — Firebase client SDK (somente browser)
+- `lib/firebase/admin.ts` — VAZIO (não importar)
+
+---
+
+## Firestore — Regras de segurança
 
 ```
 rules_version = '2';
@@ -143,45 +141,9 @@ service cloud.firestore {
 
 ---
 
-## Arquitetura server-side (sem firebase-admin)
+## O que ainda não foi construído
 
-```
-Browser                    Next.js (Vercel)              Google APIs
-  |                              |                             |
-  |-- POST /api/auth/session --> |                             |
-  |   { idToken }               |-- verifyIdToken() --------> |
-  |                             |   (googleapis.com/          |
-  |                             |    robot/v1/metadata/x509)  |
-  |                             |<-- cert + jwt.verify() -----|
-  |                             |-- getUser() --------------> |
-  |                             |   (identitytoolkit REST)    |
-  |<-- Set-Cookie session ------| createSessionCookieSync()   |
-  |   (HS256 JWT, 5 dias)       |   (jsonwebtoken HS256)      |
-```
-
-**Arquivos chave**:
-- `lib/firebase/auth-rest.ts` — toda a lógica de auth server-side
-- `lib/firebase/firestore-rest.ts` — leitura/escrita no Firestore
-- `lib/firebase/session.ts` — helpers de sessão (requireAdmin, getSessionUser)
-- `lib/firebase/client.ts` — Firebase client SDK (somente browser)
-- `lib/firebase/admin.ts` — VAZIO (não importar)
-
----
-
-## Como rodar localmente
-
-```bash
-cd platform
-npm install
-# .env.local precisa ter as variáveis FIREBASE_ADMIN_* e NEXT_PUBLIC_FIREBASE_*
-npm run dev
-```
-
----
-
-## O que NÃO foi construído ainda
-
-- Google Sign-In (botão na UI — Auth já habilitado no Firebase)
 - Áudio TTS/STT
 - Upload de produção oral
 - Testes automatizados
+- Sistema de pagamento / acesso por matrícula

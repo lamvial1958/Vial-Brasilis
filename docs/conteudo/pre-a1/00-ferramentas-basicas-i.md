@@ -14,7 +14,7 @@
 
 **Tom:** - Smith. S-M-I-T-H.
 
-**Atendente:** - Ótimo. A diária aqui é cento e vinte reais, ou cento e dez vírgula cinquenta se pagar em dinheiro.
+**Atendente:** - Ótimo. A diária aqui é cento e vinte reais, ou cento e dez e cinquenta, se pagar em dinheiro.
 
 **Tom:** - Entendi. E qual é a temperatura hoje?
 
