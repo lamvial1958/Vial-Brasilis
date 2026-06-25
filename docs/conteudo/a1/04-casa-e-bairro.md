@@ -3,12 +3,18 @@
 ## 1. Diálogo de Abertura
 
 **Cena — Li explica a Marco como é sua casa, antes da visita:**
-> **Li:** Marco, antes de você vir à minha casa, deixa eu explicar. Eu moro num apartamento pequeno.
-> **Marco:** Quantos quartos tem?
-> **Li:** Tem dois quartos, uma sala, uma cozinha e um banheiro. A cozinha fica ao lado da sala.
-> **Marco:** E tem garagem?
-> **Li:** Não tem garagem, mas tem uma vaga na rua. No meu bairro tem um mercado perto de casa e uma farmácia ao lado do mercado.
-> **Marco:** Perfeito, fácil de chegar então.
+**Li:** - Marco, antes de você vir à minha casa, deixa eu explicar. Eu moro num apartamento pequeno.
+
+**Marco:** - Quantos quartos tem?
+
+**Li:** - Tem dois quartos, uma sala, uma cozinha e um banheiro. A cozinha fica ao lado da sala.
+
+**Marco:** - E tem garagem?
+
+**Li:** - Não tem garagem, mas tem uma vaga na rua. No meu bairro tem um mercado perto de casa e uma farmácia ao lado do mercado.
+
+**Marco:** - Perfeito, fácil de chegar então.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -55,7 +61,8 @@ cama → quarto · fogão → cozinha · sofá → sala
 
 ## 6. Listening — Script e Perguntas
 
-> **Sofia:** Minha casa tem três quartos, uma sala grande e uma cozinha pequena. O banheiro fica entre os dois primeiros quartos. No bairro, tem um parque em frente à minha casa e uma escola perto, mas não tem padaria por aqui.
+**Sofia:** - Minha casa tem três quartos, uma sala grande e uma cozinha pequena. O banheiro fica entre os dois primeiros quartos. No bairro, tem um parque em frente à minha casa e uma escola perto, mas não tem padaria por aqui.
+
 
 **Perguntas:**
 1. Quantos quartos a casa de Sofia tem? → **Três**

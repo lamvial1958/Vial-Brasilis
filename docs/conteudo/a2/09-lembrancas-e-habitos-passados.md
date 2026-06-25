@@ -5,14 +5,22 @@
 ## 1. Diálogo de Abertura
 
 **Cena — conversa sobre a vida antes e depois de morar no Brasil:**
-> **Yuki:** Como era sua vida antes de vir para o Brasil?
-> **Diego:** Era bem diferente. Eu morava com meus pais, trabalhava num escritório e quase não cozinhava — sempre comia fora.
-> **Yuki:** E agora?
-> **Diego:** Agora eu moro sozinho, trabalho de casa e cozinho quase todos os dias! Mudou tudo.
-> **Yuki:** Você sentia falta da sua cidade no início?
-> **Diego:** Sentia muito. Eu sempre pensava na minha família e nos amigos que eu tinha lá. Mas com o tempo eu me acostumei.
-> **Yuki:** E o que você fazia no seu tempo livre antes?
-> **Diego:** Eu jogava videogame e saía com amigos todo fim de semana. Hoje eu prefiro caminhar na praia.
+**Yuki:** - Como era sua vida antes de vir para o Brasil?
+
+**Diego:** - Era bem diferente. Eu morava com meus pais, trabalhava num escritório e quase não cozinhava — sempre comia fora.
+
+**Yuki:** - E agora?
+
+**Diego:** - Agora eu moro sozinho, trabalho de casa e cozinho quase todos os dias! Mudou tudo.
+
+**Yuki:** - Você sentia falta da sua cidade no início?
+
+**Diego:** - Sentia muito. Eu sempre pensava na minha família e nos amigos que eu tinha lá. Mas com o tempo eu me acostumei.
+
+**Yuki:** - E o que você fazia no seu tempo livre antes?
+
+**Diego:** - Eu jogava videogame e saía com amigos todo fim de semana. Hoje eu prefiro caminhar na praia.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -90,10 +98,14 @@ O que você fazia no seu tempo livre antes de [um momento de mudança na sua vid
 
 ## 6. Listening — Script e Perguntas
 
-> **Apresentadora:** Como era sua vida antes de se mudar para o Brasil, Marie?
-> **Marie:** Era bem mais corrida. Eu trabalhava doze horas por dia e quase não tinha tempo livre. Eu sempre estava cansada e sentia muito estresse.
-> **Apresentadora:** E o que mudou?
-> **Marie:** Hoje eu trabalho menos horas e tenho mais tempo para caminhar e cozinhar. No início eu sentia muita falta da minha rotina antiga, mas com o tempo eu me acostumei com esse ritmo mais calmo.
+**Apresentadora:** - Como era sua vida antes de se mudar para o Brasil, Marie?
+
+**Marie:** - Era bem mais corrida. Eu trabalhava doze horas por dia e quase não tinha tempo livre. Eu sempre estava cansada e sentia muito estresse.
+
+**Apresentadora:** - E o que mudou?
+
+**Marie:** - Hoje eu trabalho menos horas e tenho mais tempo para caminhar e cozinhar. No início eu sentia muita falta da minha rotina antiga, mas com o tempo eu me acostumei com esse ritmo mais calmo.
+
 
 **Perguntas:**
 1. Como era a vida de Marie antes? → **Mais corrida, trabalhava doze horas por dia**

@@ -5,17 +5,28 @@
 ## 1. Diálogo de Abertura
 
 **Cena — roda de conversa, primeiro dia numa escola de português:**
-> **Professora:** Boa tarde a todos! Vamos nos conhecer. Tom, pode começar?
-> **Tom:** Claro. Eu me chamo Tom, sou inglês, tenho trinta e dois anos e sou professor de inglês.
-> **Professora:** Ótimo! E você, Li?
-> **Li:** Eu me chamo Li, sou chinesa, tenho vinte e cinco anos e sou engenheira.
-> **Professora:** Perfeito. Marco, e você?
-> **Marco:** Eu sou Marco, sou italiano, tenho quarenta anos e sou cozinheiro.
-> **Professora:** E vocês dois, são casados?
-> **Tom:** Não, eu sou solteiro.
-> **Li:** Eu também sou solteira.
-> **Tom:** Li, você é de onde exatamente na China?
-> **Li:** Eu sou de Pequim.
+**Professora:** - Boa tarde a todos! Vamos nos conhecer. Tom, pode começar?
+
+**Tom:** - Claro. Eu me chamo Tom, sou inglês, tenho trinta e dois anos e sou professor de inglês.
+
+**Professora:** - Ótimo! E você, Li?
+
+**Li:** - Eu me chamo Li, sou chinesa, tenho vinte e cinco anos e sou engenheira.
+
+**Professora:** - Perfeito. Marco, e você?
+
+**Marco:** - Eu sou Marco, sou italiano, tenho quarenta anos e sou cozinheiro.
+
+**Professora:** - E vocês dois, são casados?
+
+**Tom:** - Não, eu sou solteiro.
+
+**Li:** - Eu também sou solteira.
+
+**Tom:** - Li, você é de onde exatamente na China?
+
+**Li:** - Eu sou de Pequim.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -99,11 +110,16 @@ Maria é ingl___ (**inglesa**) · Pedro é argentin___ (**argentino**) · Anna �
 
 ## 6. Listening — Script e Perguntas
 
-> **Sofia:** Oi! Eu me chamo Sofia. Eu sou argentina, de Buenos Aires. Tenho vinte e oito anos e sou estudante.
-> **Entrevistador:** E você é casada, Sofia?
-> **Sofia:** Não, sou solteira.
-> **Entrevistador:** O que você estuda?
-> **Sofia:** Eu estudo medicina.
+**Sofia:** - Oi! Eu me chamo Sofia. Eu sou argentina, de Buenos Aires. Tenho vinte e oito anos e sou estudante.
+
+**Entrevistador:** - E você é casada, Sofia?
+
+**Sofia:** - Não, sou solteira.
+
+**Entrevistador:** - O que você estuda?
+
+**Sofia:** - Eu estudo medicina.
+
 
 **Perguntas:**
 1. De onde Sofia é? → **Da Argentina / de Buenos Aires**

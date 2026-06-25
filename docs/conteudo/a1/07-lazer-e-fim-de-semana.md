@@ -3,12 +3,18 @@
 ## 1. Diálogo de Abertura
 
 **Cena — amigos combinando o fim de semana:**
-> **Sofia:** Gente, o que vocês fazem no fim de semana?
-> **Tom:** Eu adoro jogar futebol com os amigos no sábado de manhã.
-> **Li:** Eu prefiro ficar em casa, eu gosto de ler e assistir filmes.
-> **Marco:** Eu odeio ficar em casa! Eu adoro ir à praia ou fazer uma trilha.
-> **Sofia:** Então, que tal irmos à praia esse sábado? Todo fim de semana eu fico em casa, preciso sair um pouco.
-> **Tom:** Combinado! Depois do futebol, eu vou.
+**Sofia:** - Gente, o que vocês fazem no fim de semana?
+
+**Tom:** - Eu adoro jogar futebol com os amigos no sábado de manhã.
+
+**Li:** - Eu prefiro ficar em casa, eu gosto de ler e assistir filmes.
+
+**Marco:** - Eu odeio ficar em casa! Eu adoro ir à praia ou fazer uma trilha.
+
+**Sofia:** - Então, que tal irmos à praia esse sábado? Todo fim de semana eu fico em casa, preciso sair um pouco.
+
+**Tom:** - Combinado! Depois do futebol, eu vou.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -60,10 +66,14 @@ Tom → futebol · Li → ler/assistir filmes · Marco → praia/trilha
 
 ## 6. Listening — Script e Perguntas
 
-> **Entrevistador:** O que você gosta de fazer no fim de semana?
-> **Pessoa 1:** Eu adoro andar de bicicleta no parque.
-> **Pessoa 2:** Eu prefiro ir ao shopping com amigas.
-> **Pessoa 3:** Eu odeio sair de casa, gosto mesmo é de descansar e ler.
+**Entrevistador:** - O que você gosta de fazer no fim de semana?
+
+**Pessoa 1:** - Eu adoro andar de bicicleta no parque.
+
+**Pessoa 2:** - Eu prefiro ir ao shopping com amigas.
+
+**Pessoa 3:** - Eu odeio sair de casa, gosto mesmo é de descansar e ler.
+
 
 **Perguntas:**
 1. O que a Pessoa 1 adora fazer? → **Andar de bicicleta no parque**

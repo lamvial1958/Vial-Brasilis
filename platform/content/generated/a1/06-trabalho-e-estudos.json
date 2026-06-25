@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — evento de networking:**\n> **Marco:** Oi, eu sou o Marco. Eu trabalho como cozinheiro num restaurante italiano aqui no centro.\n> **Li:** Que interessante! Eu trabalho numa empresa de tecnologia, como engenheira.\n> **Marco:** E você, Tom, ainda dá aulas de inglês?\n> **Tom:** Atualmente não. Eu estou estudando português na faculdade e também estou procurando um emprego de professor aqui no Brasil.\n> **Li:** Boa sorte! Eu trabalho em São Paulo, na Avenida Paulista.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer onde trabalha | Eu trabalho em... (lugar) |\n| Dizer a profissão | Eu trabalho como... (profissão) |\n| Dizer onde estuda | Eu estudo em... |\n| Dizer o que está fazendo agora (situação atual) | Eu estou + gerúndio (estudando, procurando...) |"
+      "markdown": "**Cena — evento de networking:**\n**Marco:** - Oi, eu sou o Marco. Eu trabalho como cozinheiro num restaurante italiano aqui no centro.\n\n**Li:** - Que interessante! Eu trabalho numa empresa de tecnologia, como engenheira.\n\n**Marco:** - E você, Tom, ainda dá aulas de inglês?\n\n**Tom:** - Atualmente não. Eu estou estudando português na faculdade e também estou procurando um emprego de professor aqui no Brasil.\n\n**Li:** - Boa sorte! Eu trabalho em São Paulo, na Avenida Paulista.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer onde trabalha | Eu trabalho em... (lugar) |\n| Dizer a profissão | Eu trabalho como... (profissão) |\n| Dizer onde estuda | Eu estudo em... |\n| Dizer o que está fazendo agora (situação atual) | Eu estou + gerúndio (estudando, procurando...) |"
     },
     {
       "ordem": 2,
@@ -35,7 +35,7 @@
     {
       "ordem": 6,
       "titulo": "Listening — Script e Perguntas",
-      "markdown": "> **Sofia:** Olá! Eu sou a Sofia, sou estudante de medicina. Eu estudo numa faculdade em São Paulo e também estou fazendo um estágio num hospital, às terças e quintas.\n\n**Perguntas:**\n1. O que Sofia estuda? → **Medicina**\n2. Onde ela está fazendo um estágio? → **Num hospital**\n3. Quais dias ela faz o estágio? → **Terças e quintas**"
+      "markdown": "**Sofia:** - Olá! Eu sou a Sofia, sou estudante de medicina. Eu estudo numa faculdade em São Paulo e também estou fazendo um estágio num hospital, às terças e quintas.\n\n\n**Perguntas:**\n1. O que Sofia estuda? → **Medicina**\n2. Onde ela está fazendo um estágio? → **Num hospital**\n3. Quais dias ela faz o estágio? → **Terças e quintas**"
     },
     {
       "ordem": 7,

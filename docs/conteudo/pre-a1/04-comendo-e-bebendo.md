@@ -3,20 +3,32 @@
 ## 1. Diálogo de Abertura
 
 **Cena 1 — Padaria:**
-> **Tom:** Bom dia! Eu queria um pão de queijo e um café, por favor.
-> **Atendente:** Para comer aqui ou para levar?
-> **Tom:** Para comer aqui, por favor.
-> **Atendente:** Mais alguma coisa?
-> **Tom:** Não, só isso. Quanto custa?
-> **Atendente:** São oito reais.
+**Tom:** - Bom dia! Eu queria um pão de queijo e um café, por favor.
+
+**Atendente:** - Para comer aqui ou para levar?
+
+**Tom:** - Para comer aqui, por favor.
+
+**Atendente:** - Mais alguma coisa?
+
+**Tom:** - Não, só isso. Quanto custa?
+
+**Atendente:** - São oito reais.
+
 
 **Cena 2 — Restaurante:**
-> **Garçom:** Boa noite! Vocês já escolheram?
-> **Tom:** Sim. Eu queria o prato do dia.
-> **Garçom:** Perfeito. E para beber?
-> **Tom:** Uma água, por favor. Ah, eu sou alérgico a amendoim — tem amendoim nesse prato?
-> **Garçom:** Não, não tem. Pode ficar tranquilo.
-> **Tom:** Obrigado. A conta, por favor.
+**Garçom:** - Boa noite! Vocês já escolheram?
+
+**Tom:** - Sim. Eu queria o prato do dia.
+
+**Garçom:** - Perfeito. E para beber?
+
+**Tom:** - Uma água, por favor. Ah, eu sou alérgico a amendoim — tem amendoim nesse prato?
+
+**Garçom:** - Não, não tem. Pode ficar tranquilo.
+
+**Tom:** - Obrigado. A conta, por favor.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -57,11 +69,16 @@ quanto(**sim**) · custa(**não**, é "c") · queria(**sim**) · copo(**não**)
 
 ## 5. Listening — Script e Perguntas
 
-> **Garçom:** Boa tarde! Já escolheu?
-> **Sofia:** Já. Eu queria o prato do dia. Ah, eu sou vegetariana — tem carne nesse prato?
-> **Garçom:** Tem, sim. Mas temos uma opção vegetariana também.
-> **Sofia:** Ótimo, eu queria essa, por favor. E um suco de laranja.
-> **Garçom:** Perfeito.
+**Garçom:** - Boa tarde! Já escolheu?
+
+**Sofia:** - Já. Eu queria o prato do dia. Ah, eu sou vegetariana — tem carne nesse prato?
+
+**Garçom:** - Tem, sim. Mas temos uma opção vegetariana também.
+
+**Sofia:** - Ótimo, eu queria essa, por favor. E um suco de laranja.
+
+**Garçom:** - Perfeito.
+
 
 **Perguntas:**
 1. Sofia é vegetariana ou alérgica? → **Vegetariana**

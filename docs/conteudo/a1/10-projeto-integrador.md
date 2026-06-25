@@ -44,7 +44,8 @@ Terminação "-ês/-esa" (nacionalidade) · "lh" (filho, trilha) · ligação "�
 
 ## 6. Listening de Revisão
 
-> **Marco:** Oi! Eu sou o Marco, italiano, quarenta anos, cozinheiro. Moro com minha esposa num apartamento perto do centro. Eu trabalho num restaurante e, no fim de semana, adoro ir à praia. Amanhã eu vou fazer um jantar especial para uns amigos.
+**Marco:** - Oi! Eu sou o Marco, italiano, quarenta anos, cozinheiro. Moro com minha esposa num apartamento perto do centro. Eu trabalho num restaurante e, no fim de semana, adoro ir à praia. Amanhã eu vou fazer um jantar especial para uns amigos.
+
 
 **Perguntas:**
 1. Qual é a profissão de Marco? → **Cozinheiro**

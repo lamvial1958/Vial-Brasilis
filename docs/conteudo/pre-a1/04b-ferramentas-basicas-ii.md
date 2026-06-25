@@ -5,18 +5,28 @@
 ## 1. Diálogo de Abertura
 
 **Cena 1 — Marcando uma consulta por telefone:**
-> **Atendente:** Bom dia, clínica São Lucas.
-> **Tom:** Bom dia. Eu queria marcar uma consulta.
-> **Atendente:** Que dia você prefere?
-> **Tom:** Pode ser na quinta-feira?
-> **Atendente:** Quinta-feira, dia 14 de agosto, às quinze horas. Pode ser?
-> **Tom:** Pode, sim. Muito obrigado.
+**Atendente:** - Bom dia, clínica São Lucas.
+
+**Tom:** - Bom dia. Eu queria marcar uma consulta.
+
+**Atendente:** - Que dia você prefere?
+
+**Tom:** - Pode ser na quinta-feira?
+
+**Atendente:** - Quinta-feira, dia 14 de agosto, às quinze horas. Pode ser?
+
+**Tom:** - Pode, sim. Muito obrigado.
+
 
 **Cena 2 — Achados e perdidos:**
-> **Tom:** Com licença, eu perdi minha mochila aqui ontem.
-> **Atendente:** Como ela é?
-> **Tom:** É uma mochila azul, com um bolso preto na frente.
-> **Atendente:** Ah, temos uma mochila azul aqui, sim! Deve ser a sua.
+**Tom:** - Com licença, eu perdi minha mochila aqui ontem.
+
+**Atendente:** - Como ela é?
+
+**Tom:** - É uma mochila azul, com um bolso preto na frente.
+
+**Atendente:** - Ah, temos uma mochila azul aqui, sim! Deve ser a sua.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -65,11 +75,16 @@ A bandeira do Brasil tem as cores ___, ___ e ___. → **verde, amarelo, azul** (
 
 ## 5. Listening — Script e Perguntas
 
-> **Recepção:** Boa tarde, em que posso ajudar?
-> **Sofia:** Boa tarde. Eu perdi um casaco aqui no sábado passado.
-> **Recepção:** Como ele é?
-> **Sofia:** É um casaco verde, bem quentinho.
-> **Recepção:** Deixa eu ver... Sim, temos um casaco verde aqui! Pode vir buscar quando quiser, estamos abertos de segunda a sábado.
+**Recepção:** - Boa tarde, em que posso ajudar?
+
+**Sofia:** - Boa tarde. Eu perdi um casaco aqui no sábado passado.
+
+**Recepção:** - Como ele é?
+
+**Sofia:** - É um casaco verde, bem quentinho.
+
+**Recepção:** - Deixa eu ver... Sim, temos um casaco verde aqui! Pode vir buscar quando quiser, estamos abertos de segunda a sábado.
+
 
 **Perguntas:**
 1. Que dia Sofia perdeu o casaco? → **No sábado**

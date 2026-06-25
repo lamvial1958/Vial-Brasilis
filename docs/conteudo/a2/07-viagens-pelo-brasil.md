@@ -6,17 +6,26 @@
 
 **Cena — planejamento de viagem entre amigos, depois relato da viagem já feita:**
 > **Antes da viagem:**
-> **Júlia:** No mês que vem eu vou viajar para o Nordeste. Vou visitar Salvador e depois vou ficar uma semana em Porto de Galinhas.
-> **Renato:** Que demais! Como você vai se deslocar entre as duas cidades?
-> **Júlia:** Eu vou de avião até Salvador e depois vou alugar um carro para ir a Porto de Galinhas.
-> **Renato:** Você já fez a reserva da hospedagem?
-> **Júlia:** Já, vou ficar numa pousada na orla.
+**Júlia:** - No mês que vem eu vou viajar para o Nordeste. Vou visitar Salvador e depois vou ficar uma semana em Porto de Galinhas.
+
+**Renato:** - Que demais! Como você vai se deslocar entre as duas cidades?
+
+**Júlia:** - Eu vou de avião até Salvador e depois vou alugar um carro para ir a Porto de Galinhas.
+
+**Renato:** - Você já fez a reserva da hospedagem?
+
+**Júlia:** - Já, vou ficar numa pousada na orla.
+
 >
 > **Depois da viagem:**
-> **Renato:** E aí, como foi a viagem ao Nordeste?
-> **Júlia:** Foi incrível! Eu visitei o Pelourinho em Salvador e depois fui para Porto de Galinhas. Lá eu conheci as piscinas naturais e me hospedei numa pousada maravilhosa.
-> **Renato:** Você pegou algum voo com atraso?
-> **Júlia:** Não, tudo correu bem. Só o aluguel do carro demorou um pouco mais do que esperado.
+**Renato:** - E aí, como foi a viagem ao Nordeste?
+
+**Júlia:** - Foi incrível! Eu visitei o Pelourinho em Salvador e depois fui para Porto de Galinhas. Lá eu conheci as piscinas naturais e me hospedei numa pousada maravilhosa.
+
+**Renato:** - Você pegou algum voo com atraso?
+
+**Júlia:** - Não, tudo correu bem. Só o aluguel do carro demorou um pouco mais do que esperado.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -90,10 +99,14 @@ Como foi sua última viagem? (resposta livre usando pretérito perfeito)
 
 ## 6. Listening — Script e Perguntas
 
-> **Apresentador:** Fernanda, conte para a gente sua última viagem.
-> **Fernanda:** Eu fui para o sul do Brasil. Visitei as Cataratas do Iguaçu e depois fui para Florianópolis. No Iguaçu eu peguei um barco que vai bem perto das quedas — foi incrível! Em Floripa eu aluguei uma bicicleta e conheci várias praias.
-> **Apresentador:** E você teve algum imprevisto?
-> **Fernanda:** Tive sim, o voo de volta atrasou quatro horas por causa do tempo. Mas valeu a pena.
+**Apresentador:** - Fernanda, conte para a gente sua última viagem.
+
+**Fernanda:** - Eu fui para o sul do Brasil. Visitei as Cataratas do Iguaçu e depois fui para Florianópolis. No Iguaçu eu peguei um barco que vai bem perto das quedas — foi incrível! Em Floripa eu aluguei uma bicicleta e conheci várias praias.
+
+**Apresentador:** - E você teve algum imprevisto?
+
+**Fernanda:** - Tive sim, o voo de volta atrasou quatro horas por causa do tempo. Mas valeu a pena.
+
 
 **Perguntas:**
 1. Quais lugares Fernanda visitou? → **Cataratas do Iguaçu e Florianópolis**

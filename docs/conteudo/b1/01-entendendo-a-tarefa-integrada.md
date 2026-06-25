@@ -5,15 +5,21 @@
 ## 1. Cenário e Texto-Modelo de Abertura
 
 **Cena — professora explicando o formato do exame a um grupo de alunos:**
-> **Professora:** O CELPE-Bras não testa gramática isolada. Ele te dá um estímulo — um áudio ou um texto — e pede para você produzir algo a partir dele. Olhem este exemplo.
+**Professora:** - O CELPE-Bras não testa gramática isolada. Ele te dá um estímulo — um áudio ou um texto — e pede para você produzir algo a partir dele. Olhem este exemplo.
+
 >
-> **Tarefa-modelo (input):** *Você ouviu, no rádio, uma notícia sobre o aumento do uso de bicicletas nas grandes cidades brasileiras.*
+**Tarefa-modelo (input):** - *Você ouviu, no rádio, uma notícia sobre o aumento do uso de bicicletas nas grandes cidades brasileiras.*
+
 > **Comando:** *Escreva um comentário para o fórum do site da rádio, dando sua opinião sobre o uso de bicicletas na sua cidade.*
 >
-> **Aluno:** Então eu preciso comentar sobre bicicletas?
-> **Professora:** Quase. Releia o comando: ele pede um **comentário de fórum**, não uma redação livre, e pede sua **opinião**, não um resumo da notícia. Se você só resumir a notícia, a tarefa não foi cumprida — mesmo com português perfeito.
-> **Aluno:** Entendi, então o gênero do texto e o que ele pede importam tanto quanto a gramática.
-> **Professora:** Exatamente. Essa é a lição mais importante deste nível.
+**Aluno:** - Então eu preciso comentar sobre bicicletas?
+
+**Professora:** - Quase. Releia o comando: ele pede um **comentário de fórum**, não uma redação livre, e pede sua **opinião**, não um resumo da notícia. Se você só resumir a notícia, a tarefa não foi cumprida — mesmo com português perfeito.
+
+**Aluno:** - Entendi, então o gênero do texto e o que ele pede importam tanto quanto a gramática.
+
+**Professora:** - Exatamente. Essa é a lição mais importante deste nível.
+
 
 **Quadro funcional:**
 | Função | Fórmula |

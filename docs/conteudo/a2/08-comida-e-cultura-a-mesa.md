@@ -5,13 +5,20 @@
 ## 1. Diálogo de Abertura
 
 **Cena — restaurante regional, comentário sobre os pratos:**
-> **Garçom:** E então, o que acharam da feijoada?
-> **Tom:** Estava deliciosa! Eu nunca tinha comido feijoada antes, é uma experiência nova para mim.
-> **Garçom:** E a senhora, o que achou do açaí?
-> **Sarah:** Adorei! É bem doce, mas também tem uma textura cremosa interessante. Eu já tinha provado açaí em casa, mas esse aqui é mais autêntico.
-> **Garçom:** E a moqueca, como estava?
-> **Tom:** Estava saborosa, um pouco picante, mas no ponto certo. O peixe estava bem fresco.
-> **Garçom:** Que bom que gostaram! É um prato bem tradicional da Bahia.
+**Garçom:** - E então, o que acharam da feijoada?
+
+**Tom:** - Estava deliciosa! Eu nunca tinha comido feijoada antes, é uma experiência nova para mim.
+
+**Garçom:** - E a senhora, o que achou do açaí?
+
+**Sarah:** - Adorei! É bem doce, mas também tem uma textura cremosa interessante. Eu já tinha provado açaí em casa, mas esse aqui é mais autêntico.
+
+**Garçom:** - E a moqueca, como estava?
+
+**Tom:** - Estava saborosa, um pouco picante, mas no ponto certo. O peixe estava bem fresco.
+
+**Garçom:** - Que bom que gostaram! É um prato bem tradicional da Bahia.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -87,10 +94,14 @@
 
 ## 6. Listening — Script e Perguntas
 
-> **Entrevistador:** Qual foi a comida brasileira que mais te surpreendeu?
-> **Lukas:** Com certeza o açaí. Eu nunca tinha provado nada parecido antes de vir ao Brasil — a textura é cremosa, mas o sabor não é tão doce quanto eu esperava. Também adorei a moqueca capixaba, estava super saborosa e no ponto certo de pimenta.
-> **Entrevistador:** E teve algo que você não gostou?
-> **Lukas:** O café brasileiro puro é muito amargo para mim, eu prefiro com leite.
+**Entrevistador:** - Qual foi a comida brasileira que mais te surpreendeu?
+
+**Lukas:** - Com certeza o açaí. Eu nunca tinha provado nada parecido antes de vir ao Brasil — a textura é cremosa, mas o sabor não é tão doce quanto eu esperava. Também adorei a moqueca capixaba, estava super saborosa e no ponto certo de pimenta.
+
+**Entrevistador:** - E teve algo que você não gostou?
+
+**Lukas:** - O café brasileiro puro é muito amargo para mim, eu prefiro com leite.
+
 
 **Perguntas:**
 1. Qual comida mais surpreendeu Lukas? → **O açaí**

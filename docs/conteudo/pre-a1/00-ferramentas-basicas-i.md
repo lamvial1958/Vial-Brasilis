@@ -6,13 +6,20 @@
 
 **Cena:** balcão de uma pousada, antes do check-in oficial — o atendente confirma o nome letra por letra (o sistema não aceita acentos) e mostra o preço da diária e a previsão do tempo.
 
-> **Atendente:** Pode soletrar seu nome para mim, por favor?
-> **Tom:** Pode, sim. T-O-M.
-> **Atendente:** T, O, M. Perfeito. E o sobrenome?
-> **Tom:** Smith. S-M-I-T-H.
-> **Atendente:** Ótimo. A diária aqui é cento e vinte reais, ou cento e dez vírgula cinquenta se pagar em dinheiro.
-> **Tom:** Entendi. E qual é a temperatura hoje?
-> **Atendente:** Está fazendo vinte e três graus, bem agradável.
+**Atendente:** - Pode soletrar seu nome para mim, por favor?
+
+**Tom:** - Pode, sim. T-O-M.
+
+**Atendente:** - T, O, M. Perfeito. E o sobrenome?
+
+**Tom:** - Smith. S-M-I-T-H.
+
+**Atendente:** - Ótimo. A diária aqui é cento e vinte reais, ou cento e dez vírgula cinquenta se pagar em dinheiro.
+
+**Tom:** - Entendi. E qual é a temperatura hoje?
+
+**Atendente:** - Está fazendo vinte e três graus, bem agradável.
+
 
 **Quadro funcional (expressões para memorizar):**
 | Função | Fórmula |
@@ -97,11 +104,16 @@ distância entre duas cidades → **quilômetro** · peso de uma maçã → **gr
 
 ## 8. Listening — Script e Perguntas
 
-> **Atendente:** Qual é o seu e-mail, para eu confirmar a reserva?
-> **Sofia:** sofia, S-O-F-I-A, ponto, lima, L-I-M-A, arroba, e-mail ponto com.
-> **Atendente:** Perfeito. E são duzentos e quinze reais a diária, certo?
-> **Sofia:** Isso, duzentos e quinze.
-> **Atendente:** E uma última coisa: a previsão é de quinze graus à noite, então leve um casaco.
+**Atendente:** - Qual é o seu e-mail, para eu confirmar a reserva?
+
+**Sofia:** - sofia, S-O-F-I-A, ponto, lima, L-I-M-A, arroba, e-mail ponto com.
+
+**Atendente:** - Perfeito. E são duzentos e quinze reais a diária, certo?
+
+**Sofia:** - Isso, duzentos e quinze.
+
+**Atendente:** - E uma última coisa: a previsão é de quinze graus à noite, então leve um casaco.
+
 
 **Perguntas:**
 1. Quanto custa a diária? → **Duzentos e quinze reais**

@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — farmácia:**\n> **Tom:** Boa tarde. Eu não estou me sentindo bem.\n> **Farmacêutica:** O que você está sentindo?\n> **Tom:** Estou com dor de garganta e um pouco de tosse.\n> **Farmacêutica:** Você está com febre também?\n> **Tom:** Não, acho que não. Só estou com o nariz entupido.\n> **Farmacêutica:** Parece um resfriado. Vou te dar um xarope e um remédio para a garganta.\n> **Tom:** Obrigado. Quanto custa?\n> **Farmacêutica:** São vinte e cinco reais.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer que não está bem | Eu não estou me sentindo bem. |\n| Descrever sintoma | Estou com dor de/em... / Estou com... (tosse, febre) |\n| Perguntar sintoma | O que você está sentindo? |\n| Receber recomendação | Vou te dar... / Parece (ser)... |"
+      "markdown": "**Cena — farmácia:**\n**Tom:** - Boa tarde. Eu não estou me sentindo bem.\n\n**Farmacêutica:** - O que você está sentindo?\n\n**Tom:** - Estou com dor de garganta e um pouco de tosse.\n\n**Farmacêutica:** - Você está com febre também?\n\n**Tom:** - Não, acho que não. Só estou com o nariz entupido.\n\n**Farmacêutica:** - Parece um resfriado. Vou te dar um xarope e um remédio para a garganta.\n\n**Tom:** - Obrigado. Quanto custa?\n\n**Farmacêutica:** - São vinte e cinco reais.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer que não está bem | Eu não estou me sentindo bem. |\n| Descrever sintoma | Estou com dor de/em... / Estou com... (tosse, febre) |\n| Perguntar sintoma | O que você está sentindo? |\n| Receber recomendação | Vou te dar... / Parece (ser)... |"
     },
     {
       "ordem": 2,
@@ -35,7 +35,7 @@
     {
       "ordem": 6,
       "titulo": "Listening — Script e Perguntas",
-      "markdown": "> **Atendente (posto de saúde):** O que você está sentindo?\n> **Sofia:** Eu estou com dor nas costas desde ontem, e também um pouco de dor de cabeça.\n> **Atendente:** Você está com febre?\n> **Sofia:** Não, sem febre. Só a dor mesmo.\n> **Atendente:** Vou te indicar um analgésico e recomendar descanso.\n\n**Perguntas:**\n1. Onde Sofia sente dor? → **Nas costas e na cabeça**\n2. Desde quando? → **Desde ontem**\n3. Ela está com febre? → **Não**"
+      "markdown": "**Atendente (posto de saúde):** - O que você está sentindo?\n\n**Sofia:** - Eu estou com dor nas costas desde ontem, e também um pouco de dor de cabeça.\n\n**Atendente:** - Você está com febre?\n\n**Sofia:** - Não, sem febre. Só a dor mesmo.\n\n**Atendente:** - Vou te indicar um analgésico e recomendar descanso.\n\n\n**Perguntas:**\n1. Onde Sofia sente dor? → **Nas costas e na cabeça**\n2. Desde quando? → **Desde ontem**\n3. Ela está com febre? → **Não**"
     },
     {
       "ordem": 7,

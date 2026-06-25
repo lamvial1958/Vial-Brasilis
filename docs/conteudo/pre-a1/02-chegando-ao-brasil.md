@@ -3,20 +3,32 @@
 ## 1. Diálogo de Abertura
 
 **Cena 1 — Imigração:**
-> **Agente:** Bom dia. Passaporte, por favor.
-> **Tom:** Bom dia. Aqui está.
-> **Agente:** É a primeira vez no Brasil?
-> **Tom:** Sim, é a primeira vez.
-> **Agente:** Quanto tempo você vai ficar?
-> **Tom:** Eu vou ficar duas semanas.
-> **Agente:** Tudo certo. Boa viagem!
-> **Tom:** Obrigado!
+**Agente:** - Bom dia. Passaporte, por favor.
+
+**Tom:** - Bom dia. Aqui está.
+
+**Agente:** - É a primeira vez no Brasil?
+
+**Tom:** - Sim, é a primeira vez.
+
+**Agente:** - Quanto tempo você vai ficar?
+
+**Tom:** - Eu vou ficar duas semanas.
+
+**Agente:** - Tudo certo. Boa viagem!
+
+**Tom:** - Obrigado!
+
 
 **Cena 2 — Táxi/app de transporte:**
-> **Tom:** Boa tarde. Para o Hotel Central, por favor.
-> **Motorista:** Tudo bem. É perto do centro?
-> **Tom:** Sim, é perto do centro. Pode seguir em frente e virar à direita, por favor?
-> **Motorista:** Pode deixar! Vou seguir em frente e virar à direita.
+**Tom:** - Boa tarde. Para o Hotel Central, por favor.
+
+**Motorista:** - Tudo bem. É perto do centro?
+
+**Tom:** - Sim, é perto do centro. Pode seguir em frente e virar à direita, por favor?
+
+**Motorista:** - Pode deixar! Vou seguir em frente e virar à direita.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -60,13 +72,20 @@ rua(**forte**) · carro(**forte**) · primeira(**fraco**) · direita(**fraco**) 
 
 ## 5. Listening — Script e Perguntas
 
-> **Agente:** Boa tarde. Passaporte, por favor.
-> **Sofia:** Boa tarde. Aqui está.
-> **Agente:** É a primeira vez no Brasil?
-> **Sofia:** Não, é a segunda vez.
-> **Agente:** Quanto tempo você vai ficar?
-> **Sofia:** Eu vou ficar um mês.
-> **Agente:** Tudo certo. Boa estadia!
+**Agente:** - Boa tarde. Passaporte, por favor.
+
+**Sofia:** - Boa tarde. Aqui está.
+
+**Agente:** - É a primeira vez no Brasil?
+
+**Sofia:** - Não, é a segunda vez.
+
+**Agente:** - Quanto tempo você vai ficar?
+
+**Sofia:** - Eu vou ficar um mês.
+
+**Agente:** - Tudo certo. Boa estadia!
+
 
 **Perguntas:**
 1. É a primeira vez de Sofia no Brasil? → **Não, é a segunda vez**

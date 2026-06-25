@@ -5,15 +5,24 @@
 ## 1. Diálogo de Abertura
 
 **Cena — atendimento numa agência bancária:**
-> **Atendente:** Bom dia! Em que posso ajudar?
-> **Cliente:** Bom dia. Eu gostaria de abrir uma conta corrente.
-> **Atendente:** Sem problema. Você tem CPF e comprovante de residência?
-> **Cliente:** Tenho sim, aqui estão os documentos.
-> **Atendente:** Perfeito. Seria possível preencher este formulário, por favor?
-> **Cliente:** Claro. É só assinar no final?
-> **Atendente:** Sim, e depois eu preciso de uma foto sua para o cadastro. Aqui está o seu protocolo de atendimento.
-> **Cliente:** Obrigado. Quanto tempo demora para a conta ficar pronta?
-> **Atendente:** Em até cinco dias úteis, você recebe o cartão em casa.
+**Atendente:** - Bom dia! Em que posso ajudar?
+
+**Cliente:** - Bom dia. Eu gostaria de abrir uma conta corrente.
+
+**Atendente:** - Sem problema. Você tem CPF e comprovante de residência?
+
+**Cliente:** - Tenho sim, aqui estão os documentos.
+
+**Atendente:** - Perfeito. Seria possível preencher este formulário, por favor?
+
+**Cliente:** - Claro. É só assinar no final?
+
+**Atendente:** - Sim, e depois eu preciso de uma foto sua para o cadastro. Aqui está o seu protocolo de atendimento.
+
+**Cliente:** - Obrigado. Quanto tempo demora para a conta ficar pronta?
+
+**Atendente:** - Em até cinco dias úteis, você recebe o cartão em casa.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -78,13 +87,20 @@ Depois de preencher o ___, guarde o número do ___ para acompanhar seu atendimen
 
 ## 6. Listening — Script e Perguntas
 
-> **Atendente dos Correios:** Bom dia! Em que posso ajudar?
-> **Cliente:** Bom dia. Eu gostaria de retirar uma encomenda.
-> **Atendente:** Você tem o código de rastreamento e um documento com foto?
-> **Cliente:** Tenho sim, aqui está.
-> **Atendente:** Seria possível assinar aqui para confirmar o recebimento?
-> **Cliente:** Claro. Pronto.
-> **Atendente:** Perfeito, aqui está sua encomenda. Tenha um bom dia!
+**Atendente dos Correios:** - Bom dia! Em que posso ajudar?
+
+**Cliente:** - Bom dia. Eu gostaria de retirar uma encomenda.
+
+**Atendente:** - Você tem o código de rastreamento e um documento com foto?
+
+**Cliente:** - Tenho sim, aqui está.
+
+**Atendente:** - Seria possível assinar aqui para confirmar o recebimento?
+
+**Cliente:** - Claro. Pronto.
+
+**Atendente:** - Perfeito, aqui está sua encomenda. Tenha um bom dia!
+
 
 **Perguntas:**
 1. O que o cliente quer fazer? → **Retirar uma encomenda**

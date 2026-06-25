@@ -5,14 +5,22 @@
 ## 1. Diálogo de Abertura
 
 **Cena — farmácia:**
-> **Tom:** Boa tarde. Eu não estou me sentindo bem.
-> **Farmacêutica:** O que você está sentindo?
-> **Tom:** Estou com dor de garganta e um pouco de tosse.
-> **Farmacêutica:** Você está com febre também?
-> **Tom:** Não, acho que não. Só estou com o nariz entupido.
-> **Farmacêutica:** Parece um resfriado. Vou te dar um xarope e um remédio para a garganta.
-> **Tom:** Obrigado. Quanto custa?
-> **Farmacêutica:** São vinte e cinco reais.
+**Tom:** - Boa tarde. Eu não estou me sentindo bem.
+
+**Farmacêutica:** - O que você está sentindo?
+
+**Tom:** - Estou com dor de garganta e um pouco de tosse.
+
+**Farmacêutica:** - Você está com febre também?
+
+**Tom:** - Não, acho que não. Só estou com o nariz entupido.
+
+**Farmacêutica:** - Parece um resfriado. Vou te dar um xarope e um remédio para a garganta.
+
+**Tom:** - Obrigado. Quanto custa?
+
+**Farmacêutica:** - São vinte e cinco reais.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -68,11 +76,16 @@ eu ___ (me sinto) · ele ___ (se sente) · nós ___ (nos sentimos)
 
 ## 6. Listening — Script e Perguntas
 
-> **Atendente (posto de saúde):** O que você está sentindo?
-> **Sofia:** Eu estou com dor nas costas desde ontem, e também um pouco de dor de cabeça.
-> **Atendente:** Você está com febre?
-> **Sofia:** Não, sem febre. Só a dor mesmo.
-> **Atendente:** Vou te indicar um analgésico e recomendar descanso.
+**Atendente (posto de saúde):** - O que você está sentindo?
+
+**Sofia:** - Eu estou com dor nas costas desde ontem, e também um pouco de dor de cabeça.
+
+**Atendente:** - Você está com febre?
+
+**Sofia:** - Não, sem febre. Só a dor mesmo.
+
+**Atendente:** - Vou te indicar um analgésico e recomendar descanso.
+
 
 **Perguntas:**
 1. Onde Sofia sente dor? → **Nas costas e na cabeça**

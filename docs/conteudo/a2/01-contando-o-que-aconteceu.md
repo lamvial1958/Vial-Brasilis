@@ -5,13 +5,20 @@
 ## 1. Diálogo de Abertura
 
 **Cena — segunda-feira de manhã, dois colegas de curso de português se encontram:**
-> **Bruno:** Oi, Sarah! Como foi o seu fim de semana?
-> **Sarah:** Foi ótimo! Sábado eu visitei o Mercado Municipal com uma amiga. Nós compramos frutas e provamos um pastel de feira.
-> **Bruno:** Que legal! E domingo?
-> **Sarah:** Domingo eu descansei de manhã. À tarde eu caminhei na praia e depois jantei numa churrascaria.
-> **Bruno:** Eu também caminhei na praia! Mas eu não comi churrasco, eu cozinhei em casa.
-> **Sarah:** E você, o que mais você fez?
-> **Bruno:** Eu liguei para minha família no Canadá e conversamos por uma hora.
+**Bruno:** - Oi, Sarah! Como foi o seu fim de semana?
+
+**Sarah:** - Foi ótimo! Sábado eu visitei o Mercado Municipal com uma amiga. Nós compramos frutas e provamos um pastel de feira.
+
+**Bruno:** - Que legal! E domingo?
+
+**Sarah:** - Domingo eu descansei de manhã. À tarde eu caminhei na praia e depois jantei numa churrascaria.
+
+**Bruno:** - Eu também caminhei na praia! Mas eu não comi churrasco, eu cozinhei em casa.
+
+**Sarah:** - E você, o que mais você fez?
+
+**Bruno:** - Eu liguei para minha família no Canadá e conversamos por uma hora.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -86,10 +93,14 @@ Quando você visitou o Mercado Municipal? (sábado) → **Eu visitei o Mercado M
 
 ## 6. Listening — Script e Perguntas
 
-> **Apresentadora:** E você, Marco, como foi o seu fim de semana?
-> **Marco:** Foi tranquilo. Sexta à noite eu saí com amigos e voltei tarde. Sábado eu dormi até meio-dia! De tarde eu limpei a casa e à noite assisti um filme. Domingo eu visitei meus pais e almocei com eles.
-> **Apresentadora:** Você descansou bastante, então.
-> **Marco:** Descansei sim, foi um bom fim de semana.
+**Apresentadora:** - E você, Marco, como foi o seu fim de semana?
+
+**Marco:** - Foi tranquilo. Sexta à noite eu saí com amigos e voltei tarde. Sábado eu dormi até meio-dia! De tarde eu limpei a casa e à noite assisti um filme. Domingo eu visitei meus pais e almocei com eles.
+
+**Apresentadora:** - Você descansou bastante, então.
+
+**Marco:** - Descansei sim, foi um bom fim de semana.
+
 
 **Perguntas:**
 1. O que Marco fez na sexta à noite? → **Saiu com amigos e voltou tarde**

@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena 1 — Perdido na rua:**\n> **Tom:** Com licença, eu estou perdido. Você pode me ajudar?\n> **Pessoa:** Claro! Para onde você quer ir?\n> **Tom:** Eu preciso ir para a Rua das Flores.\n> **Pessoa:** Ah, é fácil. Siga em frente e vire à esquerda.\n> **Tom:** Muito obrigado!\n\n**Cena 2 — Mal-estar leve:**\n> **Tom:** Desculpa, eu estou mal. Eu preciso de ajuda.\n> **Pessoa:** O que você está sentindo?\n> **Tom:** Estou com dor de cabeça e um pouco de febre.\n> **Pessoa:** Vamos chamar uma ambulância? Ou você quer ir a uma farmácia?\n> **Tom:** Uma farmácia está bem, obrigado.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer que está perdido | Eu estou perdido(a). |\n| Pedir ajuda | Você pode me ajudar? / Eu preciso de ajuda. |\n| Descrever mal-estar | Estou mal. / Estou com dor de... |\n| Emergência grave | Socorro! |\n| Números de emergência | 190 (polícia) · 192 (ambulância/SAMU) · 193 (bombeiros) |"
+      "markdown": "**Cena 1 — Perdido na rua:**\n**Tom:** - Com licença, eu estou perdido. Você pode me ajudar?\n\n**Pessoa:** - Claro! Para onde você quer ir?\n\n**Tom:** - Eu preciso ir para a Rua das Flores.\n\n**Pessoa:** - Ah, é fácil. Siga em frente e vire à esquerda.\n\n**Tom:** - Muito obrigado!\n\n\n**Cena 2 — Mal-estar leve:**\n**Tom:** - Desculpa, eu estou mal. Eu preciso de ajuda.\n\n**Pessoa:** - O que você está sentindo?\n\n**Tom:** - Estou com dor de cabeça e um pouco de febre.\n\n**Pessoa:** - Vamos chamar uma ambulância? Ou você quer ir a uma farmácia?\n\n**Tom:** - Uma farmácia está bem, obrigado.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer que está perdido | Eu estou perdido(a). |\n| Pedir ajuda | Você pode me ajudar? / Eu preciso de ajuda. |\n| Descrever mal-estar | Estou mal. / Estou com dor de... |\n| Emergência grave | Socorro! |\n| Números de emergência | 190 (polícia) · 192 (ambulância/SAMU) · 193 (bombeiros) |"
     },
     {
       "ordem": 2,
@@ -30,7 +30,7 @@
     {
       "ordem": 5,
       "titulo": "Listening — Script e Perguntas",
-      "markdown": "> **Sofia:** Com licença, eu estou perdida. Onde tem uma farmácia?\n> **Pessoa:** Tem uma farmácia ali, perto do mercado.\n> **Sofia:** É longe?\n> **Pessoa:** Não, é perto. Cinco minutos a pé.\n> **Sofia:** Muito obrigada!\n\n**Perguntas:**\n1. O que Sofia está procurando? → **Uma farmácia**\n2. É longe ou perto? → **Perto, cinco minutos a pé**"
+      "markdown": "**Sofia:** - Com licença, eu estou perdida. Onde tem uma farmácia?\n\n**Pessoa:** - Tem uma farmácia ali, perto do mercado.\n\n**Sofia:** - É longe?\n\n**Pessoa:** - Não, é perto. Cinco minutos a pé.\n\n**Sofia:** - Muito obrigada!\n\n\n**Perguntas:**\n1. O que Sofia está procurando? → **Uma farmácia**\n2. É longe ou perto? → **Perto, cinco minutos a pé**"
     },
     {
       "ordem": 6,

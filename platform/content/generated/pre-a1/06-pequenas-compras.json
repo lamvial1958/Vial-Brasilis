@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena 1 — Mercado:**\n> **Tom:** Bom dia. Tem pão aqui?\n> **Atendente:** Tem, sim. Está ali, na segunda fileira.\n> **Tom:** Quanto é o pão?\n> **Atendente:** É quatro reais.\n> **Tom:** Eu queria dois pães, por favor.\n> **Atendente:** São oito reais. Mais alguma coisa?\n> **Tom:** Não, só isso. Aqui está o dinheiro.\n> **Atendente:** Aqui está o seu troco. Obrigado pela compra!\n\n**Cena 2 — Farmácia:**\n> **Tom:** Boa tarde. Vocês têm escova de dente?\n> **Farmacêutico:** Temos, sim. Aqui está.\n> **Tom:** Quanto custa?\n> **Farmacêutico:** Custa sete reais.\n> **Tom:** Obrigado. Tchau!\n\n**Quadro funcional (revisão consolidada do nível):** Tem...? · Quanto é/custa? · Eu queria... · Aqui está · Pode me dar troco? · Obrigado/De nada"
+      "markdown": "**Cena 1 — Mercado:**\n**Tom:** - Bom dia. Tem pão aqui?\n\n**Atendente:** - Tem, sim. Está ali, na segunda fileira.\n\n**Tom:** - Quanto é o pão?\n\n**Atendente:** - É quatro reais.\n\n**Tom:** - Eu queria dois pães, por favor.\n\n**Atendente:** - São oito reais. Mais alguma coisa?\n\n**Tom:** - Não, só isso. Aqui está o dinheiro.\n\n**Atendente:** - Aqui está o seu troco. Obrigado pela compra!\n\n\n**Cena 2 — Farmácia:**\n**Tom:** - Boa tarde. Vocês têm escova de dente?\n\n**Farmacêutico:** - Temos, sim. Aqui está.\n\n**Tom:** - Quanto custa?\n\n**Farmacêutico:** - Custa sete reais.\n\n**Tom:** - Obrigado. Tchau!\n\n\n**Quadro funcional (revisão consolidada do nível):** Tem...? · Quanto é/custa? · Eu queria... · Aqui está · Pode me dar troco? · Obrigado/De nada"
     },
     {
       "ordem": 2,
@@ -30,7 +30,7 @@
     {
       "ordem": 5,
       "titulo": "Listening — Script e Perguntas",
-      "markdown": "> **Sofia:** Boa tarde. Tem leite aqui?\n> **Atendente:** Tem, sim. Custa cinco reais.\n> **Sofia:** Eu queria dois, por favor. E também uma fruta, essa maçã.\n> **Atendente:** São doze reais no total.\n> **Sofia:** Aqui está. Pode me dar troco?\n> **Atendente:** Claro, aqui está seu troco de três reais.\n\n**Perguntas:**\n1. Quanto custa um leite? → **Cinco reais**\n2. Quanto Sofia pagou no total? → **Doze reais**"
+      "markdown": "**Sofia:** - Boa tarde. Tem leite aqui?\n\n**Atendente:** - Tem, sim. Custa cinco reais.\n\n**Sofia:** - Eu queria dois, por favor. E também uma fruta, essa maçã.\n\n**Atendente:** - São doze reais no total.\n\n**Sofia:** - Aqui está. Pode me dar troco?\n\n**Atendente:** - Claro, aqui está seu troco de três reais.\n\n\n**Perguntas:**\n1. Quanto custa um leite? → **Cinco reais**\n2. Quanto Sofia pagou no total? → **Doze reais**"
     },
     {
       "ordem": 6,

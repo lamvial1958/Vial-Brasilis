@@ -5,11 +5,16 @@
 ## 1. Diálogo de Abertura
 
 **Cena — debate guiado sobre transporte urbano:**
-> **Moderador:** O tema de hoje é: o transporte público nas grandes cidades deveria ser gratuito?
-> **Aluna 1:** Eu defendo que sim. Embora seja caro para o governo, os benefícios sociais compensam — menos carros, menos poluição, mais acesso para quem ganha pouco.
-> **Aluno 2:** Entendo o ponto, mas discordo. Mesmo que a ideia seja boa, não acho viável sem aumentar muito os impostos. Talvez funcione em cidades pequenas, mas não em metrópoles.
-> **Aluna 1:** Ainda que existam custos altos, acho que investir nisso traz retorno a longo prazo, em saúde pública e produtividade.
-> **Moderador:** Ótimos pontos. Vamos ouvir mais opiniões.
+**Moderador:** - O tema de hoje é: o transporte público nas grandes cidades deveria ser gratuito?
+
+**Aluna 1:** - Eu defendo que sim. Embora seja caro para o governo, os benefícios sociais compensam — menos carros, menos poluição, mais acesso para quem ganha pouco.
+
+**Aluno 2:** - Entendo o ponto, mas discordo. Mesmo que a ideia seja boa, não acho viável sem aumentar muito os impostos. Talvez funcione em cidades pequenas, mas não em metrópoles.
+
+**Aluna 1:** - Ainda que existam custos altos, acho que investir nisso traz retorno a longo prazo, em saúde pública e produtividade.
+
+**Moderador:** - Ótimos pontos. Vamos ouvir mais opiniões.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -89,9 +94,12 @@
 ## 6. Som & Compreensão — Trecho de Debate
 
 > **Podcast de opinião (estímulo):**
-> **Participante A:** Acho que a educação ambiental deveria ser obrigatória nas escolas desde os primeiros anos. Embora exija mudança no currículo, o impacto a longo prazo é enorme.
-> **Participante B:** Entendo o ponto, mas discordo da obrigatoriedade total. Mesmo que o tema seja importante, talvez funcione melhor como projeto extracurricular do que como matéria fixa.
-> **Participante A:** Ainda que existam dificuldades de implementação, acho que sem obrigatoriedade o tema fica marginalizado.
+**Participante A:** - Acho que a educação ambiental deveria ser obrigatória nas escolas desde os primeiros anos. Embora exija mudança no currículo, o impacto a longo prazo é enorme.
+
+**Participante B:** - Entendo o ponto, mas discordo da obrigatoriedade total. Mesmo que o tema seja importante, talvez funcione melhor como projeto extracurricular do que como matéria fixa.
+
+**Participante A:** - Ainda que existam dificuldades de implementação, acho que sem obrigatoriedade o tema fica marginalizado.
+
 
 **Perguntas:**
 1. Qual é a posição do Participante A? → **Educação ambiental obrigatória desde os primeiros anos**

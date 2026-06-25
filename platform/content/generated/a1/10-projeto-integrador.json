@@ -35,7 +35,7 @@
     {
       "ordem": 6,
       "titulo": "Listening de Revisão",
-      "markdown": "> **Marco:** Oi! Eu sou o Marco, italiano, quarenta anos, cozinheiro. Moro com minha esposa num apartamento perto do centro. Eu trabalho num restaurante e, no fim de semana, adoro ir à praia. Amanhã eu vou fazer um jantar especial para uns amigos.\n\n**Perguntas:**\n1. Qual é a profissão de Marco? → **Cozinheiro**\n2. O que ele adora fazer no fim de semana? → **Ir à praia**\n3. O que ele vai fazer amanhã? → **Um jantar especial para amigos**"
+      "markdown": "**Marco:** - Oi! Eu sou o Marco, italiano, quarenta anos, cozinheiro. Moro com minha esposa num apartamento perto do centro. Eu trabalho num restaurante e, no fim de semana, adoro ir à praia. Amanhã eu vou fazer um jantar especial para uns amigos.\n\n\n**Perguntas:**\n1. Qual é a profissão de Marco? → **Cozinheiro**\n2. O que ele adora fazer no fim de semana? → **Ir à praia**\n3. O que ele vai fazer amanhã? → **Um jantar especial para amigos**"
     },
     {
       "ordem": 7,

@@ -5,12 +5,18 @@
 ## 1. Diálogo de Abertura
 
 **Cena — simulação da parte oral do exame:**
-> **Entrevistador:** Bom dia! Vamos começar. Pode falar um pouco sobre você e o que te trouxe ao Brasil?
-> **Candidato:** Bom dia! Então, eu vim para o Brasil há dois anos, por motivo de trabalho. Quer dizer, na verdade, eu já queria morar aqui antes disso, o trabalho só foi a oportunidade que faltava.
-> **Entrevistador:** Entendi. E como tem sido a adaptação?
-> **Candidato:** Olha, deixa eu pensar... Foi desafiador no início, mas hoje eu diria que tem sido uma experiência muito positiva.
-> **Entrevistador:** Desculpa, você pode repetir a última parte? Não entendi bem.
-> **Candidato:** Claro, sem problema. Eu disse que, hoje, considero a experiência muito positiva, apesar das dificuldades do início.
+**Entrevistador:** - Bom dia! Vamos começar. Pode falar um pouco sobre você e o que te trouxe ao Brasil?
+
+**Candidato:** - Bom dia! Então, eu vim para o Brasil há dois anos, por motivo de trabalho. Quer dizer, na verdade, eu já queria morar aqui antes disso, o trabalho só foi a oportunidade que faltava.
+
+**Entrevistador:** - Entendi. E como tem sido a adaptação?
+
+**Candidato:** - Olha, deixa eu pensar... Foi desafiador no início, mas hoje eu diria que tem sido uma experiência muito positiva.
+
+**Entrevistador:** - Desculpa, você pode repetir a última parte? Não entendi bem.
+
+**Candidato:** - Claro, sem problema. Eu disse que, hoje, considero a experiência muito positiva, apesar das dificuldades do início.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -74,10 +80,14 @@
 
 ## 6. Som & Compreensão — Modelo de Entrevista Simulada
 
-> **Entrevistador:** Me conta, qual foi o maior desafio que você enfrentou desde que chegou ao Brasil?
-> **Candidata:** Olha, deixa eu pensar... Eu diria que foi a burocracia, na verdade, mais especificamente abrir uma conta bancária. Quer dizer, não foi só isso, mas foi o que mais me frustrou no início.
-> **Entrevistador:** Entendi. E isso já melhorou?
-> **Candidata:** Bastante! Hoje eu já entendo melhor como as coisas funcionam aqui.
+**Entrevistador:** - Me conta, qual foi o maior desafio que você enfrentou desde que chegou ao Brasil?
+
+**Candidata:** - Olha, deixa eu pensar... Eu diria que foi a burocracia, na verdade, mais especificamente abrir uma conta bancária. Quer dizer, não foi só isso, mas foi o que mais me frustrou no início.
+
+**Entrevistador:** - Entendi. E isso já melhorou?
+
+**Candidata:** - Bastante! Hoje eu já entendo melhor como as coisas funcionam aqui.
+
 
 **Perguntas:**
 1. Que estratégia a candidata usa para ganhar tempo? → **"Olha, deixa eu pensar..."**

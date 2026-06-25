@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena 1 — Check-in:**\n> **Recepcionista:** Boa tarde! Você tem reserva?\n> **Tom:** Tenho, sim. Em nome de Tom.\n> **Recepcionista:** Perfeito. Aqui está a chave do seu quarto.\n> **Tom:** Obrigado. Qual é o número do quarto?\n> **Recepcionista:** É o quarto 305.\n\n**Cena 2 — Relatando um problema:**\n> **Tom:** Com licença, o chuveiro não funciona.\n> **Recepcionista:** Ah, desculpa! Eu vou resolver isso agora.\n> **Tom:** Também preciso de uma toalha, por favor.\n> **Recepcionista:** Sem problema, eu trago já.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Confirmar reserva | Você tem reserva? / Tenho, sim. / Não, não tenho. |\n| Identificar-se | Em nome de... |\n| Pedir algo que falta | Eu preciso de... |\n| Relatar defeito | ...não funciona |\n| Tranquilizar/resolver | Sem problema / Eu trago já / Eu vou resolver isso |"
+      "markdown": "**Cena 1 — Check-in:**\n**Recepcionista:** - Boa tarde! Você tem reserva?\n\n**Tom:** - Tenho, sim. Em nome de Tom.\n\n**Recepcionista:** - Perfeito. Aqui está a chave do seu quarto.\n\n**Tom:** - Obrigado. Qual é o número do quarto?\n\n**Recepcionista:** - É o quarto 305.\n\n\n**Cena 2 — Relatando um problema:**\n**Tom:** - Com licença, o chuveiro não funciona.\n\n**Recepcionista:** - Ah, desculpa! Eu vou resolver isso agora.\n\n**Tom:** - Também preciso de uma toalha, por favor.\n\n**Recepcionista:** - Sem problema, eu trago já.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Confirmar reserva | Você tem reserva? / Tenho, sim. / Não, não tenho. |\n| Identificar-se | Em nome de... |\n| Pedir algo que falta | Eu preciso de... |\n| Relatar defeito | ...não funciona |\n| Tranquilizar/resolver | Sem problema / Eu trago já / Eu vou resolver isso |"
     },
     {
       "ordem": 2,
@@ -30,7 +30,7 @@
     {
       "ordem": 5,
       "titulo": "Listening — Script e Perguntas",
-      "markdown": "> **Recepcionista:** Boa noite! Você tem reserva?\n> **Sofia:** Tenho, sim. Em nome de Sofia.\n> **Recepcionista:** Aqui está a chave, quarto 210.\n> **Sofia:** Obrigada. Ah, com licença — o wi-fi não funciona no meu quarto.\n> **Recepcionista:** Desculpa! Vou resolver isso agora.\n\n**Perguntas:**\n1. Qual é o número do quarto de Sofia? → **210**\n2. Qual é o problema dela? → **O wi-fi não funciona**"
+      "markdown": "**Recepcionista:** - Boa noite! Você tem reserva?\n\n**Sofia:** - Tenho, sim. Em nome de Sofia.\n\n**Recepcionista:** - Aqui está a chave, quarto 210.\n\n**Sofia:** - Obrigada. Ah, com licença — o wi-fi não funciona no meu quarto.\n\n**Recepcionista:** - Desculpa! Vou resolver isso agora.\n\n\n**Perguntas:**\n1. Qual é o número do quarto de Sofia? → **210**\n2. Qual é o problema dela? → **O wi-fi não funciona**"
     },
     {
       "ordem": 6,

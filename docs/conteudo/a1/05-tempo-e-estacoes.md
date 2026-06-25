@@ -3,12 +3,18 @@
 ## 1. Diálogo de Abertura
 
 **Cena — Tom planeja uma viagem pelo Brasil com a ajuda de Sofia:**
-> **Tom:** Eu vou viajar para o Brasil em julho. Vou para o Rio de Janeiro e depois para o Sul, para Gramado.
-> **Sofia:** Ah, em julho faz frio no Sul! Em Gramado pode fazer até cinco graus.
-> **Tom:** Sério? E no Rio?
-> **Sofia:** No Rio, mesmo em julho, geralmente faz sol e está quente durante o dia.
-> **Tom:** Então eu preciso levar um casaco para Gramado e roupas leves para o Rio.
-> **Sofia:** Isso! E não esqueça um guarda-chuva, porque em julho também chove bastante no Sul.
+**Tom:** - Eu vou viajar para o Brasil em julho. Vou para o Rio de Janeiro e depois para o Sul, para Gramado.
+
+**Sofia:** - Ah, em julho faz frio no Sul! Em Gramado pode fazer até cinco graus.
+
+**Tom:** - Sério? E no Rio?
+
+**Sofia:** - No Rio, mesmo em julho, geralmente faz sol e está quente durante o dia.
+
+**Tom:** - Então eu preciso levar um casaco para Gramado e roupas leves para o Rio.
+
+**Sofia:** - Isso! E não esqueça um guarda-chuva, porque em julho também chove bastante no Sul.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -56,7 +62,8 @@ casaco → frio · óculos de sol → sol · guarda-chuva → chuva
 
 ## 6. Listening — Script e Perguntas
 
-> **Apresentador do tempo:** Boa noite! A previsão para amanhã: em São Paulo, tempo nublado com chance de chuva à tarde, máxima de dezoito graus. Já em Fortaleza, sol o dia todo, máxima de trinta e dois graus.
+**Apresentador do tempo:** - Boa noite! A previsão para amanhã: em São Paulo, tempo nublado com chance de chuva à tarde, máxima de dezoito graus. Já em Fortaleza, sol o dia todo, máxima de trinta e dois graus.
+
 
 **Perguntas:**
 1. Qual a previsão para São Paulo? → **Nublado, chance de chuva, máxima de 18 graus**

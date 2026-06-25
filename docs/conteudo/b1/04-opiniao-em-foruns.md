@@ -5,7 +5,8 @@
 ## 1. Texto de Abertura
 
 **Post original do fórum (estímulo):**
-> **Tema do fórum:** Trabalho remoto: vantagem ou desvantagem para a produtividade?
+**Tema do fórum:** - Trabalho remoto: vantagem ou desvantagem para a produtividade?
+
 
 **Comentário-modelo:**
 > Na minha opinião, o trabalho remoto trouxe mais vantagens do que desvantagens, pelo menos pela minha experiência.

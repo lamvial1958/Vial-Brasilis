@@ -3,17 +3,26 @@
 ## 1. Diálogo de Abertura
 
 **Cena 1 — Check-in:**
-> **Recepcionista:** Boa tarde! Você tem reserva?
-> **Tom:** Tenho, sim. Em nome de Tom.
-> **Recepcionista:** Perfeito. Aqui está a chave do seu quarto.
-> **Tom:** Obrigado. Qual é o número do quarto?
-> **Recepcionista:** É o quarto 305.
+**Recepcionista:** - Boa tarde! Você tem reserva?
+
+**Tom:** - Tenho, sim. Em nome de Tom.
+
+**Recepcionista:** - Perfeito. Aqui está a chave do seu quarto.
+
+**Tom:** - Obrigado. Qual é o número do quarto?
+
+**Recepcionista:** - É o quarto 305.
+
 
 **Cena 2 — Relatando um problema:**
-> **Tom:** Com licença, o chuveiro não funciona.
-> **Recepcionista:** Ah, desculpa! Eu vou resolver isso agora.
-> **Tom:** Também preciso de uma toalha, por favor.
-> **Recepcionista:** Sem problema, eu trago já.
+**Tom:** - Com licença, o chuveiro não funciona.
+
+**Recepcionista:** - Ah, desculpa! Eu vou resolver isso agora.
+
+**Tom:** - Também preciso de uma toalha, por favor.
+
+**Recepcionista:** - Sem problema, eu trago já.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -54,11 +63,16 @@ chave(**sim**) · cama(**não**) · chuveiro(**sim**) · carro(**não**)
 
 ## 5. Listening — Script e Perguntas
 
-> **Recepcionista:** Boa noite! Você tem reserva?
-> **Sofia:** Tenho, sim. Em nome de Sofia.
-> **Recepcionista:** Aqui está a chave, quarto 210.
-> **Sofia:** Obrigada. Ah, com licença — o wi-fi não funciona no meu quarto.
-> **Recepcionista:** Desculpa! Vou resolver isso agora.
+**Recepcionista:** - Boa noite! Você tem reserva?
+
+**Sofia:** - Tenho, sim. Em nome de Sofia.
+
+**Recepcionista:** - Aqui está a chave, quarto 210.
+
+**Sofia:** - Obrigada. Ah, com licença — o wi-fi não funciona no meu quarto.
+
+**Recepcionista:** - Desculpa! Vou resolver isso agora.
+
 
 **Perguntas:**
 1. Qual é o número do quarto de Sofia? → **210**

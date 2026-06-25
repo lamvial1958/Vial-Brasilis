@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — Li explica a Marco como é sua casa, antes da visita:**\n> **Li:** Marco, antes de você vir à minha casa, deixa eu explicar. Eu moro num apartamento pequeno.\n> **Marco:** Quantos quartos tem?\n> **Li:** Tem dois quartos, uma sala, uma cozinha e um banheiro. A cozinha fica ao lado da sala.\n> **Marco:** E tem garagem?\n> **Li:** Não tem garagem, mas tem uma vaga na rua. No meu bairro tem um mercado perto de casa e uma farmácia ao lado do mercado.\n> **Marco:** Perfeito, fácil de chegar então.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer o que existe num lugar | Tem... (dois quartos, um mercado...) |\n| Perguntar quantidade | Quantos/Quantas... tem? |\n| Localizar um cômodo/lugar | ...fica ao lado de / perto de / em frente a... |"
+      "markdown": "**Cena — Li explica a Marco como é sua casa, antes da visita:**\n**Li:** - Marco, antes de você vir à minha casa, deixa eu explicar. Eu moro num apartamento pequeno.\n\n**Marco:** - Quantos quartos tem?\n\n**Li:** - Tem dois quartos, uma sala, uma cozinha e um banheiro. A cozinha fica ao lado da sala.\n\n**Marco:** - E tem garagem?\n\n**Li:** - Não tem garagem, mas tem uma vaga na rua. No meu bairro tem um mercado perto de casa e uma farmácia ao lado do mercado.\n\n**Marco:** - Perfeito, fácil de chegar então.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer o que existe num lugar | Tem... (dois quartos, um mercado...) |\n| Perguntar quantidade | Quantos/Quantas... tem? |\n| Localizar um cômodo/lugar | ...fica ao lado de / perto de / em frente a... |"
     },
     {
       "ordem": 2,
@@ -35,7 +35,7 @@
     {
       "ordem": 6,
       "titulo": "Listening — Script e Perguntas",
-      "markdown": "> **Sofia:** Minha casa tem três quartos, uma sala grande e uma cozinha pequena. O banheiro fica entre os dois primeiros quartos. No bairro, tem um parque em frente à minha casa e uma escola perto, mas não tem padaria por aqui.\n\n**Perguntas:**\n1. Quantos quartos a casa de Sofia tem? → **Três**\n2. Onde fica o banheiro? → **Entre os dois primeiros quartos**\n3. Tem padaria perto? → **Não**"
+      "markdown": "**Sofia:** - Minha casa tem três quartos, uma sala grande e uma cozinha pequena. O banheiro fica entre os dois primeiros quartos. No bairro, tem um parque em frente à minha casa e uma escola perto, mas não tem padaria por aqui.\n\n\n**Perguntas:**\n1. Quantos quartos a casa de Sofia tem? → **Três**\n2. Onde fica o banheiro? → **Entre os dois primeiros quartos**\n3. Tem padaria perto? → **Não**"
     },
     {
       "ordem": 7,

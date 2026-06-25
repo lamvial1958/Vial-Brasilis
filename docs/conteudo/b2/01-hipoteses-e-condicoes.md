@@ -5,13 +5,20 @@
 ## 1. Diálogo de Abertura
 
 **Cena — dois colegas de trabalho discutindo uma decisão de carreira:**
-> **Júlia:** Recebi uma proposta de outra empresa. Não sei se aceito.
-> **Bruno:** Se eu estivesse no seu lugar, eu pensaria com calma antes de decidir. O que te faz hesitar?
-> **Júlia:** Se eu aceitasse, eu ganharia mais, mas teria que mudar de cidade.
-> **Bruno:** E se você não aceitasse? Você se arrependeria?
-> **Júlia:** Talvez. Se eu tivesse certeza de que vou crescer aqui, eu ficaria sem pensar duas vezes.
-> **Bruno:** Então a pergunta real não é sobre dinheiro, é sobre certeza. Se eu fosse você, conversaria com seu chefe atual antes de decidir qualquer coisa.
-> **Júlia:** Boa ideia. Se as coisas não melhorarem aqui, aí sim eu aceitaria a proposta sem culpa.
+**Júlia:** - Recebi uma proposta de outra empresa. Não sei se aceito.
+
+**Bruno:** - Se eu estivesse no seu lugar, eu pensaria com calma antes de decidir. O que te faz hesitar?
+
+**Júlia:** - Se eu aceitasse, eu ganharia mais, mas teria que mudar de cidade.
+
+**Bruno:** - E se você não aceitasse? Você se arrependeria?
+
+**Júlia:** - Talvez. Se eu tivesse certeza de que vou crescer aqui, eu ficaria sem pensar duas vezes.
+
+**Bruno:** - Então a pergunta real não é sobre dinheiro, é sobre certeza. Se eu fosse você, conversaria com seu chefe atual antes de decidir qualquer coisa.
+
+**Júlia:** - Boa ideia. Se as coisas não melhorarem aqui, aí sim eu aceitaria a proposta sem culpa.
+
 
 **Quadro funcional:**
 | Função | Fórmula |

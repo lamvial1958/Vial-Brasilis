@@ -5,12 +5,18 @@
 ## 1. Diálogo de Abertura
 
 **Cena — conselhos a um colega recém-chegado ao Brasil:**
-> **Marco:** Acabei de chegar, ainda tô meio perdido aqui. Você tem algum conselho?
-> **Renata:** Tenho! Primeiro, é importante que você abra uma conta bancária o quanto antes — muita coisa depende disso.
-> **Marco:** Faz sentido. E sobre morar, você recomenda algum bairro?
-> **Renata:** Recomendo que você visite alguns bairros antes de decidir, porque o custo de vida varia muito. Espero que você encontre um lugar que combine com seu orçamento.
-> **Marco:** E sobre o idioma? Acha que eu deveria fazer um curso?
-> **Renata:** Sugiro que você pratique todos os dias, mesmo que seja pouco tempo. Talvez seja difícil no início, mas duvido que você demore muito para se adaptar.
+**Marco:** - Acabei de chegar, ainda tô meio perdido aqui. Você tem algum conselho?
+
+**Renata:** - Tenho! Primeiro, é importante que você abra uma conta bancária o quanto antes — muita coisa depende disso.
+
+**Marco:** - Faz sentido. E sobre morar, você recomenda algum bairro?
+
+**Renata:** - Recomendo que você visite alguns bairros antes de decidir, porque o custo de vida varia muito. Espero que você encontre um lugar que combine com seu orçamento.
+
+**Marco:** - E sobre o idioma? Acha que eu deveria fazer um curso?
+
+**Renata:** - Sugiro que você pratique todos os dias, mesmo que seja pouco tempo. Talvez seja difícil no início, mas duvido que você demore muito para se adaptar.
+
 
 **Quadro funcional:**
 | Função | Fórmula |

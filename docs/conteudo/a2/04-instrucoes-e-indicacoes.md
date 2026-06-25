@@ -5,14 +5,22 @@
 ## 1. Diálogo de Abertura
 
 **Cena — turista perguntando o caminho na rua:**
-> **Turista:** Com licença, como eu chego ao Museu de Arte Moderna?
-> **Morador:** É fácil. Siga em frente até o semáforo, depois vire à direita na Avenida Paulista.
-> **Turista:** Vire à direita na Paulista, entendi.
-> **Morador:** Isso. Depois continue até a segunda rua e vire à esquerda. Não vire na primeira, vire na segunda!
-> **Turista:** Certo, não virar na primeira.
-> **Morador:** Exatamente. O museu fica em direção ao parque, depois da agência bancária. Você não pode perder.
-> **Turista:** Muito obrigado! E quanto tempo demora a pé?
-> **Morador:** Mais ou menos quinze minutos.
+**Turista:** - Com licença, como eu chego ao Museu de Arte Moderna?
+
+**Morador:** - É fácil. Siga em frente até o semáforo, depois vire à direita na Avenida Paulista.
+
+**Turista:** - Vire à direita na Paulista, entendi.
+
+**Morador:** - Isso. Depois continue até a segunda rua e vire à esquerda. Não vire na primeira, vire na segunda!
+
+**Turista:** - Certo, não virar na primeira.
+
+**Morador:** - Exatamente. O museu fica em direção ao parque, depois da agência bancária. Você não pode perder.
+
+**Turista:** - Muito obrigado! E quanto tempo demora a pé?
+
+**Morador:** - Mais ou menos quinze minutos.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -91,10 +99,14 @@
 
 ## 6. Listening — Script e Perguntas
 
-> **Pedestre:** Com licença, como eu chego à estação de metrô mais próxima?
-> **Morador:** Siga em frente por essa rua, atravesse a praça e continue até o final. A estação fica à esquerda, em direção ao shopping. Não vire antes da praça, só depois!
-> **Pedestre:** Entendi. E demora quanto tempo?
-> **Morador:** Uns dez minutos a pé.
+**Pedestre:** - Com licença, como eu chego à estação de metrô mais próxima?
+
+**Morador:** - Siga em frente por essa rua, atravesse a praça e continue até o final. A estação fica à esquerda, em direção ao shopping. Não vire antes da praça, só depois!
+
+**Pedestre:** - Entendi. E demora quanto tempo?
+
+**Morador:** - Uns dez minutos a pé.
+
 
 **Perguntas:**
 1. O que o pedestre precisa atravessar? → **A praça**

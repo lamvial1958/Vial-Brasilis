@@ -5,12 +5,18 @@
 ## 1. Diálogo de Abertura
 
 **Cena — dois amigos decidindo onde passar as férias:**
-> **Ana:** Estou pensando em viajar para o Rio ou para Florianópolis. Qual você acha melhor?
-> **Pedro:** Na minha opinião, Florianópolis é mais tranquila que o Rio. O Rio é mais agitado e tem mais opções de vida noturna.
-> **Ana:** É verdade. Mas o Rio tem praias tão bonitas quanto Floripa, não acha?
-> **Pedro:** Acho que sim, mas eu acho as praias de Floripa mais limpas. E os preços lá são menos altos que no Rio.
-> **Ana:** Então, na sua opinião, qual é o melhor destino para quem quer economizar?
-> **Pedro:** Sem dúvida, Floripa é a melhor opção para economizar. É a cidade mais barata das duas para hospedagem.
+**Ana:** - Estou pensando em viajar para o Rio ou para Florianópolis. Qual você acha melhor?
+
+**Pedro:** - Na minha opinião, Florianópolis é mais tranquila que o Rio. O Rio é mais agitado e tem mais opções de vida noturna.
+
+**Ana:** - É verdade. Mas o Rio tem praias tão bonitas quanto Floripa, não acha?
+
+**Pedro:** - Acho que sim, mas eu acho as praias de Floripa mais limpas. E os preços lá são menos altos que no Rio.
+
+**Ana:** - Então, na sua opinião, qual é o melhor destino para quem quer economizar?
+
+**Pedro:** - Sem dúvida, Floripa é a melhor opção para economizar. É a cidade mais barata das duas para hospedagem.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -95,10 +101,14 @@
 
 ## 6. Listening — Script e Perguntas
 
-> **Locutor:** E aí, qual cidade brasileira você recomendaria para um turista, Beatriz?
-> **Beatriz:** Eu recomendaria Salvador. Na minha opinião, é a cidade mais cultural do Brasil. A comida é tão boa quanto a do Rio, mas eu acho mais autêntica. O custo de vida é menor que em São Paulo, então é mais barato para o turista.
-> **Locutor:** E o que você acha pior em Salvador?
-> **Beatriz:** O trânsito é pior do que eu esperava, mas isso não tira o brilho da cidade.
+**Locutor:** - E aí, qual cidade brasileira você recomendaria para um turista, Beatriz?
+
+**Beatriz:** - Eu recomendaria Salvador. Na minha opinião, é a cidade mais cultural do Brasil. A comida é tão boa quanto a do Rio, mas eu acho mais autêntica. O custo de vida é menor que em São Paulo, então é mais barato para o turista.
+
+**Locutor:** - E o que você acha pior em Salvador?
+
+**Beatriz:** - O trânsito é pior do que eu esperava, mas isso não tira o brilho da cidade.
+
 
 **Perguntas:**
 1. Qual cidade Beatriz recomenda? → **Salvador**

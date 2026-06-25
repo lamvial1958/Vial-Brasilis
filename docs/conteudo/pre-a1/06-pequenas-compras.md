@@ -3,21 +3,34 @@
 ## 1. Diálogo de Abertura
 
 **Cena 1 — Mercado:**
-> **Tom:** Bom dia. Tem pão aqui?
-> **Atendente:** Tem, sim. Está ali, na segunda fileira.
-> **Tom:** Quanto é o pão?
-> **Atendente:** É quatro reais.
-> **Tom:** Eu queria dois pães, por favor.
-> **Atendente:** São oito reais. Mais alguma coisa?
-> **Tom:** Não, só isso. Aqui está o dinheiro.
-> **Atendente:** Aqui está o seu troco. Obrigado pela compra!
+**Tom:** - Bom dia. Tem pão aqui?
+
+**Atendente:** - Tem, sim. Está ali, na segunda fileira.
+
+**Tom:** - Quanto é o pão?
+
+**Atendente:** - É quatro reais.
+
+**Tom:** - Eu queria dois pães, por favor.
+
+**Atendente:** - São oito reais. Mais alguma coisa?
+
+**Tom:** - Não, só isso. Aqui está o dinheiro.
+
+**Atendente:** - Aqui está o seu troco. Obrigado pela compra!
+
 
 **Cena 2 — Farmácia:**
-> **Tom:** Boa tarde. Vocês têm escova de dente?
-> **Farmacêutico:** Temos, sim. Aqui está.
-> **Tom:** Quanto custa?
-> **Farmacêutico:** Custa sete reais.
-> **Tom:** Obrigado. Tchau!
+**Tom:** - Boa tarde. Vocês têm escova de dente?
+
+**Farmacêutico:** - Temos, sim. Aqui está.
+
+**Tom:** - Quanto custa?
+
+**Farmacêutico:** - Custa sete reais.
+
+**Tom:** - Obrigado. Tchau!
+
 
 **Quadro funcional (revisão consolidada do nível):** Tem...? · Quanto é/custa? · Eu queria... · Aqui está · Pode me dar troco? · Obrigado/De nada
 
@@ -48,12 +61,18 @@ Qual tem som nasal? a) pão b) pau → **a** · Qual tem o som "ch" /ʃ/? a) chu
 
 ## 5. Listening — Script e Perguntas
 
-> **Sofia:** Boa tarde. Tem leite aqui?
-> **Atendente:** Tem, sim. Custa cinco reais.
-> **Sofia:** Eu queria dois, por favor. E também uma fruta, essa maçã.
-> **Atendente:** São doze reais no total.
-> **Sofia:** Aqui está. Pode me dar troco?
-> **Atendente:** Claro, aqui está seu troco de três reais.
+**Sofia:** - Boa tarde. Tem leite aqui?
+
+**Atendente:** - Tem, sim. Custa cinco reais.
+
+**Sofia:** - Eu queria dois, por favor. E também uma fruta, essa maçã.
+
+**Atendente:** - São doze reais no total.
+
+**Sofia:** - Aqui está. Pode me dar troco?
+
+**Atendente:** - Claro, aqui está seu troco de três reais.
+
 
 **Perguntas:**
 1. Quanto custa um leite? → **Cinco reais**

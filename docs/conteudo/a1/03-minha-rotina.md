@@ -3,12 +3,18 @@
 ## 1. Diálogo de Abertura
 
 **Cena — Tom compara sua rotina com a do amigo brasileiro Bruno:**
-> **Bruno:** Tom, a que horas você se levanta?
-> **Tom:** Eu me levanto às sete horas. E você?
-> **Bruno:** Eu me levanto às seis e meia. Eu trabalho muito cedo.
-> **Tom:** Entendi. E o que você faz depois do trabalho?
-> **Bruno:** Eu almoço ao meio-dia e depois eu volto para o trabalho. À noite, eu janto às oito e durmo às onze.
-> **Tom:** Eu sempre almoço em casa, mas às vezes eu janto fora.
+**Bruno:** - Tom, a que horas você se levanta?
+
+**Tom:** - Eu me levanto às sete horas. E você?
+
+**Bruno:** - Eu me levanto às seis e meia. Eu trabalho muito cedo.
+
+**Tom:** - Entendi. E o que você faz depois do trabalho?
+
+**Bruno:** - Eu almoço ao meio-dia e depois eu volto para o trabalho. À noite, eu janto às oito e durmo às onze.
+
+**Tom:** - Eu sempre almoço em casa, mas às vezes eu janto fora.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -62,7 +68,8 @@ janta às oito (**3**) · levanta às seis e meia (**1**) · dorme às onze (**4
 
 ## 6. Listening — Script e Perguntas
 
-> **Sofia:** Minha rotina é bem tranquila. Eu me levanto às oito horas e tomo café da manhã. Depois eu estudo até o meio-dia. Eu almoço em casa e, às vezes, descanso um pouco depois. À noite, eu janto às sete e meia e durmo às dez e meia.
+**Sofia:** - Minha rotina é bem tranquila. Eu me levanto às oito horas e tomo café da manhã. Depois eu estudo até o meio-dia. Eu almoço em casa e, às vezes, descanso um pouco depois. À noite, eu janto às sete e meia e durmo às dez e meia.
+
 
 **Perguntas:**
 1. A que horas Sofia se levanta? → **Às oito horas**

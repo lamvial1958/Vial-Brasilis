@@ -7,15 +7,24 @@
 **Cenário:** reunião de trabalho simulada para definir as próximas etapas de um projeto, seguida do e-mail corporativo de follow-up.
 
 **Diálogo — reunião de equipe:**
-> **Gerente:** Bom, vamos à pauta de hoje. Primeiro ponto: o cronograma do projeto.
-> **Ana:** Posso falar sobre isso. Estamos com um atraso de uma semana na entrega da primeira fase.
-> **Gerente:** Entendo. Qual é o motivo do atraso?
-> **Ana:** Tivemos um problema de integração com o fornecedor. Já está sendo resolvido.
-> **Gerente:** Certo. Ficou definido que vamos revisar o prazo final em uma semana, então. Pedro, você pode dar um retorno sobre o orçamento?
-> **Pedro:** Posso. O orçamento está dentro do previsto, mas vamos precisar de aprovação extra se o atraso persistir.
-> **Gerente:** Entendido. Vamos colocar isso em ata. Mais alguma pauta?
-> **Ana:** Só uma sugestão: que tal alinharmos expectativas com o cliente esta semana?
-> **Gerente:** Boa ideia. Combinado, então.
+**Gerente:** - Bom, vamos à pauta de hoje. Primeiro ponto: o cronograma do projeto.
+
+**Ana:** - Posso falar sobre isso. Estamos com um atraso de uma semana na entrega da primeira fase.
+
+**Gerente:** - Entendo. Qual é o motivo do atraso?
+
+**Ana:** - Tivemos um problema de integração com o fornecedor. Já está sendo resolvido.
+
+**Gerente:** - Certo. Ficou definido que vamos revisar o prazo final em uma semana, então. Pedro, você pode dar um retorno sobre o orçamento?
+
+**Pedro:** - Posso. O orçamento está dentro do previsto, mas vamos precisar de aprovação extra se o atraso persistir.
+
+**Gerente:** - Entendido. Vamos colocar isso em ata. Mais alguma pauta?
+
+**Ana:** - Só uma sugestão: que tal alinharmos expectativas com o cliente esta semana?
+
+**Gerente:** - Boa ideia. Combinado, então.
+
 
 **Quadro funcional:**
 | Função | Fórmula |

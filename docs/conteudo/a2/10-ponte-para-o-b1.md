@@ -5,12 +5,18 @@
 ## 1. Diálogo de Abertura
 
 **Cena — contando a história de uma mudança importante:**
-> **Entrevistador:** Conte como foi a decisão de vir morar no Brasil.
-> **Felipe:** Bom, antes eu trabalhava numa empresa de tecnologia em Lisboa. Eu gostava do trabalho, mas sentia que precisava de uma mudança. Um dia eu recebi uma proposta de uma empresa brasileira e decidi aceitar.
-> **Entrevistador:** E como foi a chegada?
-> **Felipe:** Foi intensa. Eu não conhecia ninguém aqui. Nas primeiras semanas eu estava sempre cansado, porque tudo era novo — o idioma, a comida, o clima. Mas pouco a pouco eu fui me adaptando. Fiz um curso de português, conheci colegas de trabalho e, depois de seis meses, já me sentia em casa.
-> **Entrevistador:** Você teve algum momento difícil?
-> **Felipe:** Tive sim. No segundo mês eu fiquei muito doente e estava sozinho, sem família por perto. Foi um momento duro. Mas os colegas me ajudaram muito, e isso mudou minha visão sobre o Brasil.
+**Entrevistador:** - Conte como foi a decisão de vir morar no Brasil.
+
+**Felipe:** - Bom, antes eu trabalhava numa empresa de tecnologia em Lisboa. Eu gostava do trabalho, mas sentia que precisava de uma mudança. Um dia eu recebi uma proposta de uma empresa brasileira e decidi aceitar.
+
+**Entrevistador:** - E como foi a chegada?
+
+**Felipe:** - Foi intensa. Eu não conhecia ninguém aqui. Nas primeiras semanas eu estava sempre cansado, porque tudo era novo — o idioma, a comida, o clima. Mas pouco a pouco eu fui me adaptando. Fiz um curso de português, conheci colegas de trabalho e, depois de seis meses, já me sentia em casa.
+
+**Entrevistador:** - Você teve algum momento difícil?
+
+**Felipe:** - Tive sim. No segundo mês eu fiquei muito doente e estava sozinho, sem família por perto. Foi um momento duro. Mas os colegas me ajudaram muito, e isso mudou minha visão sobre o Brasil.
+
 
 **Quadro funcional (revisão integrada):**
 | Função | Fórmula |

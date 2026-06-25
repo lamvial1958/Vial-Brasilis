@@ -34,7 +34,8 @@ Esta unidade não tem diálogo de abertura nem vocabulário novo: é uma avalia�
 
 ## 4. Simulado — Compreensão Oral Integrada
 
-> **Áudio (script):** "Hoje vamos falar sobre um problema comum em condomínios: os conflitos entre vizinhos. Segundo uma pesquisa recente, mais de 60% dos moradores de apartamentos já tiveram algum tipo de desentendimento, geralmente por ruído ou uso de áreas comuns. Especialistas recomendam que os moradores conversem diretamente antes de recorrer à administração, e sugerem que, quando necessário, o contato formal seja feito por escrito, de forma educada e objetiva."
+**Áudio (script):** - "Hoje vamos falar sobre um problema comum em condomínios: os conflitos entre vizinhos. Segundo uma pesquisa recente, mais de 60% dos moradores de apartamentos já tiveram algum tipo de desentendimento, geralmente por ruído ou uso de áreas comuns. Especialistas recomendam que os moradores conversem diretamente antes de recorrer à administração, e sugerem que, quando necessário, o contato formal seja feito por escrito, de forma educada e objetiva."
+
 
 **Questões de compreensão:**
 1. Qual é o problema discutido no áudio? → **Conflitos entre vizinhos em condomínios**

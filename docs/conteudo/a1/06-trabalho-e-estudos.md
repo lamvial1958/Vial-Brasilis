@@ -3,11 +3,16 @@
 ## 1. Diálogo de Abertura
 
 **Cena — evento de networking:**
-> **Marco:** Oi, eu sou o Marco. Eu trabalho como cozinheiro num restaurante italiano aqui no centro.
-> **Li:** Que interessante! Eu trabalho numa empresa de tecnologia, como engenheira.
-> **Marco:** E você, Tom, ainda dá aulas de inglês?
-> **Tom:** Atualmente não. Eu estou estudando português na faculdade e também estou procurando um emprego de professor aqui no Brasil.
-> **Li:** Boa sorte! Eu trabalho em São Paulo, na Avenida Paulista.
+**Marco:** - Oi, eu sou o Marco. Eu trabalho como cozinheiro num restaurante italiano aqui no centro.
+
+**Li:** - Que interessante! Eu trabalho numa empresa de tecnologia, como engenheira.
+
+**Marco:** - E você, Tom, ainda dá aulas de inglês?
+
+**Tom:** - Atualmente não. Eu estou estudando português na faculdade e também estou procurando um emprego de professor aqui no Brasil.
+
+**Li:** - Boa sorte! Eu trabalho em São Paulo, na Avenida Paulista.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -63,7 +68,8 @@ cozinheiro → restaurante · engenheira → empresa de tecnologia · professor 
 
 ## 6. Listening — Script e Perguntas
 
-> **Sofia:** Olá! Eu sou a Sofia, sou estudante de medicina. Eu estudo numa faculdade em São Paulo e também estou fazendo um estágio num hospital, às terças e quintas.
+**Sofia:** - Olá! Eu sou a Sofia, sou estudante de medicina. Eu estudo numa faculdade em São Paulo e também estou fazendo um estágio num hospital, às terças e quintas.
+
 
 **Perguntas:**
 1. O que Sofia estuda? → **Medicina**

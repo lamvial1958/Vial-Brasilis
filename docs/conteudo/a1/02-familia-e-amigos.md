@@ -3,15 +3,24 @@
 ## 1. Diálogo de Abertura
 
 **Cena — Tom mostra uma foto da família para Li:**
-> **Tom:** Olha, essa é a minha família.
-> **Li:** Que legal! Quem é essa mulher?
-> **Tom:** Essa é a minha mãe. Ela se chama Helen.
-> **Li:** E o homem ao lado dela?
-> **Tom:** É o meu pai, Richard. E essa é a minha irmã, Emma.
-> **Li:** Ela é muito parecida com você!
-> **Tom:** É verdade! Ela é alta e simpática, como eu.
-> **Li:** E quem são essas crianças?
-> **Tom:** São os filhos da minha irmã — meus sobrinhos.
+**Tom:** - Olha, essa é a minha família.
+
+**Li:** - Que legal! Quem é essa mulher?
+
+**Tom:** - Essa é a minha mãe. Ela se chama Helen.
+
+**Li:** - E o homem ao lado dela?
+
+**Tom:** - É o meu pai, Richard. E essa é a minha irmã, Emma.
+
+**Li:** - Ela é muito parecida com você!
+
+**Tom:** - É verdade! Ela é alta e simpática, como eu.
+
+**Li:** - E quem são essas crianças?
+
+**Tom:** - São os filhos da minha irmã — meus sobrinhos.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -63,9 +72,12 @@ filho do meu irmão → **sobrinho** · mãe do meu pai → **avó** · irmão d
 
 ## 6. Listening — Script e Perguntas
 
-> **Marco:** Essa é a minha família. Esse é o meu pai, Giuseppe, e essa é a minha mãe, Anna. Eu tenho dois irmãos: o Paolo, que é alto e muito simpático, e a Giulia, que é baixa.
-> **Entrevistador:** Você é parecido com alguém da família?
-> **Marco:** Sim, eu sou parecido com o meu pai.
+**Marco:** - Essa é a minha família. Esse é o meu pai, Giuseppe, e essa é a minha mãe, Anna. Eu tenho dois irmãos: o Paolo, que é alto e muito simpático, e a Giulia, que é baixa.
+
+**Entrevistador:** - Você é parecido com alguém da família?
+
+**Marco:** - Sim, eu sou parecido com o meu pai.
+
 
 **Perguntas:**
 1. Como se chamam os pais de Marco? → **Giuseppe e Anna**

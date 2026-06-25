@@ -5,15 +5,24 @@
 ## 1. Diálogo de Abertura
 
 **Cena — consulta médica:**
-> **Médico:** Bom dia. O que está sentindo?
-> **Paciente:** Bom dia, doutor. Estou com dor de cabeça forte e um pouco de febre.
-> **Médico:** Desde quando você está com esses sintomas?
-> **Paciente:** Desde ontem. Faz quase dois dias que não durmo bem.
-> **Médico:** Você tem dor em outra parte do corpo?
-> **Paciente:** Tenho sim, dor nas costas e no corpo todo.
-> **Médico:** Entendi. Você precisa descansar bastante e tomar bastante líquido. Eu vou passar um remédio para a febre. Você deveria evitar esforço físico por uns dias.
-> **Paciente:** É melhor eu fazer algum exame?
-> **Médico:** Não é necessário agora. Mas se a febre não baixar em dois dias, é melhor voltar aqui.
+**Médico:** - Bom dia. O que está sentindo?
+
+**Paciente:** - Bom dia, doutor. Estou com dor de cabeça forte e um pouco de febre.
+
+**Médico:** - Desde quando você está com esses sintomas?
+
+**Paciente:** - Desde ontem. Faz quase dois dias que não durmo bem.
+
+**Médico:** - Você tem dor em outra parte do corpo?
+
+**Paciente:** - Tenho sim, dor nas costas e no corpo todo.
+
+**Médico:** - Entendi. Você precisa descansar bastante e tomar bastante líquido. Eu vou passar um remédio para a febre. Você deveria evitar esforço físico por uns dias.
+
+**Paciente:** - É melhor eu fazer algum exame?
+
+**Médico:** - Não é necessário agora. Mas se a febre não baixar em dois dias, é melhor voltar aqui.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -93,13 +102,20 @@
 
 ## 6. Listening — Script e Perguntas
 
-> **Médica:** O que você está sentindo?
-> **Paciente:** Estou com tosse forte e dor de garganta. Faz quatro dias que estou assim.
-> **Médica:** Você tem febre também?
-> **Paciente:** Tive um pouco ontem, mas hoje não.
-> **Médica:** Entendi. Você precisa descansar a voz e tomar bastante líquido morno. É melhor evitar lugares com ar-condicionado por uns dias. Vou passar um remédio para a tosse.
-> **Paciente:** Preciso fazer algum exame?
-> **Médica:** Não por agora. Se não melhorar em uma semana, volte para reavaliarmos.
+**Médica:** - O que você está sentindo?
+
+**Paciente:** - Estou com tosse forte e dor de garganta. Faz quatro dias que estou assim.
+
+**Médica:** - Você tem febre também?
+
+**Paciente:** - Tive um pouco ontem, mas hoje não.
+
+**Médica:** - Entendi. Você precisa descansar a voz e tomar bastante líquido morno. É melhor evitar lugares com ar-condicionado por uns dias. Vou passar um remédio para a tosse.
+
+**Paciente:** - Preciso fazer algum exame?
+
+**Médica:** - Não por agora. Se não melhorar em uma semana, volte para reavaliarmos.
+
 
 **Perguntas:**
 1. Quais são os sintomas do paciente? → **Tosse forte e dor de garganta**

@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — amigos combinando o fim de semana:**\n> **Sofia:** Gente, o que vocês fazem no fim de semana?\n> **Tom:** Eu adoro jogar futebol com os amigos no sábado de manhã.\n> **Li:** Eu prefiro ficar em casa, eu gosto de ler e assistir filmes.\n> **Marco:** Eu odeio ficar em casa! Eu adoro ir à praia ou fazer uma trilha.\n> **Sofia:** Então, que tal irmos à praia esse sábado? Todo fim de semana eu fico em casa, preciso sair um pouco.\n> **Tom:** Combinado! Depois do futebol, eu vou.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer o que gosta/não gosta | Eu gosto de... / Eu não gosto de... |\n| Dizer preferência forte | Eu adoro... / Eu odeio... |\n| Dizer preferência comparativa | Eu prefiro... |\n| Propor um plano | Que tal + infinitivo/substantivo...? |"
+      "markdown": "**Cena — amigos combinando o fim de semana:**\n**Sofia:** - Gente, o que vocês fazem no fim de semana?\n\n**Tom:** - Eu adoro jogar futebol com os amigos no sábado de manhã.\n\n**Li:** - Eu prefiro ficar em casa, eu gosto de ler e assistir filmes.\n\n**Marco:** - Eu odeio ficar em casa! Eu adoro ir à praia ou fazer uma trilha.\n\n**Sofia:** - Então, que tal irmos à praia esse sábado? Todo fim de semana eu fico em casa, preciso sair um pouco.\n\n**Tom:** - Combinado! Depois do futebol, eu vou.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer o que gosta/não gosta | Eu gosto de... / Eu não gosto de... |\n| Dizer preferência forte | Eu adoro... / Eu odeio... |\n| Dizer preferência comparativa | Eu prefiro... |\n| Propor um plano | Que tal + infinitivo/substantivo...? |"
     },
     {
       "ordem": 2,
@@ -35,7 +35,7 @@
     {
       "ordem": 6,
       "titulo": "Listening — Script e Perguntas",
-      "markdown": "> **Entrevistador:** O que você gosta de fazer no fim de semana?\n> **Pessoa 1:** Eu adoro andar de bicicleta no parque.\n> **Pessoa 2:** Eu prefiro ir ao shopping com amigas.\n> **Pessoa 3:** Eu odeio sair de casa, gosto mesmo é de descansar e ler.\n\n**Perguntas:**\n1. O que a Pessoa 1 adora fazer? → **Andar de bicicleta no parque**\n2. O que a Pessoa 3 prefere fazer? → **Descansar e ler em casa**"
+      "markdown": "**Entrevistador:** - O que você gosta de fazer no fim de semana?\n\n**Pessoa 1:** - Eu adoro andar de bicicleta no parque.\n\n**Pessoa 2:** - Eu prefiro ir ao shopping com amigas.\n\n**Pessoa 3:** - Eu odeio sair de casa, gosto mesmo é de descansar e ler.\n\n\n**Perguntas:**\n1. O que a Pessoa 1 adora fazer? → **Andar de bicicleta no parque**\n2. O que a Pessoa 3 prefere fazer? → **Descansar e ler em casa**"
     },
     {
       "ordem": 7,

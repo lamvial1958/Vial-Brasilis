@@ -3,13 +3,20 @@
 ## 1. Diálogo de Abertura
 
 **Cena — troca de mensagens combinando uma festa:**
-> **Sofia:** Tom, eu vou fazer uma festa de aniversário no sábado. Você quer ir?
-> **Tom:** Adoraria! A que horas vai ser?
-> **Sofia:** Vai começar às vinte horas, na minha casa.
-> **Tom:** Combinado, eu vou levar um presente!
-> **Sofia:** Marco, e você? Você vai poder vir?
-> **Marco:** Ah, eu sinto muito, mas eu não vou poder ir. Eu vou viajar nesse fim de semana.
-> **Sofia:** Que pena! Na próxima então.
+**Sofia:** - Tom, eu vou fazer uma festa de aniversário no sábado. Você quer ir?
+
+**Tom:** - Adoraria! A que horas vai ser?
+
+**Sofia:** - Vai começar às vinte horas, na minha casa.
+
+**Tom:** - Combinado, eu vou levar um presente!
+
+**Sofia:** - Marco, e você? Você vai poder vir?
+
+**Marco:** - Ah, eu sinto muito, mas eu não vou poder ir. Eu vou viajar nesse fim de semana.
+
+**Sofia:** - Que pena! Na próxima então.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -61,8 +68,10 @@ festa, aniversário, presente, convite, compromisso, viagem, churrasco, jantar, 
 
 ## 6. Listening — Script e Perguntas
 
-> **Mensagem de voz — Li:** Oi, gente! Eu vou organizar um churrasco no domingo, lá em casa, a partir do meio-dia. Vocês vão poder vir?
-> **Resposta — Marco:** Oi, Li! Eu vou sim, com certeza! Vou levar uma sobremesa.
+**Mensagem de voz — Li:** - Oi, gente! Eu vou organizar um churrasco no domingo, lá em casa, a partir do meio-dia. Vocês vão poder vir?
+
+**Resposta — Marco:** - Oi, Li! Eu vou sim, com certeza! Vou levar uma sobremesa.
+
 
 **Perguntas:**
 1. O que Li vai organizar? → **Um churrasco**

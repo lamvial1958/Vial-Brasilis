@@ -5,12 +5,18 @@
 ## 1. Diálogo de Abertura
 
 **Cena — colega relatando para um terceiro o que foi dito numa reunião:**
-> **Marina:** Você foi à reunião de ontem? O que ficou decidido?
-> **Tiago:** Fui. O gerente disse que o projeto **estava** atrasado e que nós **precisávamos** entregar a primeira versão até sexta.
-> **Marina:** Sério? E sobre o orçamento, alguém falou algo?
-> **Tiago:** A Carla perguntou se **haveria** mais recursos esse mês. O gerente respondeu que **veria** com a diretoria e que **daria** uma resposta na semana seguinte.
-> **Marina:** E quanto à equipe nova, comentaram alguma coisa?
-> **Tiago:** Sim, ele afirmou que **contratariam** mais duas pessoas, mas só depois que o projeto atual **fosse** entregue.
+**Marina:** - Você foi à reunião de ontem? O que ficou decidido?
+
+**Tiago:** - Fui. O gerente disse que o projeto **estava** atrasado e que nós **precisávamos** entregar a primeira versão até sexta.
+
+**Marina:** - Sério? E sobre o orçamento, alguém falou algo?
+
+**Tiago:** - A Carla perguntou se **haveria** mais recursos esse mês. O gerente respondeu que **veria** com a diretoria e que **daria** uma resposta na semana seguinte.
+
+**Marina:** - E quanto à equipe nova, comentaram alguma coisa?
+
+**Tiago:** - Sim, ele afirmou que **contratariam** mais duas pessoas, mas só depois que o projeto atual **fosse** entregue.
+
 
 **Quadro funcional:**
 | Função | Fórmula |

@@ -3,18 +3,28 @@
 ## 1. Diálogo de Abertura
 
 **Cena 1 — Perdido na rua:**
-> **Tom:** Com licença, eu estou perdido. Você pode me ajudar?
-> **Pessoa:** Claro! Para onde você quer ir?
-> **Tom:** Eu preciso ir para a Rua das Flores.
-> **Pessoa:** Ah, é fácil. Siga em frente e vire à esquerda.
-> **Tom:** Muito obrigado!
+**Tom:** - Com licença, eu estou perdido. Você pode me ajudar?
+
+**Pessoa:** - Claro! Para onde você quer ir?
+
+**Tom:** - Eu preciso ir para a Rua das Flores.
+
+**Pessoa:** - Ah, é fácil. Siga em frente e vire à esquerda.
+
+**Tom:** - Muito obrigado!
+
 
 **Cena 2 — Mal-estar leve:**
-> **Tom:** Desculpa, eu estou mal. Eu preciso de ajuda.
-> **Pessoa:** O que você está sentindo?
-> **Tom:** Estou com dor de cabeça e um pouco de febre.
-> **Pessoa:** Vamos chamar uma ambulância? Ou você quer ir a uma farmácia?
-> **Tom:** Uma farmácia está bem, obrigado.
+**Tom:** - Desculpa, eu estou mal. Eu preciso de ajuda.
+
+**Pessoa:** - O que você está sentindo?
+
+**Tom:** - Estou com dor de cabeça e um pouco de febre.
+
+**Pessoa:** - Vamos chamar uma ambulância? Ou você quer ir a uma farmácia?
+
+**Tom:** - Uma farmácia está bem, obrigado.
+
 
 **Quadro funcional:**
 | Função | Fórmula |
@@ -54,11 +64,16 @@ socorro, polícia, ambulância, hospital, perdido(a), dor de cabeça, febre, far
 
 ## 5. Listening — Script e Perguntas
 
-> **Sofia:** Com licença, eu estou perdida. Onde tem uma farmácia?
-> **Pessoa:** Tem uma farmácia ali, perto do mercado.
-> **Sofia:** É longe?
-> **Pessoa:** Não, é perto. Cinco minutos a pé.
-> **Sofia:** Muito obrigada!
+**Sofia:** - Com licença, eu estou perdida. Onde tem uma farmácia?
+
+**Pessoa:** - Tem uma farmácia ali, perto do mercado.
+
+**Sofia:** - É longe?
+
+**Pessoa:** - Não, é perto. Cinco minutos a pé.
+
+**Sofia:** - Muito obrigada!
+
 
 **Perguntas:**
 1. O que Sofia está procurando? → **Uma farmácia**

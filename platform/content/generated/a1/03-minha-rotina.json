@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — Tom compara sua rotina com a do amigo brasileiro Bruno:**\n> **Bruno:** Tom, a que horas você se levanta?\n> **Tom:** Eu me levanto às sete horas. E você?\n> **Bruno:** Eu me levanto às seis e meia. Eu trabalho muito cedo.\n> **Tom:** Entendi. E o que você faz depois do trabalho?\n> **Bruno:** Eu almoço ao meio-dia e depois eu volto para o trabalho. À noite, eu janto às oito e durmo às onze.\n> **Tom:** Eu sempre almoço em casa, mas às vezes eu janto fora.\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar a hora de um hábito | A que horas você...? |\n| Dizer a hora de um hábito | Eu... às... (sete horas / meio-dia) |\n| Indicar frequência | sempre / às vezes / nunca + verbo |"
+      "markdown": "**Cena — Tom compara sua rotina com a do amigo brasileiro Bruno:**\n**Bruno:** - Tom, a que horas você se levanta?\n\n**Tom:** - Eu me levanto às sete horas. E você?\n\n**Bruno:** - Eu me levanto às seis e meia. Eu trabalho muito cedo.\n\n**Tom:** - Entendi. E o que você faz depois do trabalho?\n\n**Bruno:** - Eu almoço ao meio-dia e depois eu volto para o trabalho. À noite, eu janto às oito e durmo às onze.\n\n**Tom:** - Eu sempre almoço em casa, mas às vezes eu janto fora.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar a hora de um hábito | A que horas você...? |\n| Dizer a hora de um hábito | Eu... às... (sete horas / meio-dia) |\n| Indicar frequência | sempre / às vezes / nunca + verbo |"
     },
     {
       "ordem": 2,
@@ -35,7 +35,7 @@
     {
       "ordem": 6,
       "titulo": "Listening — Script e Perguntas",
-      "markdown": "> **Sofia:** Minha rotina é bem tranquila. Eu me levanto às oito horas e tomo café da manhã. Depois eu estudo até o meio-dia. Eu almoço em casa e, às vezes, descanso um pouco depois. À noite, eu janto às sete e meia e durmo às dez e meia.\n\n**Perguntas:**\n1. A que horas Sofia se levanta? → **Às oito horas**\n2. O que ela faz até o meio-dia? → **Estuda**\n3. A que horas ela dorme? → **Às dez e meia**"
+      "markdown": "**Sofia:** - Minha rotina é bem tranquila. Eu me levanto às oito horas e tomo café da manhã. Depois eu estudo até o meio-dia. Eu almoço em casa e, às vezes, descanso um pouco depois. À noite, eu janto às sete e meia e durmo às dez e meia.\n\n\n**Perguntas:**\n1. A que horas Sofia se levanta? → **Às oito horas**\n2. O que ela faz até o meio-dia? → **Estuda**\n3. A que horas ela dorme? → **Às dez e meia**"
     },
     {
       "ordem": 7,
