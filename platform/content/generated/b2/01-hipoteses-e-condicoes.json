@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| se eu estivesse no seu lugar | fórmula de aconselhamento hipotético | Se eu estivesse no seu lugar, esperaria mais. |\n| se eu fosse você | variante da fórmula anterior | Se eu fosse você, conversaria com ele. |\n| hesitar | ter dúvida antes de decidir | O que te faz hesitar? |\n| se arrepender | sentir pesar por uma decisão | Você se arrependeria de não aceitar? |\n| pensar com calma | refletir sem pressa | Pense com calma antes de decidir. |\n| ter certeza de | estar seguro de algo | Se eu tivesse certeza, ficaria. |\n| crescer (na carreira) | evoluir profissionalmente | Espero crescer nesta empresa. |\n| sem pensar duas vezes | decidir rapidamente, com convicção | Eu ficaria sem pensar duas vezes. |\n| caso | conector condicional formal | Caso aceite, avise com antecedência. |\n| a menos que | condição negativa exclusiva | Não vou aceitar, a menos que melhorem a oferta. |\n| desde que | condição necessária | Aceito, desde que eu possa trabalhar remoto. |\n| pesar os prós e contras | avaliar vantagens e desvantagens | É preciso pesar os prós e contras. |\n| decisão de peso | decisão importante | Mudar de emprego é uma decisão de peso. |\n| ficar sem culpa | decidir sem remorso | Eu aceitaria sem culpa. |\n\n**(14 itens, tag `b2.1`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| se eu estivesse no seu lugar | fórmula de aconselhamento hipotético | Se eu estivesse no seu lugar, esperaria mais. |\n| se eu fosse você | variante da fórmula anterior | Se eu fosse você, conversaria com ele. |\n| hesitar | ter dúvida antes de decidir | O que te faz hesitar? |\n| se arrepender | sentir pesar por uma decisão | Você se arrependeria de não aceitar? |\n| pensar com calma | refletir sem pressa | Pense com calma antes de decidir. |\n| ter certeza de | estar seguro de algo | Se eu tivesse certeza, ficaria. |\n| crescer (na carreira) | evoluir profissionalmente | Espero crescer nesta empresa. |\n| sem pensar duas vezes | decidir rapidamente, com convicção | Eu ficaria sem pensar duas vezes. |\n| caso | conector condicional formal | Caso aceite, avise com antecedência. |\n| a menos que | condição negativa exclusiva | Não vou aceitar, a menos que melhorem a oferta. |\n| desde que | condição necessária | Aceito, desde que eu possa trabalhar remoto. |\n| pesar os prós e contras | avaliar vantagens e desvantagens | É preciso pesar os prós e contras. |\n| decisão de peso | decisão importante | Mudar de emprego é uma decisão de peso. |\n| ficar sem culpa | decidir sem remorso | Eu aceitaria sem culpa. |"
     },
     {
       "ordem": 3,
@@ -120,9 +120,7 @@
       "exemplo": "Eu aceitaria sem culpa."
     }
   ],
-  "tagsVocabulario": [
-    "b2.1"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Se eu ___ (ter) mais dinheiro, eu viajaria mais.",

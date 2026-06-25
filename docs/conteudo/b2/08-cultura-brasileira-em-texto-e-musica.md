@@ -44,8 +44,6 @@
 | identidade cultural | conjunto de traços que definem o pertencimento a uma cultura | A música discute identidade cultural e migração. |
 | ritmo (musical/poético) | padrão sonoro/cadência de um texto cantado/poético | O ritmo da música acompanha o tema da saudade. |
 
-**(16 itens, tag `b2.8`)**
-
 ## 3. Função & Foco — Leitura Crítica (Sem Item Gramatical Novo)
 
 **A. Por que esta unidade não introduz gramática nova:** o objetivo é consolidar a capacidade de ler/ouvir produção cultural autêntica com apreciação crítica — habilidade que combina tudo o que já foi construído (vocabulário conotativo, discurso indireto, argumentação) sem exigir uma estrutura gramatical isolada.

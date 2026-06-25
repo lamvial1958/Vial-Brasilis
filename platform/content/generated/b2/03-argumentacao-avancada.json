@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| não obstante | mesmo assim, apesar disso (formal) | Não obstante, os riscos persistem. |\n| ainda que | introduz concessão (+ subjuntivo) | Ainda que seja útil, exige mediação. |\n| na medida em que | à medida que, proporcionalmente | Na medida em que se estabelecem limites, os riscos diminuem. |\n| tese | ideia central defendida num texto | A tese do autor é clara desde o início. |\n| argumento | razão usada para sustentar uma tese | Cada argumento precisa de evidência. |\n| contra-argumento | argumento que se opõe à tese principal | Um bom texto reconhece o contra-argumento. |\n| evidência | dado/fato que sustenta um argumento | A evidência aponta uma tendência preocupante. |\n| ser alvo de debate | ser tema discutido com posições divergentes | O tema é alvo de debate intenso. |\n| mediar (uso, conflito) | intervir para regular algo | O uso de telas precisa ser mediado. |\n| determinante | decisivo, o fator mais importante | A ausência de mediação é o fator determinante. |\n| conclui-se que | fórmula de conclusão argumentativa | Conclui-se que a proibição não resolve o problema. |\n| em suma | fórmula alternativa de conclusão/síntese | Em suma, o equilíbrio é a chave. |\n| coesão textual | conexão lógica entre as partes do texto | Os conectores garantem a coesão textual. |\n| qualificar (o acesso/uso) | tornar mais adequado, não apenas permitir/proibir | A questão é qualificar o acesso, não proibi-lo. |\n\n**(14 itens, tag `b2.3`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| não obstante | mesmo assim, apesar disso (formal) | Não obstante, os riscos persistem. |\n| ainda que | introduz concessão (+ subjuntivo) | Ainda que seja útil, exige mediação. |\n| na medida em que | à medida que, proporcionalmente | Na medida em que se estabelecem limites, os riscos diminuem. |\n| tese | ideia central defendida num texto | A tese do autor é clara desde o início. |\n| argumento | razão usada para sustentar uma tese | Cada argumento precisa de evidência. |\n| contra-argumento | argumento que se opõe à tese principal | Um bom texto reconhece o contra-argumento. |\n| evidência | dado/fato que sustenta um argumento | A evidência aponta uma tendência preocupante. |\n| ser alvo de debate | ser tema discutido com posições divergentes | O tema é alvo de debate intenso. |\n| mediar (uso, conflito) | intervir para regular algo | O uso de telas precisa ser mediado. |\n| determinante | decisivo, o fator mais importante | A ausência de mediação é o fator determinante. |\n| conclui-se que | fórmula de conclusão argumentativa | Conclui-se que a proibição não resolve o problema. |\n| em suma | fórmula alternativa de conclusão/síntese | Em suma, o equilíbrio é a chave. |\n| coesão textual | conexão lógica entre as partes do texto | Os conectores garantem a coesão textual. |\n| qualificar (o acesso/uso) | tornar mais adequado, não apenas permitir/proibir | A questão é qualificar o acesso, não proibi-lo. |"
     },
     {
       "ordem": 3,
@@ -120,9 +120,7 @@
       "exemplo": "A questão é qualificar o acesso, não proibi-lo."
     }
   ],
-  "tagsVocabulario": [
-    "b2.3"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. \"___ o acesso à tecnologia seja importante, a mediação é essencial.\"",

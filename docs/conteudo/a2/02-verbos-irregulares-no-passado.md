@@ -38,8 +38,6 @@
 | festa | evento social/comemoração | Eu fui a muitas festas. |
 | conhecer (pessoas) | fazer contato por primeira vez | Conheci pessoas novas. |
 
-**(10 itens, tag `a2.2`)**
-
 ## 3. Gramática em Foco
 
 **A. Os 8 verbos irregulares mais frequentes no pretérito perfeito:**

@@ -43,8 +43,6 @@
 | churrascaria | restaurante de carne grelhada | Jantamos numa churrascaria. |
 | feira | mercado ao ar livre | Compramos frutas na feira. |
 
-**(16 itens, tag `a2.1`)**
-
 ## 3. Gramática em Foco
 
 **A. Pretérito perfeito regular — verbos em -ar, -er, -ir:**

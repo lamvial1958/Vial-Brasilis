@@ -20,7 +20,7 @@
 
 ## 2. Vocabulário
 
-futebol, praia, trilha, filme, leitura, passeio, parque, shopping, festa, jogo, natação, academia, bicicleta, caminhada, churrasco — **(15 itens, tag `a1.7`)**
+futebol, praia, trilha, filme, leitura, passeio, parque, shopping, festa, jogo, natação, academia, bicicleta, caminhada, churrasco
 
 ## 3. Gramática em Foco
 

@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "mercado, farmácia, troco, remédio, escova de dente, sabonete, dinheiro, fileira, compra, pão, leite, fruta, caixa (do supermercado), sacola, preço, desconto, promoção, lista de compras — **(18 itens, tag `pre-a1.6`)**"
+      "markdown": "mercado, farmácia, troco, remédio, escova de dente, sabonete, dinheiro, fileira, compra, pão, leite, fruta, caixa (do supermercado), sacola, preço, desconto, promoção, lista de compras"
     },
     {
       "ordem": 3,
@@ -44,9 +44,7 @@
     }
   ],
   "vocabulario": [],
-  "tagsVocabulario": [
-    "pre-a1.6"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Tem ___ aqui?",

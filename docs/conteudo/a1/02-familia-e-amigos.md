@@ -23,7 +23,7 @@
 
 ## 2. Vocabulário
 
-pai, mãe, irmão, irmã, filho, filha, avô, avó, tio, tia, primo, prima, sobrinho, sobrinha, marido, esposa, namorado, namorada, amigo, amiga, alto/alta, baixo/baixa, simpático/simpática, parecido/parecida — **(24 itens, tag `a1.2`)**
+pai, mãe, irmão, irmã, filho, filha, avô, avó, tio, tia, primo, prima, sobrinho, sobrinha, marido, esposa, namorado, namorada, amigo, amiga, alto/alta, baixo/baixa, simpático/simpática, parecido/parecida
 
 ## 3. Gramática em Foco
 

@@ -41,8 +41,6 @@
 | tirar sarro (de alguém/algo) | fazer piada/ironia sobre alguém ou algo | Eles tiraram sarro do meu sotaque. |
 | entender a referência | captar uma alusão cultural implícita numa piada | Só quem é brasileiro entende a referência. |
 
-**(15 itens, tag `b2.7`)**
-
 ## 3. Função & Gramática em Foco
 
 **A. Estrutura da piada de duplo sentido (mecanismo, não regra gramatical):**

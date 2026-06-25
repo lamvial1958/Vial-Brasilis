@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| desculpa a demora | pedido de desculpas por atraso em responder | Desculpa a demora pra responder. |\n| andar ocupado/a | estar com muitas tarefas recentemente | Andei super ocupada esses meses. |\n| as novidades | fatos recentes que aconteceram | Conta as novidades! |\n| mudar de (apartamento/trabalho) | trocar de lugar/emprego | Mudei de apartamento em março. |\n| ficar com saudade (de) | sentir falta de alguém | Tô com saudade de saber de você. |\n| aliás | conector que acrescenta informação relacionada | Aliás, parabéns pelo curso! |\n| depois | conector de sequência temporal | Depois te mando fotos. |\n| então | conector de consequência/sequência | Então resolvi mudar de trabalho. |\n| puxado/puxada | difícil, intenso (informal) | No início foi puxado. |\n| tranquilo/tranquila | calmo, sem grandes problemas | Agora já tô bem mais tranquila. |\n| um abraço | fórmula de fecho informal de carta/e-mail | Um abraço, Bia. |\n| bjs (beijos) | fórmula de fecho informal e afetuosa | Bjs e até a próxima. |\n| contar as novidades | relatar o que aconteceu de novo | Conta as novidades pra mim! |\n| tô (= estou) | redução informal falada usada também em e-mails informais | Tô adorando o curso. |\n| retomar contato | voltar a se comunicar depois de um tempo | Adorei retomar contato com você. |\n| corpo do e-mail/carta | parte principal do texto, entre abertura e fecho | O corpo do e-mail tem as novidades. |\n\n**(16 itens, tag `b1.2`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| desculpa a demora | pedido de desculpas por atraso em responder | Desculpa a demora pra responder. |\n| andar ocupado/a | estar com muitas tarefas recentemente | Andei super ocupada esses meses. |\n| as novidades | fatos recentes que aconteceram | Conta as novidades! |\n| mudar de (apartamento/trabalho) | trocar de lugar/emprego | Mudei de apartamento em março. |\n| ficar com saudade (de) | sentir falta de alguém | Tô com saudade de saber de você. |\n| aliás | conector que acrescenta informação relacionada | Aliás, parabéns pelo curso! |\n| depois | conector de sequência temporal | Depois te mando fotos. |\n| então | conector de consequência/sequência | Então resolvi mudar de trabalho. |\n| puxado/puxada | difícil, intenso (informal) | No início foi puxado. |\n| tranquilo/tranquila | calmo, sem grandes problemas | Agora já tô bem mais tranquila. |\n| um abraço | fórmula de fecho informal de carta/e-mail | Um abraço, Bia. |\n| bjs (beijos) | fórmula de fecho informal e afetuosa | Bjs e até a próxima. |\n| contar as novidades | relatar o que aconteceu de novo | Conta as novidades pra mim! |\n| tô (= estou) | redução informal falada usada também em e-mails informais | Tô adorando o curso. |\n| retomar contato | voltar a se comunicar depois de um tempo | Adorei retomar contato com você. |\n| corpo do e-mail/carta | parte principal do texto, entre abertura e fecho | O corpo do e-mail tem as novidades. |"
     },
     {
       "ordem": 3,
@@ -130,9 +130,7 @@
       "exemplo": "O corpo do e-mail tem as novidades."
     }
   ],
-  "tagsVocabulario": [
-    "b1.2"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "\"___, Marcos! ___?\"",

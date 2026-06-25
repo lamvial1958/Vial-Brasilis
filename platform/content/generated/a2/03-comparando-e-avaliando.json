@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| na minha opinião | fórmula para dar opinião | Na minha opinião, é melhor. |\n| eu acho que | fórmula para dar opinião | Eu acho que sim. |\n| tranquilo/tranquila | calmo, sem agitação | Floripa é tranquila. |\n| agitado/agitada | com muito movimento | O Rio é agitado. |\n| limpo/limpa | sem sujeira | As praias são limpas. |\n| barato/barata | de preço baixo | A hospedagem é barata. |\n| caro/cara | de preço alto | O Rio é mais caro. |\n| economizar | gastar menos, guardar dinheiro | Quero economizar nas férias. |\n| destino (de viagem) | lugar para onde se viaja | Qual é o melhor destino? |\n| sem dúvida | com certeza | Sem dúvida, é a melhor opção. |\n| vida noturna | atividades à noite (bares, baladas) | O Rio tem mais vida noturna. |\n| hospedagem | lugar para se alojar | A hospedagem é cara. |\n\n**(12 itens, tag `a2.3`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| na minha opinião | fórmula para dar opinião | Na minha opinião, é melhor. |\n| eu acho que | fórmula para dar opinião | Eu acho que sim. |\n| tranquilo/tranquila | calmo, sem agitação | Floripa é tranquila. |\n| agitado/agitada | com muito movimento | O Rio é agitado. |\n| limpo/limpa | sem sujeira | As praias são limpas. |\n| barato/barata | de preço baixo | A hospedagem é barata. |\n| caro/cara | de preço alto | O Rio é mais caro. |\n| economizar | gastar menos, guardar dinheiro | Quero economizar nas férias. |\n| destino (de viagem) | lugar para onde se viaja | Qual é o melhor destino? |\n| sem dúvida | com certeza | Sem dúvida, é a melhor opção. |\n| vida noturna | atividades à noite (bares, baladas) | O Rio tem mais vida noturna. |\n| hospedagem | lugar para se alojar | A hospedagem é cara. |"
     },
     {
       "ordem": 3,
@@ -110,9 +110,7 @@
       "exemplo": "A hospedagem é cara."
     }
   ],
-  "tagsVocabulario": [
-    "a2.3"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. O Rio é ___ agitado ___ Floripa.",

@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| CPF | número de identificação fiscal no Brasil | Preciso do meu CPF para abrir a conta. |\n| comprovante de residência | documento que prova onde você mora | Trouxe meu comprovante de residência. |\n| formulário | documento para preencher dados | Preencha este formulário. |\n| protocolo | número que identifica um atendimento | Guarde o número do protocolo. |\n| senha de atendimento | número/código para ser chamado | Pegue sua senha de atendimento. |\n| conta corrente | tipo de conta bancária para o dia a dia | Quero abrir uma conta corrente. |\n| cadastro | registro de dados de uma pessoa | Preciso fazer o cadastro. |\n| assinar | escrever o próprio nome num documento | Assine aqui, por favor. |\n| dias úteis | dias de funcionamento normal (sem fins de semana/feriados) | Demora cinco dias úteis. |\n| repartição (pública) | órgão público de atendimento | Fui à repartição renovar o documento. |\n| encomenda | pacote/correspondência | Vou retirar uma encomenda no correio. |\n\n**(11 itens, tag `a2.5`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| CPF | número de identificação fiscal no Brasil | Preciso do meu CPF para abrir a conta. |\n| comprovante de residência | documento que prova onde você mora | Trouxe meu comprovante de residência. |\n| formulário | documento para preencher dados | Preencha este formulário. |\n| protocolo | número que identifica um atendimento | Guarde o número do protocolo. |\n| senha de atendimento | número/código para ser chamado | Pegue sua senha de atendimento. |\n| conta corrente | tipo de conta bancária para o dia a dia | Quero abrir uma conta corrente. |\n| cadastro | registro de dados de uma pessoa | Preciso fazer o cadastro. |\n| assinar | escrever o próprio nome num documento | Assine aqui, por favor. |\n| dias úteis | dias de funcionamento normal (sem fins de semana/feriados) | Demora cinco dias úteis. |\n| repartição (pública) | órgão público de atendimento | Fui à repartição renovar o documento. |\n| encomenda | pacote/correspondência | Vou retirar uma encomenda no correio. |"
     },
     {
       "ordem": 3,
@@ -105,9 +105,7 @@
       "exemplo": "Vou retirar uma encomenda no correio."
     }
   ],
-  "tagsVocabulario": [
-    "a2.5"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "\"Eu quero abrir uma conta\"",

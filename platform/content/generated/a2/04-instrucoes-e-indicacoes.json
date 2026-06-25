@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| seguir em frente | continuar na mesma direção | Siga em frente até o semáforo. |\n| virar | mudar de direção | Vire à direita. |\n| continuar | seguir, não parar | Continue até a praça. |\n| atravessar | passar de um lado a outro | Atravesse a rua com cuidado. |\n| semáforo | sinal de trânsito | Pare no semáforo vermelho. |\n| em direção a | rumo a, na direção de | O museu fica em direção ao parque. |\n| até | limite de um percurso | Vá até a segunda esquina. |\n| depois de | posterior a um ponto | Vire depois da agência bancária. |\n| esquina | encontro de duas ruas | Vire na esquina. |\n| quadra | trecho de rua entre esquinas | Ande duas quadras. |\n| ponto de referência | local fácil de identificar | A igreja é um bom ponto de referência. |\n| perder-se | não saber onde está | É fácil, você não vai se perder. |\n\n**(12 itens, tag `a2.4`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| seguir em frente | continuar na mesma direção | Siga em frente até o semáforo. |\n| virar | mudar de direção | Vire à direita. |\n| continuar | seguir, não parar | Continue até a praça. |\n| atravessar | passar de um lado a outro | Atravesse a rua com cuidado. |\n| semáforo | sinal de trânsito | Pare no semáforo vermelho. |\n| em direção a | rumo a, na direção de | O museu fica em direção ao parque. |\n| até | limite de um percurso | Vá até a segunda esquina. |\n| depois de | posterior a um ponto | Vire depois da agência bancária. |\n| esquina | encontro de duas ruas | Vire na esquina. |\n| quadra | trecho de rua entre esquinas | Ande duas quadras. |\n| ponto de referência | local fácil de identificar | A igreja é um bom ponto de referência. |\n| perder-se | não saber onde está | É fácil, você não vai se perder. |"
     },
     {
       "ordem": 3,
@@ -110,9 +110,7 @@
       "exemplo": "É fácil, você não vai se perder."
     }
   ],
-  "tagsVocabulario": [
-    "a2.4"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. ___ (seguir) em frente até a praça.",

@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário — Pares Formal ↔ Informal",
-      "markdown": "| Informal | Formal | Tag |\n|---|---|---|\n| apê | imóvel/apartamento | registro |\n| tá vazando | há um vazamento / está ocorrendo um vazamento | registro |\n| que saco | (sem equivalente formal direto — omite-se a queixa emocional) | registro |\n| tô P da vida | estou bastante incomodado/a | registro |\n| falar com | entrar em contato com / dirigir-se a | registro |\n| dar um jeito | providenciar uma solução | registro |\n| de novo | novamente | registro |\n| vou ter que | será necessário | registro |\n| lá de cima | do apartamento superior / do andar superior | registro |\n| caiu no meu teto | atingiu o teto do meu apartamento | registro |\n| vizinho | morador do apartamento vizinho/contíguo | registro |\n| síndica/síndico | administradora/administrador do condomínio | registro |\n| resolver rápido | solucionar com urgência | registro |\n| dá pra | é possível / seria possível | registro |\n| cê pode | poderia / seria possível que | registro |\n| lamento informar | (formal — sem equivalente informal direto, usado para más notícias) | registro |\n| imóvel | apê/casa (informal) | registro |\n| vistoria | (inspeção técnica — termo já formal, sem par informal direto) | registro |\n| providenciar | dar um jeito (informal) | registro |\n| danos | estrago/prejuízo (informal) | registro |\n\n**(20 itens, tag `registro`, cruzando vocabulário de B1.2 e B1.3)**"
+      "markdown": "| Informal | Formal | Tag |\n|---|---|---|\n| apê | imóvel/apartamento | registro |\n| tá vazando | há um vazamento / está ocorrendo um vazamento | registro |\n| que saco | (sem equivalente formal direto — omite-se a queixa emocional) | registro |\n| tô P da vida | estou bastante incomodado/a | registro |\n| falar com | entrar em contato com / dirigir-se a | registro |\n| dar um jeito | providenciar uma solução | registro |\n| de novo | novamente | registro |\n| vou ter que | será necessário | registro |\n| lá de cima | do apartamento superior / do andar superior | registro |\n| caiu no meu teto | atingiu o teto do meu apartamento | registro |\n| vizinho | morador do apartamento vizinho/contíguo | registro |\n| síndica/síndico | administradora/administrador do condomínio | registro |\n| resolver rápido | solucionar com urgência | registro |\n| dá pra | é possível / seria possível | registro |\n| cê pode | poderia / seria possível que | registro |\n| lamento informar | (formal — sem equivalente informal direto, usado para más notícias) | registro |\n| imóvel | apê/casa (informal) | registro |\n| vistoria | (inspeção técnica — termo já formal, sem par informal direto) | registro |\n| providenciar | dar um jeito (informal) | registro |\n| danos | estrago/prejuízo (informal) | registro |"
     },
     {
       "ordem": 3,
@@ -155,9 +155,7 @@
       "exemplo": "registro"
     }
   ],
-  "tagsVocabulario": [
-    "registro"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. \"Cê pode resolver isso rápido?\"",

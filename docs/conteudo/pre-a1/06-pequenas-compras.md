@@ -23,7 +23,7 @@
 
 ## 2. Vocabulário
 
-mercado, farmácia, troco, remédio, escova de dente, sabonete, dinheiro, fileira, compra, pão, leite, fruta, caixa (do supermercado), sacola, preço, desconto, promoção, lista de compras — **(18 itens, tag `pre-a1.6`)**
+mercado, farmácia, troco, remédio, escova de dente, sabonete, dinheiro, fileira, compra, pão, leite, fruta, caixa (do supermercado), sacola, preço, desconto, promoção, lista de compras
 
 ## 3. Bloco de Pronúncia (revisão consolidada do nível)
 

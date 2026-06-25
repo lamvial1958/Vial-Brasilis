@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| comando (da tarefa) | instrução que diz o que produzir | Leia o comando com atenção. |\n| estímulo/input | material de partida (áudio/texto) | O estímulo foi uma notícia de rádio. |\n| redigir | escrever de forma organizada | Redija uma carta de reclamação. |\n| elaborar | produzir algo com cuidado/planejamento | Elabore um comentário sobre o tema. |\n| comentar | dar uma opinião curta sobre algo | Comente a notícia no fórum. |\n| responder a | reagir/replicar a algo específico | Responda ao e-mail do seu amigo. |\n| gênero textual | tipo de texto com convenções próprias | E-mail, carta e fórum são gêneros diferentes. |\n| resumir | reduzir um texto às ideias principais | Resuma a notícia em três frases. |\n| dar sua opinião sobre | expressar um ponto de vista próprio | Dê sua opinião sobre o tema. |\n| cumprir a tarefa | atender exatamente ao que foi pedido | Cumprir a tarefa é mais importante que só escrever bem. |\n| adequação ao gênero | escrever no formato/tom esperado pelo gênero | A adequação ao gênero é avaliada na correção. |\n\n**(11 itens, tag `b1.1`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| comando (da tarefa) | instrução que diz o que produzir | Leia o comando com atenção. |\n| estímulo/input | material de partida (áudio/texto) | O estímulo foi uma notícia de rádio. |\n| redigir | escrever de forma organizada | Redija uma carta de reclamação. |\n| elaborar | produzir algo com cuidado/planejamento | Elabore um comentário sobre o tema. |\n| comentar | dar uma opinião curta sobre algo | Comente a notícia no fórum. |\n| responder a | reagir/replicar a algo específico | Responda ao e-mail do seu amigo. |\n| gênero textual | tipo de texto com convenções próprias | E-mail, carta e fórum são gêneros diferentes. |\n| resumir | reduzir um texto às ideias principais | Resuma a notícia em três frases. |\n| dar sua opinião sobre | expressar um ponto de vista próprio | Dê sua opinião sobre o tema. |\n| cumprir a tarefa | atender exatamente ao que foi pedido | Cumprir a tarefa é mais importante que só escrever bem. |\n| adequação ao gênero | escrever no formato/tom esperado pelo gênero | A adequação ao gênero é avaliada na correção. |"
     },
     {
       "ordem": 3,
@@ -105,9 +105,7 @@
       "exemplo": "A adequação ao gênero é avaliada na correção."
     }
   ],
-  "tagsVocabulario": [
-    "b1.1"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. \"Escreva um e-mail respondendo à reclamação do cliente.\"",

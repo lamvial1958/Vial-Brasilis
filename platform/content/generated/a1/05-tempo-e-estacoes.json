@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "verão, outono, inverno, primavera, sol, chuva, vento, nuvem, frio, calor, casaco, guarda-chuva, camiseta, calça, short, sandália, bota, óculos de sol, boné — **(19 itens, tag `a1.5`)**"
+      "markdown": "verão, outono, inverno, primavera, sol, chuva, vento, nuvem, frio, calor, casaco, guarda-chuva, camiseta, calça, short, sandália, bota, óculos de sol, boné"
     },
     {
       "ordem": 3,
@@ -49,9 +49,7 @@
     }
   ],
   "vocabulario": [],
-  "tagsVocabulario": [
-    "a1.5"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Em Gramado, em julho, ___ frio.",

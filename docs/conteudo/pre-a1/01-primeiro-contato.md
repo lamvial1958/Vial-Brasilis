@@ -24,7 +24,7 @@
 
 **Marta:** - Sou, sim! Bem-vindo ao Brasil, Tom!
 
-**Quadro funcional (chunks para reter, não analisar gramaticalmente):**
+**Quadro funcional (expressões para memorizar):**
 | Função | Fórmula |
 |---|---|
 | Saudar | Bom dia / Boa tarde / Boa noite |
@@ -57,8 +57,6 @@
 | eu sou | verbo ser, 1ª pessoa | Eu sou estudante. |
 | você é | verbo ser, 2ª pessoa | Você é brasileiro? |
 | números 0–20 | zero, um, dois, três, quatro, cinco, seis, sete, oito, nove, dez, onze, doze, treze, catorze, quinze, dezesseis, dezessete, dezoito, dezenove, vinte | "Tenho vinte anos." |
-
-(38 itens no total, incluindo os 21 numerais — todos entram no motor de repetição espaçada com tag `pre-a1.1`.)
 
 ## 3. Bloco de Pronúncia
 

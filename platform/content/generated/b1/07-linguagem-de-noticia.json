@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| inaugurar | abrir oficialmente algo novo | A ciclovia foi inaugurada nesta semana. |\n| financiar | fornecer dinheiro para um projeto | A obra foi financiada com recursos municipais. |\n| recursos (financeiros) | dinheiro/fundos disponíveis | Recursos estaduais ajudaram no projeto. |\n| concluir (uma obra) | terminar um projeto/construção | A obra foi concluída em oito meses. |\n| beneficiar | trazer vantagem/ajuda a alguém | Deve beneficiar 15 mil ciclistas por mês. |\n| segundo (fonte) | de acordo com (introduz fonte) | Segundo a administração, tudo correu bem. |\n| autoridade(s) | pessoa(s) com poder/cargo oficial | Autoridades locais participaram do evento. |\n| entrevistado/a | pessoa que respondeu a perguntas de um repórter | Moradores entrevistados comentaram a obra. |\n| mobilidade urbana | sistema de transporte/circulação na cidade | O plano de mobilidade urbana inclui ciclovias. |\n| ser esperado/a (há anos) | algo aguardado por muito tempo | A ciclovia era esperada há anos. |\n| manchete | título principal de uma notícia | A manchete anunciava a inauguração. |\n| reportagem | matéria jornalística completa sobre um fato | Li uma reportagem sobre o assunto. |\n| divulgar | tornar público/anunciar | A prefeitura divulgou os dados da obra. |\n| de acordo com | fórmula equivalente a \"segundo\" | De acordo com os dados, o uso aumentou. |\n| previsão (de prazo/data) | estimativa de quando algo vai acontecer | A previsão é de conclusão em um ano. |\n| impacto (social/ambiental) | efeito de uma ação sobre algo/alguém | O impacto da obra foi positivo. |\n\n**(16 itens, tag `b1.7`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| inaugurar | abrir oficialmente algo novo | A ciclovia foi inaugurada nesta semana. |\n| financiar | fornecer dinheiro para um projeto | A obra foi financiada com recursos municipais. |\n| recursos (financeiros) | dinheiro/fundos disponíveis | Recursos estaduais ajudaram no projeto. |\n| concluir (uma obra) | terminar um projeto/construção | A obra foi concluída em oito meses. |\n| beneficiar | trazer vantagem/ajuda a alguém | Deve beneficiar 15 mil ciclistas por mês. |\n| segundo (fonte) | de acordo com (introduz fonte) | Segundo a administração, tudo correu bem. |\n| autoridade(s) | pessoa(s) com poder/cargo oficial | Autoridades locais participaram do evento. |\n| entrevistado/a | pessoa que respondeu a perguntas de um repórter | Moradores entrevistados comentaram a obra. |\n| mobilidade urbana | sistema de transporte/circulação na cidade | O plano de mobilidade urbana inclui ciclovias. |\n| ser esperado/a (há anos) | algo aguardado por muito tempo | A ciclovia era esperada há anos. |\n| manchete | título principal de uma notícia | A manchete anunciava a inauguração. |\n| reportagem | matéria jornalística completa sobre um fato | Li uma reportagem sobre o assunto. |\n| divulgar | tornar público/anunciar | A prefeitura divulgou os dados da obra. |\n| de acordo com | fórmula equivalente a \"segundo\" | De acordo com os dados, o uso aumentou. |\n| previsão (de prazo/data) | estimativa de quando algo vai acontecer | A previsão é de conclusão em um ano. |\n| impacto (social/ambiental) | efeito de uma ação sobre algo/alguém | O impacto da obra foi positivo. |"
     },
     {
       "ordem": 3,
@@ -130,9 +130,7 @@
       "exemplo": "O impacto da obra foi positivo."
     }
   ],
-  "tagsVocabulario": [
-    "b1.7"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "\"O governo anunciou a nova lei.\"",

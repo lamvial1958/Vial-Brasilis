@@ -19,7 +19,7 @@
 
 ## 2. Vocabulário
 
-empresa, escritório, restaurante, faculdade, escola, emprego, currículo, entrevista, estágio, aula, professor/professora, aluno/aluna, colega de trabalho, chefe, salário, contrato — **(16 itens, tag `a1.6`)**
+empresa, escritório, restaurante, faculdade, escola, emprego, currículo, entrevista, estágio, aula, professor/professora, aluno/aluna, colega de trabalho, chefe, salário, contrato
 
 ## 3. Gramática em Foco
 

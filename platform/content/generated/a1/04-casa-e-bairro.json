@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "apartamento, casa, quarto, sala, cozinha, banheiro, garagem, vaga, mercado, farmácia, padaria, parque, escola, cama, mesa, cadeira, sofá, geladeira, fogão, armário, bairro, vizinho — **(22 itens, tag `a1.4`)**"
+      "markdown": "apartamento, casa, quarto, sala, cozinha, banheiro, garagem, vaga, mercado, farmácia, padaria, parque, escola, cama, mesa, cadeira, sofá, geladeira, fogão, armário, bairro, vizinho"
     },
     {
       "ordem": 3,
@@ -49,9 +49,7 @@
     }
   ],
   "vocabulario": [],
-  "tagsVocabulario": [
-    "a1.4"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. ___ dois quartos.",

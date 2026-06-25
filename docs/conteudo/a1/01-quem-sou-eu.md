@@ -1,6 +1,6 @@
 # A1.1 — Quem Sou Eu
 
-*Ficha pedagógica completa em `docs/unidades/a1.md`. Diferença de template em relação à PRE-A1: a partir da A1 a gramática é produtiva (não só "chunks"), por isso esta lição inclui uma seção extra de **Gramática em Foco** (passo "input explícito" da sequência didática padrão).*
+*Ficha pedagógica completa em `docs/unidades/a1.md`. Diferença de template em relação à PRE-A1: a partir da A1 a gramática é produtiva (não só expressões prontas), por isso esta lição inclui uma seção extra de **Gramática em Foco** (passo "input explícito" da sequência didática padrão).*
 
 ## 1. Diálogo de Abertura
 
@@ -52,8 +52,6 @@
 | solteiro/solteira | estado civil | Eu sou solteiro. |
 | divorciado/divorciada | estado civil | Ela é divorciada. |
 | anos (idade) | unidade para contar idade | Tenho trinta anos. |
-
-**(20 itens, tag `a1.1`)**
 
 ## 3. Gramática em Foco
 

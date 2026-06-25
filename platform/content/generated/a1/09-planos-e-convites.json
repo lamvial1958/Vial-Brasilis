@@ -15,12 +15,12 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "festa, aniversário, presente, convite, compromisso, viagem, churrasco, jantar, encontro, desculpa, pena (que pena), combinado — **(12 itens, tag `a1.9`)**"
+      "markdown": "festa, aniversário, presente, convite, compromisso, viagem, churrasco, jantar, encontro, desculpa, pena (que pena), combinado"
     },
     {
       "ordem": 3,
       "titulo": "Gramática em Foco",
-      "markdown": "**A. Futuro perifrástico — \"ir + infinitivo\":**\n| | Forma | Exemplo |\n|---|---|---|\n| eu | vou + infinitivo | Eu vou levar um presente. |\n| você/ele/ela | vai + infinitivo | A festa vai começar às vinte horas. |\n| nós | vamos + infinitivo | Nós vamos viajar juntos. |\n| vocês/eles/elas | vão + infinitivo | Eles vão chegar mais tarde. |\n\n> É a forma de futuro mais usada na fala cotidiana brasileira — muito mais frequente que o futuro do presente terminado em \"-rei/-rá\" (esse último é mais formal/escrito e não é foco deste nível).\n\n**B. Fórmulas fixas de convite/aceite/recusa** (chunks, sem necessidade de analisar a estrutura interna ainda): \"Você quer ir...?\", \"Adoraria!\", \"Eu sinto muito, mas...\", \"Que pena!\"."
+      "markdown": "**A. Futuro perifrástico — \"ir + infinitivo\":**\n| | Forma | Exemplo |\n|---|---|---|\n| eu | vou + infinitivo | Eu vou levar um presente. |\n| você/ele/ela | vai + infinitivo | A festa vai começar às vinte horas. |\n| nós | vamos + infinitivo | Nós vamos viajar juntos. |\n| vocês/eles/elas | vão + infinitivo | Eles vão chegar mais tarde. |\n\n> É a forma de futuro mais usada na fala cotidiana brasileira — muito mais frequente que o futuro do presente terminado em \"-rei/-rá\" (esse último é mais formal/escrito e não é foco deste nível).\n\n**B. Fórmulas fixas de convite/aceite/recusa** (expressões prontas, sem necessidade de analisar a estrutura interna ainda): \"Você quer ir...?\", \"Adoraria!\", \"Eu sinto muito, mas...\", \"Que pena!\"."
     },
     {
       "ordem": 4,
@@ -49,9 +49,7 @@
     }
   ],
   "vocabulario": [],
-  "tagsVocabulario": [
-    "a1.9"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Eu ___ (levar) um presente.",

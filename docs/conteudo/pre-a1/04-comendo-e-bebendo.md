@@ -30,7 +30,7 @@
 
 ## 2. Vocabulário
 
-cardápio, conta, água, suco, café, pão de queijo, prato do dia, garçom, atendente, alérgico a, amendoim, para comer aqui, para levar, quanto custa, real/reais, copo, prato, colher, garfo, faca, guardanapo, gorjeta — **(22 itens, tag `pre-a1.4`)**
+cardápio, conta, água, suco, café, pão de queijo, prato do dia, garçom, atendente, alérgico a, amendoim, para comer aqui, para levar, quanto custa, real/reais, copo, prato, colher, garfo, faca, guardanapo, gorjeta
 
 ## 3. Bloco de Pronúncia
 

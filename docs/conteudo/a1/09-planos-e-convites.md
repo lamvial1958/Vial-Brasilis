@@ -21,7 +21,7 @@
 
 ## 2. Vocabulário
 
-festa, aniversário, presente, convite, compromisso, viagem, churrasco, jantar, encontro, desculpa, pena (que pena), combinado — **(12 itens, tag `a1.9`)**
+festa, aniversário, presente, convite, compromisso, viagem, churrasco, jantar, encontro, desculpa, pena (que pena), combinado
 
 ## 3. Gramática em Foco
 
@@ -35,7 +35,7 @@ festa, aniversário, presente, convite, compromisso, viagem, churrasco, jantar, 
 
 > É a forma de futuro mais usada na fala cotidiana brasileira — muito mais frequente que o futuro do presente terminado em "-rei/-rá" (esse último é mais formal/escrito e não é foco deste nível).
 
-**B. Fórmulas fixas de convite/aceite/recusa** (chunks, sem necessidade de analisar a estrutura interna ainda): "Você quer ir...?", "Adoraria!", "Eu sinto muito, mas...", "Que pena!".
+**B. Fórmulas fixas de convite/aceite/recusa** (expressões prontas, sem necessidade de analisar a estrutura interna ainda): "Você quer ir...?", "Adoraria!", "Eu sinto muito, mas...", "Que pena!".
 
 ## 4. Bloco de Pronúncia
 

@@ -47,8 +47,6 @@
 | discordar (de) | ter opinião diferente | Discordo dessa visão. |
 | do meu ponto de vista | fórmula alternativa de opinião pessoal | Do meu ponto de vista, é uma boa mudança. |
 
-**(15 itens, tag `b1.4`)**
-
 ## 3. Função & Gramática em Foco
 
 **A. Conectores argumentativos — mapa de uso:**

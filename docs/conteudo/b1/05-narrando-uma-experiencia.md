@@ -38,8 +38,6 @@
 | confesso que | introduz uma admissão pessoal | Confesso que fiquei nervosa. |
 | no meio do caminho | em um ponto intermediário do percurso | O ônibus parou no meio do caminho. |
 
-**(12 itens, tag `b1.5`)**
-
 ## 3. Função & Gramática em Foco
 
 **A. Marcadores narrativos avançados — função na linha do tempo:**

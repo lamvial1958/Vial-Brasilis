@@ -39,8 +39,6 @@
 | coesão textual | conexão lógica entre as partes do texto | Os conectores garantem a coesão textual. |
 | qualificar (o acesso/uso) | tornar mais adequado, não apenas permitir/proibir | A questão é qualificar o acesso, não proibi-lo. |
 
-**(14 itens, tag `b2.3`)**
-
 ## 3. Função & Gramática em Foco
 
 **A. Estrutura tese → argumento → contraponto reconhecido → conclusão (retomada e aprofundada do B1.4):**

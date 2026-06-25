@@ -19,7 +19,7 @@
 
 ## 2. Vocabulário
 
-apartamento, casa, quarto, sala, cozinha, banheiro, garagem, vaga, mercado, farmácia, padaria, parque, escola, cama, mesa, cadeira, sofá, geladeira, fogão, armário, bairro, vizinho — **(22 itens, tag `a1.4`)**
+apartamento, casa, quarto, sala, cozinha, banheiro, garagem, vaga, mercado, farmácia, padaria, parque, escola, cama, mesa, cadeira, sofá, geladeira, fogão, armário, bairro, vizinho
 
 ## 3. Gramática em Foco
 

@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "empresa, escritório, restaurante, faculdade, escola, emprego, currículo, entrevista, estágio, aula, professor/professora, aluno/aluna, colega de trabalho, chefe, salário, contrato — **(16 itens, tag `a1.6`)**"
+      "markdown": "empresa, escritório, restaurante, faculdade, escola, emprego, currículo, entrevista, estágio, aula, professor/professora, aluno/aluna, colega de trabalho, chefe, salário, contrato"
     },
     {
       "ordem": 3,
@@ -49,9 +49,7 @@
     }
   ],
   "vocabulario": [],
-  "tagsVocabulario": [
-    "a1.6"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Eu trabalho ___ engenheira.",

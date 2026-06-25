@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| espero que | introduz desejo sobre algo incerto | Espero que você encontre um bom lugar. |\n| recomendo que | introduz uma recomendação | Recomendo que você visite os bairros. |\n| sugiro que | introduz uma sugestão | Sugiro que você pratique todo dia. |\n| é importante que | introduz uma necessidade impessoal | É importante que você abra uma conta. |\n| é preciso que | introduz uma necessidade forte | É preciso que você tenha paciência. |\n| talvez | introduz possibilidade incerta | Talvez seja difícil no início. |\n| duvido que | introduz dúvida/descrença | Duvido que você demore muito. |\n| quero que | introduz desejo direcionado a outra pessoa | Quero que você se sinta bem-vindo. |\n| é bom que | introduz avaliação positiva sobre algo incerto/futuro | É bom que você já tenha amigos aqui. |\n| espero conseguir | expressão de esperança sobre si mesmo | Espero conseguir me adaptar rápido. |\n| combinar com (algo) | ser adequado/compatível com | Espero que combine com seu orçamento. |\n| custo de vida | quantia necessária para viver num lugar | O custo de vida varia muito por bairro. |\n| pé no chão (figurado) | atitude realista/sem expectativas exageradas | É bom manter o pé no chão no início. |\n| se adaptar | se ajustar a uma nova situação | Duvido que demore para se adaptar. |\n\n**(14 itens, tag `b1.6`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| espero que | introduz desejo sobre algo incerto | Espero que você encontre um bom lugar. |\n| recomendo que | introduz uma recomendação | Recomendo que você visite os bairros. |\n| sugiro que | introduz uma sugestão | Sugiro que você pratique todo dia. |\n| é importante que | introduz uma necessidade impessoal | É importante que você abra uma conta. |\n| é preciso que | introduz uma necessidade forte | É preciso que você tenha paciência. |\n| talvez | introduz possibilidade incerta | Talvez seja difícil no início. |\n| duvido que | introduz dúvida/descrença | Duvido que você demore muito. |\n| quero que | introduz desejo direcionado a outra pessoa | Quero que você se sinta bem-vindo. |\n| é bom que | introduz avaliação positiva sobre algo incerto/futuro | É bom que você já tenha amigos aqui. |\n| espero conseguir | expressão de esperança sobre si mesmo | Espero conseguir me adaptar rápido. |\n| combinar com (algo) | ser adequado/compatível com | Espero que combine com seu orçamento. |\n| custo de vida | quantia necessária para viver num lugar | O custo de vida varia muito por bairro. |\n| pé no chão (figurado) | atitude realista/sem expectativas exageradas | É bom manter o pé no chão no início. |\n| se adaptar | se ajustar a uma nova situação | Duvido que demore para se adaptar. |"
     },
     {
       "ordem": 3,
@@ -120,9 +120,7 @@
       "exemplo": "Duvido que demore para se adaptar."
     }
   ],
-  "tagsVocabulario": [
-    "b1.6"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Espero que você ___ (conseguir) se adaptar rápido.",

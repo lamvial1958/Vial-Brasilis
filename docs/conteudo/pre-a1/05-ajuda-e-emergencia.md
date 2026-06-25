@@ -27,7 +27,7 @@
 
 ## 2. Vocabulário
 
-socorro, polícia, ambulância, hospital, perdido(a), dor de cabeça, febre, farmácia, ajuda, emergência, 190, 192, 193, mal-estar — **(14 itens, tag `pre-a1.5`)**
+socorro, polícia, ambulância, hospital, perdido(a), dor de cabeça, febre, farmácia, ajuda, emergência, 190, 192, 193, mal-estar
 
 ## 3. Bloco de Pronúncia
 

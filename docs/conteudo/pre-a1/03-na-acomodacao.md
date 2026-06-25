@@ -26,7 +26,7 @@
 
 ## 2. Vocabulário
 
-quarto, chave, reserva, toalha, travesseiro, lençol, chuveiro, ar-condicionado, wi-fi, recepção, recepcionista, número do quarto, não funciona, problema, malas, elevador — **(16 itens, tag `pre-a1.3`)**
+quarto, chave, reserva, toalha, travesseiro, lençol, chuveiro, ar-condicionado, wi-fi, recepção, recepcionista, número do quarto, não funciona, problema, malas, elevador
 
 ## 3. Bloco de Pronúncia
 

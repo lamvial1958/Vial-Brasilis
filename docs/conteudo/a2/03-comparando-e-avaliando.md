@@ -40,8 +40,6 @@
 | vida noturna | atividades à noite (bares, baladas) | O Rio tem mais vida noturna. |
 | hospedagem | lugar para se alojar | A hospedagem é cara. |
 
-**(12 itens, tag `a2.3`)**
-
 ## 3. Gramática em Foco
 
 **A. Comparativo de superioridade/inferioridade:**

@@ -39,8 +39,6 @@
 | cumprir a tarefa | atender exatamente ao que foi pedido | Cumprir a tarefa é mais importante que só escrever bem. |
 | adequação ao gênero | escrever no formato/tom esperado pelo gênero | A adequação ao gênero é avaliada na correção. |
 
-**(11 itens, tag `b1.1`)**
-
 ## 3. Função & Foco — Sem Item Gramatical Novo
 
 **A. Por que esta unidade não tem gramática nova:** o CELPE-Bras avalia tarefas integradas (compreender um estímulo → produzir um texto adequado), não itens gramaticais isolados. Antes de praticar qualquer estrutura nova do B1, é preciso saber **ler corretamente o que a tarefa pede**.

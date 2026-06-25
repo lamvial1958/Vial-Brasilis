@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| afirmar que | declarar algo com convicção | O gerente afirmou que o projeto estava atrasado. |\n| declarar que | dizer formalmente | A diretora declarou que apoiava a decisão. |\n| perguntar se | relatar uma pergunta de sim/não | A Carla perguntou se haveria recursos. |\n| perguntar o que/quando/como | relatar uma pergunta aberta | Ele perguntou quando entregaríamos o projeto. |\n| responder que | relatar uma resposta | Ele respondeu que veria com a diretoria. |\n| sugerir que | relatar uma sugestão | O gerente sugeriu que revisássemos o prazo. |\n| comentar que | relatar um comentário | Ela comentou que a equipe estava sobrecarregada. |\n| avisar que | relatar um aviso | Ele avisou que a reunião mudaria de horário. |\n| ficou decidido que | relatar uma decisão coletiva | Ficou decidido que a entrega seria adiada. |\n| segundo (alguém) | introduz a fonte de uma informação relatada | Segundo o gerente, o prazo é sexta. |\n| de acordo com | sinônimo formal de \"segundo\" | De acordo com a diretoria, haverá novos recursos. |\n| na ocasião | marca temporal formal para o momento relatado | Na ocasião, ele afirmou que tudo seguia como planejado. |\n\n**(12 itens, tag `b2.2`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| afirmar que | declarar algo com convicção | O gerente afirmou que o projeto estava atrasado. |\n| declarar que | dizer formalmente | A diretora declarou que apoiava a decisão. |\n| perguntar se | relatar uma pergunta de sim/não | A Carla perguntou se haveria recursos. |\n| perguntar o que/quando/como | relatar uma pergunta aberta | Ele perguntou quando entregaríamos o projeto. |\n| responder que | relatar uma resposta | Ele respondeu que veria com a diretoria. |\n| sugerir que | relatar uma sugestão | O gerente sugeriu que revisássemos o prazo. |\n| comentar que | relatar um comentário | Ela comentou que a equipe estava sobrecarregada. |\n| avisar que | relatar um aviso | Ele avisou que a reunião mudaria de horário. |\n| ficou decidido que | relatar uma decisão coletiva | Ficou decidido que a entrega seria adiada. |\n| segundo (alguém) | introduz a fonte de uma informação relatada | Segundo o gerente, o prazo é sexta. |\n| de acordo com | sinônimo formal de \"segundo\" | De acordo com a diretoria, haverá novos recursos. |\n| na ocasião | marca temporal formal para o momento relatado | Na ocasião, ele afirmou que tudo seguia como planejado. |"
     },
     {
       "ordem": 3,
@@ -110,9 +110,7 @@
       "exemplo": "Na ocasião, ele afirmou que tudo seguia como planejado."
     }
   ],
-  "tagsVocabulario": [
-    "b2.2"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. \"Eu vou viajar amanhã.\"",

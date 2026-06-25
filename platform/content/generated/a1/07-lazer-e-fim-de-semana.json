@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "futebol, praia, trilha, filme, leitura, passeio, parque, shopping, festa, jogo, natação, academia, bicicleta, caminhada, churrasco — **(15 itens, tag `a1.7`)**"
+      "markdown": "futebol, praia, trilha, filme, leitura, passeio, parque, shopping, festa, jogo, natação, academia, bicicleta, caminhada, churrasco"
     },
     {
       "ordem": 3,
@@ -49,9 +49,7 @@
     }
   ],
   "vocabulario": [],
-  "tagsVocabulario": [
-    "a1.7"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Eu gosto ___ nadar.",

@@ -24,7 +24,7 @@
 
 ## 2. Vocabulário
 
-cabeça, garganta, nariz, ouvido, barriga, costas, braço, perna, dor, tosse, febre, resfriado, gripe, xarope, remédio, comprimido, entupido(a), espirro — **(18 itens, tag `a1.8`)**
+cabeça, garganta, nariz, ouvido, barriga, costas, braço, perna, dor, tosse, febre, resfriado, gripe, xarope, remédio, comprimido, entupido(a), espirro
 
 ## 3. Gramática em Foco
 

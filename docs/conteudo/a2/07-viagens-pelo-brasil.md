@@ -45,8 +45,6 @@
 | piscina natural | formação de água do mar/rio cercada de rochas/recifes | Conheci as piscinas naturais. |
 | pacote (de viagem) | conjunto de serviços vendidos juntos | Comprei um pacote de viagem. |
 
-**(12 itens, tag `a2.7`)**
-
 ## 3. Gramática em Foco
 
 **A. Futuro perifrástico (plano futuro) — revisão do A1:**

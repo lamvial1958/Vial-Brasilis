@@ -55,8 +55,6 @@
 | retomar contato | voltar a se comunicar depois de um tempo | Adorei retomar contato com você. |
 | corpo do e-mail/carta | parte principal do texto, entre abertura e fecho | O corpo do e-mail tem as novidades. |
 
-**(16 itens, tag `b1.2`)**
-
 ## 3. Função & Gramática em Foco
 
 **A. Estrutura do e-mail/carta pessoal informal:**

@@ -3,7 +3,13 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #0f2744;
+
+  --brand-navy:  #0f2744;
+  --brand-blue:  #2f7fc1;
+  --brand-coral: #d9624a;
+  --brand-green: #1a6b3a;
+  --brand-surface: #f4f7fb;
 }
 
 @theme inline {
@@ -13,12 +19,6 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
 
 body {
   background: var(--background);

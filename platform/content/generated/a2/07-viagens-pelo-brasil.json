@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| reserva | confirmação prévia de um serviço | Fiz a reserva do hotel. |\n| hospedagem | lugar onde se fica durante a viagem | A hospedagem foi ótima. |\n| pousada | hospedagem pequena, geralmente turística | Fiquei numa pousada na praia. |\n| orla | faixa litorânea de uma cidade | A pousada fica na orla. |\n| alugar (carro) | usar um veículo temporariamente, pagando | Aluguei um carro para a viagem. |\n| voo | trajeto de avião | O voo atrasou uma hora. |\n| atraso | demora além do previsto | Pegamos atraso no voo. |\n| se deslocar | se mover de um lugar a outro | Como você vai se deslocar? |\n| região (do Brasil) | parte geográfica do país | O Nordeste é uma região. |\n| litoral | faixa de terra próxima ao mar | O litoral baiano é famoso. |\n| piscina natural | formação de água do mar/rio cercada de rochas/recifes | Conheci as piscinas naturais. |\n| pacote (de viagem) | conjunto de serviços vendidos juntos | Comprei um pacote de viagem. |\n\n**(12 itens, tag `a2.7`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| reserva | confirmação prévia de um serviço | Fiz a reserva do hotel. |\n| hospedagem | lugar onde se fica durante a viagem | A hospedagem foi ótima. |\n| pousada | hospedagem pequena, geralmente turística | Fiquei numa pousada na praia. |\n| orla | faixa litorânea de uma cidade | A pousada fica na orla. |\n| alugar (carro) | usar um veículo temporariamente, pagando | Aluguei um carro para a viagem. |\n| voo | trajeto de avião | O voo atrasou uma hora. |\n| atraso | demora além do previsto | Pegamos atraso no voo. |\n| se deslocar | se mover de um lugar a outro | Como você vai se deslocar? |\n| região (do Brasil) | parte geográfica do país | O Nordeste é uma região. |\n| litoral | faixa de terra próxima ao mar | O litoral baiano é famoso. |\n| piscina natural | formação de água do mar/rio cercada de rochas/recifes | Conheci as piscinas naturais. |\n| pacote (de viagem) | conjunto de serviços vendidos juntos | Comprei um pacote de viagem. |"
     },
     {
       "ordem": 3,
@@ -110,9 +110,7 @@
       "exemplo": "Comprei um pacote de viagem."
     }
   ],
-  "tagsVocabulario": [
-    "a2.7"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "**Exercício 1 — Transforme o plano em relato (futuro",

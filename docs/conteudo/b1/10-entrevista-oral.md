@@ -38,8 +38,6 @@
 | apesar de | introduz contraste concessivo (revisão) | Apesar das dificuldades, foi positivo. |
 | ao meu ver | fórmula alternativa de opinião pessoal | Ao meu ver, a adaptação foi rápida. |
 
-**(12 itens, tag `b1.10`)**
-
 ## 3. Função & Foco — Estratégias de Interação Oral (sem item gramatical novo)
 
 **A. Por que esta unidade não tem gramática nova:** o objetivo é fluência e naturalidade na interação — a parte oral do CELPE-Bras avalia a capacidade de manter uma conversa real com o entrevistador, não um monólogo decorado.

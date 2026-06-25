@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| prezados senhores | saudação formal a destinatário institucional | Prezados Senhores, venho relatar... |\n| venho por meio desta | fórmula formal de abertura de propósito | Venho por meio desta solicitar... |\n| relatar | informar formalmente um fato/problema | Venho relatar um problema com o pedido. |\n| adquirido/adquirida | comprado (registro formal) | O produto adquirido apresentou defeito. |\n| apresentar defeito | ter um problema técnico | O liquidificador apresentou defeito no motor. |\n| solicitar | pedir formalmente | Solicito a troca do produto. |\n| reembolso | devolução do dinheiro pago | Peço o reembolso integral do valor. |\n| reembolso integral | devolução total do valor | Solicito o reembolso integral. |\n| garantia | período de proteção contra defeitos | O prazo de garantia ainda está válido. |\n| prazo | período de tempo limite | O prazo de garantia é de 90 dias. |\n| protocolo (de atendimento) | número de registro do caso | Anote o número de protocolo. |\n| reparo | conserto de um produto com defeito | Solicito o reparo ou a troca. |\n| aguardar retorno | esperar uma resposta | Aguardo retorno em breve. |\n| atenciosamente | fórmula de fecho formal | Atenciosamente, Marina Costa. |\n| cordialmente | fórmula de fecho formal, levemente menos rígida | Cordialmente, José Lima. |\n| em anexo | junto ao documento, como arquivo extra | Envio em anexo a nota fiscal. |\n| nota fiscal | documento que comprova a compra | Anexei a nota fiscal à reclamação. |\n| no prazo previsto | dentro do tempo estabelecido | A troca deve ocorrer no prazo previsto. |\n\n**(18 itens, tag `b1.3`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| prezados senhores | saudação formal a destinatário institucional | Prezados Senhores, venho relatar... |\n| venho por meio desta | fórmula formal de abertura de propósito | Venho por meio desta solicitar... |\n| relatar | informar formalmente um fato/problema | Venho relatar um problema com o pedido. |\n| adquirido/adquirida | comprado (registro formal) | O produto adquirido apresentou defeito. |\n| apresentar defeito | ter um problema técnico | O liquidificador apresentou defeito no motor. |\n| solicitar | pedir formalmente | Solicito a troca do produto. |\n| reembolso | devolução do dinheiro pago | Peço o reembolso integral do valor. |\n| reembolso integral | devolução total do valor | Solicito o reembolso integral. |\n| garantia | período de proteção contra defeitos | O prazo de garantia ainda está válido. |\n| prazo | período de tempo limite | O prazo de garantia é de 90 dias. |\n| protocolo (de atendimento) | número de registro do caso | Anote o número de protocolo. |\n| reparo | conserto de um produto com defeito | Solicito o reparo ou a troca. |\n| aguardar retorno | esperar uma resposta | Aguardo retorno em breve. |\n| atenciosamente | fórmula de fecho formal | Atenciosamente, Marina Costa. |\n| cordialmente | fórmula de fecho formal, levemente menos rígida | Cordialmente, José Lima. |\n| em anexo | junto ao documento, como arquivo extra | Envio em anexo a nota fiscal. |\n| nota fiscal | documento que comprova a compra | Anexei a nota fiscal à reclamação. |\n| no prazo previsto | dentro do tempo estabelecido | A troca deve ocorrer no prazo previsto. |"
     },
     {
       "ordem": 3,
@@ -140,9 +140,7 @@
       "exemplo": "A troca deve ocorrer no prazo previsto."
     }
   ],
-  "tagsVocabulario": [
-    "b1.3"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "\"Quero trocar o produto porque ele tá com defeito.\"",

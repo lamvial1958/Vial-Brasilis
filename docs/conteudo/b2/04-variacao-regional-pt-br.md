@@ -48,8 +48,6 @@
 | sotaque gaúcho | pronúncia característica do Rio Grande do Sul (influência italiana/espanhola) | Rio Grande do Sul | regional |
 | sotaque caipira | pronúncia característica do interior de SP/MG/GO (retroflexo no "r") | interior Sudeste/Centro-Oeste | regional |
 
-**(20 itens, tag `regional`)**
-
 ## 3. Função & Gramática em Foco
 
 **A. Variação pronominal regional — "tu" com conjugação própria × "você":**

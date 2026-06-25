@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| ontem | dia anterior a hoje | Ontem eu trabalhei até tarde. |\n| anteontem | dois dias antes de hoje | Anteontem choveu muito. |\n| semana passada | a semana anterior | Semana passada eu viajei. |\n| mês passado | o mês anterior | Mês passado eu mudei de casa. |\n| há dois dias | tempo decorrido desde um evento | Há dois dias eu não durmo bem. |\n| de manhã | período da manhã | De manhã eu corri no parque. |\n| à tarde | período da tarde | À tarde eu estudei. |\n| à noite | período da noite | À noite eu jantei fora. |\n| no final de semana | sábado e domingo | No final de semana eu descansei. |\n| visitar | ir ver um lugar/pessoa | Eu visitei minha avó. |\n| caminhar | andar a pé, sem pressa | Eu caminhei na praia. |\n| descansar | não trabalhar, relaxar | Eu descansei o dia todo. |\n| ligar (para alguém) | telefonar | Eu liguei para minha mãe. |\n| provar (comida) | experimentar pela primeira vez | Eu provei um prato novo. |\n| churrascaria | restaurante de carne grelhada | Jantamos numa churrascaria. |\n| feira | mercado ao ar livre | Compramos frutas na feira. |\n\n**(16 itens, tag `a2.1`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| ontem | dia anterior a hoje | Ontem eu trabalhei até tarde. |\n| anteontem | dois dias antes de hoje | Anteontem choveu muito. |\n| semana passada | a semana anterior | Semana passada eu viajei. |\n| mês passado | o mês anterior | Mês passado eu mudei de casa. |\n| há dois dias | tempo decorrido desde um evento | Há dois dias eu não durmo bem. |\n| de manhã | período da manhã | De manhã eu corri no parque. |\n| à tarde | período da tarde | À tarde eu estudei. |\n| à noite | período da noite | À noite eu jantei fora. |\n| no final de semana | sábado e domingo | No final de semana eu descansei. |\n| visitar | ir ver um lugar/pessoa | Eu visitei minha avó. |\n| caminhar | andar a pé, sem pressa | Eu caminhei na praia. |\n| descansar | não trabalhar, relaxar | Eu descansei o dia todo. |\n| ligar (para alguém) | telefonar | Eu liguei para minha mãe. |\n| provar (comida) | experimentar pela primeira vez | Eu provei um prato novo. |\n| churrascaria | restaurante de carne grelhada | Jantamos numa churrascaria. |\n| feira | mercado ao ar livre | Compramos frutas na feira. |"
     },
     {
       "ordem": 3,
@@ -130,9 +130,7 @@
       "exemplo": "Compramos frutas na feira."
     }
   ],
-  "tagsVocabulario": [
-    "a2.1"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Eu ___ (visitar) o Mercado Municipal.",

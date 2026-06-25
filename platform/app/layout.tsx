@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Português Brasil — Curso de PLE",
-  description: "Curso de Português como Língua Estrangeira (PRE-A1 a B2)",
+  title: "VIAL Brasilis — Português do Brasil para Estrangeiros",
+  description: "Curso estruturado de PLE do PRE-A1 ao B2, com revisão espaçada e simulados no formato CELPE-Bras.",
 };
 
 export default function RootLayout({

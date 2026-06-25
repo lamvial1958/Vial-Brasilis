@@ -41,8 +41,6 @@
 | postura (numa discussão) | posição/comportamento adotado | Sua postura no debate foi respeitosa. |
 | ceder (num argumento) | admitir parcialmente o ponto do outro | Ela cedeu nesse ponto específico. |
 
-**(16 itens, tag `b1.9`)**
-
 ## 3. Função & Gramática em Foco
 
 **A. Subjuntivo em concessões — conectores e uso:**

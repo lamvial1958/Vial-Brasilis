@@ -41,8 +41,6 @@
 | decisão de peso | decisão importante | Mudar de emprego é uma decisão de peso. |
 | ficar sem culpa | decidir sem remorso | Eu aceitaria sem culpa. |
 
-**(14 itens, tag `b2.1`)**
-
 ## 3. Gramática em Foco
 
 **A. Subjuntivo imperfeito — formação:** parte da 3ª pessoa do plural do pretérito perfeito, retira-se "-ram" e acrescentam-se as terminações -sse/-sses/-sse/-ssemos/-ssem.

@@ -42,8 +42,6 @@
 | açaí | fruta amazônica, geralmente servida como creme/sorvete | Tomei açaí na praia. |
 | dendê | óleo de palma usado na cozinha baiana | A moqueca tem azeite de dendê. |
 
-**(15 itens, tag `a2.8`)**
-
 ## 3. Gramática em Foco
 
 **A. Adjetivos de sabor e textura — concordância de gênero/número:**
@@ -60,7 +58,7 @@
 | (eu) nunca tinha + participio | Eu nunca tinha comido feijoada antes. |
 | (eu) já tinha + participio | Eu já tinha provado açaí antes. |
 
-> **Nota:** este tempo verbal (pretérito mais-que-perfeito composto) será produzido ativamente apenas no B1/B2. Aqui o objetivo é apenas reconhecer e entender o sentido — "algo que aconteceu (ou não) antes de outro momento do passado" — usando os chunks fixos "nunca tinha + participado" e "já tinha + participado".
+> **Nota:** este tempo verbal (pretérito mais-que-perfeito composto) será produzido ativamente apenas no B1/B2. Aqui o objetivo é apenas reconhecer e entender o sentido — "algo que aconteceu (ou não) antes de outro momento do passado" — usando as expressões fixas "nunca tinha + participado" e "já tinha + participado".
 
 ## 4. Bloco de Pronúncia
 

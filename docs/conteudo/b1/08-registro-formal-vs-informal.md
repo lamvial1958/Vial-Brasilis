@@ -55,8 +55,6 @@
 | providenciar | dar um jeito (informal) | registro |
 | danos | estrago/prejuízo (informal) | registro |
 
-**(20 itens, tag `registro`, cruzando vocabulário de B1.2 e B1.3)**
-
 ## 3. Função & Gramática em Foco
 
 **A. Pronomes de tratamento por grau de formalidade:**

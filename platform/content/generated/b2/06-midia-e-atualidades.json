@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| divulgar (dados/resultado) | tornar público um dado/resultado | O instituto divulgou os dados hoje. |\n| alertar que | avisar com tom de preocupação | Especialistas alertam que a situação é instável. |\n| ângulo (de uma notícia) | perspectiva/ponto de vista adotado | A notícia tem dois ângulos em tensão. |\n| cobertura (jornalística) | conjunto de notícias sobre um tema | A cobertura econômica foi intensa essa semana. |\n| fonte (de informação) | pessoa/instituição de onde vem a informação | A fonte da notícia é o instituto de pesquisa. |\n| viés (de uma notícia/análise) | tendência/inclinação não neutra | É preciso identificar o viés de cada fonte. |\n| dado (estatístico) | informação numérica usada como evidência | Os dados mostram uma queda no desemprego. |\n| em sua maioria | majoritariamente | Os empregos são, em sua maioria, informais. |\n| questionar (uma informação) | colocar em dúvida, pedir esclarecimento | Especialistas questionam a qualidade dos dados. |\n| pauta (jornalística) | tema escolhido para ser noticiado | Essa pauta ganhou destaque essa semana. |\n| repercussão | reação/impacto causado por uma notícia | A notícia teve grande repercussão. |\n| posicionamento (de uma fonte) | opinião/posição declarada | O posicionamento do ministro foi otimista. |\n| nuance | detalhe sutil que matiza uma afirmação | A notícia tem nuances que vão além do número. |\n| síntese crítica | resumo que inclui análise, não só fatos | Faça uma síntese crítica da reportagem. |\n| editorial (de jornal) | texto de opinião institucional de um veículo | O editorial criticou a falta de transparência. |\n\n**(15 itens, tag `b2.6`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| divulgar (dados/resultado) | tornar público um dado/resultado | O instituto divulgou os dados hoje. |\n| alertar que | avisar com tom de preocupação | Especialistas alertam que a situação é instável. |\n| ângulo (de uma notícia) | perspectiva/ponto de vista adotado | A notícia tem dois ângulos em tensão. |\n| cobertura (jornalística) | conjunto de notícias sobre um tema | A cobertura econômica foi intensa essa semana. |\n| fonte (de informação) | pessoa/instituição de onde vem a informação | A fonte da notícia é o instituto de pesquisa. |\n| viés (de uma notícia/análise) | tendência/inclinação não neutra | É preciso identificar o viés de cada fonte. |\n| dado (estatístico) | informação numérica usada como evidência | Os dados mostram uma queda no desemprego. |\n| em sua maioria | majoritariamente | Os empregos são, em sua maioria, informais. |\n| questionar (uma informação) | colocar em dúvida, pedir esclarecimento | Especialistas questionam a qualidade dos dados. |\n| pauta (jornalística) | tema escolhido para ser noticiado | Essa pauta ganhou destaque essa semana. |\n| repercussão | reação/impacto causado por uma notícia | A notícia teve grande repercussão. |\n| posicionamento (de uma fonte) | opinião/posição declarada | O posicionamento do ministro foi otimista. |\n| nuance | detalhe sutil que matiza uma afirmação | A notícia tem nuances que vão além do número. |\n| síntese crítica | resumo que inclui análise, não só fatos | Faça uma síntese crítica da reportagem. |\n| editorial (de jornal) | texto de opinião institucional de um veículo | O editorial criticou a falta de transparência. |"
     },
     {
       "ordem": 3,
@@ -125,9 +125,7 @@
       "exemplo": "O editorial criticou a falta de transparência."
     }
   ],
-  "tagsVocabulario": [
-    "b2.6"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. O ministro ___ que a economia está se recuperando. (declaração segura)",

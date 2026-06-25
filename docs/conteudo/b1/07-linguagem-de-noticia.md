@@ -43,8 +43,6 @@
 | previsão (de prazo/data) | estimativa de quando algo vai acontecer | A previsão é de conclusão em um ano. |
 | impacto (social/ambiental) | efeito de uma ação sobre algo/alguém | O impacto da obra foi positivo. |
 
-**(16 itens, tag `b1.7`)**
-
 ## 3. Função & Gramática em Foco
 
 **A. Voz passiva — formação:**

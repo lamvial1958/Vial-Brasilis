@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| dor de cabeça | dor na cabeça | Estou com dor de cabeça. |\n| febre | temperatura corporal alta | Estou com febre. |\n| tosse | reflexo respiratório repetido | Tenho tosse há três dias. |\n| dor nas costas | dor na região dorsal | Sinto dor nas costas. |\n| sintoma | sinal de que algo não está bem no corpo | Quais são seus sintomas? |\n| remédio | medicamento | O médico passou um remédio. |\n| receita (médica) | papel com a indicação do remédio | Preciso da receita para comprar. |\n| exame | procedimento de diagnóstico | É melhor fazer um exame. |\n| esforço físico | atividade que exige energia do corpo | Evite esforço físico. |\n| clínico geral | médico de atendimento geral | Fui ao clínico geral. |\n| pediatra | médico especialista em crianças | A pediatra examinou a criança. |\n| dermatologista | médico especialista em pele | Marquei com a dermatologista. |\n| baixar (a febre) | diminuir | A febre não baixou ainda. |\n\n**(13 itens, tag `a2.6`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| dor de cabeça | dor na cabeça | Estou com dor de cabeça. |\n| febre | temperatura corporal alta | Estou com febre. |\n| tosse | reflexo respiratório repetido | Tenho tosse há três dias. |\n| dor nas costas | dor na região dorsal | Sinto dor nas costas. |\n| sintoma | sinal de que algo não está bem no corpo | Quais são seus sintomas? |\n| remédio | medicamento | O médico passou um remédio. |\n| receita (médica) | papel com a indicação do remédio | Preciso da receita para comprar. |\n| exame | procedimento de diagnóstico | É melhor fazer um exame. |\n| esforço físico | atividade que exige energia do corpo | Evite esforço físico. |\n| clínico geral | médico de atendimento geral | Fui ao clínico geral. |\n| pediatra | médico especialista em crianças | A pediatra examinou a criança. |\n| dermatologista | médico especialista em pele | Marquei com a dermatologista. |\n| baixar (a febre) | diminuir | A febre não baixou ainda. |"
     },
     {
       "ordem": 3,
@@ -115,9 +115,7 @@
       "exemplo": "A febre não baixou ainda."
     }
   ],
-  "tagsVocabulario": [
-    "a2.6"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. ___ quando você está com febre?",

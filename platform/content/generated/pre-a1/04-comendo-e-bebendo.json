@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "cardápio, conta, água, suco, café, pão de queijo, prato do dia, garçom, atendente, alérgico a, amendoim, para comer aqui, para levar, quanto custa, real/reais, copo, prato, colher, garfo, faca, guardanapo, gorjeta — **(22 itens, tag `pre-a1.4`)**"
+      "markdown": "cardápio, conta, água, suco, café, pão de queijo, prato do dia, garçom, atendente, alérgico a, amendoim, para comer aqui, para levar, quanto custa, real/reais, copo, prato, colher, garfo, faca, guardanapo, gorjeta"
     },
     {
       "ordem": 3,
@@ -44,9 +44,7 @@
     }
   ],
   "vocabulario": [],
-  "tagsVocabulario": [
-    "pre-a1.4"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Eu ___ um café.",

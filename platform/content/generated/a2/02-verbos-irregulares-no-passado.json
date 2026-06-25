@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| mudança | troca de lugar/situação | Foi uma mudança grande. |\n| no início | nos primeiros momentos | No início foi difícil. |\n| sozinho/sozinha | sem companhia | Eu estive sozinha. |\n| experiência | vivência, fato vivido | Tive uma experiência ótima. |\n| incrível | muito bom, surpreendente | Vi lugares incríveis. |\n| ainda não | até agora, não | Ainda não voltei. |\n| desde então | a partir daquele momento | Desde então, tudo mudou. |\n| ano que vem | o próximo ano | Quero ir no ano que vem. |\n| festa | evento social/comemoração | Eu fui a muitas festas. |\n| conhecer (pessoas) | fazer contato por primeira vez | Conheci pessoas novas. |\n\n**(10 itens, tag `a2.2`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| mudança | troca de lugar/situação | Foi uma mudança grande. |\n| no início | nos primeiros momentos | No início foi difícil. |\n| sozinho/sozinha | sem companhia | Eu estive sozinha. |\n| experiência | vivência, fato vivido | Tive uma experiência ótima. |\n| incrível | muito bom, surpreendente | Vi lugares incríveis. |\n| ainda não | até agora, não | Ainda não voltei. |\n| desde então | a partir daquele momento | Desde então, tudo mudou. |\n| ano que vem | o próximo ano | Quero ir no ano que vem. |\n| festa | evento social/comemoração | Eu fui a muitas festas. |\n| conhecer (pessoas) | fazer contato por primeira vez | Conheci pessoas novas. |"
     },
     {
       "ordem": 3,
@@ -100,9 +100,7 @@
       "exemplo": "Conheci pessoas novas."
     }
   ],
-  "tagsVocabulario": [
-    "a2.2"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Eu ___ (vir) para o Brasil em 2022.",

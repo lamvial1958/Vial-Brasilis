@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| de repente | de forma súbita/inesperada | De repente, o ônibus parou. |\n| naquele momento | em um instante específico da narrativa | Naquele momento, pensei que ia atrasar. |\n| enquanto | durante o mesmo período (simultaneidade) | Enquanto eu esperava, liguei para o escritório. |\n| no final | na conclusão dos eventos | No final, deu tudo certo. |\n| para minha surpresa | introduz um fato inesperado | Para minha surpresa, ele resolveu rápido. |\n| de início | no começo da situação | De início, achei que seria um desastre. |\n| por sorte | indicando um evento favorável por acaso | Por sorte, o motorista resolveu rápido. |\n| dar um problema | algo parar de funcionar/falhar | O ônibus deu um problema mecânico. |\n| estar com pressa | precisar se apressar | Eu estava com pressa naquele dia. |\n| chegar atrasado/a | não chegar no horário previsto | Cheguei atrasada na reunião. |\n| confesso que | introduz uma admissão pessoal | Confesso que fiquei nervosa. |\n| no meio do caminho | em um ponto intermediário do percurso | O ônibus parou no meio do caminho. |\n\n**(12 itens, tag `b1.5`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| de repente | de forma súbita/inesperada | De repente, o ônibus parou. |\n| naquele momento | em um instante específico da narrativa | Naquele momento, pensei que ia atrasar. |\n| enquanto | durante o mesmo período (simultaneidade) | Enquanto eu esperava, liguei para o escritório. |\n| no final | na conclusão dos eventos | No final, deu tudo certo. |\n| para minha surpresa | introduz um fato inesperado | Para minha surpresa, ele resolveu rápido. |\n| de início | no começo da situação | De início, achei que seria um desastre. |\n| por sorte | indicando um evento favorável por acaso | Por sorte, o motorista resolveu rápido. |\n| dar um problema | algo parar de funcionar/falhar | O ônibus deu um problema mecânico. |\n| estar com pressa | precisar se apressar | Eu estava com pressa naquele dia. |\n| chegar atrasado/a | não chegar no horário previsto | Cheguei atrasada na reunião. |\n| confesso que | introduz uma admissão pessoal | Confesso que fiquei nervosa. |\n| no meio do caminho | em um ponto intermediário do percurso | O ônibus parou no meio do caminho. |"
     },
     {
       "ordem": 3,
@@ -110,9 +110,7 @@
       "exemplo": "O ônibus parou no meio do caminho."
     }
   ],
-  "tagsVocabulario": [
-    "b1.5"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "\"Eu estava tranquilo em casa. ___, o telefone tocou e era uma notícia urgente.\"",

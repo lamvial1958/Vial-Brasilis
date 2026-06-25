@@ -40,8 +40,6 @@
 | pé no chão (figurado) | atitude realista/sem expectativas exageradas | É bom manter o pé no chão no início. |
 | se adaptar | se ajustar a uma nova situação | Duvido que demore para se adaptar. |
 
-**(14 itens, tag `b1.6`)**
-
 ## 3. Gramática em Foco
 
 **A. Formação do subjuntivo presente — verbos regulares:**

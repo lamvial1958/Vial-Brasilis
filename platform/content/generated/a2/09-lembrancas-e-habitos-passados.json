@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| antes | em tempo anterior | Antes eu morava com meus pais. |\n| agora | no presente | Agora eu moro sozinho. |\n| sempre | em todas as ocasiões (no passado, hábito) | Eu sempre comia fora. |\n| quase nunca | raramente | Quase nunca cozinhava. |\n| sentir falta (de) | ter saudade | Eu sentia falta da minha família. |\n| se acostumar (com) | se adaptar | Com o tempo eu me acostumei. |\n| tempo livre | momento sem obrigações | O que você fazia no tempo livre? |\n| mudar (de vida/rotina) | transformar-se | Mudou tudo na minha vida. |\n| costume | hábito, prática repetida | Era costume jantar tarde. |\n| no meu país | referência ao local de origem | No meu país era diferente. |\n\n**(10 itens, tag `a2.9`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| antes | em tempo anterior | Antes eu morava com meus pais. |\n| agora | no presente | Agora eu moro sozinho. |\n| sempre | em todas as ocasiões (no passado, hábito) | Eu sempre comia fora. |\n| quase nunca | raramente | Quase nunca cozinhava. |\n| sentir falta (de) | ter saudade | Eu sentia falta da minha família. |\n| se acostumar (com) | se adaptar | Com o tempo eu me acostumei. |\n| tempo livre | momento sem obrigações | O que você fazia no tempo livre? |\n| mudar (de vida/rotina) | transformar-se | Mudou tudo na minha vida. |\n| costume | hábito, prática repetida | Era costume jantar tarde. |\n| no meu país | referência ao local de origem | No meu país era diferente. |"
     },
     {
       "ordem": 3,
@@ -100,9 +100,7 @@
       "exemplo": "No meu país era diferente."
     }
   ],
-  "tagsVocabulario": [
-    "a2.9"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Antes eu ___ (morar) com meus pais.",

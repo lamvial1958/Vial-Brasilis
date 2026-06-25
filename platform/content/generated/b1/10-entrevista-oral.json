@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| então (marcador de início de fala) | preenche o início da resposta, ganhando tempo | Então, eu vim para o Brasil há dois anos. |\n| quer dizer | introduz uma reformulação | Quer dizer, na verdade, eu já queria vir antes. |\n| na verdade | corrige/precisa uma afirmação anterior | Na verdade, foi diferente do que parece. |\n| ou melhor | introduz uma correção mais precisa | Eu morei lá um ano, ou melhor, um ano e meio. |\n| deixa eu pensar | pede uma pausa para organizar a resposta | Deixa eu pensar... foi em 2022. |\n| olha | marcador de abertura de resposta, ganha tempo | Olha, essa é uma boa pergunta. |\n| como assim? | pede esclarecimento sobre o sentido da pergunta | Como assim, \"adaptação\"? Pode explicar? |\n| pode repetir? | pede repetição da pergunta/fala | Desculpa, você pode repetir a pergunta? |\n| não entendi bem | sinaliza falta de compreensão parcial | Desculpa, não entendi bem essa parte. |\n| sem problema | resposta cortês a um pedido | Claro, sem problema. |\n| apesar de | introduz contraste concessivo (revisão) | Apesar das dificuldades, foi positivo. |\n| ao meu ver | fórmula alternativa de opinião pessoal | Ao meu ver, a adaptação foi rápida. |\n\n**(12 itens, tag `b1.10`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| então (marcador de início de fala) | preenche o início da resposta, ganhando tempo | Então, eu vim para o Brasil há dois anos. |\n| quer dizer | introduz uma reformulação | Quer dizer, na verdade, eu já queria vir antes. |\n| na verdade | corrige/precisa uma afirmação anterior | Na verdade, foi diferente do que parece. |\n| ou melhor | introduz uma correção mais precisa | Eu morei lá um ano, ou melhor, um ano e meio. |\n| deixa eu pensar | pede uma pausa para organizar a resposta | Deixa eu pensar... foi em 2022. |\n| olha | marcador de abertura de resposta, ganha tempo | Olha, essa é uma boa pergunta. |\n| como assim? | pede esclarecimento sobre o sentido da pergunta | Como assim, \"adaptação\"? Pode explicar? |\n| pode repetir? | pede repetição da pergunta/fala | Desculpa, você pode repetir a pergunta? |\n| não entendi bem | sinaliza falta de compreensão parcial | Desculpa, não entendi bem essa parte. |\n| sem problema | resposta cortês a um pedido | Claro, sem problema. |\n| apesar de | introduz contraste concessivo (revisão) | Apesar das dificuldades, foi positivo. |\n| ao meu ver | fórmula alternativa de opinião pessoal | Ao meu ver, a adaptação foi rápida. |"
     },
     {
       "ordem": 3,
@@ -110,9 +110,7 @@
       "exemplo": "Ao meu ver, a adaptação foi rápida."
     }
   ],
-  "tagsVocabulario": [
-    "b1.10"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. (ganhar tempo antes de responder)",

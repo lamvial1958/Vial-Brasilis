@@ -51,8 +51,6 @@
 | escalar (um problema) | levar a um nível hierárquico superior | Se não resolvermos, vamos escalar para a diretoria. |
 | ponto de atenção | aspecto que requer cuidado especial | Um ponto de atenção é o orçamento extra. |
 
-**(20 itens, tag `b2.5`)**
-
 ## 3. Função & Gramática em Foco
 
 **A. Registro profissional consolidado — retomada de B1.8 em contexto corporativo:**

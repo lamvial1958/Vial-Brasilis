@@ -38,8 +38,6 @@
 | costume | hábito, prática repetida | Era costume jantar tarde. |
 | no meu país | referência ao local de origem | No meu país era diferente. |
 
-**(10 itens, tag `a2.9`)**
-
 ## 3. Gramática em Foco
 
 **A. Pretérito imperfeito — verbos regulares (-ar, -er, -ir):**

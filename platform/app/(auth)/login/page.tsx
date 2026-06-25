@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import {
   signInWithEmailAndPassword,
   signInWithPopup,
@@ -66,53 +67,63 @@ export default function LoginPage() {
   }
 
   return (
-    <main className="mx-auto max-w-sm py-16 px-4">
-      <h1 className="text-2xl font-semibold mb-6">Entrar</h1>
-      <form onSubmit={handleSubmit} className="space-y-4">
-        <input
-          type="email"
-          required
-          placeholder="E-mail"
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
-          className="w-full border rounded px-3 py-2"
-        />
-        <input
-          type="password"
-          required
-          placeholder="Senha"
-          value={senha}
-          onChange={(e) => setSenha(e.target.value)}
-          className="w-full border rounded px-3 py-2"
-        />
-        {erro && <p className="text-red-600 text-sm">{erro}</p>}
+    <main className="min-h-[calc(100vh-57px)] bg-[#f4f7fb] flex items-center justify-center px-4 py-12">
+      <div className="w-full max-w-sm bg-white rounded-2xl border border-slate-200 shadow-sm p-8">
+        <div className="flex flex-col items-center mb-7">
+          <Image src="/logo.png" alt="VIAL Brasilis" width={52} height={52} className="rounded-xl mb-3" />
+          <h1 className="text-xl font-bold text-[#0f2744]">Entrar</h1>
+          <p className="text-sm text-slate-400 mt-0.5">VIAL Brasilis · V&amp;M</p>
+        </div>
+
         <button
-          type="submit"
+          onClick={handleGoogle}
           disabled={carregando}
-          className="w-full bg-black text-white rounded px-3 py-2 disabled:opacity-50"
+          className="w-full flex items-center justify-center gap-2 border border-slate-200 rounded-lg px-3 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-50 disabled:opacity-50 transition-colors mb-4"
         >
-          {carregando ? "Entrando..." : "Entrar"}
+          <GoogleIcon />
+          Entrar com Google
         </button>
-      </form>
 
-      <div className="flex items-center gap-2 my-4">
-        <hr className="flex-1 border-gray-200" />
-        <span className="text-sm text-gray-400">ou</span>
-        <hr className="flex-1 border-gray-200" />
+        <div className="flex items-center gap-2 mb-4">
+          <hr className="flex-1 border-slate-200" />
+          <span className="text-xs text-slate-400">ou</span>
+          <hr className="flex-1 border-slate-200" />
+        </div>
+
+        <form onSubmit={handleSubmit} className="space-y-3">
+          <input
+            type="email"
+            required
+            placeholder="E-mail"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            className="w-full border border-slate-200 rounded-lg px-3 py-2.5 text-sm outline-none focus:border-[#2f7fc1] focus:ring-1 focus:ring-[#2f7fc1] transition"
+          />
+          <input
+            type="password"
+            required
+            placeholder="Senha"
+            value={senha}
+            onChange={(e) => setSenha(e.target.value)}
+            className="w-full border border-slate-200 rounded-lg px-3 py-2.5 text-sm outline-none focus:border-[#2f7fc1] focus:ring-1 focus:ring-[#2f7fc1] transition"
+          />
+          {erro && <p className="text-red-600 text-xs">{erro}</p>}
+          <button
+            type="submit"
+            disabled={carregando}
+            className="w-full bg-[#0f2744] text-white rounded-lg px-3 py-2.5 text-sm font-semibold hover:bg-[#1a3a5c] disabled:opacity-50 transition-colors"
+          >
+            {carregando ? "Entrando…" : "Entrar com e-mail"}
+          </button>
+        </form>
+
+        <p className="mt-5 text-center text-xs text-slate-400">
+          Ainda não tem conta?{" "}
+          <a href="/cadastro" className="text-[#2f7fc1] font-medium hover:underline">
+            Criar conta
+          </a>
+        </p>
       </div>
-
-      <button
-        onClick={handleGoogle}
-        disabled={carregando}
-        className="w-full flex items-center justify-center gap-2 border rounded px-3 py-2 text-sm hover:bg-gray-50 disabled:opacity-50"
-      >
-        <GoogleIcon />
-        Entrar com Google
-      </button>
-
-      <p className="mt-4 text-sm">
-        Ainda não tem conta? <a href="/cadastro" className="underline">Criar conta</a>
-      </p>
     </main>
   );
 }

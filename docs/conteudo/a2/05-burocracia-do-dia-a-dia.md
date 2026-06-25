@@ -41,8 +41,6 @@
 | repartição (pública) | órgão público de atendimento | Fui à repartição renovar o documento. |
 | encomenda | pacote/correspondência | Vou retirar uma encomenda no correio. |
 
-**(11 itens, tag `a2.5`)**
-
 ## 3. Gramática em Foco
 
 **A. Linguagem formal de pedido:**

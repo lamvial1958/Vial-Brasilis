@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "quarto, chave, reserva, toalha, travesseiro, lençol, chuveiro, ar-condicionado, wi-fi, recepção, recepcionista, número do quarto, não funciona, problema, malas, elevador — **(16 itens, tag `pre-a1.3`)**"
+      "markdown": "quarto, chave, reserva, toalha, travesseiro, lençol, chuveiro, ar-condicionado, wi-fi, recepção, recepcionista, número do quarto, não funciona, problema, malas, elevador"
     },
     {
       "ordem": 3,
@@ -44,9 +44,7 @@
     }
   ],
   "vocabulario": [],
-  "tagsVocabulario": [
-    "pre-a1.3"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Você tem ___?",

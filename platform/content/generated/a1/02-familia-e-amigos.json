@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "pai, mãe, irmão, irmã, filho, filha, avô, avó, tio, tia, primo, prima, sobrinho, sobrinha, marido, esposa, namorado, namorada, amigo, amiga, alto/alta, baixo/baixa, simpático/simpática, parecido/parecida — **(24 itens, tag `a1.2`)**"
+      "markdown": "pai, mãe, irmão, irmã, filho, filha, avô, avó, tio, tia, primo, prima, sobrinho, sobrinha, marido, esposa, namorado, namorada, amigo, amiga, alto/alta, baixo/baixa, simpático/simpática, parecido/parecida"
     },
     {
       "ordem": 3,
@@ -49,9 +49,7 @@
     }
   ],
   "vocabulario": [],
-  "tagsVocabulario": [
-    "a1.2"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Essa é a ___ mãe.",

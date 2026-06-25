@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| embora | introduz concessão (+ subjuntivo) | Embora seja caro, vale a pena. |\n| mesmo que | introduz concessão hipotética (+ subjuntivo) | Mesmo que custe caro, é necessário. |\n| ainda que | introduz concessão formal (+ subjuntivo) | Ainda que existam custos, o retorno compensa. |\n| viável | possível de ser realizado | Não acho viável sem mais investimento. |\n| compensar | valer a pena em relação ao custo | Os benefícios compensam o custo alto. |\n| a longo prazo | em um período de tempo futuro extenso | Traz retorno a longo prazo. |\n| a curto prazo | em um período de tempo próximo | A curto prazo, o custo é alto. |\n| imposto | valor pago obrigatoriamente ao governo | Aumentar impostos é impopular. |\n| poluição | contaminação do ambiente | Menos carros, menos poluição. |\n| produtividade | capacidade de produzir/render | O transporte melhora a produtividade. |\n| investir (em) | aplicar recursos visando retorno futuro | Investir em transporte público é necessário. |\n| acesso (social) | possibilidade de uso/alcance por todos | Mais acesso para quem ganha pouco. |\n| metrópole | cidade muito grande | Funciona em cidades pequenas, não em metrópoles. |\n| retorno (financeiro/social) | benefício obtido a partir de um investimento | O retorno aparece em saúde pública. |\n| postura (numa discussão) | posição/comportamento adotado | Sua postura no debate foi respeitosa. |\n| ceder (num argumento) | admitir parcialmente o ponto do outro | Ela cedeu nesse ponto específico. |\n\n**(16 itens, tag `b1.9`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| embora | introduz concessão (+ subjuntivo) | Embora seja caro, vale a pena. |\n| mesmo que | introduz concessão hipotética (+ subjuntivo) | Mesmo que custe caro, é necessário. |\n| ainda que | introduz concessão formal (+ subjuntivo) | Ainda que existam custos, o retorno compensa. |\n| viável | possível de ser realizado | Não acho viável sem mais investimento. |\n| compensar | valer a pena em relação ao custo | Os benefícios compensam o custo alto. |\n| a longo prazo | em um período de tempo futuro extenso | Traz retorno a longo prazo. |\n| a curto prazo | em um período de tempo próximo | A curto prazo, o custo é alto. |\n| imposto | valor pago obrigatoriamente ao governo | Aumentar impostos é impopular. |\n| poluição | contaminação do ambiente | Menos carros, menos poluição. |\n| produtividade | capacidade de produzir/render | O transporte melhora a produtividade. |\n| investir (em) | aplicar recursos visando retorno futuro | Investir em transporte público é necessário. |\n| acesso (social) | possibilidade de uso/alcance por todos | Mais acesso para quem ganha pouco. |\n| metrópole | cidade muito grande | Funciona em cidades pequenas, não em metrópoles. |\n| retorno (financeiro/social) | benefício obtido a partir de um investimento | O retorno aparece em saúde pública. |\n| postura (numa discussão) | posição/comportamento adotado | Sua postura no debate foi respeitosa. |\n| ceder (num argumento) | admitir parcialmente o ponto do outro | Ela cedeu nesse ponto específico. |"
     },
     {
       "ordem": 3,
@@ -130,9 +130,7 @@
       "exemplo": "Ela cedeu nesse ponto específico."
     }
   ],
-  "tagsVocabulario": [
-    "b1.9"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "\"___ ___ (ser) difícil, a mudança é necessária.\" (embora)",

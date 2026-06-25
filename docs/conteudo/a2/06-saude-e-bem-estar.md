@@ -43,8 +43,6 @@
 | dermatologista | médico especialista em pele | Marquei com a dermatologista. |
 | baixar (a febre) | diminuir | A febre não baixou ainda. |
 
-**(13 itens, tag `a2.6`)**
-
 ## 3. Gramática em Foco
 
 **A. "Desde quando" + presente do indicativo:** pergunta sobre o início de uma situação que continua.

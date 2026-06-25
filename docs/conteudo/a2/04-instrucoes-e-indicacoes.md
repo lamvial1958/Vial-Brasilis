@@ -41,8 +41,6 @@
 | ponto de referência | local fácil de identificar | A igreja é um bom ponto de referência. |
 | perder-se | não saber onde está | É fácil, você não vai se perder. |
 
-**(12 itens, tag `a2.4`)**
-
 ## 3. Gramática em Foco
 
 **A. Imperativo afirmativo (com "você"):** forma idêntica à terceira pessoa do presente do indicativo.

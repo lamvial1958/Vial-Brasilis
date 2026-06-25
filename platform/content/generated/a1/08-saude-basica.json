@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "cabeça, garganta, nariz, ouvido, barriga, costas, braço, perna, dor, tosse, febre, resfriado, gripe, xarope, remédio, comprimido, entupido(a), espirro — **(18 itens, tag `a1.8`)**"
+      "markdown": "cabeça, garganta, nariz, ouvido, barriga, costas, braço, perna, dor, tosse, febre, resfriado, gripe, xarope, remédio, comprimido, entupido(a), espirro"
     },
     {
       "ordem": 3,
@@ -49,9 +49,7 @@
     }
   ],
   "vocabulario": [],
-  "tagsVocabulario": [
-    "a1.8"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Eu não estou me ___ bem.",

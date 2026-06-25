@@ -40,8 +40,6 @@
 | síntese crítica | resumo que inclui análise, não só fatos | Faça uma síntese crítica da reportagem. |
 | editorial (de jornal) | texto de opinião institucional de um veículo | O editorial criticou a falta de transparência. |
 
-**(15 itens, tag `b2.6`)**
-
 ## 3. Função & Gramática em Foco
 
 **A. Discurso relatado em contexto jornalístico — consolidação de B2.2:**

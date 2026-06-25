@@ -51,8 +51,6 @@
 | nota fiscal | documento que comprova a compra | Anexei a nota fiscal à reclamação. |
 | no prazo previsto | dentro do tempo estabelecido | A troca deve ocorrer no prazo previsto. |
 
-**(18 itens, tag `b1.3`)**
-
 ## 3. Função & Gramática em Foco
 
 **A. Estrutura da carta/e-mail formal de reclamação:**

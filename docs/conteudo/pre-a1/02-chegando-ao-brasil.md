@@ -32,7 +32,7 @@
 
 ## 2. Vocabulário
 
-aeroporto, passaporte, visto, imigração, alfândega, bagagem, táxi, app de transporte, endereço, destino, esquerda, direita, em frente, perto, longe, centro, primeira vez, semana(s), viagem, motorista — **(20 itens, tag `pre-a1.2`)**
+aeroporto, passaporte, visto, imigração, alfândega, bagagem, táxi, app de transporte, endereço, destino, esquerda, direita, em frente, perto, longe, centro, primeira vez, semana(s), viagem, motorista
 
 ## 3. Bloco de Pronúncia
 

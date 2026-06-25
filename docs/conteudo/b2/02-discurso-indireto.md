@@ -37,8 +37,6 @@
 | de acordo com | sinônimo formal de "segundo" | De acordo com a diretoria, haverá novos recursos. |
 | na ocasião | marca temporal formal para o momento relatado | Na ocasião, ele afirmou que tudo seguia como planejado. |
 
-**(12 itens, tag `b2.2`)**
-
 ## 3. Gramática em Foco
 
 **A. Transposição de tempos verbais — discurso direto → indireto (verbo introdutor no passado):**

@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| duplo sentido | quando uma palavra/frase permite duas interpretações | A piada usa o duplo sentido de \"problema\". |\n| trocadilho | jogo de palavras com sons semelhantes | O trocadilho usa duas palavras parecidas. |\n| ironia | dizer o oposto do que se pensa, com intenção crítica/humorística | \"Que sorte a minha\" foi dito com ironia. |\n| sarcasmo | ironia mais ácida/agressiva | O comentário tinha um tom de sarcasmo. |\n| expressão idiomática | expressão cujo sentido não é literal | \"Quebrar o galho\" é uma expressão idiomática. |\n| sentido literal | significado direto das palavras | No sentido literal, \"quebrar\" significa romper. |\n| sentido figurado | significado não literal, metafórico | No sentido figurado, \"quebrar o galho\" é ajudar. |\n| pegar a piada | entender o humor de algo | Demorei, mas peguei a piada. |\n| viajar na maionese (informal) | dizer algo sem sentido/distrair-se completamente | Ele viajou na maionese no meio da explicação. |\n| dar uma de bobo | fingir não entender algo de propósito | Ele deu uma de bobo pra não responder. |\n| meme | conteúdo (geralmente imagem/texto) compartilhado com humor | Esse meme fez todo mundo rir. |\n| charge | desenho humorístico com crítica (geralmente política/social) | A charge criticava o governo com humor. |\n| stand-up (comédia) | apresentação de humor solo ao vivo | Fui a um show de stand-up ontem. |\n| tirar sarro (de alguém/algo) | fazer piada/ironia sobre alguém ou algo | Eles tiraram sarro do meu sotaque. |\n| entender a referência | captar uma alusão cultural implícita numa piada | Só quem é brasileiro entende a referência. |\n\n**(15 itens, tag `b2.7`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| duplo sentido | quando uma palavra/frase permite duas interpretações | A piada usa o duplo sentido de \"problema\". |\n| trocadilho | jogo de palavras com sons semelhantes | O trocadilho usa duas palavras parecidas. |\n| ironia | dizer o oposto do que se pensa, com intenção crítica/humorística | \"Que sorte a minha\" foi dito com ironia. |\n| sarcasmo | ironia mais ácida/agressiva | O comentário tinha um tom de sarcasmo. |\n| expressão idiomática | expressão cujo sentido não é literal | \"Quebrar o galho\" é uma expressão idiomática. |\n| sentido literal | significado direto das palavras | No sentido literal, \"quebrar\" significa romper. |\n| sentido figurado | significado não literal, metafórico | No sentido figurado, \"quebrar o galho\" é ajudar. |\n| pegar a piada | entender o humor de algo | Demorei, mas peguei a piada. |\n| viajar na maionese (informal) | dizer algo sem sentido/distrair-se completamente | Ele viajou na maionese no meio da explicação. |\n| dar uma de bobo | fingir não entender algo de propósito | Ele deu uma de bobo pra não responder. |\n| meme | conteúdo (geralmente imagem/texto) compartilhado com humor | Esse meme fez todo mundo rir. |\n| charge | desenho humorístico com crítica (geralmente política/social) | A charge criticava o governo com humor. |\n| stand-up (comédia) | apresentação de humor solo ao vivo | Fui a um show de stand-up ontem. |\n| tirar sarro (de alguém/algo) | fazer piada/ironia sobre alguém ou algo | Eles tiraram sarro do meu sotaque. |\n| entender a referência | captar uma alusão cultural implícita numa piada | Só quem é brasileiro entende a referência. |"
     },
     {
       "ordem": 3,
@@ -125,9 +125,7 @@
       "exemplo": "Só quem é brasileiro entende a referência."
     }
   ],
-  "tagsVocabulario": [
-    "b2.7"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "\"O livro de matemática tinha muitos problemas.\"",

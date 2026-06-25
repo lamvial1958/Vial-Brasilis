@@ -25,9 +25,7 @@ export default async function UnidadePage({
       <h1 className="text-2xl font-semibold">
         {unidade.codigo} — {unidade.titulo}
       </h1>
-      {unidade.notaIntro && (
-        <p className="text-sm text-gray-500 italic mt-2">{unidade.notaIntro}</p>
-      )}
+
 
       <div className="mt-8 space-y-8">
         {unidade.secoes.map((secao) => (

@@ -5,7 +5,7 @@
   "codigo": "A1.1",
   "titulo": "Quem Sou Eu",
   "tipo": "licao",
-  "notaIntro": "Ficha pedagógica completa em `docs/unidades/a1.md`. Diferença de template em relação à PRE-A1: a partir da A1 a gramática é produtiva (não só \"chunks\"), por isso esta lição inclui uma seção extra de **Gramática em Foco** (passo \"input explícito\" da sequência didática padrão).",
+  "notaIntro": "Ficha pedagógica completa em `docs/unidades/a1.md`. Diferença de template em relação à PRE-A1: a partir da A1 a gramática é produtiva (não só expressões prontas), por isso esta lição inclui uma seção extra de **Gramática em Foco** (passo \"input explícito\" da sequência didática padrão).",
   "secoes": [
     {
       "ordem": 1,
@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| inglês/inglesa | nacionalidade — Inglaterra | Tom é inglês. |\n| chinês/chinesa | nacionalidade — China | Li é chinesa. |\n| italiano/italiana | nacionalidade — Itália | Marco é italiano. |\n| brasileiro/brasileira | nacionalidade — Brasil | Ela é brasileira. |\n| americano/americana | nacionalidade — EUA | Ele é americano. |\n| argentino/argentina | nacionalidade — Argentina | Sofia é argentina. |\n| francês/francesa | nacionalidade — França | Ela é francesa. |\n| alemão/alemã | nacionalidade — Alemanha | Ele é alemão. |\n| espanhol/espanhola | nacionalidade — Espanha | Ela é espanhola. |\n| japonês/japonesa | nacionalidade — Japão | Ele é japonês. |\n| professor/professora | profissão — ensina | Tom é professor. |\n| engenheiro/engenheira | profissão — projeta/constrói | Li é engenheira. |\n| cozinheiro/cozinheira | profissão — cozinha | Marco é cozinheiro. |\n| médico/médica | profissão — cuida da saúde | Ela é médica. |\n| advogado/advogada | profissão — direito | Ele é advogado. |\n| estudante | quem estuda | Eu sou estudante. |\n| casado/casada | estado civil | Eles são casados. |\n| solteiro/solteira | estado civil | Eu sou solteiro. |\n| divorciado/divorciada | estado civil | Ela é divorciada. |\n| anos (idade) | unidade para contar idade | Tenho trinta anos. |\n\n**(20 itens, tag `a1.1`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| inglês/inglesa | nacionalidade — Inglaterra | Tom é inglês. |\n| chinês/chinesa | nacionalidade — China | Li é chinesa. |\n| italiano/italiana | nacionalidade — Itália | Marco é italiano. |\n| brasileiro/brasileira | nacionalidade — Brasil | Ela é brasileira. |\n| americano/americana | nacionalidade — EUA | Ele é americano. |\n| argentino/argentina | nacionalidade — Argentina | Sofia é argentina. |\n| francês/francesa | nacionalidade — França | Ela é francesa. |\n| alemão/alemã | nacionalidade — Alemanha | Ele é alemão. |\n| espanhol/espanhola | nacionalidade — Espanha | Ela é espanhola. |\n| japonês/japonesa | nacionalidade — Japão | Ele é japonês. |\n| professor/professora | profissão — ensina | Tom é professor. |\n| engenheiro/engenheira | profissão — projeta/constrói | Li é engenheira. |\n| cozinheiro/cozinheira | profissão — cozinha | Marco é cozinheiro. |\n| médico/médica | profissão — cuida da saúde | Ela é médica. |\n| advogado/advogada | profissão — direito | Ele é advogado. |\n| estudante | quem estuda | Eu sou estudante. |\n| casado/casada | estado civil | Eles são casados. |\n| solteiro/solteira | estado civil | Eu sou solteiro. |\n| divorciado/divorciada | estado civil | Ela é divorciada. |\n| anos (idade) | unidade para contar idade | Tenho trinta anos. |"
     },
     {
       "ordem": 3,
@@ -150,9 +150,7 @@
       "exemplo": "Tenho trinta anos."
     }
   ],
-  "tagsVocabulario": [
-    "a1.1"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. Eu me ___ Tom.",

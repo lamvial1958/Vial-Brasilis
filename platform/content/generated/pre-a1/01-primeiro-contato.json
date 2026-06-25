@@ -10,12 +10,12 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena:** recepção de uma pousada em Florianópolis, fim de tarde.\n\n**Marta (recepcionista):** - Boa tarde! Bem-vindo!\n\n**Tom (hóspede):** - Boa tarde! Obrigado.\n\n**Marta:** - Qual é o seu nome?\n\n**Tom:** - Eu me chamo Tom. E você?\n\n**Marta:** - Eu me chamo Marta. Muito prazer, Tom!\n\n**Tom:** - Muito prazer, Marta!\n\n**Marta:** - Você é de onde?\n\n**Tom:** - Eu sou da Inglaterra. E você, é de Florianópolis?\n\n**Marta:** - Sou, sim! Bem-vindo ao Brasil, Tom!\n\n**Quadro funcional (chunks para reter, não analisar gramaticalmente):**\n| Função | Fórmula |\n|---|---|\n| Saudar | Bom dia / Boa tarde / Boa noite |\n| Dizer o nome | Eu me chamo... |\n| Perguntar o nome | Qual é o seu nome? |\n| Reagir a uma apresentação | Muito prazer! |\n| Dizer a origem | Eu sou de... / Eu sou da/do... |\n| Perguntar a origem | Você é de onde? |\n| Agradecer / responder | Obrigado(a) / De nada |"
+      "markdown": "**Cena:** recepção de uma pousada em Florianópolis, fim de tarde.\n\n**Marta (recepcionista):** - Boa tarde! Bem-vindo!\n\n**Tom (hóspede):** - Boa tarde! Obrigado.\n\n**Marta:** - Qual é o seu nome?\n\n**Tom:** - Eu me chamo Tom. E você?\n\n**Marta:** - Eu me chamo Marta. Muito prazer, Tom!\n\n**Tom:** - Muito prazer, Marta!\n\n**Marta:** - Você é de onde?\n\n**Tom:** - Eu sou da Inglaterra. E você, é de Florianópolis?\n\n**Marta:** - Sou, sim! Bem-vindo ao Brasil, Tom!\n\n**Quadro funcional (expressões para memorizar):**\n| Função | Fórmula |\n|---|---|\n| Saudar | Bom dia / Boa tarde / Boa noite |\n| Dizer o nome | Eu me chamo... |\n| Perguntar o nome | Qual é o seu nome? |\n| Reagir a uma apresentação | Muito prazer! |\n| Dizer a origem | Eu sou de... / Eu sou da/do... |\n| Perguntar a origem | Você é de onde? |\n| Agradecer / responder | Obrigado(a) / De nada |"
     },
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| oi | saudação informal e rápida | Oi! Tudo bem? |\n| olá | saudação neutra, serve em qualquer hora | Olá, bem-vindo! |\n| bom dia | saudação da manhã | Bom dia, professor! |\n| boa tarde | saudação da tarde | Boa tarde a todos. |\n| boa noite | saudação da noite (chegada ou despedida) | Boa noite, até amanhã. |\n| tchau | despedida informal | Tchau, até logo! |\n| até logo | despedida — \"vejo você em breve\" | Tchau, até logo! |\n| por favor | usado para pedir algo com educação | Um café, por favor. |\n| obrigado/obrigada | agradecimento (forma masc./fem.) | Obrigado pela ajuda! |\n| de nada | resposta a um agradecimento | — Obrigada! — De nada! |\n| com licença | pedir passagem ou interromper | Com licença, posso passar? |\n| desculpa/desculpe | pedir desculpas | Desculpa, não entendi. |\n| eu me chamo... | dizer o próprio nome | Eu me chamo Ana. |\n| qual é o seu nome? | perguntar o nome de alguém | Qual é o seu nome? |\n| muito prazer | usado ao conhecer alguém | Muito prazer, Carlos! |\n| eu sou | verbo ser, 1ª pessoa | Eu sou estudante. |\n| você é | verbo ser, 2ª pessoa | Você é brasileiro? |\n| números 0–20 | zero, um, dois, três, quatro, cinco, seis, sete, oito, nove, dez, onze, doze, treze, catorze, quinze, dezesseis, dezessete, dezoito, dezenove, vinte | \"Tenho vinte anos.\" |\n\n(38 itens no total, incluindo os 21 numerais — todos entram no motor de repetição espaçada com tag `pre-a1.1`.)"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| oi | saudação informal e rápida | Oi! Tudo bem? |\n| olá | saudação neutra, serve em qualquer hora | Olá, bem-vindo! |\n| bom dia | saudação da manhã | Bom dia, professor! |\n| boa tarde | saudação da tarde | Boa tarde a todos. |\n| boa noite | saudação da noite (chegada ou despedida) | Boa noite, até amanhã. |\n| tchau | despedida informal | Tchau, até logo! |\n| até logo | despedida — \"vejo você em breve\" | Tchau, até logo! |\n| por favor | usado para pedir algo com educação | Um café, por favor. |\n| obrigado/obrigada | agradecimento (forma masc./fem.) | Obrigado pela ajuda! |\n| de nada | resposta a um agradecimento | — Obrigada! — De nada! |\n| com licença | pedir passagem ou interromper | Com licença, posso passar? |\n| desculpa/desculpe | pedir desculpas | Desculpa, não entendi. |\n| eu me chamo... | dizer o próprio nome | Eu me chamo Ana. |\n| qual é o seu nome? | perguntar o nome de alguém | Qual é o seu nome? |\n| muito prazer | usado ao conhecer alguém | Muito prazer, Carlos! |\n| eu sou | verbo ser, 1ª pessoa | Eu sou estudante. |\n| você é | verbo ser, 2ª pessoa | Você é brasileiro? |\n| números 0–20 | zero, um, dois, três, quatro, cinco, seis, sete, oito, nove, dez, onze, doze, treze, catorze, quinze, dezesseis, dezessete, dezoito, dezenove, vinte | \"Tenho vinte anos.\" |"
     },
     {
       "ordem": 3,
@@ -135,9 +135,7 @@
       "exemplo": "\"Tenho vinte anos.\""
     }
   ],
-  "tagsVocabulario": [
-    "pre-a1.1"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "1. — ___ tarde! (Bom/Boa)",

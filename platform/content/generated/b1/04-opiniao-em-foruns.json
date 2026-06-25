@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| na minha opinião | fórmula de abertura de ponto de vista | Na minha opinião, isso é positivo. |\n| por um lado | introduz o primeiro argumento de uma comparação | Por um lado, ganhei tempo. |\n| por outro lado | introduz o argumento contrário | Por outro lado, sinto falta do contato. |\n| além disso | acrescenta um argumento no mesmo sentido | Além disso, isso aumenta a produtividade. |\n| no entanto | introduz uma ressalva/contraponto | No entanto, há desvantagens também. |\n| portanto | introduz uma conclusão lógica | Portanto, defendo que... |\n| defender (um ponto de vista) | argumentar a favor de algo | Defendo que o modelo deveria continuar. |\n| ponto de vista | opinião, perspectiva pessoal | Esse é o meu ponto de vista sobre o tema. |\n| vantagem | aspecto positivo | A principal vantagem é a flexibilidade. |\n| desvantagem | aspecto negativo | A desvantagem é o isolamento social. |\n| superar (um problema) | ser maior/mais importante que | Os benefícios superam os problemas. |\n| mal-entendido | confusão de comunicação | O chat às vezes gera mal-entendidos. |\n| considerar (o conjunto) | avaliar tudo junto, no geral | Considerando o conjunto, prefiro o remoto. |\n| concordar (com) | ter a mesma opinião | Concordo parcialmente com esse argumento. |\n| discordar (de) | ter opinião diferente | Discordo dessa visão. |\n| do meu ponto de vista | fórmula alternativa de opinião pessoal | Do meu ponto de vista, é uma boa mudança. |\n\n**(15 itens, tag `b1.4`)**"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| na minha opinião | fórmula de abertura de ponto de vista | Na minha opinião, isso é positivo. |\n| por um lado | introduz o primeiro argumento de uma comparação | Por um lado, ganhei tempo. |\n| por outro lado | introduz o argumento contrário | Por outro lado, sinto falta do contato. |\n| além disso | acrescenta um argumento no mesmo sentido | Além disso, isso aumenta a produtividade. |\n| no entanto | introduz uma ressalva/contraponto | No entanto, há desvantagens também. |\n| portanto | introduz uma conclusão lógica | Portanto, defendo que... |\n| defender (um ponto de vista) | argumentar a favor de algo | Defendo que o modelo deveria continuar. |\n| ponto de vista | opinião, perspectiva pessoal | Esse é o meu ponto de vista sobre o tema. |\n| vantagem | aspecto positivo | A principal vantagem é a flexibilidade. |\n| desvantagem | aspecto negativo | A desvantagem é o isolamento social. |\n| superar (um problema) | ser maior/mais importante que | Os benefícios superam os problemas. |\n| mal-entendido | confusão de comunicação | O chat às vezes gera mal-entendidos. |\n| considerar (o conjunto) | avaliar tudo junto, no geral | Considerando o conjunto, prefiro o remoto. |\n| concordar (com) | ter a mesma opinião | Concordo parcialmente com esse argumento. |\n| discordar (de) | ter opinião diferente | Discordo dessa visão. |\n| do meu ponto de vista | fórmula alternativa de opinião pessoal | Do meu ponto de vista, é uma boa mudança. |"
     },
     {
       "ordem": 3,
@@ -130,9 +130,7 @@
       "exemplo": "Do meu ponto de vista, é uma boa mudança."
     }
   ],
-  "tagsVocabulario": [
-    "b1.4"
-  ],
+  "tagsVocabulario": [],
   "exercicios": [
     {
       "enunciado": "\"Acho que o transporte público melhorou. ___, ainda falta investimento em segurança.\" (contraste)",

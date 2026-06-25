@@ -14,7 +14,7 @@
 > **Tom:** Entendi. E qual é a temperatura hoje?
 > **Atendente:** Está fazendo vinte e três graus, bem agradável.
 
-**Quadro funcional (chunks para reter):**
+**Quadro funcional (expressões para memorizar):**
 | Função | Fórmula |
 |---|---|
 | Pedir para soletrar | Pode soletrar...? |

@@ -19,7 +19,7 @@
 
 ## 2. Vocabulário
 
-levantar(-se), dormir, trabalhar, almoçar, jantar, café da manhã, estudar, descansar, manhã, tarde, noite, meio-dia, meia-noite, cedo, tarde (adv.), sempre, às vezes, nunca, hora, relógio — **(20 itens, tag `a1.3`)**
+levantar(-se), dormir, trabalhar, almoçar, jantar, café da manhã, estudar, descansar, manhã, tarde, noite, meio-dia, meia-noite, cedo, tarde (adv.), sempre, às vezes, nunca, hora, relógio
 
 ## 3. Gramática em Foco
 

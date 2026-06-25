@@ -19,7 +19,7 @@
 
 ## 2. Vocabulário
 
-verão, outono, inverno, primavera, sol, chuva, vento, nuvem, frio, calor, casaco, guarda-chuva, camiseta, calça, short, sandália, bota, óculos de sol, boné — **(19 itens, tag `a1.5`)**
+verão, outono, inverno, primavera, sol, chuva, vento, nuvem, frio, calor, casaco, guarda-chuva, camiseta, calça, short, sandália, bota, óculos de sol, boné
 
 ## 3. Gramática em Foco
 
