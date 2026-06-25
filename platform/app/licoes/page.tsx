@@ -2,7 +2,7 @@ import Link from "next/link";
 import { getIndiceGeral } from "@/lib/content/load";
 
 const NIVEL_META: Record<string, { label: string; descricao: string; cor: string }> = {
-  "pre-a1": { label: "PRE-A1", descricao: "Sobrevivência — primeiros contatos", cor: "bg-slate-100 text-slate-700 border-slate-200" },
+  "pre-a1": { label: "PRE-A1", descricao: "Sobrevivência — primeiros contatos", cor: "bg-[#FFDF00] text-[#5a4200] border-[#e6c800]" },
   a1:       { label: "A1",     descricao: "Conexão — rotina e apresentação",    cor: "bg-blue-50 text-blue-800 border-blue-100" },
   a2:       { label: "A2",     descricao: "Autonomia — vida cotidiana",          cor: "bg-sky-50 text-sky-800 border-sky-100" },
   b1:       { label: "B1",     descricao: "Integração — marco CELPE-Bras",      cor: "bg-green-50 text-green-800 border-green-200" },
