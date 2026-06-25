@@ -28,6 +28,7 @@ export async function getAccessToken(): Promise<string> {
     scope: [
       "https://www.googleapis.com/auth/firebase",
       "https://www.googleapis.com/auth/identitytoolkit",
+      "https://www.googleapis.com/auth/datastore",
     ].join(" "),
   };
 

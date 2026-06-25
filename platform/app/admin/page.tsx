@@ -35,7 +35,7 @@ export default async function AdminPage() {
                     {aluno.email ?? aluno.uid}
                   </Link>
                 </td>
-                <td className="py-2">{new Date(aluno.criadoEm).toLocaleDateString("pt-BR")}</td>
+                <td className="py-2">{aluno.criadoEm ? new Date(Number(aluno.criadoEm)).toLocaleDateString("pt-BR") : "—"}</td>
                 <td className="py-2">{unidadesConcluidas}</td>
                 <td className="py-2">{aluno.bloqueado ? "Bloqueado" : "Ativo"}</td>
                 <td className="py-2">
