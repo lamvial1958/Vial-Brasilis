@@ -27,21 +27,24 @@ export function ProducaoEscritaForm({
   textoSobreNivelHex,
 }: Props) {
   const { user } = useAuth();
-  const [estado, setEstado] = useState<EstadoForm>("carregando");
+  // Estado inicial "vazio" (não "carregando") garante que o componente
+  // sempre renderiza um elemento no DOM — necessário para que o React 19
+  // inclua o componente na árvore de hidratação e o useEffect dispare.
+  const [estado, setEstado] = useState<EstadoForm>("vazio");
   const [texto, setTexto] = useState("");
   const [nota, setNota] = useState<number | null>(null);
   const [feedback, setFeedback] = useState("");
   const [textoEnviado, setTextoEnviado] = useState("");
   const [enviando, setEnviando] = useState(false);
   const antesDeRedigir = useRef<"pendente" | "corrigido">("pendente");
+  const fetchedRef = useRef(false);
 
   const submissaoId = `${nivel}-${slug}-secao${secaoOrdem}`;
 
   useEffect(() => {
-    if (!user) {
-      setEstado("vazio");
-      return;
-    }
+    // Só consulta Firestore uma vez por montagem, quando o usuário estiver disponível
+    if (!user || fetchedRef.current) return;
+    fetchedRef.current = true;
     const docRef = doc(db, "producaoEscrita", user.uid, "submissions", submissaoId);
     getDoc(docRef).then((snap) => {
       if (!snap.exists()) {
@@ -90,8 +93,6 @@ export function ProducaoEscritaForm({
   }
 
   const palavras = texto.trim().split(/\s+/).filter(Boolean).length;
-
-  if (estado === "carregando") return null;
 
   return (
     <div
