@@ -52,17 +52,25 @@ export function SectionMarkdown({
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
         components={{
-          a: ({ href, children, ...props }) => (
-            <a
-              href={href}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-inherit underline decoration-dotted underline-offset-2 hover:decoration-solid"
-              {...props}
-            >
-              {children}
-            </a>
-          ),
+          a: ({ href, children, ...props }) => {
+            const isVerbo = href?.includes("conjugacao.com.br");
+            return (
+              <a
+                href={href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-inherit underline decoration-dotted underline-offset-2 hover:decoration-solid"
+                {...props}
+              >
+                {children}
+                {isVerbo && (
+                  <span className="print:hidden not-prose text-[0.6em] align-super ml-[0.15em] opacity-50">
+                    ↗
+                  </span>
+                )}
+              </a>
+            );
+          },
         }}
       >
         {md}
