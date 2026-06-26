@@ -1,6 +1,6 @@
 # Handover — Plataforma VIAL Brasilis PLE
 
-Estado em 2026-06-25 (fim de sessão ~tarde). Retome daqui sem perder contexto.
+Estado em 2026-06-26 (fim de sessão). Retome daqui sem perder contexto.
 
 ---
 
@@ -77,7 +77,7 @@ Paleta: cores da bandeira do Brasil — verde-amarelo dominante, azul como apoio
 | `app/licoes/[nivel]/[slug]/page.tsx` | Cards por seção com h2 colorido + hero da lição |
 | `app/globals.css` | Estilos de `.conteudo-licao`: tabelas, blockquotes, texto em negrito |
 | `components/MarcarConcluida.tsx` | Botão verde pill-shaped com sombra |
-| `components/ExerciciosReveal.tsx` | Cards brancos com botão gabarito bicolor |
+| `components/ExerciciosReveal.tsx` | Cards brancos com botão gabarito bicolor + SttPronuncia por exercício |
 
 ### Fundo de página
 
@@ -179,9 +179,45 @@ service cloud.firestore {
 
 ---
 
+## TTS/STT — Web Speech API (2026-06-26)
+
+### Componentes
+
+| Componente | Arquivo | Função |
+|---|---|---|
+| `TtsButton` | `components/TtsButton.tsx` | Lê seção em voz alta (pt-BR, rate 0.88) |
+| `SttPronuncia` | `components/SttPronuncia.tsx` | Microfone no exercício — transcreve e compara com gabarito |
+
+### Como funciona o TtsButton
+
+1. Se existir `/public/audio/[nivel]/[slug]/secao-N.mp3` → toca o arquivo (voz gravada)
+2. Se não existir → usa `window.speechSynthesis` (síntese do browser)
+3. O Server Component faz `fs.existsSync` para passar `audioUrl` apenas quando o arquivo existe
+
+### Para usar sua própria voz gravada
+
+Grave um MP3 de qualquer aplicativo (Audacity, gravador do celular, etc.) e salve em:
+```
+platform/public/audio/[nivel]/[slug]/secao-N.mp3
+```
+Exemplo: `public/audio/pre-a1/00-ferramentas-basicas-i/secao-1.mp3`
+
+O botão "Ouvir" detecta e toca automaticamente. Sem configuração adicional.
+
+### Limitações da Web Speech API
+
+- **TTS**: qualidade de voz depende do OS (Windows: vozes Microsoft Maria/Daniel; Mac: vozes Apple)
+- **STT** (`SttPronuncia`): só funciona em Chrome/Edge — não disponível em Firefox/Safari
+- STT renderiza `null` automaticamente em browsers sem suporte
+
+### Upgrade futuro (quando houver alunos pagantes)
+
+Trocar o provider no `TtsButton` por OpenAI TTS (`tts-1`, voz `nova`) via API route — sem mudar a interface do componente.
+
+---
+
 ## O que ainda não foi construído
 
-- Áudio TTS/STT
-- Produção escrita (envio e correção de textos)
+- Produção escrita (envio de textos e correção pelo professor)
 - Testes automatizados
 - Sistema de pagamento / acesso por matrícula (fora do escopo atual)
