@@ -21,7 +21,7 @@ Estado em 2026-06-25 (fim de sessão ~tarde). Retome daqui sem perder contexto.
 
 ---
 
-## Estado atual — tudo funcional
+## Estado atual — tudo funcional (2026-06-26)
 
 ### Auth
 - Google Sign-In funcionando (popup)
@@ -47,7 +47,45 @@ Estado em 2026-06-25 (fim de sessão ~tarde). Retome daqui sem perder contexto.
 
 ---
 
-## Limpeza de conteúdo feita nesta sessão
+---
+
+## Design visual (2026-06-26)
+
+Inspiração: `piattaforma-italiano-v2` (estrutura de grid + hero card com borda esquerda).
+Paleta: cores da bandeira do Brasil — verde-amarelo dominante, azul como apoio.
+
+### Paleta por nível
+
+| Nível | Cor hex   | Uso                                      |
+|-------|-----------|------------------------------------------|
+| PRE-A1 | `#FFDF00` | Amarelo bandeira — borda, badge, hover  |
+| A1     | `#3DA35D` | Verde médio                             |
+| A2     | `#009C3B` | Verde bandeira                          |
+| B1     | `#002776` | Azul bandeira (marco CELPE-Bras)        |
+| B2     | `#1351B4` | Azul médio                              |
+
+**Regra de contraste:**  
+- Texto *sobre fundo branco* (`textoDestaqueHex`): cor do nível para verde/azul; **preto** `#1a1a1a` para amarelo.  
+- Texto *sobre fundo da cor do nível* (`textoSobreNivelHex`): branco para verde/azul; **preto** `#1a1a1a` para amarelo.  
+- CSS variable `--cor-nivel-texto` injetada via `<style>` no Server Component da lição — usada para cabeçalhos de tabela.
+
+### Arquivos de design
+
+| Arquivo | Responsabilidade |
+|---------|-----------------|
+| `app/licoes/[nivel]/page.tsx` | Grid 4 colunas de cards quadrados + hero card com borda esquerda colorida |
+| `app/licoes/[nivel]/[slug]/page.tsx` | Cards por seção com h2 colorido + hero da lição |
+| `app/globals.css` | Estilos de `.conteudo-licao`: tabelas, blockquotes, texto em negrito |
+| `components/MarcarConcluida.tsx` | Botão verde pill-shaped com sombra |
+| `components/ExerciciosReveal.tsx` | Cards brancos com botão gabarito bicolor |
+
+### Fundo de página
+
+`bg-gradient-to-br from-[#f3f8f4] to-[#eef3fa]` — gradiente muito sutil verde→azul, evoca a bandeira sem distrair.
+
+---
+
+## Limpeza de conteúdo feita em sessão anterior
 
 Aplicado em todos os 50 arquivos de lição:
 
@@ -144,6 +182,6 @@ service cloud.firestore {
 ## O que ainda não foi construído
 
 - Áudio TTS/STT
-- Upload de produção oral
+- Produção escrita (envio e correção de textos)
 - Testes automatizados
-- Sistema de pagamento / acesso por matrícula
+- Sistema de pagamento / acesso por matrícula (fora do escopo atual)
