@@ -9,6 +9,8 @@ import { SimuladoCronometro } from "@/components/SimuladoCronometro";
 
 const NIVEL_TEMA: Record<string, {
   corHex: string;
+  textoDestaqueHex: string;   // cor de texto sobre fundo branco (h2, títulos)
+  textoSobreNivelHex: string; // cor de texto sobre fundo da cor do nível (tabelas, badges)
   textoNivel: string;
   badgeBg: string;
   badgeText: string;
@@ -18,15 +20,19 @@ const NIVEL_TEMA: Record<string, {
 }> = {
   "pre-a1": {
     corHex: "#FFDF00",
+    textoDestaqueHex: "#1a1a1a",   // preto — amarelo não é legível sobre branco
+    textoSobreNivelHex: "#1a1a1a", // preto — amarelo não tem contraste para texto branco
     textoNivel: "text-[#7a5a00]",
     badgeBg: "bg-[#FFDF00]",
-    badgeText: "text-[#5a3d00]",
+    badgeText: "text-black",
     nome: "PRE-A1",
     exercBg: "bg-[#fffbe6]",
     exercBorder: "border-[#f5c800]",
   },
   "a1": {
     corHex: "#3DA35D",
+    textoDestaqueHex: "#3DA35D",
+    textoSobreNivelHex: "#ffffff",
     textoNivel: "text-[#3DA35D]",
     badgeBg: "bg-[#3DA35D]",
     badgeText: "text-white",
@@ -36,6 +42,8 @@ const NIVEL_TEMA: Record<string, {
   },
   "a2": {
     corHex: "#009C3B",
+    textoDestaqueHex: "#009C3B",
+    textoSobreNivelHex: "#ffffff",
     textoNivel: "text-[#009C3B]",
     badgeBg: "bg-[#009C3B]",
     badgeText: "text-white",
@@ -45,6 +53,8 @@ const NIVEL_TEMA: Record<string, {
   },
   "b1": {
     corHex: "#002776",
+    textoDestaqueHex: "#002776",
+    textoSobreNivelHex: "#ffffff",
     textoNivel: "text-[#002776]",
     badgeBg: "bg-[#002776]",
     badgeText: "text-white",
@@ -54,6 +64,8 @@ const NIVEL_TEMA: Record<string, {
   },
   "b2": {
     corHex: "#1351B4",
+    textoDestaqueHex: "#1351B4",
+    textoSobreNivelHex: "#ffffff",
     textoNivel: "text-[#1351B4]",
     badgeBg: "bg-[#1351B4]",
     badgeText: "text-white",
@@ -65,6 +77,8 @@ const NIVEL_TEMA: Record<string, {
 
 const FALLBACK_TEMA = {
   corHex: "#0f2744",
+  textoDestaqueHex: "#0f2744",
+  textoSobreNivelHex: "#ffffff",
   textoNivel: "text-[#0f2744]",
   badgeBg: "bg-[#0f2744]",
   badgeText: "text-white",
@@ -91,8 +105,8 @@ export default async function UnidadePage({
 
   return (
     <>
-      {/* CSS variable para estilos de prose (tabelas, blockquotes) */}
-      <style>{`:root { --cor-nivel: ${tema.corHex}; }`}</style>
+      {/* CSS variables para estilos de prose (tabelas, blockquotes) */}
+      <style>{`:root { --cor-nivel: ${tema.corHex}; --cor-nivel-texto: ${tema.textoSobreNivelHex}; }`}</style>
 
       <div className="min-h-full bg-gradient-to-br from-[#f3f8f4] to-[#eef3fa]">
         <main className="mx-auto max-w-3xl px-4 py-8 space-y-5">
@@ -130,7 +144,7 @@ export default async function UnidadePage({
                 >
                   <h2
                     className="text-base font-bold"
-                    style={{ color: tema.corHex }}
+                    style={{ color: tema.textoDestaqueHex }}
                   >
                     {secao.ordem}. {secao.titulo}
                   </h2>

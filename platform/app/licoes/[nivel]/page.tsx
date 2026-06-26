@@ -5,6 +5,7 @@ import type { Nivel } from "@/lib/content/schema";
 
 const NIVEL_TEMA: Record<string, {
   corHex: string;
+  textoDestaqueHex: string;   // texto sobre fundo branco (ex: número do card, h1 hero)
   textoNivel: string;
   badgeBg: string;
   badgeText: string;
@@ -16,9 +17,10 @@ const NIVEL_TEMA: Record<string, {
 }> = {
   "pre-a1": {
     corHex: "#FFDF00",
+    textoDestaqueHex: "#1a1a1a",  // preto — amarelo não é legível sobre branco
     textoNivel: "text-[#7a5a00]",
     badgeBg: "bg-[#FFDF00]",
-    badgeText: "text-[#5a3d00]",
+    badgeText: "text-black",
     nome: "PRE-A1",
     descricao: "Sobrevivência — primeiros contatos no Brasil",
     cardHoverBorder: "hover:border-[#FFDF00]",
@@ -27,6 +29,7 @@ const NIVEL_TEMA: Record<string, {
   },
   "a1": {
     corHex: "#3DA35D",
+    textoDestaqueHex: "#3DA35D",
     textoNivel: "text-[#3DA35D]",
     badgeBg: "bg-[#3DA35D]",
     badgeText: "text-white",
@@ -38,6 +41,7 @@ const NIVEL_TEMA: Record<string, {
   },
   "a2": {
     corHex: "#009C3B",
+    textoDestaqueHex: "#009C3B",
     textoNivel: "text-[#009C3B]",
     badgeBg: "bg-[#009C3B]",
     badgeText: "text-white",
@@ -49,6 +53,7 @@ const NIVEL_TEMA: Record<string, {
   },
   "b1": {
     corHex: "#002776",
+    textoDestaqueHex: "#002776",
     textoNivel: "text-[#002776]",
     badgeBg: "bg-[#002776]",
     badgeText: "text-white",
@@ -60,6 +65,7 @@ const NIVEL_TEMA: Record<string, {
   },
   "b2": {
     corHex: "#1351B4",
+    textoDestaqueHex: "#1351B4",
     textoNivel: "text-[#1351B4]",
     badgeBg: "bg-[#1351B4]",
     badgeText: "text-white",
@@ -73,6 +79,7 @@ const NIVEL_TEMA: Record<string, {
 
 const FALLBACK_TEMA = {
   corHex: "#0f2744",
+  textoDestaqueHex: "#0f2744",
   textoNivel: "text-[#0f2744]",
   badgeBg: "bg-[#0f2744]",
   badgeText: "text-white",
@@ -146,7 +153,7 @@ export default async function NivelPage({ params }: { params: Promise<{ nivel: s
                 </span>
                 <span
                   className="text-4xl font-black leading-none mb-2"
-                  style={{ color: tema.corHex }}
+                  style={{ color: tema.textoDestaqueHex }}
                 >
                   {i + 1}
                 </span>

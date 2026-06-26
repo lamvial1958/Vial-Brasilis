@@ -32,7 +32,7 @@ body {
 /* Cabeçalhos de tabela na cor do nível */
 .conteudo-licao .prose table thead th {
   background-color: var(--cor-nivel, #009C3B);
-  color: white;
+  color: var(--cor-nivel-texto, white); /* preto para amarelo, branco para verde/azul */
   border-color: var(--cor-nivel, #009C3B);
 }
 
