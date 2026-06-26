@@ -60,7 +60,7 @@ export function MarcarConcluida({
     <button
       onClick={marcar}
       disabled={feito}
-      className="bg-black text-white rounded px-4 py-2 disabled:opacity-50"
+      className="shrink-0 bg-[#009C3B] text-white rounded-full px-5 py-2.5 text-sm font-semibold shadow-[0_4px_14px_rgba(0,156,59,0.35)] hover:bg-[#007A2E] hover:-translate-y-0.5 transition-all duration-200 disabled:opacity-50 disabled:translate-y-0 disabled:shadow-none whitespace-nowrap"
     >
       {feito ? "Unidade marcada como concluída" : "Marcar unidade como concluída"}
     </button>
