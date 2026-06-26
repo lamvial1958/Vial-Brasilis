@@ -27,7 +27,7 @@ export function ExerciciosReveal({ itens }: { itens: ExercicioItem[] }) {
             <span className="text-sm text-slate-700 leading-relaxed">{item.enunciado}</span>
             <button
               onClick={() => toggle(i)}
-              className={`shrink-0 text-xs font-semibold px-3 py-1.5 rounded-full border transition-all duration-150 ${
+              className={`print:hidden shrink-0 text-xs font-semibold px-3 py-1.5 rounded-full border transition-all duration-150 ${
                 revelados.has(i)
                   ? "bg-[#009C3B] text-white border-[#009C3B]"
                   : "bg-white text-[#7a5a00] border-[#FFDF00] hover:bg-[#fffbe6]"
@@ -35,10 +35,16 @@ export function ExerciciosReveal({ itens }: { itens: ExercicioItem[] }) {
             >
               {revelados.has(i) ? item.resposta : "ver gabarito"}
             </button>
+            {/* Gabarito sempre visível na impressão */}
+            <span className="hidden print:inline text-xs font-semibold text-[#009C3B]">
+              {item.resposta}
+            </span>
           </div>
 
-          {/* Botão de fala — compara com a resposta esperada */}
-          <SttPronuncia textoEsperado={revelados.has(i) ? item.resposta : undefined} />
+          {/* Botão de fala — oculto na impressão */}
+          <div className="print:hidden">
+            <SttPronuncia textoEsperado={revelados.has(i) ? item.resposta : undefined} />
+          </div>
         </li>
       ))}
     </ul>

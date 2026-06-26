@@ -10,6 +10,7 @@ import { MarcarConcluida } from "@/components/MarcarConcluida";
 import { SimuladoCronometro } from "@/components/SimuladoCronometro";
 import { TtsButton } from "@/components/TtsButton";
 import { ProducaoEscritaForm } from "@/components/ProducaoEscritaForm";
+import { BotaoImprimir } from "@/components/BotaoImprimir";
 
 const NIVEL_TEMA: Record<string, {
   corHex: string;
@@ -135,6 +136,9 @@ export default async function UnidadePage({
               {unidade.codigo}
             </h1>
             <p className="text-slate-600 mt-1 font-medium text-base">{unidade.titulo}</p>
+            <div className="mt-3">
+              <BotaoImprimir />
+            </div>
           </div>
 
           {/* Seções — inspirado em .unit-content do projeto italiano */}
@@ -162,10 +166,12 @@ export default async function UnidadePage({
                     {secao.ordem}. {secao.titulo}
                   </h2>
                   {!isExercise && (
-                    <TtsButton
-                      markdown={secao.markdown}
-                      audioUrl={audioUrlSeExistir(secao.ordem)}
-                    />
+                    <span className="print:hidden">
+                      <TtsButton
+                        markdown={secao.markdown}
+                        audioUrl={audioUrlSeExistir(secao.ordem)}
+                      />
+                    </span>
                   )}
                 </div>
 
@@ -202,7 +208,7 @@ export default async function UnidadePage({
           )}
 
           {/* Marcar como concluída */}
-          <div className="rounded-2xl bg-white shadow-sm border border-slate-100 px-6 py-5 flex items-center justify-between gap-4">
+          <div className="print:hidden rounded-2xl bg-white shadow-sm border border-slate-100 px-6 py-5 flex items-center justify-between gap-4">
             <div>
               <p className="font-semibold text-[#0f2744] text-sm">Concluiu esta unidade?</p>
               <p className="text-slate-400 text-xs mt-0.5">Marque para registrar o progresso e salvar o vocabulário para revisão.</p>
@@ -216,7 +222,7 @@ export default async function UnidadePage({
           </div>
 
           {/* Navegação de volta */}
-          <div className="text-center pb-4">
+          <div className="print:hidden text-center pb-4">
             <Link
               href={`/licoes/${nivel}`}
               className="text-sm text-slate-400 hover:text-slate-600 transition-colors"

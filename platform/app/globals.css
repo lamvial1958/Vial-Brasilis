@@ -68,3 +68,35 @@ body {
 .conteudo-licao .prose blockquote strong {
   color: #7a5a00;
 }
+
+/* ── Estilos de impressão ──────────────────────────────────────────────────── */
+@media print {
+  /* Fundo limpo */
+  body,
+  .bg-gradient-to-br,
+  .bg-\[#f3f8f4\] {
+    background: white !important;
+  }
+
+  /* Sem sombras */
+  * {
+    box-shadow: none !important;
+  }
+
+  /* Seções não cortadas no meio da página */
+  section {
+    break-inside: avoid;
+  }
+
+  /* Tipografia adequada para papel */
+  .conteudo-licao .prose {
+    font-size: 11pt;
+    line-height: 1.5;
+  }
+
+  /* Tabelas: bordas visíveis mesmo em impressoras monocromáticas */
+  .conteudo-licao .prose table thead th {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

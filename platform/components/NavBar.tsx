@@ -10,7 +10,7 @@ export function NavBar() {
   const { user, role, loading } = useAuth();
 
   return (
-    <header className="border-b border-slate-200 bg-white px-4 py-2 flex items-center justify-between">
+    <header className="print:hidden border-b border-slate-200 bg-white px-4 py-2 flex items-center justify-between">
       <Link href="/" className="flex items-center gap-2.5 group">
         <Image
           src="/logo.png"

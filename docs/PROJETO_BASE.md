@@ -2,8 +2,8 @@
 
 > Documento de referência da arquitetura pedagógica do curso. Toda decisão estrutural validada até o momento está registrada aqui. Antes de propor qualquer mudança de estrutura, leia este documento primeiro.
 
-**Status:** Pedagogicamente validado para os níveis PRE-A1 a B2. Conteúdo de lição completo construído para todos os níveis do escopo atual (PRE-A1 → B2). Camada de TI/arquitetura ainda não iniciada.
-**Última atualização:** 2026-06-23
+**Status:** Pedagogicamente validado para os níveis PRE-A1 a B2. Conteúdo de lição completo construído para todos os níveis do escopo atual (PRE-A1 → B2). Camada de TI/plataforma em implementação incremental.
+**Última atualização:** 2026-06-26
 
 ---
 
