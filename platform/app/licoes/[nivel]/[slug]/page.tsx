@@ -11,6 +11,7 @@ import { SimuladoCronometro } from "@/components/SimuladoCronometro";
 import { TtsButton } from "@/components/TtsButton";
 import { ProducaoEscritaForm } from "@/components/ProducaoEscritaForm";
 import { BotaoImprimir } from "@/components/BotaoImprimir";
+import { extrairVerbos } from "@/lib/content/verbos";
 
 const NIVEL_TEMA: Record<string, {
   corHex: string;
@@ -107,6 +108,7 @@ export default async function UnidadePage({
   }
 
   const tema = NIVEL_TEMA[nivel] ?? FALLBACK_TEMA;
+  const verbos = extrairVerbos(unidade.vocabulario);
 
   /** Retorna URL do áudio pré-gravado se existir em /public/audio/, senão undefined */
   function audioUrlSeExistir(ordem: number): string | undefined {
@@ -181,7 +183,7 @@ export default async function UnidadePage({
                     <ExerciciosReveal itens={unidade.exercicios} />
                   ) : (
                     <>
-                      <SectionMarkdown markdown={secao.markdown} />
+                      <SectionMarkdown markdown={secao.markdown} verbos={verbos} />
                       {isProducao && (
                         <ProducaoEscritaForm
                           nivel={nivel}

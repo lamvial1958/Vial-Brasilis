@@ -99,4 +99,10 @@ body {
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
   }
+
+  /* Links de conjugação: texto limpo sem sublinhado na impressão */
+  .conteudo-licao a[href*="conjugacao.com.br"] {
+    text-decoration: none !important;
+    color: inherit !important;
+  }
 }
