@@ -37,7 +37,22 @@
 
 ## 2. Vocabulário
 
-socorro, polícia, ambulância, hospital, perdido(a), dor de cabeça, febre, farmácia, ajuda, emergência, 190, 192, 193, mal-estar
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| socorro! | pedido urgente de ajuda | "Socorro! Preciso de ajuda!" |
+| polícia | força de segurança pública (número: 190) | "Vamos chamar a polícia." |
+| ambulância | veículo de emergência médica (número: 192) | "Preciso de uma ambulância!" |
+| hospital | local de atendimento médico | "Leve-me ao hospital, por favor." |
+| farmácia | local para comprar remédios | "Tem uma farmácia perto?" |
+| perdido(a) | quem não sabe o caminho | "Eu estou perdido." |
+| dor de cabeça | sintoma de dor na cabeça | "Estou com dor de cabeça." |
+| febre | temperatura corporal elevada | "Você está com febre?" |
+| ajuda | apoio em situação difícil | "Você pode me ajudar?" |
+| emergência | situação urgente | "Isso é uma emergência!" |
+| mal-estar | sensação geral de não estar bem | "Estou com um mal-estar." |
+| 190 | número de emergência da polícia | "Ligue 190 para a polícia." |
+| 192 | número de emergência da ambulância/SAMU | "Ligue 192 para o SAMU." |
+| 193 | número de emergência dos bombeiros | "Ligue 193 para os bombeiros." |
 
 ## 3. Bloco de Pronúncia
 

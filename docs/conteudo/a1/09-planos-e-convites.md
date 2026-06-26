@@ -28,7 +28,22 @@
 
 ## 2. Vocabulário
 
-festa, aniversário, presente, convite, compromisso, viagem, churrasco, jantar, encontro, desculpa, pena (que pena), combinado
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| festa | evento social de celebração | "Você vai à festa no sábado?" |
+| aniversário | data de nascimento, celebração anual | "É o meu aniversário no domingo." |
+| presente | objeto dado a alguém em celebração | "Eu vou levar um presente para ela." |
+| convite | chamado para participar de algo | "Recebi um convite para o casamento." |
+| compromisso | plano ou obrigação marcada | "Eu tenho um compromisso nesse dia." |
+| viagem | deslocamento para outro lugar | "Eu vou viajar nesse fim de semana." |
+| churrasco | refeição social com carne grelhada | "Li vai organizar um churrasco no domingo." |
+| jantar | refeição da noite / evento de jantar | "Você quer ir a um jantar na sexta?" |
+| encontro | reunião marcada entre pessoas | "Marcamos um encontro para terça." |
+| combinado! | confirmação de um plano | "Sábado às oito. — Combinado!" |
+| que pena! | reação a uma notícia decepcionante | "Não posso ir. — Que pena!" |
+| eu sinto muito, mas... | fórmula de recusa cortês | "Eu sinto muito, mas não posso ir." |
+| adoraria! | aceitação entusiasmada de convite | "Adoraria ir à festa!" |
+| vou + infinitivo | forma de falar sobre planos futuros | "Eu vou levar uma sobremesa." |
 
 ## 3. Gramática em Foco
 

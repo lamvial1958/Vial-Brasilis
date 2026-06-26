@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "cabeça, garganta, nariz, ouvido, barriga, costas, braço, perna, dor, tosse, febre, resfriado, gripe, xarope, remédio, comprimido, entupido(a), espirro"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| cabeça | parte superior do corpo | \"Estou com dor de cabeça.\" |\n| garganta | parte interna do pescoço | \"Estou com dor de garganta.\" |\n| nariz | órgão da respiração e do olfato | \"Estou com o nariz entupido.\" |\n| ouvido | órgão da audição | \"Estou com dor de ouvido.\" |\n| barriga | abdômen | \"Estou com dor de barriga.\" |\n| costas | parte posterior do tronco | \"Estou com dor nas costas.\" |\n| braço / perna | membros do corpo | \"Ela sente dor no braço esquerdo.\" |\n| dor | sensação física desagradável | \"Estou com muita dor.\" |\n| tosse | reflexo respiratório repetitivo | \"Estou com muita tosse.\" |\n| febre | temperatura corporal elevada | \"Você está com febre?\" |\n| resfriado | infecção viral leve | \"Parece um resfriado.\" |\n| gripe | infecção viral mais forte que resfriado | \"Fiquei três dias de cama com gripe.\" |\n| xarope | remédio líquido para tosse | \"O médico me deu um xarope.\" |\n| comprimido | remédio em forma de pílula | \"Tome um comprimido de dois em dois dias.\" |\n| entupido(a) | obstruído | \"O nariz está entupido.\" |"
     },
     {
       "ordem": 3,
@@ -48,7 +48,83 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| barriga / braço / costas / perna | partes do corpo |\n| cabeça / garganta / nariz / ouvido | partes do corpo (cabeça e órgãos dos sentidos) |\n| comprimido | remédio em forma de pílula |\n| dor | sensação física desagradável |\n| entupido(a) | obstruído (ex.: nariz entupido) |\n| espirro | reflexo nasal repentino |\n| estar com dor de/em | descrever dor numa parte do corpo |\n| febre | temperatura corporal elevada |\n| gripe / resfriado | infecções comuns, geralmente virais |\n| parece (ser) | expressão para sugerir um diagnóstico provável |\n| remédio / xarope | medicamentos |\n| sentir-se | verbo reflexivo para expressar estado físico/emocional |\n| tosse | reflexo respiratório repetitivo |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "cabeça",
+      "definicao": "parte superior do corpo",
+      "exemplo": "\"Estou com dor de cabeça.\""
+    },
+    {
+      "termo": "garganta",
+      "definicao": "parte interna do pescoço",
+      "exemplo": "\"Estou com dor de garganta.\""
+    },
+    {
+      "termo": "nariz",
+      "definicao": "órgão da respiração e do olfato",
+      "exemplo": "\"Estou com o nariz entupido.\""
+    },
+    {
+      "termo": "ouvido",
+      "definicao": "órgão da audição",
+      "exemplo": "\"Estou com dor de ouvido.\""
+    },
+    {
+      "termo": "barriga",
+      "definicao": "abdômen",
+      "exemplo": "\"Estou com dor de barriga.\""
+    },
+    {
+      "termo": "costas",
+      "definicao": "parte posterior do tronco",
+      "exemplo": "\"Estou com dor nas costas.\""
+    },
+    {
+      "termo": "braço / perna",
+      "definicao": "membros do corpo",
+      "exemplo": "\"Ela sente dor no braço esquerdo.\""
+    },
+    {
+      "termo": "dor",
+      "definicao": "sensação física desagradável",
+      "exemplo": "\"Estou com muita dor.\""
+    },
+    {
+      "termo": "tosse",
+      "definicao": "reflexo respiratório repetitivo",
+      "exemplo": "\"Estou com muita tosse.\""
+    },
+    {
+      "termo": "febre",
+      "definicao": "temperatura corporal elevada",
+      "exemplo": "\"Você está com febre?\""
+    },
+    {
+      "termo": "resfriado",
+      "definicao": "infecção viral leve",
+      "exemplo": "\"Parece um resfriado.\""
+    },
+    {
+      "termo": "gripe",
+      "definicao": "infecção viral mais forte que resfriado",
+      "exemplo": "\"Fiquei três dias de cama com gripe.\""
+    },
+    {
+      "termo": "xarope",
+      "definicao": "remédio líquido para tosse",
+      "exemplo": "\"O médico me deu um xarope.\""
+    },
+    {
+      "termo": "comprimido",
+      "definicao": "remédio em forma de pílula",
+      "exemplo": "\"Tome um comprimido de dois em dois dias.\""
+    },
+    {
+      "termo": "entupido(a)",
+      "definicao": "obstruído",
+      "exemplo": "\"O nariz está entupido.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

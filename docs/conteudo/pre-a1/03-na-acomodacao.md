@@ -35,7 +35,23 @@
 
 ## 2. Vocabulário
 
-quarto, chave, reserva, toalha, travesseiro, lençol, chuveiro, ar-condicionado, wi-fi, recepção, recepcionista, número do quarto, não funciona, problema, malas, elevador
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| quarto | cômodo para dormir | "Qual é o número do meu quarto?" |
+| chave | objeto para abrir a porta | "Aqui está a chave do quarto 305." |
+| reserva | confirmação prévia de um quarto | "Tenho reserva em nome de Tom." |
+| toalha | pano para se secar depois do banho | "Eu preciso de uma toalha, por favor." |
+| travesseiro | objeto para apoiar a cabeça ao dormir | "Pode trazer um travesseiro extra?" |
+| lençol | tecido que cobre o colchão | "O lençol está limpo?" |
+| chuveiro | equipamento para tomar banho | "O chuveiro não funciona." |
+| ar-condicionado | aparelho que regula a temperatura | "O ar-condicionado está frio demais." |
+| wi-fi | internet sem fio | "Qual é a senha do wi-fi?" |
+| recepção | local de atendimento na entrada | "Vá até a recepção com a chave." |
+| recepcionista | pessoa que atende na recepção | "O recepcionista foi muito atencioso." |
+| não funciona | expressão para relatar defeito | "O elevador não funciona." |
+| problema | situação que precisa ser resolvida | "Sem problema, eu resolvo agora." |
+| malas | bagagens de viagem | "Posso deixar as malas aqui?" |
+| elevador | equipamento para subir andares | "O elevador fica à direita." |
 
 ## 3. Bloco de Pronúncia
 

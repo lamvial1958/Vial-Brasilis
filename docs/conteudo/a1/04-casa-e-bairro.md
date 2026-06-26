@@ -25,7 +25,23 @@
 
 ## 2. Vocabulário
 
-apartamento, casa, quarto, sala, cozinha, banheiro, garagem, vaga, mercado, farmácia, padaria, parque, escola, cama, mesa, cadeira, sofá, geladeira, fogão, armário, bairro, vizinho
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| apartamento / casa | tipos de moradia | "Eu moro num apartamento pequeno." |
+| quarto | cômodo para dormir | "O apartamento tem dois quartos." |
+| sala | cômodo principal de estar | "A sala é grande e confortável." |
+| cozinha | cômodo para cozinhar | "A cozinha fica ao lado da sala." |
+| banheiro | cômodo de higiene pessoal | "Tem um banheiro no corredor." |
+| garagem / vaga | espaço para guardar/estacionar carro | "Não tem garagem, mas tem uma vaga." |
+| cama / sofá | móveis para dormir/sentar | "O sofá fica na sala." |
+| mesa / cadeira | móveis para refeição ou trabalho | "A mesa fica na cozinha." |
+| geladeira / fogão | eletrodomésticos da cozinha | "A geladeira é nova." |
+| armário | móvel para guardar roupas | "O armário do quarto é grande." |
+| bairro | região/área de uma cidade | "Eu moro num bairro tranquilo." |
+| vizinho | pessoa que mora perto | "Minha vizinha é muito simpática." |
+| mercado / padaria | comércios de alimentos | "Tem um mercado perto de casa." |
+| parque / escola | lugares do bairro | "Tem um parque em frente à minha casa." |
+| ao lado de / perto de | preposições de lugar | "A farmácia fica ao lado do mercado." |
 
 ## 3. Gramática em Foco
 

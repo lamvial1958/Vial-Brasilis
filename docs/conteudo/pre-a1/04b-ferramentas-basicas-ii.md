@@ -102,7 +102,27 @@ Role-play: marque uma data (consulta, passeio ou reserva) dizendo o dia da seman
 - [ ] Descrevi um objeto usando uma cor com a concordância correta
 - [ ] Pronunciei corretamente o "j" de um mês (janeiro, junho ou julho)
 
-## 7. Glossário da Unidade
+## 7. Vocabulário
+
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| segunda-feira | primeiro dia útil da semana | "A consulta é na segunda-feira." |
+| terça-feira | segundo dia útil da semana | "Eu tenho aula na terça-feira." |
+| quarta-feira | terceiro dia útil, meio da semana | "Pode ser na quarta-feira?" |
+| quinta-feira | quarto dia útil da semana | "Quinta-feira, dia 14 de agosto." |
+| sexta-feira | quinto dia útil, começo do fim de semana | "Na sexta-feira eu saio mais cedo." |
+| sábado | sexto dia, início do fim de semana | "Eu perdi a mochila no sábado." |
+| domingo | sétimo dia, fim de semana | "Domingo é dia de descanso." |
+| hoje / ontem / amanhã | o dia atual / anterior / seguinte | "Hoje é quarta. Ontem foi terça." |
+| vermelho / vermelha | cor do sangue e dos morangos | "A minha bolsa é vermelha." |
+| azul | cor do céu e do mar | "É uma mochila azul." |
+| verde | cor das plantas e árvores | "O casaco é verde." |
+| amarelo / amarela | cor do sol e das bananas | "A bandeira tem amarelo." |
+| preto / preta | cor oposta ao branco | "Um bolso preto na frente." |
+| branco / branca | cor oposta ao preto | "A camiseta é branca." |
+| em + mês | preposição para situar algo num mês | "A consulta é em agosto." |
+
+## 8. Glossário da Unidade
 
 | Palavra/Expressão | Significado |
 |---|---|

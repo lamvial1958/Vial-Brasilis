@@ -32,7 +32,23 @@
 
 ## 2. Vocabulário
 
-cabeça, garganta, nariz, ouvido, barriga, costas, braço, perna, dor, tosse, febre, resfriado, gripe, xarope, remédio, comprimido, entupido(a), espirro
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| cabeça | parte superior do corpo | "Estou com dor de cabeça." |
+| garganta | parte interna do pescoço | "Estou com dor de garganta." |
+| nariz | órgão da respiração e do olfato | "Estou com o nariz entupido." |
+| ouvido | órgão da audição | "Estou com dor de ouvido." |
+| barriga | abdômen | "Estou com dor de barriga." |
+| costas | parte posterior do tronco | "Estou com dor nas costas." |
+| braço / perna | membros do corpo | "Ela sente dor no braço esquerdo." |
+| dor | sensação física desagradável | "Estou com muita dor." |
+| tosse | reflexo respiratório repetitivo | "Estou com muita tosse." |
+| febre | temperatura corporal elevada | "Você está com febre?" |
+| resfriado | infecção viral leve | "Parece um resfriado." |
+| gripe | infecção viral mais forte que resfriado | "Fiquei três dias de cama com gripe." |
+| xarope | remédio líquido para tosse | "O médico me deu um xarope." |
+| comprimido | remédio em forma de pílula | "Tome um comprimido de dois em dois dias." |
+| entupido(a) | obstruído | "O nariz está entupido." |
 
 ## 3. Gramática em Foco
 

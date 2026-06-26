@@ -26,7 +26,23 @@
 
 ## 2. Vocabulário
 
-futebol, praia, trilha, filme, leitura, passeio, parque, shopping, festa, jogo, natação, academia, bicicleta, caminhada, churrasco
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| futebol | esporte mais popular do Brasil | "Eu adoro jogar futebol no sábado." |
+| praia | orla de areia à beira do mar | "Que tal ir à praia esse sábado?" |
+| trilha | caminho na natureza para caminhadas | "Eu adoro fazer trilha na serra." |
+| filme | produção cinematográfica | "Eu gosto de assistir filmes em casa." |
+| leitura | ato de ler | "Eu prefiro ficar em casa com uma leitura." |
+| passeio | saída de lazer | "Vamos dar um passeio no parque?" |
+| parque | área verde pública | "Eu ando de bicicleta no parque." |
+| shopping | centro comercial | "Eu prefiro ir ao shopping." |
+| festa | evento social de celebração | "Tem uma festa na sexta-feira." |
+| jogo | partida de esporte ou competição | "Vamos assistir ao jogo hoje?" |
+| natação | esporte aquático | "Eu faço natação três vezes por semana." |
+| academia | local para exercícios físicos | "Eu vou à academia toda manhã." |
+| bicicleta | veículo de duas rodas a pedal | "Eu adoro andar de bicicleta." |
+| caminhada | passeio a pé | "Uma caminhada de manhã faz bem." |
+| churrasco | refeição com carne grelhada, tradição brasileira | "Domingo tem churrasco lá em casa!" |
 
 ## 3. Gramática em Foco
 

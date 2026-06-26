@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "aeroporto, passaporte, visto, imigração, alfândega, bagagem, táxi, app de transporte, endereço, destino, esquerda, direita, em frente, perto, longe, centro, primeira vez, semana(s), viagem, motorista"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| aeroporto | local de chegada e partida de aviões | \"Eu cheguei ao aeroporto às dez horas.\" |\n| passaporte | documento para viagens internacionais | \"Passaporte, por favor.\" |\n| visto | autorização para entrar em um país | \"Eu preciso de visto para entrar no Brasil?\" |\n| imigração | controle de entrada de estrangeiros | \"A fila da imigração estava longa.\" |\n| alfândega | controle de bagagens na entrada do país | \"Eu passei pela alfândega rapidamente.\" |\n| bagagem | malas e itens de viagem | \"Minha bagagem está no avião.\" |\n| táxi | carro de transporte pago | \"Eu peguei um táxi do aeroporto.\" |\n| destino | lugar para onde se vai | \"Meu destino é o Hotel Central.\" |\n| esquerda / direita | lados de orientação | \"Vire à esquerda e depois à direita.\" |\n| em frente | direção reta, sem virar | \"Siga em frente por dois quarteirões.\" |\n| perto / longe | distância pequena / grande | \"O hotel é perto do centro.\" |\n| centro | área central da cidade | \"O restaurante fica no centro.\" |\n| primeira vez | ocorre pela primeira vez | \"É a primeira vez no Brasil?\" |\n| semana | período de 7 dias | \"Eu vou ficar duas semanas.\" |\n| motorista | quem dirige o veículo | \"O motorista conhecia bem o caminho.\" |"
     },
     {
       "ordem": 3,
@@ -43,7 +43,83 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| aeroporto | local de chegada/partida de aviões |\n| agente (de imigração) | funcionário que verifica documentos na entrada do país |\n| alfândega | setor que verifica bagagens na entrada do país |\n| app de transporte | aplicativo para chamar um carro (tipo Uber) |\n| aqui está | expressão para entregar algo a alguém |\n| bagagem | malas e itens de viagem |\n| boa viagem / boa estadia | expressão de despedida para quem viaja/chega |\n| centro | área central da cidade |\n| destino | lugar para onde se vai |\n| direita / esquerda | lados de orientação |\n| em frente | direção reta, sem virar |\n| endereço | local exato (rua, número) de um lugar |\n| imigração | controle de entrada de estrangeiros no país |\n| longe / perto | distância grande / pequena |\n| motorista | quem dirige o veículo |\n| para... | preposição usada para indicar destino (\"Para o Hotel Central\") |\n| passaporte | documento de identificação para viagens internacionais |\n| pode + infinitivo, por favor? | pedido cortês |\n| pode deixar | resposta que confirma que algo será feito |\n| primeira vez / segunda vez | quantas vezes algo já ocorreu |\n| semana(s) | período de 7 dias |\n| táxi | carro de transporte pago |\n| tudo certo | confirmação de que está tudo bem |\n| viagem | deslocamento de um lugar a outro |\n| virar à direita/esquerda | mudar de direção |\n| visto | autorização oficial para entrar em um país |\n| vou + infinitivo | forma de dizer o que a pessoa fará a seguir |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "aeroporto",
+      "definicao": "local de chegada e partida de aviões",
+      "exemplo": "\"Eu cheguei ao aeroporto às dez horas.\""
+    },
+    {
+      "termo": "passaporte",
+      "definicao": "documento para viagens internacionais",
+      "exemplo": "\"Passaporte, por favor.\""
+    },
+    {
+      "termo": "visto",
+      "definicao": "autorização para entrar em um país",
+      "exemplo": "\"Eu preciso de visto para entrar no Brasil?\""
+    },
+    {
+      "termo": "imigração",
+      "definicao": "controle de entrada de estrangeiros",
+      "exemplo": "\"A fila da imigração estava longa.\""
+    },
+    {
+      "termo": "alfândega",
+      "definicao": "controle de bagagens na entrada do país",
+      "exemplo": "\"Eu passei pela alfândega rapidamente.\""
+    },
+    {
+      "termo": "bagagem",
+      "definicao": "malas e itens de viagem",
+      "exemplo": "\"Minha bagagem está no avião.\""
+    },
+    {
+      "termo": "táxi",
+      "definicao": "carro de transporte pago",
+      "exemplo": "\"Eu peguei um táxi do aeroporto.\""
+    },
+    {
+      "termo": "destino",
+      "definicao": "lugar para onde se vai",
+      "exemplo": "\"Meu destino é o Hotel Central.\""
+    },
+    {
+      "termo": "esquerda / direita",
+      "definicao": "lados de orientação",
+      "exemplo": "\"Vire à esquerda e depois à direita.\""
+    },
+    {
+      "termo": "em frente",
+      "definicao": "direção reta, sem virar",
+      "exemplo": "\"Siga em frente por dois quarteirões.\""
+    },
+    {
+      "termo": "perto / longe",
+      "definicao": "distância pequena / grande",
+      "exemplo": "\"O hotel é perto do centro.\""
+    },
+    {
+      "termo": "centro",
+      "definicao": "área central da cidade",
+      "exemplo": "\"O restaurante fica no centro.\""
+    },
+    {
+      "termo": "primeira vez",
+      "definicao": "ocorre pela primeira vez",
+      "exemplo": "\"É a primeira vez no Brasil?\""
+    },
+    {
+      "termo": "semana",
+      "definicao": "período de 7 dias",
+      "exemplo": "\"Eu vou ficar duas semanas.\""
+    },
+    {
+      "termo": "motorista",
+      "definicao": "quem dirige o veículo",
+      "exemplo": "\"O motorista conhecia bem o caminho.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

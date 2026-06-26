@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "festa, aniversário, presente, convite, compromisso, viagem, churrasco, jantar, encontro, desculpa, pena (que pena), combinado"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| festa | evento social de celebração | \"Você vai à festa no sábado?\" |\n| aniversário | data de nascimento, celebração anual | \"É o meu aniversário no domingo.\" |\n| presente | objeto dado a alguém em celebração | \"Eu vou levar um presente para ela.\" |\n| convite | chamado para participar de algo | \"Recebi um convite para o casamento.\" |\n| compromisso | plano ou obrigação marcada | \"Eu tenho um compromisso nesse dia.\" |\n| viagem | deslocamento para outro lugar | \"Eu vou viajar nesse fim de semana.\" |\n| churrasco | refeição social com carne grelhada | \"Li vai organizar um churrasco no domingo.\" |\n| jantar | refeição da noite / evento de jantar | \"Você quer ir a um jantar na sexta?\" |\n| encontro | reunião marcada entre pessoas | \"Marcamos um encontro para terça.\" |\n| combinado! | confirmação de um plano | \"Sábado às oito. — Combinado!\" |\n| que pena! | reação a uma notícia decepcionante | \"Não posso ir. — Que pena!\" |\n| eu sinto muito, mas... | fórmula de recusa cortês | \"Eu sinto muito, mas não posso ir.\" |\n| adoraria! | aceitação entusiasmada de convite | \"Adoraria ir à festa!\" |\n| vou + infinitivo | forma de falar sobre planos futuros | \"Eu vou levar uma sobremesa.\" |"
     },
     {
       "ordem": 3,
@@ -48,7 +48,78 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| adoraria! | aceitação entusiasmada de um convite |\n| aniversário | data de nascimento, celebração anual |\n| churrasco / jantar | eventos/refeições sociais |\n| combinado! | confirmação de um acordo/plano |\n| compromisso | obrigação ou plano marcado |\n| convite | chamado para participar de algo |\n| desculpa | pedido de desculpas ou justificativa |\n| encontro | reunião marcada entre pessoas |\n| eu sinto muito, mas... | fórmula de recusa cortês |\n| festa | evento social de celebração |\n| ir + infinitivo | forma de futuro mais usada na fala cotidiana |\n| presente | objeto dado a alguém |\n| que pena! | reação a uma notícia decepcionante |\n| viagem | deslocamento para outro lugar |\n| você quer ir...? | fórmula de convite |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "festa",
+      "definicao": "evento social de celebração",
+      "exemplo": "\"Você vai à festa no sábado?\""
+    },
+    {
+      "termo": "aniversário",
+      "definicao": "data de nascimento, celebração anual",
+      "exemplo": "\"É o meu aniversário no domingo.\""
+    },
+    {
+      "termo": "presente",
+      "definicao": "objeto dado a alguém em celebração",
+      "exemplo": "\"Eu vou levar um presente para ela.\""
+    },
+    {
+      "termo": "convite",
+      "definicao": "chamado para participar de algo",
+      "exemplo": "\"Recebi um convite para o casamento.\""
+    },
+    {
+      "termo": "compromisso",
+      "definicao": "plano ou obrigação marcada",
+      "exemplo": "\"Eu tenho um compromisso nesse dia.\""
+    },
+    {
+      "termo": "viagem",
+      "definicao": "deslocamento para outro lugar",
+      "exemplo": "\"Eu vou viajar nesse fim de semana.\""
+    },
+    {
+      "termo": "churrasco",
+      "definicao": "refeição social com carne grelhada",
+      "exemplo": "\"Li vai organizar um churrasco no domingo.\""
+    },
+    {
+      "termo": "jantar",
+      "definicao": "refeição da noite / evento de jantar",
+      "exemplo": "\"Você quer ir a um jantar na sexta?\""
+    },
+    {
+      "termo": "encontro",
+      "definicao": "reunião marcada entre pessoas",
+      "exemplo": "\"Marcamos um encontro para terça.\""
+    },
+    {
+      "termo": "combinado!",
+      "definicao": "confirmação de um plano",
+      "exemplo": "\"Sábado às oito. — Combinado!\""
+    },
+    {
+      "termo": "que pena!",
+      "definicao": "reação a uma notícia decepcionante",
+      "exemplo": "\"Não posso ir. — Que pena!\""
+    },
+    {
+      "termo": "eu sinto muito, mas...",
+      "definicao": "fórmula de recusa cortês",
+      "exemplo": "\"Eu sinto muito, mas não posso ir.\""
+    },
+    {
+      "termo": "adoraria!",
+      "definicao": "aceitação entusiasmada de convite",
+      "exemplo": "\"Adoraria ir à festa!\""
+    },
+    {
+      "termo": "vou + infinitivo",
+      "definicao": "forma de falar sobre planos futuros",
+      "exemplo": "\"Eu vou levar uma sobremesa.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

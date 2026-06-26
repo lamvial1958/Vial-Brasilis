@@ -54,11 +54,92 @@
     },
     {
       "ordem": 10,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| soletrar | dizer cada letra de uma palavra | \"Pode soletrar seu nome?\" |\n| pode soletrar? | pedido para alguém dizer letra por letra | \"Pode soletrar seu sobrenome?\" |\n| real / reais | moeda oficial do Brasil | \"A diária custa cento e vinte reais.\" |\n| grau Celsius (°C) | unidade de temperatura usada no Brasil | \"Está fazendo vinte e três graus.\" |\n| metro (m) | unidade de comprimento | \"Eu tenho um metro e setenta.\" |\n| quilo (kg) | unidade de peso | \"O melão tem dois quilos.\" |\n| litro (l) | unidade de volume | \"Uma garrafa de um litro.\" |\n| quilômetro (km) | unidade de distância | \"São cem quilômetros daqui.\" |\n| centímetro (cm) | unidade de comprimento menor que o metro | \"O papel tem vinte e um centímetros.\" |\n| vírgula | sinal decimal — o Brasil usa vírgula, não ponto | \"19,90 → dezenove vírgula noventa\" |\n| diária | valor cobrado por dia de hospedagem | \"A diária é cento e vinte reais.\" |\n| temperatura | medida de calor ou frio em graus | \"Qual é a temperatura hoje?\" |\n| sílaba tônica | a sílaba pronunciada com mais força | \"em 'Brasil': bra-SIL\" |\n| mil | 1.000 | \"Custa dois mil reais.\" |\n| milhão | 1.000.000 | \"São Paulo tem doze milhões de habitantes.\" |"
+    },
+    {
+      "ordem": 11,
       "titulo": "Glossário da Unidade",
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| açúcar | exemplo de palavra com \"ç\" |\n| alfabeto | conjunto ordenado das letras de uma língua |\n| centímetro (cm) | unidade de comprimento, menor que o metro |\n| cem mil | 100.000 |\n| cento e dez vírgula cinquenta | forma de ler 110,50 |\n| dez mil | 10.000 |\n| grama (g) | unidade de peso, menor que o quilo |\n| grau Celsius (°C) | unidade de temperatura usada no Brasil |\n| litro (l) | unidade de volume |\n| mil | 1.000 |\n| mililitro (ml) | unidade de volume, menor que o litro |\n| milhão | 1.000.000 |\n| bilhão | 1.000.000.000 |\n| pode soletrar...? | pedido para que alguém diga uma palavra letra por letra |\n| quanto é a temperatura?/quantos graus está? | pergunta sobre o clima atual |\n| quilo/quilograma (kg) | unidade de peso |\n| quilômetro (km) | unidade de distância, maior que o metro |\n| sílaba | unidade sonora de uma palavra, geralmente em torno de uma vogal |\n| sílaba tônica | a sílaba pronunciada com mais força numa palavra |\n| sistema métrico | sistema de medidas oficial do Brasil (metro, quilo, litro, grau Celsius) |\n| sistema imperial | sistema de medidas usado em países como EUA e Reino Unido (pé, libra, Fahrenheit) — não usado no Brasil |\n| soletrar | dizer uma palavra letra por letra |\n| vírgula decimal | sinal usado no Brasil para separar a parte inteira da decimal de um número (ex.: 19,90) |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "soletrar",
+      "definicao": "dizer cada letra de uma palavra",
+      "exemplo": "\"Pode soletrar seu nome?\""
+    },
+    {
+      "termo": "pode soletrar?",
+      "definicao": "pedido para alguém dizer letra por letra",
+      "exemplo": "\"Pode soletrar seu sobrenome?\""
+    },
+    {
+      "termo": "real / reais",
+      "definicao": "moeda oficial do Brasil",
+      "exemplo": "\"A diária custa cento e vinte reais.\""
+    },
+    {
+      "termo": "grau Celsius (°C)",
+      "definicao": "unidade de temperatura usada no Brasil",
+      "exemplo": "\"Está fazendo vinte e três graus.\""
+    },
+    {
+      "termo": "metro (m)",
+      "definicao": "unidade de comprimento",
+      "exemplo": "\"Eu tenho um metro e setenta.\""
+    },
+    {
+      "termo": "quilo (kg)",
+      "definicao": "unidade de peso",
+      "exemplo": "\"O melão tem dois quilos.\""
+    },
+    {
+      "termo": "litro (l)",
+      "definicao": "unidade de volume",
+      "exemplo": "\"Uma garrafa de um litro.\""
+    },
+    {
+      "termo": "quilômetro (km)",
+      "definicao": "unidade de distância",
+      "exemplo": "\"São cem quilômetros daqui.\""
+    },
+    {
+      "termo": "centímetro (cm)",
+      "definicao": "unidade de comprimento menor que o metro",
+      "exemplo": "\"O papel tem vinte e um centímetros.\""
+    },
+    {
+      "termo": "vírgula",
+      "definicao": "sinal decimal — o Brasil usa vírgula, não ponto",
+      "exemplo": "\"19,90 → dezenove vírgula noventa\""
+    },
+    {
+      "termo": "diária",
+      "definicao": "valor cobrado por dia de hospedagem",
+      "exemplo": "\"A diária é cento e vinte reais.\""
+    },
+    {
+      "termo": "temperatura",
+      "definicao": "medida de calor ou frio em graus",
+      "exemplo": "\"Qual é a temperatura hoje?\""
+    },
+    {
+      "termo": "sílaba tônica",
+      "definicao": "a sílaba pronunciada com mais força",
+      "exemplo": "\"em 'Brasil': bra-SIL\""
+    },
+    {
+      "termo": "mil",
+      "definicao": "1.000",
+      "exemplo": "\"Custa dois mil reais.\""
+    },
+    {
+      "termo": "milhão",
+      "definicao": "1.000.000",
+      "exemplo": "\"São Paulo tem doze milhões de habitantes.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

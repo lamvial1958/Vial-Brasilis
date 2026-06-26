@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "mercado, farmácia, troco, remédio, escova de dente, sabonete, dinheiro, fileira, compra, pão, leite, fruta, caixa (do supermercado), sacola, preço, desconto, promoção, lista de compras"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| mercado | local para comprar alimentos | \"Tem um mercado perto daqui?\" |\n| farmácia | local para comprar remédios | \"Vou à farmácia comprar remédio.\" |\n| troco | valor devolvido após pagamento | \"Pode me dar troco de cinquenta?\" |\n| remédio | medicamento | \"Preciso de um remédio para dor.\" |\n| escova de dente | item de higiene bucal | \"Vocês têm escova de dente?\" |\n| sabonete | item de higiene para banho | \"Preciso de sabonete.\" |\n| dinheiro | valor usado para pagar | \"Posso pagar com dinheiro?\" |\n| pão | alimento básico de farinha | \"Dois pães, por favor.\" |\n| leite | bebida de origem animal ou vegetal | \"Um litro de leite, quanto custa?\" |\n| fruta | alimento vegetal doce | \"Que fruta você tem?\" |\n| sacola | saco para carregar compras | \"Pode me dar uma sacola?\" |\n| preço | valor de um item | \"Qual é o preço?\" |\n| desconto | redução no preço | \"Tem desconto?\" |\n| promoção | oferta especial com preço reduzido | \"Está em promoção hoje.\" |\n| lista de compras | lista de itens a comprar | \"Eu faço uma lista de compras antes de sair.\" |"
     },
     {
       "ordem": 3,
@@ -43,7 +43,83 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| aqui está o troco | entrega do valor de volta |\n| caixa (do supermercado) | local/pessoa que recebe o pagamento |\n| compra | ato de comprar |\n| desconto | redução no preço |\n| dinheiro | valor usado para pagar |\n| escova de dente | item de higiene bucal |\n| farmácia | local para comprar remédios |\n| fileira | fila/corredor de produtos |\n| fruta | alimento vegetal, ex.: maçã |\n| leite | bebida de origem animal/vegetal |\n| lista de compras | lista de itens a comprar |\n| mercado | local para comprar alimentos |\n| obrigado pela compra | agradecimento do vendedor |\n| pão | alimento básico de farinha |\n| pode me dar troco? | pedido de troco |\n| preço | valor de um item |\n| promoção | oferta especial |\n| quanto é/custa? | pergunta de preço |\n| remédio | medicamento |\n| sabonete | item de higiene para banho |\n| sacola | saco para carregar compras |\n| tem...? / vocês têm...? | pergunta sobre disponibilidade |\n| troco | valor devolvido após pagamento |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "mercado",
+      "definicao": "local para comprar alimentos",
+      "exemplo": "\"Tem um mercado perto daqui?\""
+    },
+    {
+      "termo": "farmácia",
+      "definicao": "local para comprar remédios",
+      "exemplo": "\"Vou à farmácia comprar remédio.\""
+    },
+    {
+      "termo": "troco",
+      "definicao": "valor devolvido após pagamento",
+      "exemplo": "\"Pode me dar troco de cinquenta?\""
+    },
+    {
+      "termo": "remédio",
+      "definicao": "medicamento",
+      "exemplo": "\"Preciso de um remédio para dor.\""
+    },
+    {
+      "termo": "escova de dente",
+      "definicao": "item de higiene bucal",
+      "exemplo": "\"Vocês têm escova de dente?\""
+    },
+    {
+      "termo": "sabonete",
+      "definicao": "item de higiene para banho",
+      "exemplo": "\"Preciso de sabonete.\""
+    },
+    {
+      "termo": "dinheiro",
+      "definicao": "valor usado para pagar",
+      "exemplo": "\"Posso pagar com dinheiro?\""
+    },
+    {
+      "termo": "pão",
+      "definicao": "alimento básico de farinha",
+      "exemplo": "\"Dois pães, por favor.\""
+    },
+    {
+      "termo": "leite",
+      "definicao": "bebida de origem animal ou vegetal",
+      "exemplo": "\"Um litro de leite, quanto custa?\""
+    },
+    {
+      "termo": "fruta",
+      "definicao": "alimento vegetal doce",
+      "exemplo": "\"Que fruta você tem?\""
+    },
+    {
+      "termo": "sacola",
+      "definicao": "saco para carregar compras",
+      "exemplo": "\"Pode me dar uma sacola?\""
+    },
+    {
+      "termo": "preço",
+      "definicao": "valor de um item",
+      "exemplo": "\"Qual é o preço?\""
+    },
+    {
+      "termo": "desconto",
+      "definicao": "redução no preço",
+      "exemplo": "\"Tem desconto?\""
+    },
+    {
+      "termo": "promoção",
+      "definicao": "oferta especial com preço reduzido",
+      "exemplo": "\"Está em promoção hoje.\""
+    },
+    {
+      "termo": "lista de compras",
+      "definicao": "lista de itens a comprar",
+      "exemplo": "\"Eu faço uma lista de compras antes de sair.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "empresa, escritório, restaurante, faculdade, escola, emprego, currículo, entrevista, estágio, aula, professor/professora, aluno/aluna, colega de trabalho, chefe, salário, contrato"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| empresa | organização onde se trabalha | \"Eu trabalho numa empresa de tecnologia.\" |\n| escritório | local de trabalho administrativo | \"O escritório fica no centro.\" |\n| restaurante | local para comer com atendimento | \"Ele trabalha como cozinheiro num restaurante.\" |\n| faculdade | instituição de ensino superior | \"Eu estudo numa faculdade em São Paulo.\" |\n| emprego | trabalho remunerado | \"Eu estou procurando um emprego.\" |\n| currículo | documento com histórico profissional | \"Eu mandei o currículo por e-mail.\" |\n| entrevista | conversa para avaliar candidato a um emprego | \"Tenho uma entrevista amanhã.\" |\n| estágio | período de aprendizado prático em empresa | \"Eu faço estágio num hospital.\" |\n| aula | período de ensino | \"A aula de português começa às nove.\" |\n| professor / professora | quem ensina | \"Eu quero ser professor de inglês.\" |\n| aluno / aluna | quem estuda | \"Ela é aluna de medicina.\" |\n| colega de trabalho | pessoa que trabalha no mesmo lugar | \"Meu colega de trabalho é simpático.\" |\n| chefe | responsável pela equipe | \"Meu chefe é muito exigente.\" |\n| salário | pagamento mensal pelo trabalho | \"O salário é bom.\" |\n| contrato | acordo formal de trabalho | \"Assinei o contrato ontem.\" |"
     },
     {
       "ordem": 3,
@@ -48,7 +48,83 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| aluno/aluna | quem estuda |\n| aula | período de ensino |\n| chefe | pessoa responsável por outras no trabalho |\n| colega de trabalho | pessoa que trabalha no mesmo lugar |\n| contrato | acordo formal de trabalho |\n| currículo | documento com histórico profissional |\n| emprego / empresa | trabalho remunerado / organização onde se trabalha |\n| entrevista | conversa para avaliar candidato a um emprego |\n| escritório | local de trabalho administrativo |\n| estágio | período de aprendizado prático em uma empresa |\n| faculdade | instituição de ensino superior |\n| salário | pagamento mensal pelo trabalho |\n| trabalhar em/como | local/função do trabalho |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "empresa",
+      "definicao": "organização onde se trabalha",
+      "exemplo": "\"Eu trabalho numa empresa de tecnologia.\""
+    },
+    {
+      "termo": "escritório",
+      "definicao": "local de trabalho administrativo",
+      "exemplo": "\"O escritório fica no centro.\""
+    },
+    {
+      "termo": "restaurante",
+      "definicao": "local para comer com atendimento",
+      "exemplo": "\"Ele trabalha como cozinheiro num restaurante.\""
+    },
+    {
+      "termo": "faculdade",
+      "definicao": "instituição de ensino superior",
+      "exemplo": "\"Eu estudo numa faculdade em São Paulo.\""
+    },
+    {
+      "termo": "emprego",
+      "definicao": "trabalho remunerado",
+      "exemplo": "\"Eu estou procurando um emprego.\""
+    },
+    {
+      "termo": "currículo",
+      "definicao": "documento com histórico profissional",
+      "exemplo": "\"Eu mandei o currículo por e-mail.\""
+    },
+    {
+      "termo": "entrevista",
+      "definicao": "conversa para avaliar candidato a um emprego",
+      "exemplo": "\"Tenho uma entrevista amanhã.\""
+    },
+    {
+      "termo": "estágio",
+      "definicao": "período de aprendizado prático em empresa",
+      "exemplo": "\"Eu faço estágio num hospital.\""
+    },
+    {
+      "termo": "aula",
+      "definicao": "período de ensino",
+      "exemplo": "\"A aula de português começa às nove.\""
+    },
+    {
+      "termo": "professor / professora",
+      "definicao": "quem ensina",
+      "exemplo": "\"Eu quero ser professor de inglês.\""
+    },
+    {
+      "termo": "aluno / aluna",
+      "definicao": "quem estuda",
+      "exemplo": "\"Ela é aluna de medicina.\""
+    },
+    {
+      "termo": "colega de trabalho",
+      "definicao": "pessoa que trabalha no mesmo lugar",
+      "exemplo": "\"Meu colega de trabalho é simpático.\""
+    },
+    {
+      "termo": "chefe",
+      "definicao": "responsável pela equipe",
+      "exemplo": "\"Meu chefe é muito exigente.\""
+    },
+    {
+      "termo": "salário",
+      "definicao": "pagamento mensal pelo trabalho",
+      "exemplo": "\"O salário é bom.\""
+    },
+    {
+      "termo": "contrato",
+      "definicao": "acordo formal de trabalho",
+      "exemplo": "\"Assinei o contrato ontem.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

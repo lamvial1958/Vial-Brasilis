@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "levantar(-se), dormir, trabalhar, almoçar, jantar, café da manhã, estudar, descansar, manhã, tarde, noite, meio-dia, meia-noite, cedo, tarde (adv.), sempre, às vezes, nunca, hora, relógio"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| levantar(-se) | sair da cama | \"Eu me levanto às sete horas.\" |\n| dormir | repousar, passar a noite dormindo | \"Eu durmo às onze.\" |\n| trabalhar | exercer atividade profissional | \"Eu trabalho muito cedo.\" |\n| almoçar | fazer a refeição do meio-dia | \"Eu almoço ao meio-dia em casa.\" |\n| jantar | fazer a refeição da noite | \"Eu janto às oito da noite.\" |\n| café da manhã | primeira refeição do dia | \"Eu tomo café da manhã às sete.\" |\n| estudar | aprender em escola ou sozinho | \"Eu estudo português todo dia.\" |\n| descansar | parar para relaxar | \"Depois do almoço, eu descanso um pouco.\" |\n| manhã / tarde / noite | partes do dia | \"Eu trabalho de manhã e estudo à tarde.\" |\n| meio-dia / meia-noite | 12h / 0h | \"Eu almoço ao meio-dia.\" |\n| cedo | antes do horário habitual | \"Bruno trabalha muito cedo.\" |\n| sempre | toda vez, sem exceção | \"Eu sempre almoço em casa.\" |\n| às vezes | com frequência média | \"Às vezes eu janto fora.\" |\n| nunca | com frequência zero | \"Eu nunca durmo tarde.\" |\n| relógio | instrumento para ver as horas | \"Meu relógio está atrasado.\" |"
     },
     {
       "ordem": 3,
@@ -48,7 +48,83 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| almoçar / jantar | fazer a refeição do meio-dia / da noite |\n| às vezes | com frequência média, não sempre |\n| a que horas...? | pergunta sobre horário de um hábito |\n| café da manhã | primeira refeição do dia |\n| cedo | antes do horário habitual |\n| descansar | parar para relaxar |\n| dormir | repousar/passar a noite dormindo |\n| hora / relógio | unidade de tempo / instrumento para ver a hora |\n| levantar(-se) | sair da cama |\n| manhã / tarde / noite | partes do dia |\n| meio-dia / meia-noite | 12h / 0h |\n| nunca | frequência zero |\n| sempre | toda vez, sem exceção |\n| trabalhar | exercer uma atividade profissional |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "levantar(-se)",
+      "definicao": "sair da cama",
+      "exemplo": "\"Eu me levanto às sete horas.\""
+    },
+    {
+      "termo": "dormir",
+      "definicao": "repousar, passar a noite dormindo",
+      "exemplo": "\"Eu durmo às onze.\""
+    },
+    {
+      "termo": "trabalhar",
+      "definicao": "exercer atividade profissional",
+      "exemplo": "\"Eu trabalho muito cedo.\""
+    },
+    {
+      "termo": "almoçar",
+      "definicao": "fazer a refeição do meio-dia",
+      "exemplo": "\"Eu almoço ao meio-dia em casa.\""
+    },
+    {
+      "termo": "jantar",
+      "definicao": "fazer a refeição da noite",
+      "exemplo": "\"Eu janto às oito da noite.\""
+    },
+    {
+      "termo": "café da manhã",
+      "definicao": "primeira refeição do dia",
+      "exemplo": "\"Eu tomo café da manhã às sete.\""
+    },
+    {
+      "termo": "estudar",
+      "definicao": "aprender em escola ou sozinho",
+      "exemplo": "\"Eu estudo português todo dia.\""
+    },
+    {
+      "termo": "descansar",
+      "definicao": "parar para relaxar",
+      "exemplo": "\"Depois do almoço, eu descanso um pouco.\""
+    },
+    {
+      "termo": "manhã / tarde / noite",
+      "definicao": "partes do dia",
+      "exemplo": "\"Eu trabalho de manhã e estudo à tarde.\""
+    },
+    {
+      "termo": "meio-dia / meia-noite",
+      "definicao": "12h / 0h",
+      "exemplo": "\"Eu almoço ao meio-dia.\""
+    },
+    {
+      "termo": "cedo",
+      "definicao": "antes do horário habitual",
+      "exemplo": "\"Bruno trabalha muito cedo.\""
+    },
+    {
+      "termo": "sempre",
+      "definicao": "toda vez, sem exceção",
+      "exemplo": "\"Eu sempre almoço em casa.\""
+    },
+    {
+      "termo": "às vezes",
+      "definicao": "com frequência média",
+      "exemplo": "\"Às vezes eu janto fora.\""
+    },
+    {
+      "termo": "nunca",
+      "definicao": "com frequência zero",
+      "exemplo": "\"Eu nunca durmo tarde.\""
+    },
+    {
+      "termo": "relógio",
+      "definicao": "instrumento para ver as horas",
+      "exemplo": "\"Meu relógio está atrasado.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

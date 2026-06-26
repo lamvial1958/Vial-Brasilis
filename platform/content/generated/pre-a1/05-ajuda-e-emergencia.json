@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "socorro, polícia, ambulância, hospital, perdido(a), dor de cabeça, febre, farmácia, ajuda, emergência, 190, 192, 193, mal-estar"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| socorro! | pedido urgente de ajuda | \"Socorro! Preciso de ajuda!\" |\n| polícia | força de segurança pública (número: 190) | \"Vamos chamar a polícia.\" |\n| ambulância | veículo de emergência médica (número: 192) | \"Preciso de uma ambulância!\" |\n| hospital | local de atendimento médico | \"Leve-me ao hospital, por favor.\" |\n| farmácia | local para comprar remédios | \"Tem uma farmácia perto?\" |\n| perdido(a) | quem não sabe o caminho | \"Eu estou perdido.\" |\n| dor de cabeça | sintoma de dor na cabeça | \"Estou com dor de cabeça.\" |\n| febre | temperatura corporal elevada | \"Você está com febre?\" |\n| ajuda | apoio em situação difícil | \"Você pode me ajudar?\" |\n| emergência | situação urgente | \"Isso é uma emergência!\" |\n| mal-estar | sensação geral de não estar bem | \"Estou com um mal-estar.\" |\n| 190 | número de emergência da polícia | \"Ligue 190 para a polícia.\" |\n| 192 | número de emergência da ambulância/SAMU | \"Ligue 192 para o SAMU.\" |\n| 193 | número de emergência dos bombeiros | \"Ligue 193 para os bombeiros.\" |"
     },
     {
       "ordem": 3,
@@ -43,7 +43,78 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| 190 | número de emergência da polícia no Brasil |\n| 192 | número de emergência da ambulância/SAMU |\n| 193 | número de emergência dos bombeiros |\n| ajuda | apoio que se pede a alguém |\n| ambulância | veículo de emergência médica |\n| cinco minutos a pé | indicação de distância a pé |\n| dor de cabeça | sintoma de dor na cabeça |\n| emergência | situação urgente |\n| estou com... | forma de descrever um sintoma |\n| estou mal | expressão de mal-estar |\n| é longe? | pergunta sobre distância |\n| farmácia | local para comprar remédios |\n| febre | sintoma de temperatura corporal alta |\n| hospital | local de atendimento médico |\n| mal-estar | sensação geral de não estar bem |\n| muito obrigado | agradecimento intenso |\n| o que você está sentindo? | pergunta sobre sintomas |\n| perdido(a) | quem não sabe o caminho |\n| polícia | força de segurança pública |\n| siga em frente e vire à esquerda | instrução de caminho |\n| socorro! | pedido de ajuda em emergência grave |\n| vamos chamar uma ambulância? | proposta de ação numa emergência |\n| você pode me ajudar? | pedido de ajuda cortês |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "socorro!",
+      "definicao": "pedido urgente de ajuda",
+      "exemplo": "\"Socorro! Preciso de ajuda!\""
+    },
+    {
+      "termo": "polícia",
+      "definicao": "força de segurança pública (número: 190)",
+      "exemplo": "\"Vamos chamar a polícia.\""
+    },
+    {
+      "termo": "ambulância",
+      "definicao": "veículo de emergência médica (número: 192)",
+      "exemplo": "\"Preciso de uma ambulância!\""
+    },
+    {
+      "termo": "hospital",
+      "definicao": "local de atendimento médico",
+      "exemplo": "\"Leve-me ao hospital, por favor.\""
+    },
+    {
+      "termo": "farmácia",
+      "definicao": "local para comprar remédios",
+      "exemplo": "\"Tem uma farmácia perto?\""
+    },
+    {
+      "termo": "perdido(a)",
+      "definicao": "quem não sabe o caminho",
+      "exemplo": "\"Eu estou perdido.\""
+    },
+    {
+      "termo": "dor de cabeça",
+      "definicao": "sintoma de dor na cabeça",
+      "exemplo": "\"Estou com dor de cabeça.\""
+    },
+    {
+      "termo": "febre",
+      "definicao": "temperatura corporal elevada",
+      "exemplo": "\"Você está com febre?\""
+    },
+    {
+      "termo": "ajuda",
+      "definicao": "apoio em situação difícil",
+      "exemplo": "\"Você pode me ajudar?\""
+    },
+    {
+      "termo": "emergência",
+      "definicao": "situação urgente",
+      "exemplo": "\"Isso é uma emergência!\""
+    },
+    {
+      "termo": "mal-estar",
+      "definicao": "sensação geral de não estar bem",
+      "exemplo": "\"Estou com um mal-estar.\""
+    },
+    {
+      "termo": "190",
+      "definicao": "número de emergência da polícia",
+      "exemplo": "\"Ligue 190 para a polícia.\""
+    },
+    {
+      "termo": "192",
+      "definicao": "número de emergência da ambulância/SAMU",
+      "exemplo": "\"Ligue 192 para o SAMU.\""
+    },
+    {
+      "termo": "193",
+      "definicao": "número de emergência dos bombeiros",
+      "exemplo": "\"Ligue 193 para os bombeiros.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

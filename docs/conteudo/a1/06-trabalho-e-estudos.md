@@ -24,7 +24,23 @@
 
 ## 2. Vocabulário
 
-empresa, escritório, restaurante, faculdade, escola, emprego, currículo, entrevista, estágio, aula, professor/professora, aluno/aluna, colega de trabalho, chefe, salário, contrato
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| empresa | organização onde se trabalha | "Eu trabalho numa empresa de tecnologia." |
+| escritório | local de trabalho administrativo | "O escritório fica no centro." |
+| restaurante | local para comer com atendimento | "Ele trabalha como cozinheiro num restaurante." |
+| faculdade | instituição de ensino superior | "Eu estudo numa faculdade em São Paulo." |
+| emprego | trabalho remunerado | "Eu estou procurando um emprego." |
+| currículo | documento com histórico profissional | "Eu mandei o currículo por e-mail." |
+| entrevista | conversa para avaliar candidato a um emprego | "Tenho uma entrevista amanhã." |
+| estágio | período de aprendizado prático em empresa | "Eu faço estágio num hospital." |
+| aula | período de ensino | "A aula de português começa às nove." |
+| professor / professora | quem ensina | "Eu quero ser professor de inglês." |
+| aluno / aluna | quem estuda | "Ela é aluna de medicina." |
+| colega de trabalho | pessoa que trabalha no mesmo lugar | "Meu colega de trabalho é simpático." |
+| chefe | responsável pela equipe | "Meu chefe é muito exigente." |
+| salário | pagamento mensal pelo trabalho | "O salário é bom." |
+| contrato | acordo formal de trabalho | "Assinei o contrato ontem." |
 
 ## 3. Gramática em Foco
 

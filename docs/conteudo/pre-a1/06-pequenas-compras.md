@@ -36,7 +36,23 @@
 
 ## 2. Vocabulário
 
-mercado, farmácia, troco, remédio, escova de dente, sabonete, dinheiro, fileira, compra, pão, leite, fruta, caixa (do supermercado), sacola, preço, desconto, promoção, lista de compras
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| mercado | local para comprar alimentos | "Tem um mercado perto daqui?" |
+| farmácia | local para comprar remédios | "Vou à farmácia comprar remédio." |
+| troco | valor devolvido após pagamento | "Pode me dar troco de cinquenta?" |
+| remédio | medicamento | "Preciso de um remédio para dor." |
+| escova de dente | item de higiene bucal | "Vocês têm escova de dente?" |
+| sabonete | item de higiene para banho | "Preciso de sabonete." |
+| dinheiro | valor usado para pagar | "Posso pagar com dinheiro?" |
+| pão | alimento básico de farinha | "Dois pães, por favor." |
+| leite | bebida de origem animal ou vegetal | "Um litro de leite, quanto custa?" |
+| fruta | alimento vegetal doce | "Que fruta você tem?" |
+| sacola | saco para carregar compras | "Pode me dar uma sacola?" |
+| preço | valor de um item | "Qual é o preço?" |
+| desconto | redução no preço | "Tem desconto?" |
+| promoção | oferta especial com preço reduzido | "Está em promoção hoje." |
+| lista de compras | lista de itens a comprar | "Eu faço uma lista de compras antes de sair." |
 
 ## 3. Bloco de Pronúncia (revisão consolidada do nível)
 

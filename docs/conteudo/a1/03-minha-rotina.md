@@ -25,7 +25,23 @@
 
 ## 2. Vocabulário
 
-levantar(-se), dormir, trabalhar, almoçar, jantar, café da manhã, estudar, descansar, manhã, tarde, noite, meio-dia, meia-noite, cedo, tarde (adv.), sempre, às vezes, nunca, hora, relógio
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| levantar(-se) | sair da cama | "Eu me levanto às sete horas." |
+| dormir | repousar, passar a noite dormindo | "Eu durmo às onze." |
+| trabalhar | exercer atividade profissional | "Eu trabalho muito cedo." |
+| almoçar | fazer a refeição do meio-dia | "Eu almoço ao meio-dia em casa." |
+| jantar | fazer a refeição da noite | "Eu janto às oito da noite." |
+| café da manhã | primeira refeição do dia | "Eu tomo café da manhã às sete." |
+| estudar | aprender em escola ou sozinho | "Eu estudo português todo dia." |
+| descansar | parar para relaxar | "Depois do almoço, eu descanso um pouco." |
+| manhã / tarde / noite | partes do dia | "Eu trabalho de manhã e estudo à tarde." |
+| meio-dia / meia-noite | 12h / 0h | "Eu almoço ao meio-dia." |
+| cedo | antes do horário habitual | "Bruno trabalha muito cedo." |
+| sempre | toda vez, sem exceção | "Eu sempre almoço em casa." |
+| às vezes | com frequência média | "Às vezes eu janto fora." |
+| nunca | com frequência zero | "Eu nunca durmo tarde." |
+| relógio | instrumento para ver as horas | "Meu relógio está atrasado." |
 
 ## 3. Gramática em Foco
 

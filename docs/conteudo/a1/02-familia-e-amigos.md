@@ -32,7 +32,22 @@
 
 ## 2. Vocabulário
 
-pai, mãe, irmão, irmã, filho, filha, avô, avó, tio, tia, primo, prima, sobrinho, sobrinha, marido, esposa, namorado, namorada, amigo, amiga, alto/alta, baixo/baixa, simpático/simpática, parecido/parecida
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| pai / mãe | progenitores | "Esse é o meu pai. Essa é a minha mãe." |
+| irmão / irmã | filho(a) dos mesmos pais | "Eu tenho uma irmã que se chama Emma." |
+| filho / filha | descendente direto | "Esses são os filhos da minha irmã." |
+| avô / avó | pai ou mãe do pai/da mãe | "Minha avó tem setenta anos." |
+| tio / tia | irmão/irmã de um dos pais | "O meu tio mora em Lisboa." |
+| primo / prima | filho(a) de tio/tia | "Eu tenho cinco primos." |
+| sobrinho / sobrinha | filho(a) de irmão/irmã | "Esses são meus sobrinhos." |
+| marido / esposa | cônjuge | "Esse é o marido da minha irmã." |
+| namorado / namorada | parceiro(a) romântico(a) | "Essa é a minha namorada, Ana." |
+| amigo / amiga | pessoa querida, não da família | "Esse é o meu melhor amigo." |
+| alto / alta | de estatura grande | "Meu pai é muito alto." |
+| baixo / baixa | de estatura pequena | "A minha irmã é baixinha." |
+| simpático / simpática | de personalidade agradável | "Ela é muito simpática." |
+| parecido(a) com | semelhante a alguém | "Ela é parecida com a mãe." |
 
 ## 3. Gramática em Foco
 

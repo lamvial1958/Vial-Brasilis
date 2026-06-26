@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "pai, mãe, irmão, irmã, filho, filha, avô, avó, tio, tia, primo, prima, sobrinho, sobrinha, marido, esposa, namorado, namorada, amigo, amiga, alto/alta, baixo/baixa, simpático/simpática, parecido/parecida"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| pai / mãe | progenitores | \"Esse é o meu pai. Essa é a minha mãe.\" |\n| irmão / irmã | filho(a) dos mesmos pais | \"Eu tenho uma irmã que se chama Emma.\" |\n| filho / filha | descendente direto | \"Esses são os filhos da minha irmã.\" |\n| avô / avó | pai ou mãe do pai/da mãe | \"Minha avó tem setenta anos.\" |\n| tio / tia | irmão/irmã de um dos pais | \"O meu tio mora em Lisboa.\" |\n| primo / prima | filho(a) de tio/tia | \"Eu tenho cinco primos.\" |\n| sobrinho / sobrinha | filho(a) de irmão/irmã | \"Esses são meus sobrinhos.\" |\n| marido / esposa | cônjuge | \"Esse é o marido da minha irmã.\" |\n| namorado / namorada | parceiro(a) romântico(a) | \"Essa é a minha namorada, Ana.\" |\n| amigo / amiga | pessoa querida, não da família | \"Esse é o meu melhor amigo.\" |\n| alto / alta | de estatura grande | \"Meu pai é muito alto.\" |\n| baixo / baixa | de estatura pequena | \"A minha irmã é baixinha.\" |\n| simpático / simpática | de personalidade agradável | \"Ela é muito simpática.\" |\n| parecido(a) com | semelhante a alguém | \"Ela é parecida com a mãe.\" |"
     },
     {
       "ordem": 3,
@@ -48,7 +48,78 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| alto/alta | de estatura grande |\n| amigo/amiga | pessoa querida que não é da família |\n| avô/avó | pai ou mãe do pai/da mãe |\n| baixo/baixa | de estatura pequena |\n| esposa / marido | cônjuge da pessoa |\n| esse é o meu... / essa é a minha... | fórmula para apresentar uma pessoa |\n| filho/filha | descendente direto de alguém |\n| irmão/irmã | filho(a) dos mesmos pais |\n| namorado/namorada | parceiro(a) romântico(a), sem casamento |\n| pai/mãe | progenitores |\n| parecido/parecida (com) | semelhante a alguém |\n| primo/prima | filho(a) de um tio/tia |\n| quem é essa pessoa? | pergunta para identificar alguém |\n| simpático/simpática | de personalidade agradável |\n| sobrinho/sobrinha | filho(a) de um irmão/irmã |\n| tio/tia | irmão/irmã de um dos pais |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "pai / mãe",
+      "definicao": "progenitores",
+      "exemplo": "\"Esse é o meu pai. Essa é a minha mãe.\""
+    },
+    {
+      "termo": "irmão / irmã",
+      "definicao": "filho(a) dos mesmos pais",
+      "exemplo": "\"Eu tenho uma irmã que se chama Emma.\""
+    },
+    {
+      "termo": "filho / filha",
+      "definicao": "descendente direto",
+      "exemplo": "\"Esses são os filhos da minha irmã.\""
+    },
+    {
+      "termo": "avô / avó",
+      "definicao": "pai ou mãe do pai/da mãe",
+      "exemplo": "\"Minha avó tem setenta anos.\""
+    },
+    {
+      "termo": "tio / tia",
+      "definicao": "irmão/irmã de um dos pais",
+      "exemplo": "\"O meu tio mora em Lisboa.\""
+    },
+    {
+      "termo": "primo / prima",
+      "definicao": "filho(a) de tio/tia",
+      "exemplo": "\"Eu tenho cinco primos.\""
+    },
+    {
+      "termo": "sobrinho / sobrinha",
+      "definicao": "filho(a) de irmão/irmã",
+      "exemplo": "\"Esses são meus sobrinhos.\""
+    },
+    {
+      "termo": "marido / esposa",
+      "definicao": "cônjuge",
+      "exemplo": "\"Esse é o marido da minha irmã.\""
+    },
+    {
+      "termo": "namorado / namorada",
+      "definicao": "parceiro(a) romântico(a)",
+      "exemplo": "\"Essa é a minha namorada, Ana.\""
+    },
+    {
+      "termo": "amigo / amiga",
+      "definicao": "pessoa querida, não da família",
+      "exemplo": "\"Esse é o meu melhor amigo.\""
+    },
+    {
+      "termo": "alto / alta",
+      "definicao": "de estatura grande",
+      "exemplo": "\"Meu pai é muito alto.\""
+    },
+    {
+      "termo": "baixo / baixa",
+      "definicao": "de estatura pequena",
+      "exemplo": "\"A minha irmã é baixinha.\""
+    },
+    {
+      "termo": "simpático / simpática",
+      "definicao": "de personalidade agradável",
+      "exemplo": "\"Ela é muito simpática.\""
+    },
+    {
+      "termo": "parecido(a) com",
+      "definicao": "semelhante a alguém",
+      "exemplo": "\"Ela é parecida com a mãe.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

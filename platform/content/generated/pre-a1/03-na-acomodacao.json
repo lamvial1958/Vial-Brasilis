@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "quarto, chave, reserva, toalha, travesseiro, lençol, chuveiro, ar-condicionado, wi-fi, recepção, recepcionista, número do quarto, não funciona, problema, malas, elevador"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| quarto | cômodo para dormir | \"Qual é o número do meu quarto?\" |\n| chave | objeto para abrir a porta | \"Aqui está a chave do quarto 305.\" |\n| reserva | confirmação prévia de um quarto | \"Tenho reserva em nome de Tom.\" |\n| toalha | pano para se secar depois do banho | \"Eu preciso de uma toalha, por favor.\" |\n| travesseiro | objeto para apoiar a cabeça ao dormir | \"Pode trazer um travesseiro extra?\" |\n| lençol | tecido que cobre o colchão | \"O lençol está limpo?\" |\n| chuveiro | equipamento para tomar banho | \"O chuveiro não funciona.\" |\n| ar-condicionado | aparelho que regula a temperatura | \"O ar-condicionado está frio demais.\" |\n| wi-fi | internet sem fio | \"Qual é a senha do wi-fi?\" |\n| recepção | local de atendimento na entrada | \"Vá até a recepção com a chave.\" |\n| recepcionista | pessoa que atende na recepção | \"O recepcionista foi muito atencioso.\" |\n| não funciona | expressão para relatar defeito | \"O elevador não funciona.\" |\n| problema | situação que precisa ser resolvida | \"Sem problema, eu resolvo agora.\" |\n| malas | bagagens de viagem | \"Posso deixar as malas aqui?\" |\n| elevador | equipamento para subir andares | \"O elevador fica à direita.\" |"
     },
     {
       "ordem": 3,
@@ -43,7 +43,83 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| ar-condicionado | aparelho que refresca o ambiente |\n| aqui está | expressão para entregar algo |\n| chave | objeto para abrir a porta do quarto |\n| chuveiro | equipamento para banho |\n| com licença | usado para pedir passagem ou interromper |\n| desculpa | pedido de desculpas |\n| elevador | equipamento para subir/descer andares |\n| em nome de... | forma de se identificar numa reserva |\n| eu trago já | promessa de trazer algo rapidamente |\n| eu vou resolver isso | promessa de solucionar um problema |\n| lençol | tecido que cobre o colchão |\n| malas | bagagem de viagem |\n| não funciona | expressão para relatar defeito |\n| número do quarto | identificação do quarto |\n| problema | algo que não está funcionando bem |\n| quarto | cômodo para dormir |\n| recepção | local de atendimento na entrada do hotel/pousada |\n| recepcionista | pessoa que atende na recepção |\n| reserva | confirmação prévia de um quarto |\n| sem problema | resposta tranquilizadora |\n| também preciso de... | forma de pedir mais um item |\n| tenho, sim | confirmação afirmativa |\n| toalha | pano usado para se secar |\n| travesseiro | usado para apoiar a cabeça ao dormir |\n| você tem reserva? | pergunta de confirmação na chegada |\n| wi-fi | internet sem fio |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "quarto",
+      "definicao": "cômodo para dormir",
+      "exemplo": "\"Qual é o número do meu quarto?\""
+    },
+    {
+      "termo": "chave",
+      "definicao": "objeto para abrir a porta",
+      "exemplo": "\"Aqui está a chave do quarto 305.\""
+    },
+    {
+      "termo": "reserva",
+      "definicao": "confirmação prévia de um quarto",
+      "exemplo": "\"Tenho reserva em nome de Tom.\""
+    },
+    {
+      "termo": "toalha",
+      "definicao": "pano para se secar depois do banho",
+      "exemplo": "\"Eu preciso de uma toalha, por favor.\""
+    },
+    {
+      "termo": "travesseiro",
+      "definicao": "objeto para apoiar a cabeça ao dormir",
+      "exemplo": "\"Pode trazer um travesseiro extra?\""
+    },
+    {
+      "termo": "lençol",
+      "definicao": "tecido que cobre o colchão",
+      "exemplo": "\"O lençol está limpo?\""
+    },
+    {
+      "termo": "chuveiro",
+      "definicao": "equipamento para tomar banho",
+      "exemplo": "\"O chuveiro não funciona.\""
+    },
+    {
+      "termo": "ar-condicionado",
+      "definicao": "aparelho que regula a temperatura",
+      "exemplo": "\"O ar-condicionado está frio demais.\""
+    },
+    {
+      "termo": "wi-fi",
+      "definicao": "internet sem fio",
+      "exemplo": "\"Qual é a senha do wi-fi?\""
+    },
+    {
+      "termo": "recepção",
+      "definicao": "local de atendimento na entrada",
+      "exemplo": "\"Vá até a recepção com a chave.\""
+    },
+    {
+      "termo": "recepcionista",
+      "definicao": "pessoa que atende na recepção",
+      "exemplo": "\"O recepcionista foi muito atencioso.\""
+    },
+    {
+      "termo": "não funciona",
+      "definicao": "expressão para relatar defeito",
+      "exemplo": "\"O elevador não funciona.\""
+    },
+    {
+      "termo": "problema",
+      "definicao": "situação que precisa ser resolvida",
+      "exemplo": "\"Sem problema, eu resolvo agora.\""
+    },
+    {
+      "termo": "malas",
+      "definicao": "bagagens de viagem",
+      "exemplo": "\"Posso deixar as malas aqui?\""
+    },
+    {
+      "termo": "elevador",
+      "definicao": "equipamento para subir andares",
+      "exemplo": "\"O elevador fica à direita.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

@@ -133,7 +133,27 @@ Grave um áudio (ou pratique com um colega/tutor) em que você:
 - [ ] Usei a unidade métrica correta para cada medida (m, kg/g, °C)
 - [ ] Pronunciei corretamente uma palavra com "lh" ou "nh"
 
-## 10. Glossário da Unidade
+## 10. Vocabulário
+
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| soletrar | dizer cada letra de uma palavra | "Pode soletrar seu nome?" |
+| pode soletrar? | pedido para alguém dizer letra por letra | "Pode soletrar seu sobrenome?" |
+| real / reais | moeda oficial do Brasil | "A diária custa cento e vinte reais." |
+| grau Celsius (°C) | unidade de temperatura usada no Brasil | "Está fazendo vinte e três graus." |
+| metro (m) | unidade de comprimento | "Eu tenho um metro e setenta." |
+| quilo (kg) | unidade de peso | "O melão tem dois quilos." |
+| litro (l) | unidade de volume | "Uma garrafa de um litro." |
+| quilômetro (km) | unidade de distância | "São cem quilômetros daqui." |
+| centímetro (cm) | unidade de comprimento menor que o metro | "O papel tem vinte e um centímetros." |
+| vírgula | sinal decimal — o Brasil usa vírgula, não ponto | "19,90 → dezenove vírgula noventa" |
+| diária | valor cobrado por dia de hospedagem | "A diária é cento e vinte reais." |
+| temperatura | medida de calor ou frio em graus | "Qual é a temperatura hoje?" |
+| sílaba tônica | a sílaba pronunciada com mais força | "em 'Brasil': bra-SIL" |
+| mil | 1.000 | "Custa dois mil reais." |
+| milhão | 1.000.000 | "São Paulo tem doze milhões de habitantes." |
+
+## 11. Glossário da Unidade
 
 | Palavra/Expressão | Significado |
 |---|---|

@@ -39,11 +39,92 @@
     },
     {
       "ordem": 7,
+      "titulo": "Vocabulário",
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| segunda-feira | primeiro dia útil da semana | \"A consulta é na segunda-feira.\" |\n| terça-feira | segundo dia útil da semana | \"Eu tenho aula na terça-feira.\" |\n| quarta-feira | terceiro dia útil, meio da semana | \"Pode ser na quarta-feira?\" |\n| quinta-feira | quarto dia útil da semana | \"Quinta-feira, dia 14 de agosto.\" |\n| sexta-feira | quinto dia útil, começo do fim de semana | \"Na sexta-feira eu saio mais cedo.\" |\n| sábado | sexto dia, início do fim de semana | \"Eu perdi a mochila no sábado.\" |\n| domingo | sétimo dia, fim de semana | \"Domingo é dia de descanso.\" |\n| hoje / ontem / amanhã | o dia atual / anterior / seguinte | \"Hoje é quarta. Ontem foi terça.\" |\n| vermelho / vermelha | cor do sangue e dos morangos | \"A minha bolsa é vermelha.\" |\n| azul | cor do céu e do mar | \"É uma mochila azul.\" |\n| verde | cor das plantas e árvores | \"O casaco é verde.\" |\n| amarelo / amarela | cor do sol e das bananas | \"A bandeira tem amarelo.\" |\n| preto / preta | cor oposta ao branco | \"Um bolso preto na frente.\" |\n| branco / branca | cor oposta ao preto | \"A camiseta é branca.\" |\n| em + mês | preposição para situar algo num mês | \"A consulta é em agosto.\" |"
+    },
+    {
+      "ordem": 8,
       "titulo": "Glossário da Unidade",
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| amanhã | o dia depois de hoje |\n| amarelo/amarela | cor do sol, das bananas |\n| azul | cor do céu |\n| branco/branca | cor da neve, oposto de preto |\n| cinza | cor entre o branco e o preto |\n| domingo | sétimo dia da semana, dia de descanso para muitos |\n| em + mês | forma de dizer quando algo ocorre num mês (em julho) |\n| hoje | o dia atual |\n| laranja | cor da fruta laranja |\n| marrom | cor da terra, do chocolate |\n| ontem | o dia antes de hoje |\n| pode ser na/no...? | forma de propor um dia/horário |\n| preto/preta | cor da noite, oposto de branco |\n| que dia é hoje? | pergunta para saber o dia da semana ou a data |\n| quinta-feira | quarto dia útil da semana |\n| rosa | cor clara, tom de vermelho com branco |\n| roxo/roxa | cor entre o azul e o vermelho |\n| sábado | sexto dia da semana, início do fim de semana |\n| segunda-feira | primeiro dia útil da semana |\n| sexta-feira | quinto dia útil da semana, fim da semana de trabalho |\n| terça-feira | segundo dia útil da semana |\n| quarta-feira | terceiro dia útil da semana, meio da semana |\n| verde | cor das plantas |\n| vermelho/vermelha | cor do sangue, dos morangos |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "segunda-feira",
+      "definicao": "primeiro dia útil da semana",
+      "exemplo": "\"A consulta é na segunda-feira.\""
+    },
+    {
+      "termo": "terça-feira",
+      "definicao": "segundo dia útil da semana",
+      "exemplo": "\"Eu tenho aula na terça-feira.\""
+    },
+    {
+      "termo": "quarta-feira",
+      "definicao": "terceiro dia útil, meio da semana",
+      "exemplo": "\"Pode ser na quarta-feira?\""
+    },
+    {
+      "termo": "quinta-feira",
+      "definicao": "quarto dia útil da semana",
+      "exemplo": "\"Quinta-feira, dia 14 de agosto.\""
+    },
+    {
+      "termo": "sexta-feira",
+      "definicao": "quinto dia útil, começo do fim de semana",
+      "exemplo": "\"Na sexta-feira eu saio mais cedo.\""
+    },
+    {
+      "termo": "sábado",
+      "definicao": "sexto dia, início do fim de semana",
+      "exemplo": "\"Eu perdi a mochila no sábado.\""
+    },
+    {
+      "termo": "domingo",
+      "definicao": "sétimo dia, fim de semana",
+      "exemplo": "\"Domingo é dia de descanso.\""
+    },
+    {
+      "termo": "hoje / ontem / amanhã",
+      "definicao": "o dia atual / anterior / seguinte",
+      "exemplo": "\"Hoje é quarta. Ontem foi terça.\""
+    },
+    {
+      "termo": "vermelho / vermelha",
+      "definicao": "cor do sangue e dos morangos",
+      "exemplo": "\"A minha bolsa é vermelha.\""
+    },
+    {
+      "termo": "azul",
+      "definicao": "cor do céu e do mar",
+      "exemplo": "\"É uma mochila azul.\""
+    },
+    {
+      "termo": "verde",
+      "definicao": "cor das plantas e árvores",
+      "exemplo": "\"O casaco é verde.\""
+    },
+    {
+      "termo": "amarelo / amarela",
+      "definicao": "cor do sol e das bananas",
+      "exemplo": "\"A bandeira tem amarelo.\""
+    },
+    {
+      "termo": "preto / preta",
+      "definicao": "cor oposta ao branco",
+      "exemplo": "\"Um bolso preto na frente.\""
+    },
+    {
+      "termo": "branco / branca",
+      "definicao": "cor oposta ao preto",
+      "exemplo": "\"A camiseta é branca.\""
+    },
+    {
+      "termo": "em + mês",
+      "definicao": "preposição para situar algo num mês",
+      "exemplo": "\"A consulta é em agosto.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "futebol, praia, trilha, filme, leitura, passeio, parque, shopping, festa, jogo, natação, academia, bicicleta, caminhada, churrasco"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| futebol | esporte mais popular do Brasil | \"Eu adoro jogar futebol no sábado.\" |\n| praia | orla de areia à beira do mar | \"Que tal ir à praia esse sábado?\" |\n| trilha | caminho na natureza para caminhadas | \"Eu adoro fazer trilha na serra.\" |\n| filme | produção cinematográfica | \"Eu gosto de assistir filmes em casa.\" |\n| leitura | ato de ler | \"Eu prefiro ficar em casa com uma leitura.\" |\n| passeio | saída de lazer | \"Vamos dar um passeio no parque?\" |\n| parque | área verde pública | \"Eu ando de bicicleta no parque.\" |\n| shopping | centro comercial | \"Eu prefiro ir ao shopping.\" |\n| festa | evento social de celebração | \"Tem uma festa na sexta-feira.\" |\n| jogo | partida de esporte ou competição | \"Vamos assistir ao jogo hoje?\" |\n| natação | esporte aquático | \"Eu faço natação três vezes por semana.\" |\n| academia | local para exercícios físicos | \"Eu vou à academia toda manhã.\" |\n| bicicleta | veículo de duas rodas a pedal | \"Eu adoro andar de bicicleta.\" |\n| caminhada | passeio a pé | \"Uma caminhada de manhã faz bem.\" |\n| churrasco | refeição com carne grelhada, tradição brasileira | \"Domingo tem churrasco lá em casa!\" |"
     },
     {
       "ordem": 3,
@@ -48,7 +48,83 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| academia | local para exercícios físicos |\n| bicicleta | veículo de duas rodas movido a pedal |\n| caminhada | passeio a pé |\n| churrasco | refeição com carne grelhada, comum no Brasil |\n| festa | evento social de celebração |\n| filme / leitura | entretenimento audiovisual / ato de ler |\n| futebol / natação | esportes |\n| gostar de / adorar / odiar / preferir | verbos de preferência |\n| jogo | partida de um esporte/competição |\n| parque / praia / trilha | lugares de lazer |\n| passeio | saída de lazer |\n| que tal...? | fórmula para propor um plano |\n| shopping | centro comercial |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "futebol",
+      "definicao": "esporte mais popular do Brasil",
+      "exemplo": "\"Eu adoro jogar futebol no sábado.\""
+    },
+    {
+      "termo": "praia",
+      "definicao": "orla de areia à beira do mar",
+      "exemplo": "\"Que tal ir à praia esse sábado?\""
+    },
+    {
+      "termo": "trilha",
+      "definicao": "caminho na natureza para caminhadas",
+      "exemplo": "\"Eu adoro fazer trilha na serra.\""
+    },
+    {
+      "termo": "filme",
+      "definicao": "produção cinematográfica",
+      "exemplo": "\"Eu gosto de assistir filmes em casa.\""
+    },
+    {
+      "termo": "leitura",
+      "definicao": "ato de ler",
+      "exemplo": "\"Eu prefiro ficar em casa com uma leitura.\""
+    },
+    {
+      "termo": "passeio",
+      "definicao": "saída de lazer",
+      "exemplo": "\"Vamos dar um passeio no parque?\""
+    },
+    {
+      "termo": "parque",
+      "definicao": "área verde pública",
+      "exemplo": "\"Eu ando de bicicleta no parque.\""
+    },
+    {
+      "termo": "shopping",
+      "definicao": "centro comercial",
+      "exemplo": "\"Eu prefiro ir ao shopping.\""
+    },
+    {
+      "termo": "festa",
+      "definicao": "evento social de celebração",
+      "exemplo": "\"Tem uma festa na sexta-feira.\""
+    },
+    {
+      "termo": "jogo",
+      "definicao": "partida de esporte ou competição",
+      "exemplo": "\"Vamos assistir ao jogo hoje?\""
+    },
+    {
+      "termo": "natação",
+      "definicao": "esporte aquático",
+      "exemplo": "\"Eu faço natação três vezes por semana.\""
+    },
+    {
+      "termo": "academia",
+      "definicao": "local para exercícios físicos",
+      "exemplo": "\"Eu vou à academia toda manhã.\""
+    },
+    {
+      "termo": "bicicleta",
+      "definicao": "veículo de duas rodas a pedal",
+      "exemplo": "\"Eu adoro andar de bicicleta.\""
+    },
+    {
+      "termo": "caminhada",
+      "definicao": "passeio a pé",
+      "exemplo": "\"Uma caminhada de manhã faz bem.\""
+    },
+    {
+      "termo": "churrasco",
+      "definicao": "refeição com carne grelhada, tradição brasileira",
+      "exemplo": "\"Domingo tem churrasco lá em casa!\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

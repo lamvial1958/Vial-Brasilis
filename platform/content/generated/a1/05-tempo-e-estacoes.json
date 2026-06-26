@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "verão, outono, inverno, primavera, sol, chuva, vento, nuvem, frio, calor, casaco, guarda-chuva, camiseta, calça, short, sandália, bota, óculos de sol, boné"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| verão | estação quente (dez–mar no Brasil) | \"No verão, faz muito calor no Rio.\" |\n| inverno | estação fria (jun–set no Brasil) | \"Em julho é inverno no Sul do Brasil.\" |\n| outono | estação entre verão e inverno (mar–jun) | \"Em São Paulo, o outono é ameno.\" |\n| primavera | estação entre inverno e verão (set–dez) | \"Na primavera, está ótimo para viajar.\" |\n| sol / chuva / vento | elementos do clima | \"Hoje faz sol e vento.\" |\n| nuvem | formação no céu | \"O céu está cheio de nuvens.\" |\n| faz frio / faz calor | expressão de temperatura ambiente | \"Em Gramado, faz muito frio em julho.\" |\n| chove / chuva | precipitação de água | \"Em julho, chove bastante no Sul.\" |\n| casaco | roupa para o frio | \"Leve um casaco para Gramado.\" |\n| guarda-chuva | acessório para chuva | \"Não esqueça o guarda-chuva!\" |\n| camiseta / short | roupas leves para o calor | \"Leve camiseta e short para o Rio.\" |\n| sandália / bota | calçados | \"Para a trilha, use bota.\" |\n| óculos de sol / boné | acessórios para o sol | \"Não esqueça os óculos de sol.\" |\n| estou com frio / calor | sensação pessoal de temperatura | \"Estou com frio — pode fechar a janela?\" |\n| nublado | céu coberto de nuvens | \"Amanhã vai estar nublado em São Paulo.\" |"
     },
     {
       "ordem": 3,
@@ -48,7 +48,83 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| boné / bota / sandália | acessórios e calçados |\n| calça / camiseta / short | peças de roupa |\n| calor / frio | sensações/temperaturas |\n| casaco / guarda-chuva | itens para o frio/chuva |\n| chove / chuva | precipitação de água |\n| estou com frio/calor | sensação pessoal de temperatura |\n| faz sol/calor/frio/vento | expressão de clima |\n| inverno / verão / outono / primavera | estações do ano |\n| nuvem | formação no céu, indica possível chuva |\n| óculos de sol | acessório de proteção contra luz solar |\n| quantos graus faz? | pergunta sobre temperatura |\n| sol / vento | elementos do clima |\n| está nublado | céu com nuvens, sem sol visível |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "verão",
+      "definicao": "estação quente (dez–mar no Brasil)",
+      "exemplo": "\"No verão, faz muito calor no Rio.\""
+    },
+    {
+      "termo": "inverno",
+      "definicao": "estação fria (jun–set no Brasil)",
+      "exemplo": "\"Em julho é inverno no Sul do Brasil.\""
+    },
+    {
+      "termo": "outono",
+      "definicao": "estação entre verão e inverno (mar–jun)",
+      "exemplo": "\"Em São Paulo, o outono é ameno.\""
+    },
+    {
+      "termo": "primavera",
+      "definicao": "estação entre inverno e verão (set–dez)",
+      "exemplo": "\"Na primavera, está ótimo para viajar.\""
+    },
+    {
+      "termo": "sol / chuva / vento",
+      "definicao": "elementos do clima",
+      "exemplo": "\"Hoje faz sol e vento.\""
+    },
+    {
+      "termo": "nuvem",
+      "definicao": "formação no céu",
+      "exemplo": "\"O céu está cheio de nuvens.\""
+    },
+    {
+      "termo": "faz frio / faz calor",
+      "definicao": "expressão de temperatura ambiente",
+      "exemplo": "\"Em Gramado, faz muito frio em julho.\""
+    },
+    {
+      "termo": "chove / chuva",
+      "definicao": "precipitação de água",
+      "exemplo": "\"Em julho, chove bastante no Sul.\""
+    },
+    {
+      "termo": "casaco",
+      "definicao": "roupa para o frio",
+      "exemplo": "\"Leve um casaco para Gramado.\""
+    },
+    {
+      "termo": "guarda-chuva",
+      "definicao": "acessório para chuva",
+      "exemplo": "\"Não esqueça o guarda-chuva!\""
+    },
+    {
+      "termo": "camiseta / short",
+      "definicao": "roupas leves para o calor",
+      "exemplo": "\"Leve camiseta e short para o Rio.\""
+    },
+    {
+      "termo": "sandália / bota",
+      "definicao": "calçados",
+      "exemplo": "\"Para a trilha, use bota.\""
+    },
+    {
+      "termo": "óculos de sol / boné",
+      "definicao": "acessórios para o sol",
+      "exemplo": "\"Não esqueça os óculos de sol.\""
+    },
+    {
+      "termo": "estou com frio / calor",
+      "definicao": "sensação pessoal de temperatura",
+      "exemplo": "\"Estou com frio — pode fechar a janela?\""
+    },
+    {
+      "termo": "nublado",
+      "definicao": "céu coberto de nuvens",
+      "exemplo": "\"Amanhã vai estar nublado em São Paulo.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

@@ -42,7 +42,23 @@
 
 ## 2. Vocabulário
 
-cardápio, conta, água, suco, café, pão de queijo, prato do dia, garçom, atendente, alérgico a, amendoim, para comer aqui, para levar, quanto custa, real/reais, copo, prato, colher, garfo, faca, guardanapo, gorjeta
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| cardápio | lista de pratos e bebidas | "Pode me trazer o cardápio?" |
+| conta | valor total a pagar | "A conta, por favor." |
+| café | bebida quente feita de grão de café | "Um café, por favor." |
+| suco | bebida feita de fruta | "Um suco de laranja, por favor." |
+| pão de queijo | pãozinho brasileiro com queijo | "Eu queria um pão de queijo." |
+| prato do dia | prato especial daquele dia | "Qual é o prato do dia?" |
+| garçom | quem atende as mesas | "Garçom, a conta, por favor." |
+| alérgico(a) a | restrição por alergia | "Eu sou alérgico a amendoim." |
+| para comer aqui | consumir no local | "Para comer aqui ou para levar?" |
+| para levar | consumir fora do local | "Para levar, por favor." |
+| quanto custa? | pergunta de preço | "Quanto custa o prato do dia?" |
+| garfo / faca / colher | utensílios de mesa | "Pode trazer um garfo, por favor?" |
+| guardanapo | papel/pano para limpar a boca | "Pode trazer mais guardanapos?" |
+| gorjeta | valor extra dado ao garçom como agradecimento | "A gorjeta já está incluída?" |
+| eu queria... | forma educada de pedir | "Eu queria um café com leite." |
 
 ## 3. Bloco de Pronúncia
 

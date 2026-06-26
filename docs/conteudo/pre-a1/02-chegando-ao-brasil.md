@@ -44,7 +44,23 @@
 
 ## 2. Vocabulário
 
-aeroporto, passaporte, visto, imigração, alfândega, bagagem, táxi, app de transporte, endereço, destino, esquerda, direita, em frente, perto, longe, centro, primeira vez, semana(s), viagem, motorista
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| aeroporto | local de chegada e partida de aviões | "Eu cheguei ao aeroporto às dez horas." |
+| passaporte | documento para viagens internacionais | "Passaporte, por favor." |
+| visto | autorização para entrar em um país | "Eu preciso de visto para entrar no Brasil?" |
+| imigração | controle de entrada de estrangeiros | "A fila da imigração estava longa." |
+| alfândega | controle de bagagens na entrada do país | "Eu passei pela alfândega rapidamente." |
+| bagagem | malas e itens de viagem | "Minha bagagem está no avião." |
+| táxi | carro de transporte pago | "Eu peguei um táxi do aeroporto." |
+| destino | lugar para onde se vai | "Meu destino é o Hotel Central." |
+| esquerda / direita | lados de orientação | "Vire à esquerda e depois à direita." |
+| em frente | direção reta, sem virar | "Siga em frente por dois quarteirões." |
+| perto / longe | distância pequena / grande | "O hotel é perto do centro." |
+| centro | área central da cidade | "O restaurante fica no centro." |
+| primeira vez | ocorre pela primeira vez | "É a primeira vez no Brasil?" |
+| semana | período de 7 dias | "Eu vou ficar duas semanas." |
+| motorista | quem dirige o veículo | "O motorista conhecia bem o caminho." |
 
 ## 3. Bloco de Pronúncia
 

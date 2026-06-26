@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "cardápio, conta, água, suco, café, pão de queijo, prato do dia, garçom, atendente, alérgico a, amendoim, para comer aqui, para levar, quanto custa, real/reais, copo, prato, colher, garfo, faca, guardanapo, gorjeta"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| cardápio | lista de pratos e bebidas | \"Pode me trazer o cardápio?\" |\n| conta | valor total a pagar | \"A conta, por favor.\" |\n| café | bebida quente feita de grão de café | \"Um café, por favor.\" |\n| suco | bebida feita de fruta | \"Um suco de laranja, por favor.\" |\n| pão de queijo | pãozinho brasileiro com queijo | \"Eu queria um pão de queijo.\" |\n| prato do dia | prato especial daquele dia | \"Qual é o prato do dia?\" |\n| garçom | quem atende as mesas | \"Garçom, a conta, por favor.\" |\n| alérgico(a) a | restrição por alergia | \"Eu sou alérgico a amendoim.\" |\n| para comer aqui | consumir no local | \"Para comer aqui ou para levar?\" |\n| para levar | consumir fora do local | \"Para levar, por favor.\" |\n| quanto custa? | pergunta de preço | \"Quanto custa o prato do dia?\" |\n| garfo / faca / colher | utensílios de mesa | \"Pode trazer um garfo, por favor?\" |\n| guardanapo | papel/pano para limpar a boca | \"Pode trazer mais guardanapos?\" |\n| gorjeta | valor extra dado ao garçom como agradecimento | \"A gorjeta já está incluída?\" |\n| eu queria... | forma educada de pedir | \"Eu queria um café com leite.\" |"
     },
     {
       "ordem": 3,
@@ -43,7 +43,83 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| a conta, por favor | pedido para encerrar e pagar |\n| água | bebida básica |\n| alérgico a... | expressão de restrição alimentar por alergia |\n| amendoim | tipo de oleaginosa, alérgeno comum |\n| atendente | pessoa que atende no balcão |\n| café | bebida quente feita do grão de café |\n| cardápio | lista de pratos/bebidas de um restaurante |\n| colher / garfo / faca | utensílios de mesa |\n| conta | valor total a pagar |\n| copo / prato | recipientes para bebida/comida |\n| eu queria... | forma educada de pedir |\n| garçom | quem atende mesas no restaurante |\n| gorjeta | valor extra dado como agradecimento |\n| guardanapo | pano/papel para limpar a boca |\n| mais alguma coisa? | pergunta para saber se o pedido terminou |\n| não, só isso | resposta que encerra o pedido |\n| pão de queijo | pãozinho brasileiro feito com queijo |\n| para comer aqui / para levar | opção de consumir no local ou viagem |\n| pode ficar tranquilo | expressão tranquilizadora |\n| prato do dia | prato especial oferecido naquele dia |\n| quanto custa? | pergunta de preço |\n| real/reais | moeda do Brasil |\n| suco (de laranja) | bebida feita de fruta |\n| vegetariano/a | pessoa que não come carne |\n| vocês já escolheram? | pergunta do garçom sobre o pedido |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "cardápio",
+      "definicao": "lista de pratos e bebidas",
+      "exemplo": "\"Pode me trazer o cardápio?\""
+    },
+    {
+      "termo": "conta",
+      "definicao": "valor total a pagar",
+      "exemplo": "\"A conta, por favor.\""
+    },
+    {
+      "termo": "café",
+      "definicao": "bebida quente feita de grão de café",
+      "exemplo": "\"Um café, por favor.\""
+    },
+    {
+      "termo": "suco",
+      "definicao": "bebida feita de fruta",
+      "exemplo": "\"Um suco de laranja, por favor.\""
+    },
+    {
+      "termo": "pão de queijo",
+      "definicao": "pãozinho brasileiro com queijo",
+      "exemplo": "\"Eu queria um pão de queijo.\""
+    },
+    {
+      "termo": "prato do dia",
+      "definicao": "prato especial daquele dia",
+      "exemplo": "\"Qual é o prato do dia?\""
+    },
+    {
+      "termo": "garçom",
+      "definicao": "quem atende as mesas",
+      "exemplo": "\"Garçom, a conta, por favor.\""
+    },
+    {
+      "termo": "alérgico(a) a",
+      "definicao": "restrição por alergia",
+      "exemplo": "\"Eu sou alérgico a amendoim.\""
+    },
+    {
+      "termo": "para comer aqui",
+      "definicao": "consumir no local",
+      "exemplo": "\"Para comer aqui ou para levar?\""
+    },
+    {
+      "termo": "para levar",
+      "definicao": "consumir fora do local",
+      "exemplo": "\"Para levar, por favor.\""
+    },
+    {
+      "termo": "quanto custa?",
+      "definicao": "pergunta de preço",
+      "exemplo": "\"Quanto custa o prato do dia?\""
+    },
+    {
+      "termo": "garfo / faca / colher",
+      "definicao": "utensílios de mesa",
+      "exemplo": "\"Pode trazer um garfo, por favor?\""
+    },
+    {
+      "termo": "guardanapo",
+      "definicao": "papel/pano para limpar a boca",
+      "exemplo": "\"Pode trazer mais guardanapos?\""
+    },
+    {
+      "termo": "gorjeta",
+      "definicao": "valor extra dado ao garçom como agradecimento",
+      "exemplo": "\"A gorjeta já está incluída?\""
+    },
+    {
+      "termo": "eu queria...",
+      "definicao": "forma educada de pedir",
+      "exemplo": "\"Eu queria um café com leite.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

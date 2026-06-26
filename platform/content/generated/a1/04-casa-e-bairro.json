@@ -15,7 +15,7 @@
     {
       "ordem": 2,
       "titulo": "Vocabulário",
-      "markdown": "apartamento, casa, quarto, sala, cozinha, banheiro, garagem, vaga, mercado, farmácia, padaria, parque, escola, cama, mesa, cadeira, sofá, geladeira, fogão, armário, bairro, vizinho"
+      "markdown": "| Termo | Definição simples | Exemplo |\n|---|---|---|\n| apartamento / casa | tipos de moradia | \"Eu moro num apartamento pequeno.\" |\n| quarto | cômodo para dormir | \"O apartamento tem dois quartos.\" |\n| sala | cômodo principal de estar | \"A sala é grande e confortável.\" |\n| cozinha | cômodo para cozinhar | \"A cozinha fica ao lado da sala.\" |\n| banheiro | cômodo de higiene pessoal | \"Tem um banheiro no corredor.\" |\n| garagem / vaga | espaço para guardar/estacionar carro | \"Não tem garagem, mas tem uma vaga.\" |\n| cama / sofá | móveis para dormir/sentar | \"O sofá fica na sala.\" |\n| mesa / cadeira | móveis para refeição ou trabalho | \"A mesa fica na cozinha.\" |\n| geladeira / fogão | eletrodomésticos da cozinha | \"A geladeira é nova.\" |\n| armário | móvel para guardar roupas | \"O armário do quarto é grande.\" |\n| bairro | região/área de uma cidade | \"Eu moro num bairro tranquilo.\" |\n| vizinho | pessoa que mora perto | \"Minha vizinha é muito simpática.\" |\n| mercado / padaria | comércios de alimentos | \"Tem um mercado perto de casa.\" |\n| parque / escola | lugares do bairro | \"Tem um parque em frente à minha casa.\" |\n| ao lado de / perto de | preposições de lugar | \"A farmácia fica ao lado do mercado.\" |"
     },
     {
       "ordem": 3,
@@ -48,7 +48,83 @@
       "markdown": "| Palavra/Expressão | Significado |\n|---|---|\n| apartamento / casa | tipos de moradia |\n| armário | móvel para guardar roupas/objetos |\n| bairro | região/área de uma cidade |\n| banheiro / cozinha / quarto / sala | cômodos da casa |\n| cadeira / mesa / sofá | móveis |\n| escola | local de ensino |\n| fica ao lado de / perto de / em frente a | expressões de localização |\n| fogão / geladeira | equipamentos da cozinha |\n| garagem / vaga | espaço para guardar/estacionar carro |\n| padaria / mercado / farmácia | comércios do bairro |\n| parque | área verde pública |\n| quantos/quantas...tem? | pergunta de quantidade |\n| tem... | expressão de existência |\n| vizinho | pessoa que mora perto |"
     }
   ],
-  "vocabulario": [],
+  "vocabulario": [
+    {
+      "termo": "apartamento / casa",
+      "definicao": "tipos de moradia",
+      "exemplo": "\"Eu moro num apartamento pequeno.\""
+    },
+    {
+      "termo": "quarto",
+      "definicao": "cômodo para dormir",
+      "exemplo": "\"O apartamento tem dois quartos.\""
+    },
+    {
+      "termo": "sala",
+      "definicao": "cômodo principal de estar",
+      "exemplo": "\"A sala é grande e confortável.\""
+    },
+    {
+      "termo": "cozinha",
+      "definicao": "cômodo para cozinhar",
+      "exemplo": "\"A cozinha fica ao lado da sala.\""
+    },
+    {
+      "termo": "banheiro",
+      "definicao": "cômodo de higiene pessoal",
+      "exemplo": "\"Tem um banheiro no corredor.\""
+    },
+    {
+      "termo": "garagem / vaga",
+      "definicao": "espaço para guardar/estacionar carro",
+      "exemplo": "\"Não tem garagem, mas tem uma vaga.\""
+    },
+    {
+      "termo": "cama / sofá",
+      "definicao": "móveis para dormir/sentar",
+      "exemplo": "\"O sofá fica na sala.\""
+    },
+    {
+      "termo": "mesa / cadeira",
+      "definicao": "móveis para refeição ou trabalho",
+      "exemplo": "\"A mesa fica na cozinha.\""
+    },
+    {
+      "termo": "geladeira / fogão",
+      "definicao": "eletrodomésticos da cozinha",
+      "exemplo": "\"A geladeira é nova.\""
+    },
+    {
+      "termo": "armário",
+      "definicao": "móvel para guardar roupas",
+      "exemplo": "\"O armário do quarto é grande.\""
+    },
+    {
+      "termo": "bairro",
+      "definicao": "região/área de uma cidade",
+      "exemplo": "\"Eu moro num bairro tranquilo.\""
+    },
+    {
+      "termo": "vizinho",
+      "definicao": "pessoa que mora perto",
+      "exemplo": "\"Minha vizinha é muito simpática.\""
+    },
+    {
+      "termo": "mercado / padaria",
+      "definicao": "comércios de alimentos",
+      "exemplo": "\"Tem um mercado perto de casa.\""
+    },
+    {
+      "termo": "parque / escola",
+      "definicao": "lugares do bairro",
+      "exemplo": "\"Tem um parque em frente à minha casa.\""
+    },
+    {
+      "termo": "ao lado de / perto de",
+      "definicao": "preposições de lugar",
+      "exemplo": "\"A farmácia fica ao lado do mercado.\""
+    }
+  ],
   "tagsVocabulario": [],
   "exercicios": [
     {

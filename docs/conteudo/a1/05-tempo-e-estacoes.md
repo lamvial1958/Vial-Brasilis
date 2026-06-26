@@ -25,7 +25,23 @@
 
 ## 2. Vocabulário
 
-verão, outono, inverno, primavera, sol, chuva, vento, nuvem, frio, calor, casaco, guarda-chuva, camiseta, calça, short, sandália, bota, óculos de sol, boné
+| Termo | Definição simples | Exemplo |
+|---|---|---|
+| verão | estação quente (dez–mar no Brasil) | "No verão, faz muito calor no Rio." |
+| inverno | estação fria (jun–set no Brasil) | "Em julho é inverno no Sul do Brasil." |
+| outono | estação entre verão e inverno (mar–jun) | "Em São Paulo, o outono é ameno." |
+| primavera | estação entre inverno e verão (set–dez) | "Na primavera, está ótimo para viajar." |
+| sol / chuva / vento | elementos do clima | "Hoje faz sol e vento." |
+| nuvem | formação no céu | "O céu está cheio de nuvens." |
+| faz frio / faz calor | expressão de temperatura ambiente | "Em Gramado, faz muito frio em julho." |
+| chove / chuva | precipitação de água | "Em julho, chove bastante no Sul." |
+| casaco | roupa para o frio | "Leve um casaco para Gramado." |
+| guarda-chuva | acessório para chuva | "Não esqueça o guarda-chuva!" |
+| camiseta / short | roupas leves para o calor | "Leve camiseta e short para o Rio." |
+| sandália / bota | calçados | "Para a trilha, use bota." |
+| óculos de sol / boné | acessórios para o sol | "Não esqueça os óculos de sol." |
+| estou com frio / calor | sensação pessoal de temperatura | "Estou com frio — pode fechar a janela?" |
+| nublado | céu coberto de nuvens | "Amanhã vai estar nublado em São Paulo." |
 
 ## 3. Gramática em Foco
 
