@@ -43,7 +43,7 @@ export default function CadastroPage() {
       });
       sendEmailVerification(cred.user).catch(() => {});
       await postSession(cred.user);
-      router.push("/licoes");
+      router.push("/boas-vindas");
     } catch (err) {
       setErro(err instanceof Error ? err.message : "Erro ao cadastrar.");
     } finally {
@@ -65,7 +65,7 @@ export default function CadastroPage() {
         });
       }
       await postSession(result.user);
-      router.push("/licoes");
+      router.push(info?.isNewUser ? "/boas-vindas" : "/licoes");
     } catch {
       setErro("Erro ao entrar com Google. Tente novamente.");
     } finally {

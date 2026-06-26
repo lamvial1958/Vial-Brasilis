@@ -258,7 +258,21 @@ O `submissaoId` é determinístico: `${nivel}-${slug}-secao${secaoOrdem}`. Um al
 
 ---
 
+## Testes automatizados (Playwright E2E) — concluído 2026-06-26
+
+11 testes passando contra produção (`PLAYWRIGHT_BASE_URL=https://platform-henna-nine.vercel.app`).
+
+| Arquivo | Cobertura |
+|---------|-----------|
+| `tests/e2e/auth.spec.ts` | Login, redirecionamento sem auth, página de login acessível |
+| `tests/e2e/lesson.spec.ts` | Navegação de lições, gabarito reveal, formulário de produção escrita |
+
+Para rodar: `npm run test:e2e` (dentro de `platform/`).  
+Para criar o usuário de teste: `npx tsx scripts/create-test-user.ts`.
+
+---
+
 ## O que ainda não foi construído
 
-- Testes automatizados
 - Sistema de pagamento / acesso por matrícula (fora do escopo atual)
+- SRS ativo (repetição espaçada — os itens são estruturados mas não há motor de revisão)

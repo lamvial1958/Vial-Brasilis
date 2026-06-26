@@ -58,7 +58,7 @@ export default function LoginPage() {
         });
       }
       await postSession(result.user);
-      router.push("/licoes");
+      router.push(info?.isNewUser ? "/boas-vindas" : "/licoes");
     } catch {
       setErro("Erro ao entrar com Google. Tente novamente.");
     } finally {

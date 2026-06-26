@@ -21,11 +21,11 @@ interface SrsCard extends SrsState {
   exemplo: string;
 }
 
-const OPCOES_QUALIDADE: { rotulo: string; qualidade: number }[] = [
-  { rotulo: "Não lembrei", qualidade: 0 },
-  { rotulo: "Difícil", qualidade: 3 },
-  { rotulo: "Bom", qualidade: 4 },
-  { rotulo: "Fácil", qualidade: 5 },
+const OPCOES_QUALIDADE: { rotulo: string; qualidade: number; cor: string }[] = [
+  { rotulo: "Não lembrei", qualidade: 0, cor: "border-red-200 hover:bg-red-50 text-red-700" },
+  { rotulo: "Difícil", qualidade: 3, cor: "border-amber-200 hover:bg-amber-50 text-amber-700" },
+  { rotulo: "Bom", qualidade: 4, cor: "border-blue-200 hover:bg-blue-50 text-blue-700" },
+  { rotulo: "Fácil", qualidade: 5, cor: "border-green-200 hover:bg-green-50 text-green-700" },
 ];
 
 export default function RevisaoPage() {
@@ -71,53 +71,84 @@ export default function RevisaoPage() {
   }
 
   if (loading || fila === null) {
-    return <main className="mx-auto max-w-xl py-10 px-4">Carregando…</main>;
+    return (
+      <main className="min-h-screen bg-gradient-to-br from-[#f3f8f4] to-[#eef3fa] flex items-center justify-center">
+        <p className="text-slate-400 text-sm">Carregando revisão…</p>
+      </main>
+    );
   }
 
   if (fila.length === 0) {
     return (
-      <main className="mx-auto max-w-xl py-10 px-4">
-        <h1 className="text-2xl font-semibold">Revisão</h1>
-        <p className="mt-4 text-gray-600">Nenhuma revisão pendente agora. Volte mais tarde.</p>
+      <main className="min-h-screen bg-gradient-to-br from-[#f3f8f4] to-[#eef3fa] flex items-center justify-center px-4">
+        <div className="text-center max-w-sm">
+          <div className="text-5xl mb-4">🎉</div>
+          <h1 className="text-2xl font-bold text-[#0f2744]">Revisão em dia!</h1>
+          <p className="mt-2 text-slate-500 text-sm">
+            Nenhum cartão pendente agora. Continue estudando as lições para adicionar novos itens.
+          </p>
+          <a
+            href="/licoes"
+            className="mt-6 inline-block bg-[#009C3B] text-white rounded-full px-6 py-2.5 text-sm font-semibold hover:bg-[#007A2E] transition-colors shadow-[0_4px_14px_rgba(0,156,59,0.3)]"
+          >
+            Ir para as lições
+          </a>
+        </div>
       </main>
     );
   }
 
   const cartao = fila[0];
+  const restante = fila.length;
 
   return (
-    <main className="mx-auto max-w-xl py-10 px-4">
-      <h1 className="text-2xl font-semibold">Revisão</h1>
-      <p className="mt-1 text-sm text-gray-500">{fila.length} item(ns) na fila</p>
+    <main className="min-h-screen bg-gradient-to-br from-[#f3f8f4] to-[#eef3fa] flex flex-col items-center justify-center px-4 py-10">
+      <div className="w-full max-w-lg">
+        <div className="flex items-center justify-between mb-6">
+          <h1 className="text-lg font-bold text-[#0f2744]">Revisão espaçada</h1>
+          <span className="text-xs font-semibold bg-white border border-slate-200 rounded-full px-3 py-1 text-slate-500 shadow-sm">
+            {restante} {restante === 1 ? "cartão" : "cartões"}
+          </span>
+        </div>
 
-      <div className="mt-6 border rounded-lg p-8 text-center min-h-[180px] flex flex-col items-center justify-center gap-4">
-        <p className="text-xl font-medium">{cartao.termo}</p>
+        <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-8 text-center min-h-[220px] flex flex-col items-center justify-center gap-4">
+          <p className="text-2xl font-bold text-[#0f2744]">{cartao.termo}</p>
+
+          {revelado ? (
+            <div className="text-slate-600 space-y-2">
+              <p className="text-base">{cartao.definicao}</p>
+              {cartao.exemplo && (
+                <p className="italic text-sm text-slate-400">{cartao.exemplo}</p>
+              )}
+            </div>
+          ) : (
+            <button
+              onClick={() => setRevelado(true)}
+              className="text-sm text-[#2f7fc1] underline hover:text-[#0f2744] transition-colors"
+            >
+              mostrar resposta
+            </button>
+          )}
+        </div>
+
         {revelado && (
-          <div className="text-gray-700">
-            <p>{cartao.definicao}</p>
-            {cartao.exemplo && <p className="italic mt-2">{cartao.exemplo}</p>}
+          <div className="mt-4 grid grid-cols-4 gap-2">
+            {OPCOES_QUALIDADE.map((opcao) => (
+              <button
+                key={opcao.qualidade}
+                onClick={() => avaliar(opcao.qualidade)}
+                className={`border rounded-xl px-2 py-3 text-xs font-semibold transition-colors ${opcao.cor}`}
+              >
+                {opcao.rotulo}
+              </button>
+            ))}
           </div>
         )}
-        {!revelado && (
-          <button onClick={() => setRevelado(true)} className="underline text-sm">
-            mostrar resposta
-          </button>
-        )}
-      </div>
 
-      {revelado && (
-        <div className="mt-6 grid grid-cols-4 gap-2">
-          {OPCOES_QUALIDADE.map((opcao) => (
-            <button
-              key={opcao.qualidade}
-              onClick={() => avaliar(opcao.qualidade)}
-              className="border rounded px-2 py-2 text-sm hover:bg-gray-50"
-            >
-              {opcao.rotulo}
-            </button>
-          ))}
-        </div>
-      )}
+        <p className="text-center text-xs text-slate-400 mt-5">
+          Avalie com honestidade — o algoritmo ajusta o intervalo automaticamente.
+        </p>
+      </div>
     </main>
   );
 }
