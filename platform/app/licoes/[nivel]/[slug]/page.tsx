@@ -148,7 +148,7 @@ export default async function UnidadePage({
           {unidade.secoes.map((secao) => {
             const isExercise = secao.titulo.toLowerCase().startsWith("exercícios");
             const isProducao = secao.titulo.toLowerCase().includes("produção");
-            const isVocabulario = secao.titulo.toLowerCase().includes("vocabulário");
+            const isVocabulario = secao.titulo.toLowerCase().includes("vocabulário") || secao.titulo.toLowerCase().includes("glossário");
             return (
               <section
                 key={secao.ordem}
