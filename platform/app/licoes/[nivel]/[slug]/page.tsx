@@ -1,11 +1,14 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import fs from "fs";
+import path from "path";
 import { getUnit } from "@/lib/content/load";
 import type { Nivel } from "@/lib/content/schema";
 import { SectionMarkdown } from "@/components/SectionMarkdown";
 import { ExerciciosReveal } from "@/components/ExerciciosReveal";
 import { MarcarConcluida } from "@/components/MarcarConcluida";
 import { SimuladoCronometro } from "@/components/SimuladoCronometro";
+import { TtsButton } from "@/components/TtsButton";
 
 const NIVEL_TEMA: Record<string, {
   corHex: string;
@@ -103,6 +106,14 @@ export default async function UnidadePage({
 
   const tema = NIVEL_TEMA[nivel] ?? FALLBACK_TEMA;
 
+  /** Retorna URL do áudio pré-gravado se existir em /public/audio/, senão undefined */
+  function audioUrlSeExistir(ordem: number): string | undefined {
+    const rel = path.join("public", "audio", nivel, slug, `secao-${ordem}.mp3`);
+    return fs.existsSync(path.join(process.cwd(), rel))
+      ? `/audio/${nivel}/${slug}/secao-${ordem}.mp3`
+      : undefined;
+  }
+
   return (
     <>
       {/* CSS variables para estilos de prose (tabelas, blockquotes) */}
@@ -139,7 +150,7 @@ export default async function UnidadePage({
               >
                 {/* Cabeçalho da seção — h2 com borda inferior na cor do nível */}
                 <div
-                  className="px-6 py-4"
+                  className="px-6 py-4 flex items-center justify-between gap-3"
                   style={{ borderBottom: `3px solid ${tema.corHex}` }}
                 >
                   <h2
@@ -148,6 +159,12 @@ export default async function UnidadePage({
                   >
                     {secao.ordem}. {secao.titulo}
                   </h2>
+                  {!isExercise && (
+                    <TtsButton
+                      markdown={secao.markdown}
+                      audioUrl={audioUrlSeExistir(secao.ordem)}
+                    />
+                  )}
                 </div>
 
                 {/* Conteúdo */}
