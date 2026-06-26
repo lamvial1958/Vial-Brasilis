@@ -11,6 +11,7 @@ import { SimuladoCronometro } from "@/components/SimuladoCronometro";
 import { TtsButton } from "@/components/TtsButton";
 import { ProducaoEscritaForm } from "@/components/ProducaoEscritaForm";
 import { BotaoImprimir } from "@/components/BotaoImprimir";
+import { ConjugacaoCallout } from "@/components/ConjugacaoCallout";
 import { extrairVerbos } from "@/lib/content/verbos";
 
 const NIVEL_TEMA: Record<string, {
@@ -147,6 +148,7 @@ export default async function UnidadePage({
           {unidade.secoes.map((secao) => {
             const isExercise = secao.titulo.toLowerCase().startsWith("exercícios");
             const isProducao = secao.titulo.toLowerCase().includes("produção");
+            const isVocabulario = secao.titulo.toLowerCase().includes("vocabulário");
             return (
               <section
                 key={secao.ordem}
@@ -184,6 +186,7 @@ export default async function UnidadePage({
                   ) : (
                     <>
                       <SectionMarkdown markdown={secao.markdown} verbos={verbos} />
+                      {isVocabulario && <ConjugacaoCallout />}
                       {isProducao && (
                         <ProducaoEscritaForm
                           nivel={nivel}
