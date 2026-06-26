@@ -2,7 +2,7 @@
 
 > Documento de referência da arquitetura pedagógica do curso. Toda decisão estrutural validada até o momento está registrada aqui. Antes de propor qualquer mudança de estrutura, leia este documento primeiro.
 
-**Status:** Pedagogicamente validado para os níveis PRE-A1 a B2. Conteúdo de lição completo construído para todos os níveis do escopo atual (PRE-A1 → B2). Camada de TI/plataforma em implementação incremental.
+**Status:** Pedagogicamente validado para os níveis PRE-A1 a B2. Conteúdo de lição completo construído para todos os níveis do escopo atual (PRE-A1 → B2). Camada de TI/plataforma em implementação incremental — ver Seção 11.
 **Última atualização:** 2026-06-26
 
 ---
@@ -233,7 +233,7 @@ Validado através da unidade-piloto **B1.8 — "Registro Formal vs. Informal"**,
 - [x] Conteúdo de lição completo do nível **A2** (10 unidades) — ver `docs/conteudo/a2/`. Consolida o pretérito perfeito (regular e irregular) e introduz comparativos/superlativos, imperativo, futuro perifrástico+perfeito e pretérito imperfeito; A2.10 é unidade de checkpoint/diagnóstico sem item gramatical novo, preparando o gate do B1.
 - [x] Conteúdo de lição completo do nível **B1** (12 unidades) — ver `docs/conteudo/b1/`. A partir deste nível as unidades espelham os gêneros textuais reais do CELPE-Bras (e-mail/carta, reclamação formal, fórum de opinião, notícia, entrevista oral); B1.8 reutiliza fielmente a unidade-piloto da Seção 8.2; B1.11/B1.12 adaptam o template padrão para o formato de simulado/remediação direcionada, com o Simulado #2 do B1.12 servindo como marco formal de saída do nível.
 - [x] Conteúdo de lição completo do nível **B2** (10 unidades) — ver `docs/conteudo/b2/`. Último nível do escopo atual: introduz subjuntivo imperfeito/futuro+condicional (hipóteses), discurso indireto, argumentação dissertativa avançada, variação regional (reconhecimento, não produção), registro profissional consolidado, discurso relatado jornalístico, humor/ironia/linguagem figurada e leitura crítica de produção cultural (música/conto); B2.9/B2.10 seguem o formato de simulado/remediação direcionada do B1.11/B1.12, com o Simulado #2 do B2.10 servindo como marco formal de saída do nível B2 e do escopo atual do curso (PRE-A1 → B2 completo).
-- [ ] Início da camada de arquitetura de TI/plataforma (aguardando o conteúdo completo de todos os níveis).
+- [x] Início da camada de arquitetura de TI/plataforma — funcionalidades de UX em implementação incremental; ver Seção 11.
 - C1/C2: permanecem congelados; só serão retomados mediante solicitação formal futura do responsável pelo projeto.
 
 ## 10. Conteúdo de Lição Detalhado
@@ -245,3 +245,28 @@ Onde a Seção 7 traz a *ficha* de cada unidade (objetivos, strands, foco funcio
 - **A2 (completo):** [`docs/conteudo/a2/`](conteudo/a2/) — 01-contando-o-que-aconteceu.md, 02-verbos-irregulares-no-passado.md, 03-comparando-e-avaliando.md, 04-instrucoes-e-indicacoes.md, 05-burocracia-do-dia-a-dia.md, 06-saude-e-bem-estar.md, 07-viagens-pelo-brasil.md, 08-comida-e-cultura-a-mesa.md, 09-lembrancas-e-habitos-passados.md, 10-ponte-para-o-b1.md (checkpoint/diagnóstico, sem item gramatical novo). Inclui `preview.html`.
 - **B1 (completo):** [`docs/conteudo/b1/`](conteudo/b1/) — 01-entendendo-a-tarefa-integrada.md, 02-email-e-carta-pessoal.md, 03-reclamando-e-resolvendo.md, 04-opiniao-em-foruns.md, 05-narrando-uma-experiencia.md, 06-subjuntivo-presente.md, 07-linguagem-de-noticia.md, 08-registro-formal-vs-informal.md (unidade-piloto, Seção 8.2), 09-debatendo-temas-sociais.md, 10-entrevista-oral.md, 11-simulado-completo-1.md, 12-revisao-direcionada-e-simulado-2.md (marco de saída do nível). Inclui `preview.html`.
 - **B2 (completo):** [`docs/conteudo/b2/`](conteudo/b2/) — 01-hipoteses-e-condicoes.md, 02-discurso-indireto.md, 03-argumentacao-avancada.md, 04-variacao-regional-pt-br.md, 05-portugues-no-trabalho.md, 06-midia-e-atualidades.md, 07-humor-ironia-e-linguagem-figurada.md, 08-cultura-brasileira-em-texto-e-musica.md, 09-simulado-completo-1.md, 10-revisao-direcionada-e-simulado-2.md (marco de saída do nível B2 e do escopo atual do curso). Inclui `preview.html`. Com o B2, o percurso PRE-A1 → B2 está com todo o conteúdo de lição construído; C1/C2 permanecem congelados.
+
+---
+
+## 11. Funcionalidades de Plataforma Implementadas
+
+Registro incremental das funcionalidades de UX/plataforma entregues na camada de TI. Todas as decisões de stack permanecem dentro das restrições definidas: Vercel (gratuito), Firebase Spark, sem serviços pagos.
+
+### 11.1 Impressão de lições (2026-06-26)
+
+Alunos podem imprimir qualquer lição diretamente pelo navegador.
+
+- **Botão "Imprimir lição"** no hero da lição (`BotaoImprimir.tsx`) — chama `window.print()`, oculto na impressão via `print:hidden`.
+- **Elementos interativos ocultados** na impressão: NavBar, botões TTS, seção "Marcar como concluída", navegação de volta, botão STT dos exercícios.
+- **Gabarito dos exercícios** revelado automaticamente na impressão (span `print:inline` com a resposta), substituindo o botão "ver gabarito".
+- **CSS `@media print`** em `globals.css`: fundo branco, sombras removidas, `break-inside: avoid` por seção, `print-color-adjust: exact` nos cabeçalhos de tabela coloridos.
+
+### 11.2 Links de conjugação de verbos (2026-06-26)
+
+Verbos infinitivos do vocabulário de cada lição são linkados automaticamente para o [conjugacao.com.br](https://www.conjugacao.com.br/) (7Graus/Dicio), abrindo em nova aba.
+
+- **`lib/content/verbos.ts`**: extrai infinitivos do array `vocabulario` da lição (filtra termos terminados em `-ar`/`-er`/`-ir`/`-or`, sem barra ou espaço, stripa marcador reflexivo `(-se)`). Gera o slug da URL removendo diacríticos (`almoçar` → `almocar`).
+- **`SectionMarkdown.tsx`**: pré-processa o markdown linha a linha, substituindo ocorrências de infinitivos por links Markdown `[verbo](url)`. Lookbehind `(?<!\[)` e guarda de linha (`conjugacao.com.br`) evitam double-link. Links estilizados com `underline decoration-dotted`, abrem em `target="_blank"`.
+- **Escopo de linking**: todas as seções de conteúdo (Diálogo, Vocabulário, Gramática, Pronúncia, Listening, Produção). Exercícios excluídos por já usarem `ExerciciosReveal`, não `SectionMarkdown`.
+- **Impressão**: links de conjugação sem sublinhado na impressão (`print-color-adjust` via `globals.css`).
+- **Decisão de referência externa**: linking é legalmente seguro (Marco Civil da Internet; a página é pública e indexável); beneficia o site referenciado (tráfego/receita de anúncios); não reproduz conteúdo deles.
