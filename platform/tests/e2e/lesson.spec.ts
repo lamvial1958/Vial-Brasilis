@@ -107,45 +107,65 @@ test.describe("Produção escrita", () => {
     await expect(producaoSection).toBeVisible();
   });
 
-  test("formulário de produção aceita texto e atualiza contador de palavras", async ({ page }) => {
+  /**
+   * Aguarda o ProducaoEscritaForm hidratar e o Firebase Auth inicializar.
+   * O formulário renderiza null durante SSR (estado "carregando"); após hidratação
+   * e onIdTokenChanged, transita para "vazio" e exibe o textarea.
+   * Se já houver submissão anterior, entra em modo de edição.
+   */
+  async function aguardarFormulario(page: import("@playwright/test").Page) {
     const producaoSection = page
       .locator("section")
       .filter({ has: page.getByRole("heading", { name: /produção/i }) });
 
     await producaoSection.scrollIntoViewIfNeeded();
 
-    // Se houver submissão anterior, entra em modo de edição
+    // 1. Aguarda hidratação React: o h3 "Sua produção escrita" aparece quando
+    //    o componente sai do estado "carregando" (renderiza algo).
+    await producaoSection
+      .getByText("Sua produção escrita")
+      .waitFor({ state: "visible", timeout: 20_000 });
+
+    // 2. Aguarda Firebase Auth completar: textarea aparece quando user != null.
+    //    Se o usuário já enviou algo, aparece o badge "Aguardando correção" em vez do textarea.
+    const textarea = producaoSection.getByPlaceholder("Escreva aqui sua produção…");
+    const statusPendente = producaoSection.getByText(/aguardando correção/i);
+
+    // Espera por qualquer um dos dois (whichever appears first)
+    await Promise.race([
+      textarea.waitFor({ state: "visible", timeout: 15_000 }),
+      statusPendente.waitFor({ state: "visible", timeout: 15_000 }),
+    ]).catch(() => {
+      // Se nenhum apareceu, o expect abaixo vai falhar com mensagem clara
+    });
+
+    // Se há submissão anterior, entra em modo de edição
     const btnEditar = producaoSection.getByRole("button", { name: /reenviar|nova versão/i });
-    if (await btnEditar.isVisible({ timeout: 3_000 }).catch(() => false)) {
+    if (await btnEditar.isVisible({ timeout: 500 }).catch(() => false)) {
       await btnEditar.click();
+      await expect(textarea).toBeVisible({ timeout: 5_000 });
     }
 
-    const textarea = producaoSection.getByPlaceholder("Escreva aqui sua produção…");
-    await expect(textarea).toBeVisible({ timeout: 5_000 });
+    return { producaoSection, textarea };
+  }
 
-    await textarea.fill("Esta é uma frase de teste.");
+  test("formulário de produção aceita texto e atualiza contador de palavras", async ({ page }) => {
+    const { producaoSection, textarea } = await aguardarFormulario(page);
+
+    await expect(textarea).toBeVisible();
+    await textarea.fill("Olá mundo hoje está bom");
     await expect(producaoSection.getByText("5 palavras")).toBeVisible();
   });
 
   test("botão 'Enviar para correção' está presente e desabilitado sem texto", async ({ page }) => {
-    const producaoSection = page
-      .locator("section")
-      .filter({ has: page.getByRole("heading", { name: /produção/i }) });
-
-    await producaoSection.scrollIntoViewIfNeeded();
-
-    // Se houver submissão anterior, entra em modo de edição
-    const btnEditar = producaoSection.getByRole("button", { name: /reenviar|nova versão/i });
-    if (await btnEditar.isVisible({ timeout: 3_000 }).catch(() => false)) {
-      await btnEditar.click();
-    }
+    const { producaoSection, textarea } = await aguardarFormulario(page);
 
     const btnEnviar = producaoSection.getByRole("button", { name: /enviar para correção/i });
     await expect(btnEnviar).toBeVisible();
     await expect(btnEnviar).toBeDisabled();
 
-    // Após digitar, fica habilitado
-    await producaoSection.getByPlaceholder("Escreva aqui sua produção…").fill("Olá");
+    // Após digitar, o botão habilita
+    await textarea.fill("Olá");
     await expect(btnEnviar).toBeEnabled();
   });
 });
