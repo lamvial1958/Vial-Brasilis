@@ -216,8 +216,49 @@ Trocar o provider no `TtsButton` por OpenAI TTS (`tts-1`, voz `nova`) via API ro
 
 ---
 
+## Produção escrita (2026-06-26)
+
+Aluno envia texto livre nas seções "Tarefa de Produção Final" de cada lição. Professor corrige via painel admin.
+
+### Firestore
+
+Coleção: `producaoEscrita/{uid}/submissions/{submissaoId}`
+
+| Campo | Tipo | Descrição |
+|-------|------|-----------|
+| `nivel` | string | Ex.: `"pre-a1"` |
+| `slug` | string | Ex.: `"00-ferramentas-basicas-i"` |
+| `secaoOrdem` | number | Número da seção dentro da lição |
+| `secaoTitulo` | string | Título exibido na lição |
+| `texto` | string | Texto do aluno |
+| `enviadoEm` | timestamp | Data do envio (serverTimestamp) |
+| `status` | `"pendente"` \| `"corrigido"` | |
+| `nota` | number \| null | 0–10 (opcional) |
+| `feedback` | string | Comentário do professor |
+| `feedbackEm` | string \| null | ISO date da correção |
+
+O `submissaoId` é determinístico: `${nivel}-${slug}-secao${secaoOrdem}`. Um aluno tem **uma submissão por seção**; reenvio sobrescreve e volta para `"pendente"`.
+
+### Componentes
+
+| Arquivo | Responsabilidade |
+|---------|-----------------|
+| `components/ProducaoEscritaForm.tsx` | Formulário cliente: lê/escreve no Firestore SDK; mostra textarea, contador de palavras, feedback quando corrigido |
+| `components/admin/CorrecaoProducao.tsx` | Card admin: exibe texto do aluno, campos nota + feedback, botão salvar |
+| `app/api/admin/producao/[uid]/[submissaoId]/route.ts` | `PATCH` — admin atualiza nota + feedback + status |
+| `lib/admin/producao.ts` | `listarSubmissoes(uid)` — query server-side via REST |
+
+### Fluxo
+
+1. Aluno abre lição → seção "Tarefa de Produção Final" exibe a tarefa + `ProducaoEscritaForm` abaixo
+2. Aluno escreve e clica "Enviar para correção" → `setDoc` no Firestore com `status: "pendente"`
+3. Admin acessa `/admin/alunos/[uid]` → lista todas as produções (pendentes em destaque)
+4. Admin preenche nota + feedback → `PATCH /api/admin/producao/[uid]/[submissaoId]` → `status: "corrigido"`
+5. Aluno reabre a lição → vê "Corrigido", nota e feedback; pode reenviar nova versão
+
+---
+
 ## O que ainda não foi construído
 
-- Produção escrita (envio de textos e correção pelo professor)
 - Testes automatizados
 - Sistema de pagamento / acesso por matrícula (fora do escopo atual)

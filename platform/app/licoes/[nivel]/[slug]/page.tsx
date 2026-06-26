@@ -9,6 +9,7 @@ import { ExerciciosReveal } from "@/components/ExerciciosReveal";
 import { MarcarConcluida } from "@/components/MarcarConcluida";
 import { SimuladoCronometro } from "@/components/SimuladoCronometro";
 import { TtsButton } from "@/components/TtsButton";
+import { ProducaoEscritaForm } from "@/components/ProducaoEscritaForm";
 
 const NIVEL_TEMA: Record<string, {
   corHex: string;
@@ -139,6 +140,7 @@ export default async function UnidadePage({
           {/* Seções — inspirado em .unit-content do projeto italiano */}
           {unidade.secoes.map((secao) => {
             const isExercise = secao.titulo.toLowerCase().startsWith("exercícios");
+            const isProducao = secao.titulo.toLowerCase().includes("produção");
             return (
               <section
                 key={secao.ordem}
@@ -172,7 +174,20 @@ export default async function UnidadePage({
                   {isExercise ? (
                     <ExerciciosReveal itens={unidade.exercicios} />
                   ) : (
-                    <SectionMarkdown markdown={secao.markdown} />
+                    <>
+                      <SectionMarkdown markdown={secao.markdown} />
+                      {isProducao && (
+                        <ProducaoEscritaForm
+                          nivel={nivel}
+                          slug={slug}
+                          secaoOrdem={secao.ordem}
+                          secaoTitulo={secao.titulo}
+                          corHex={tema.corHex}
+                          textoDestaqueHex={tema.textoDestaqueHex}
+                          textoSobreNivelHex={tema.textoSobreNivelHex}
+                        />
+                      )}
+                    </>
                   )}
                 </div>
               </section>
