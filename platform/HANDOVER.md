@@ -272,7 +272,33 @@ Para criar o usuário de teste: `npx tsx scripts/create-test-user.ts`.
 
 ---
 
+## SRS — Revisão Espaçada (2026-06-26)
+
+Motor SM-2 completo, desbloqueado e em produção.
+
+| Arquivo | Responsabilidade |
+|---------|-----------------|
+| `lib/srs/engine.ts` | Algoritmo SM-2: calcula próxima revisão por qualidade (0–5) |
+| `app/revisao/page.tsx` | Tela de flashcards com 4 botões de qualidade |
+| `app/revisao/layout.tsx` | Auth guard (sem emailVerified — removido) |
+| `components/MarcarConcluida.tsx` | Semeia vocab em `srsItems/{uid}/items/` ao concluir lição |
+
+**Cobertura:** 46/50 lições com vocabulário (671 itens SRS); 4 simulados sem itens, correto.  
+**Acesso:** `/revisao` — link na NavBar.
+
+---
+
+## Onboarding — /boas-vindas (2026-06-26)
+
+Tela pós-cadastro com seleção de objetivo.
+
+- Novos alunos (email ou Google com `isNewUser`) → `/boas-vindas` → `/licoes/pre-a1`
+- Usuários existentes → `/licoes` diretamente
+- Objetivo salvo em `users/{uid}.objetivo` (4 opções: naturalização, universidade, viagem, trabalho)
+
+---
+
 ## O que ainda não foi construído
 
-- Sistema de pagamento / acesso por matrícula (fora do escopo atual)
-- SRS ativo (repetição espaçada — os itens são estruturados mas não há motor de revisão)
+- Sistema de pagamento / acesso por matrícula (fora do escopo — aguarda captação de clientes)
+- Notificação por e-mail quando produção escrita é corrigida (aguarda captação de clientes)
