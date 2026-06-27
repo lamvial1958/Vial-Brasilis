@@ -1,4 +1,4 @@
-# A2.6 — Saúde e Bem-Estar
+﻿# A2.6 — Saúde e Bem-Estar
 
 *Ficha pedagógica completa em `docs/unidades/a2.md`. Expande o vocabulário básico de saúde da A1.8 com descrição detalhada de sintomas e modais de recomendação — prepara terreno para o subjuntivo de recomendação, visto no B1.*
 
@@ -100,7 +100,7 @@
 **Exercício 4 — Associe sintoma e especialista:**
 (problema de pele / criança doente / dor geral) → (dermatologista / pediatra / clínico geral)
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Médica:** - O que você está sentindo?
 

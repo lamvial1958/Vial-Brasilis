@@ -1,8 +1,9 @@
-# A1.9 — Planos e Convites
+﻿# A1.9 — Planos e Convites
 
 ## 1. Diálogo de Abertura
 
 **Cena — troca de mensagens combinando uma festa:**
+
 **Sofia:** - Tom, eu vou fazer uma festa de aniversário no sábado. Você quer ir?
 
 **Tom:** - Adoraria! A que horas vai ser?
@@ -62,7 +63,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. Ditongo "ou" em "vou":** abrir bem o som, sem nasalizar.
+
 **B. Nasalização em "vão" (revisão do grupo -ão).**
+
 **C. Entonação de convite (subida no final) vs. entonação de pena/lamento (descendente) — contraste de "Você quer ir?" × "Que pena...".**
 
 ## 5. Exercícios (com gabarito)
@@ -81,7 +84,7 @@
 **Exercício 4 — Complete a recusa educada:**
 "___ muito, mas eu não vou poder ir." → **Sinto**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Mensagem de voz — Li:** - Oi, gente! Eu vou organizar um churrasco no domingo, lá em casa, a partir do meio-dia. Vocês vão poder vir?
 

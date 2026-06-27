@@ -1,4 +1,4 @@
-# A2.5 — Burocracia do Dia a Dia
+﻿# A2.5 — Burocracia do Dia a Dia
 
 *Ficha pedagógica completa em `docs/unidades/a2.md`. Primeira aproximação à linguagem formal, indispensável para resolver situações práticas em bancos, correios e repartições no Brasil.*
 
@@ -85,7 +85,7 @@
 **Exercício 4 — Complete com vocabulário de burocracia:**
 Depois de preencher o ___, guarde o número do ___ para acompanhar seu atendimento. → **formulário, protocolo**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Atendente dos Correios:** - Bom dia! Em que posso ajudar?
 

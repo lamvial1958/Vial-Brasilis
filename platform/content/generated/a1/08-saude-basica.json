@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "a1",
   "slug": "08-saude-basica",
   "ordem": 8,
@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — farmácia:**\n**Tom:** - Boa tarde. Eu não estou me sentindo bem.\n\n**Farmacêutica:** - O que você está sentindo?\n\n**Tom:** - Estou com dor de garganta e um pouco de tosse.\n\n**Farmacêutica:** - Você está com febre também?\n\n**Tom:** - Não, acho que não. Só estou com o nariz entupido.\n\n**Farmacêutica:** - Parece um resfriado. Vou te dar um xarope e um remédio para a garganta.\n\n**Tom:** - Obrigado. Quanto custa?\n\n**Farmacêutica:** - São vinte e cinco reais.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer que não está bem | Eu não estou me sentindo bem. |\n| Descrever sintoma | Estou com dor de/em... / Estou com... (tosse, febre) |\n| Perguntar sintoma | O que você está sentindo? |\n| Receber recomendação | Vou te dar... / Parece (ser)... |"
+      "markdown": "**Cena — farmácia:**\n\n**Tom:** - Boa tarde. Eu não estou me sentindo bem.\n\n**Farmacêutica:** - O que você está sentindo?\n\n**Tom:** - Estou com dor de garganta e um pouco de tosse.\n\n**Farmacêutica:** - Você está com febre também?\n\n**Tom:** - Não, acho que não. Só estou com o nariz entupido.\n\n**Farmacêutica:** - Parece um resfriado. Vou te dar um xarope e um remédio para a garganta.\n\n**Tom:** - Obrigado. Quanto custa?\n\n**Farmacêutica:** - São vinte e cinco reais.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer que não está bem | Eu não estou me sentindo bem. |\n| Descrever sintoma | Estou com dor de/em... / Estou com... (tosse, febre) |\n| Perguntar sintoma | O que você está sentindo? |\n| Receber recomendação | Vou te dar... / Parece (ser)... |"
     },
     {
       "ordem": 2,
@@ -25,7 +25,7 @@
     {
       "ordem": 4,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. \"rr\"/\"r\" forte em \"garganta\" e \"resfriado\" (revisão).**\n**B. Nasalização em \"não\", \"entupido\"(o \"u\" aqui não é nasal — atenção ao contraste, é só vogal oral; reforçar que nem toda sílaba com \"n\" é nasal).**\n**C. Dígrafo \"ss\" /s/ em \"tosse\":** contrastar com o \"s\" simples entre vogais, que soa /z/ (ex.: \"nariz\")."
+      "markdown": "**A. \"rr\"/\"r\" forte em \"garganta\" e \"resfriado\" (revisão).**\n\n**B. Nasalização em \"não\", \"entupido\"(o \"u\" aqui não é nasal — atenção ao contraste, é só vogal oral; reforçar que nem toda sílaba com \"n\" é nasal).**\n\n**C. Dígrafo \"ss\" /s/ em \"tosse\":** contrastar com o \"s\" simples entre vogais, que soa /z/ (ex.: \"nariz\")."
     },
     {
       "ordem": 5,
@@ -34,7 +34,7 @@
     },
     {
       "ordem": 6,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Atendente (posto de saúde):** - O que você está sentindo?\n\n**Sofia:** - Eu estou com dor nas costas desde ontem, e também um pouco de dor de cabeça.\n\n**Atendente:** - Você está com febre?\n\n**Sofia:** - Não, sem febre. Só a dor mesmo.\n\n**Atendente:** - Vou te indicar um analgésico e recomendar descanso.\n\n\n**Perguntas:**\n1. Onde Sofia sente dor? → **Nas costas e na cabeça**\n2. Desde quando? → **Desde ontem**\n3. Ela está com febre? → **Não**"
     },
     {

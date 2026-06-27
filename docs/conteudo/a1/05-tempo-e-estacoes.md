@@ -3,6 +3,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — Tom planeja uma viagem pelo Brasil com a ajuda de Sofia:**
+
 **Tom:** - Eu vou viajar para o Brasil em julho. Vou para o Rio de Janeiro e depois para o Sul, para Gramado.
 
 **Sofia:** - Ah, em julho faz frio no Sul! Em Gramado pode fazer até cinco graus.
@@ -14,6 +15,10 @@
 **Tom:** - Então eu preciso levar um casaco para Gramado e roupas leves para o Rio.
 
 **Sofia:** - Isso! E não esqueça um guarda-chuva, porque em julho também chove bastante no Sul.
+
+**Tom:** - Uau! Pode até nevar em Gramado?
+
+**Sofia:** - Às vezes sim! No inverno, eventualmente neva em Gramado. E se você quiser conhecer os canyons e a serra entre o Rio Grande do Sul e Santa Catarina, vá a São José dos Ausentes — lá, no inverno, provavelmente você vai encontrar neve.
 
 
 **Quadro funcional:**
@@ -57,7 +62,9 @@ verão (dez–mar) · outono (mar–jun) · inverno (jun–set) · primavera (se
 ## 4. Bloco de Pronúncia
 
 **A. "ch" /ʃ/ em "chuva"/"chover" (revisão).**
+
 **B. Nasalização em "vento".**
+
 **C. Acento tônico em "guarda-chuva":** palavra composta, acento em "chu-va".
 
 ## 5. Exercícios (com gabarito)
@@ -76,14 +83,15 @@ casaco → frio · óculos de sol → sol · guarda-chuva → chuva
 **Exercício 4 — Verdadeiro ou falso:**
 "No Brasil, o inverno é em dezembro" → **F** (é em junho–setembro) · "Em Gramado pode fazer cinco graus em julho" → **V**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
-**Apresentador do tempo:** - Boa noite! A previsão para amanhã: em São Paulo, tempo nublado com chance de chuva à tarde, máxima de dezoito graus. Já em Fortaleza, sol o dia todo, máxima de trinta e dois graus.
+**Apresentador do tempo:** - Boa noite! A previsão para amanhã: em São Paulo, tempo nublado com chance de chuva à tarde, máxima de dezoito graus. Em Porto Alegre, doze graus, tempo nublado e possibilidade de precipitações leves durante a noite. Já em Fortaleza, sol o dia todo, máxima de trinta e dois graus.
 
 
 **Perguntas:**
 1. Qual a previsão para São Paulo? → **Nublado, chance de chuva, máxima de 18 graus**
-2. Qual a previsão para Fortaleza? → **Sol o dia todo, máxima de 32 graus**
+2. Qual a previsão para Porto Alegre? → **Nublado, 12 graus, precipitações leves à noite**
+3. Qual a previsão para Fortaleza? → **Sol o dia todo, máxima de 32 graus**
 
 ## 7. Tarefa de Produção Final
 

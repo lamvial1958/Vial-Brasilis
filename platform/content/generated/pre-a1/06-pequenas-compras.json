@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "pre-a1",
   "slug": "06-pequenas-compras",
   "ordem": 8,
@@ -29,7 +29,7 @@
     },
     {
       "ordem": 5,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Sofia:** - Boa tarde. Tem leite aqui?\n\n**Atendente:** - Tem, sim. Custa cinco reais.\n\n**Sofia:** - Eu queria dois, por favor. E também uma fruta, essa maçã.\n\n**Atendente:** - São doze reais no total.\n\n**Sofia:** - Aqui está. Pode me dar troco?\n\n**Atendente:** - Claro, aqui está seu troco de três reais.\n\n\n**Perguntas:**\n1. Quanto custa um leite? → **Cinco reais**\n2. Quanto Sofia pagou no total? → **Doze reais**"
     },
     {

@@ -1,4 +1,4 @@
-# A2.9 — Lembranças e Hábitos Passados
+﻿# A2.9 — Lembranças e Hábitos Passados
 
 *Ficha pedagógica completa em `docs/unidades/a2.md`. Introduz o pretérito imperfeito e o contraste inicial com o pretérito perfeito — base direta para a narrativa integrada da A2.10.*
 
@@ -96,7 +96,7 @@
 **Exercício 4 — Responda sobre seu próprio passado:**
 O que você fazia no seu tempo livre antes de [um momento de mudança na sua vida]? (resposta livre no imperfeito)
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Apresentadora:** - Como era sua vida antes de se mudar para o Brasil, Marie?
 

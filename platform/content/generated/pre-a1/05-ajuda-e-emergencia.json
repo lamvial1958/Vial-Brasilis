@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "pre-a1",
   "slug": "05-ajuda-e-emergencia",
   "ordem": 7,
@@ -29,7 +29,7 @@
     },
     {
       "ordem": 5,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Sofia:** - Com licença, eu estou perdida. Onde tem uma farmácia?\n\n**Pessoa:** - Tem uma farmácia ali, perto do mercado.\n\n**Sofia:** - É longe?\n\n**Pessoa:** - Não, é perto. Cinco minutos a pé.\n\n**Sofia:** - Muito obrigada!\n\n\n**Perguntas:**\n1. O que Sofia está procurando? → **Uma farmácia**\n2. É longe ou perto? → **Perto, cinco minutos a pé**"
     },
     {

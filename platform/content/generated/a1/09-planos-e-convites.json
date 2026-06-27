@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "a1",
   "slug": "09-planos-e-convites",
   "ordem": 9,
@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — troca de mensagens combinando uma festa:**\n**Sofia:** - Tom, eu vou fazer uma festa de aniversário no sábado. Você quer ir?\n\n**Tom:** - Adoraria! A que horas vai ser?\n\n**Sofia:** - Vai começar às vinte horas, na minha casa.\n\n**Tom:** - Combinado, eu vou levar um presente!\n\n**Sofia:** - Marco, e você? Você vai poder vir?\n\n**Marco:** - Ah, eu sinto muito, mas eu não vou poder ir. Eu vou viajar nesse fim de semana.\n\n**Sofia:** - Que pena! Na próxima então.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Convidar | Você quer ir...? / Você vai poder vir? |\n| Aceitar com entusiasmo | Adoraria! / Combinado! |\n| Recusar com cortesia | Eu sinto muito, mas eu não vou poder... |\n| Reagir à recusa | Que pena! / Na próxima. |"
+      "markdown": "**Cena — troca de mensagens combinando uma festa:**\n\n**Sofia:** - Tom, eu vou fazer uma festa de aniversário no sábado. Você quer ir?\n\n**Tom:** - Adoraria! A que horas vai ser?\n\n**Sofia:** - Vai começar às vinte horas, na minha casa.\n\n**Tom:** - Combinado, eu vou levar um presente!\n\n**Sofia:** - Marco, e você? Você vai poder vir?\n\n**Marco:** - Ah, eu sinto muito, mas eu não vou poder ir. Eu vou viajar nesse fim de semana.\n\n**Sofia:** - Que pena! Na próxima então.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Convidar | Você quer ir...? / Você vai poder vir? |\n| Aceitar com entusiasmo | Adoraria! / Combinado! |\n| Recusar com cortesia | Eu sinto muito, mas eu não vou poder... |\n| Reagir à recusa | Que pena! / Na próxima. |"
     },
     {
       "ordem": 2,
@@ -25,7 +25,7 @@
     {
       "ordem": 4,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. Ditongo \"ou\" em \"vou\":** abrir bem o som, sem nasalizar.\n**B. Nasalização em \"vão\" (revisão do grupo -ão).**\n**C. Entonação de convite (subida no final) vs. entonação de pena/lamento (descendente) — contraste de \"Você quer ir?\" × \"Que pena...\".**"
+      "markdown": "**A. Ditongo \"ou\" em \"vou\":** abrir bem o som, sem nasalizar.\n\n**B. Nasalização em \"vão\" (revisão do grupo -ão).**\n\n**C. Entonação de convite (subida no final) vs. entonação de pena/lamento (descendente) — contraste de \"Você quer ir?\" × \"Que pena...\".**"
     },
     {
       "ordem": 5,
@@ -34,7 +34,7 @@
     },
     {
       "ordem": 6,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Mensagem de voz — Li:** - Oi, gente! Eu vou organizar um churrasco no domingo, lá em casa, a partir do meio-dia. Vocês vão poder vir?\n\n**Resposta — Marco:** - Oi, Li! Eu vou sim, com certeza! Vou levar uma sobremesa.\n\n\n**Perguntas:**\n1. O que Li vai organizar? → **Um churrasco**\n2. Quando e a que horas? → **Domingo, a partir do meio-dia**\n3. O que Marco vai levar? → **Uma sobremesa**"
     },
     {

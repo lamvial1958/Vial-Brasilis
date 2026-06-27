@@ -1,4 +1,4 @@
-# A2.7 — Viagens pelo Brasil
+﻿# A2.7 — Viagens pelo Brasil
 
 *Ficha pedagógica completa em `docs/unidades/a2.md`. Combina o futuro perifrástico (já visto no A1) com o pretérito perfeito (A2.1) num único ciclo de planejar → viajar → relatar.*
 
@@ -97,7 +97,7 @@
 **Exercício 4 — Responda sobre uma viagem (real ou imaginada):**
 Como foi sua última viagem? (resposta livre usando pretérito perfeito)
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Apresentador:** - Fernanda, conte para a gente sua última viagem.
 

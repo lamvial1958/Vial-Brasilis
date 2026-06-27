@@ -1,4 +1,4 @@
-# PRE-A1.1 — Primeiro Contato
+﻿# PRE-A1.1 — Primeiro Contato
 
 *Ficha pedagógica completa em `docs/unidades/pre-a1.md`. Este arquivo contém o conteúdo de lição pronto para uso: diálogo, vocabulário, pronúncia, exercícios com gabarito, listening e tarefa final.*
 
@@ -86,7 +86,7 @@ a) Bom dia → manhã · b) Boa tarde → tarde · c) Boa noite → noite
 **Exercício 4 — A palavra tem som nasal? (sim/não):**
 pão(**sim**) · pau(**não**) · mão(**sim**) · mau(**não**) · café(**não**)
 
-## 5. Listening — Script e Perguntas
+## 5. Compreensão Oral — Transcrição e Perguntas
 
 **Áudio (cena alternativa, narrado por falantes nativos):**
 

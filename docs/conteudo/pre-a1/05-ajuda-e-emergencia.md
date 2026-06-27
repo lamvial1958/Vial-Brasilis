@@ -1,4 +1,4 @@
-# PRE-A1.5 — Ajuda e Emergência
+﻿# PRE-A1.5 — Ajuda e Emergência
 
 ## 1. Diálogo de Abertura
 
@@ -77,7 +77,7 @@
 **Exercício 4 — Escolha a resposta adequada à situação:**
 "Você está com dor de cabeça forte. O que você diz?" a) Estou com dor de cabeça b) Eu sou de Londres → **a**
 
-## 5. Listening — Script e Perguntas
+## 5. Compreensão Oral — Transcrição e Perguntas
 
 **Sofia:** - Com licença, eu estou perdida. Onde tem uma farmácia?
 

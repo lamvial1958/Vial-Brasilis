@@ -1,4 +1,4 @@
-# PRE-A1.4b — Ferramentas Básicas II
+﻿# PRE-A1.4b — Ferramentas Básicas II
 
 *Ficha pedagógica completa em `docs/unidades/pre-a1.md`. Segunda unidade de apoio (transversal): dias da semana, meses do ano e cores são blocos lexicais de altíssima frequência que não pertencem a nenhuma tarefa de sobrevivência específica, por isso ficam isolados aqui, na metade do nível.*
 
@@ -73,7 +73,7 @@ janeiro→verão · julho→inverno
 **Exercício 4 — Complete com a cor:**
 A bandeira do Brasil tem as cores ___, ___ e ___. → **verde, amarelo, azul** (e branco)
 
-## 5. Listening — Script e Perguntas
+## 5. Compreensão Oral — Transcrição e Perguntas
 
 **Recepção:** - Boa tarde, em que posso ajudar?
 

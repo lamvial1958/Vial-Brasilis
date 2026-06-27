@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "pre-a1",
   "slug": "04-comendo-e-bebendo",
   "ordem": 5,
@@ -29,7 +29,7 @@
     },
     {
       "ordem": 5,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Garçom:** - Boa tarde! Já escolheu?\n\n**Sofia:** - Já. Eu queria o prato do dia. Ah, eu sou vegetariana — tem carne nesse prato?\n\n**Garçom:** - Tem, sim. Mas temos uma opção vegetariana também.\n\n**Sofia:** - Ótimo, eu queria essa, por favor. E um suco de laranja.\n\n**Garçom:** - Perfeito.\n\n\n**Perguntas:**\n1. Sofia é vegetariana ou alérgica? → **Vegetariana**\n2. O que ela pede para beber? → **Suco de laranja**"
     },
     {

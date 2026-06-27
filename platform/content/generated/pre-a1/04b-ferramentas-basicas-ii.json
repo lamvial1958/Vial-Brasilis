@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "pre-a1",
   "slug": "04b-ferramentas-basicas-ii",
   "ordem": 6,
@@ -29,7 +29,7 @@
     },
     {
       "ordem": 5,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Recepção:** - Boa tarde, em que posso ajudar?\n\n**Sofia:** - Boa tarde. Eu perdi um casaco aqui no sábado passado.\n\n**Recepção:** - Como ele é?\n\n**Sofia:** - É um casaco verde, bem quentinho.\n\n**Recepção:** - Deixa eu ver... Sim, temos um casaco verde aqui! Pode vir buscar quando quiser, estamos abertos de segunda a sábado.\n\n\n**Perguntas:**\n1. Que dia Sofia perdeu o casaco? → **No sábado**\n2. De que cor é o casaco? → **Verde**\n3. Quais dias a recepção está aberta? → **De segunda a sábado**"
     },
     {

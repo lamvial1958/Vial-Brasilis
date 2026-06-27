@@ -1,4 +1,4 @@
-# B2.5 — Português no Trabalho
+﻿# B2.5 — Português no Trabalho
 
 *Ficha pedagógica completa em `docs/unidades/b2.md`. Pré-requisitos: A1.6 (profissões/vocabulário escolar básico) e B1.3 (carta/e-mail formal). Projeta para B2.9 (Simulado Completo #1). Consolida o registro profissional, retomando e aprofundando o eixo formal de B1.8.*
 
@@ -108,7 +108,7 @@
 **Exercício 4 — Complete o e-mail de follow-up com a estrutura adequada:**
 "Conforme reunião realizada hoje, ___ resumo dos pontos discutidos." → **segue**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 > **Áudio — trecho de reunião:**
 > Bom, vamos retomar a pauta. Ficou pendente a definição do orçamento extra para o projeto. Marina, você conseguiu validar isso com a diretoria? Marina: Consegui. Foi aprovado um orçamento adicional de 15%, mas com a condição de entregarmos a próxima fase até o fim do mês. Gerente: Entendido, vou repassar essa informação para o time hoje ainda. Próximos passos: revisão do cronograma até quinta-feira, e um novo alinhamento com o cliente até sexta. Algum ponto de atenção que eu esteja esquecendo? Marina: Só reforçar que precisamos confirmar com o fornecedor se ele consegue cumprir o novo prazo.

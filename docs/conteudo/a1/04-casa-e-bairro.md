@@ -1,8 +1,9 @@
-# A1.4 — Casa e Bairro
+﻿# A1.4 — Casa e Bairro
 
 ## 1. Diálogo de Abertura
 
 **Cena — Li explica a Marco como é sua casa, antes da visita:**
+
 **Li:** - Marco, antes de você vir à minha casa, deixa eu explicar. Eu moro num apartamento pequeno.
 
 **Marco:** - Quantos quartos tem?
@@ -55,7 +56,9 @@ em · sobre · embaixo de · atrás de · na frente de · ao lado de · perto de
 ## 4. Bloco de Pronúncia
 
 **A. "r" forte em "rua" (revisão da PRE-A1).**
+
 **B. Nasalização em "tem".**
+
 **C. Acento tônico em "embaixo":** em-**bai**-xo.
 
 ## 5. Exercícios (com gabarito)
@@ -75,7 +78,7 @@ em · sobre · embaixo de · atrás de · na frente de · ao lado de · perto de
 **Exercício 4 — Associe o móvel ao cômodo:**
 cama → quarto · fogão → cozinha · sofá → sala
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Sofia:** - Minha casa tem três quartos, uma sala grande e uma cozinha pequena. O banheiro fica entre os dois primeiros quartos. No bairro, tem um parque em frente à minha casa e uma escola perto, mas não tem padaria por aqui.
 

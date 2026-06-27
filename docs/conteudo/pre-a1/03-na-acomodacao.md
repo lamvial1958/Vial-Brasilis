@@ -1,4 +1,4 @@
-# PRE-A1.3 — Na Acomodação
+﻿# PRE-A1.3 — Na Acomodação
 
 ## 1. Diálogo de Abertura
 
@@ -77,7 +77,7 @@ chave→quarto · toalha→banheiro · travesseiro→cama · wi-fi→internet
 **Exercício 4 — A palavra tem o som "ch" /ʃ/? (sim/não):**
 chave(**sim**) · cama(**não**) · chuveiro(**sim**) · carro(**não**)
 
-## 5. Listening — Script e Perguntas
+## 5. Compreensão Oral — Transcrição e Perguntas
 
 **Recepcionista:** - Boa noite! Você tem reserva?
 

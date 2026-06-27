@@ -1,4 +1,4 @@
-# PRE-A1.2 — Chegando ao Brasil
+﻿# PRE-A1.2 — Chegando ao Brasil
 
 ## 1. Diálogo de Abertura
 
@@ -86,7 +86,7 @@
 **Exercício 4 — Classifique o "r" (forte/fraco):**
 rua(**forte**) · carro(**forte**) · primeira(**fraco**) · direita(**fraco**) · Brasil(**forte**)
 
-## 5. Listening — Script e Perguntas
+## 5. Compreensão Oral — Transcrição e Perguntas
 
 **Agente:** - Boa tarde. Passaporte, por favor.
 

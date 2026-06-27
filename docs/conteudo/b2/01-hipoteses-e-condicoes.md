@@ -1,4 +1,4 @@
-# B2.1 — Hipóteses e Condições
+﻿# B2.1 — Hipóteses e Condições
 
 *Ficha pedagógica completa em `docs/unidades/b2.md`. Primeira unidade do nível B2: retoma o subjuntivo (consolidado no B1.6 e B1.9) e introduz o subjuntivo imperfeito/futuro e o futuro do pretérito (condicional) em períodos hipotéticos — pré-requisito direto para B2.2.*
 
@@ -110,7 +110,7 @@
 **Exercício 5 — Complete com o conector condicional adequado (caso / a menos que / desde que):**
 "Não vou aceitar a proposta, ___ eles melhorem a oferta." → **a menos que**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 > **Podcast de carreira:**
 > Muita gente me pergunta: "o que você faria se recebesse duas propostas de emprego ao mesmo tempo?" Bom, se eu estivesse nessa situação, eu não decidiria só pelo salário. Eu pesaria os prós e contras de cada uma: o ambiente de trabalho, a possibilidade de crescer, o equilíbrio entre vida pessoal e profissional. Se uma das propostas exigisse mudar de cidade, eu pensaria com calma antes de aceitar — a menos que fosse uma oportunidade realmente única. E se, depois de tudo isso, eu ainda tivesse dúvida, eu conversaria com pessoas de confiança antes de decidir.

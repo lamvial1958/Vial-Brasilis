@@ -1,4 +1,4 @@
-# B1.6 — Subjuntivo Presente
+﻿# B1.6 — Subjuntivo Presente
 
 *Ficha pedagógica completa em `docs/unidades/b1.md`. Primeiro item gramatical estrutural novo do nível B1: subjuntivo presente após verbos de desejo/dúvida/recomendação — pré-requisito direto para B1.8 e B2.1.*
 
@@ -99,7 +99,7 @@
 **Exercício 4 — Transforme a recomendação direta em recomendação com subjuntivo:**
 "Visite outros bairros antes de decidir." → **Recomendo que você visite outros bairros antes de decidir.**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 > **Apresentador (programa de conselhos para estrangeiros):**
 > Se você está chegando ao Brasil agora, aqui vão algumas dicas. É importante que você organize a documentação nos primeiros dias. Recomendo que você não tenha pressa para tomar decisões grandes, como assinar um contrato de aluguel. Espero que você encontre uma comunidade de apoio, seja de outros estrangeiros, seja de brasileiros. E talvez seja difícil no início, mas duvido que você se arrependa de ter vindo.

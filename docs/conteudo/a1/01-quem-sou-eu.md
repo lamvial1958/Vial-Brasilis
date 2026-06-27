@@ -1,10 +1,11 @@
-# A1.1 — Quem Sou Eu
+﻿# A1.1 — Quem Sou Eu
 
 *Ficha pedagógica completa em `docs/unidades/a1.md`. Diferença de template em relação à PRE-A1: a partir da A1 a gramática é produtiva (não só expressões prontas), por isso esta lição inclui uma seção extra de **Gramática em Foco** (passo "input explícito" da sequência didática padrão).*
 
 ## 1. Diálogo de Abertura
 
 **Cena — roda de conversa, primeiro dia numa escola de português:**
+
 **Professora:** - Boa tarde a todos! Vamos nos conhecer. Tom, pode começar?
 
 **Tom:** - Claro. Eu me chamo Tom, sou inglês, tenho trinta e dois anos e sou professor de inglês.
@@ -87,7 +88,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. Terminação "-ês" (oxítona, vogal nasal fechada):** inglês, francês, chinês, japonês — contrastar com a forma feminina, paroxítona e oral: inglesa, francesa, chinesa.
+
 **B. Ditongo nasal "-ão":** alemão — mesma família de som de "não" e "então" (já praticados na PRE-A1).
+
 **C. Ligação em números compostos:** a palavra "e" em "vinte **e** dois" é pronunciada rápida e ligada, quase como uma sílaba só: "vint-y-dois".
 
 ## 5. Exercícios (com gabarito)
@@ -108,7 +111,7 @@ Maria é ingl___ (**inglesa**) · Pedro é argentin___ (**argentino**) · Anna �
 **Exercício 4 — Escreva a idade em português:**
 45 → **quarenta e cinco** · 67 → **sessenta e sete** · 100 → **cem** · 28 → **vinte e oito**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Sofia:** - Oi! Eu me chamo Sofia. Eu sou argentina, de Buenos Aires. Tenho vinte e oito anos e sou estudante.
 

@@ -1,4 +1,4 @@
-# A2.3 — Comparando e Avaliando
+﻿# A2.3 — Comparando e Avaliando
 
 *Ficha pedagógica completa em `docs/unidades/a2.md`. Foco em opinião justificada e comparação — habilidades centrais para qualquer conversa cotidiana mais elaborada.*
 
@@ -99,7 +99,7 @@
 **Exercício 4 — Dê sua opinião usando o quadro funcional:**
 (Pergunta: Qual é melhor, São Paulo ou o Rio de Janeiro?) → resposta livre, modelo: **Na minha opinião, o Rio é mais bonito, mas São Paulo é mais prático para trabalhar.**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Locutor:** - E aí, qual cidade brasileira você recomendaria para um turista, Beatriz?
 

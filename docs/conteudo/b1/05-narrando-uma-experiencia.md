@@ -1,4 +1,4 @@
-# B1.5 — Narrando uma Experiência
+﻿# B1.5 — Narrando uma Experiência
 
 *Ficha pedagógica completa em `docs/unidades/b1.md`. Consolida o contraste perfeito+imperfeito (A2.9/A2.10) com marcadores narrativos avançados, preparando a entrevista oral do B1.10.*
 
@@ -77,7 +77,7 @@
 **Exercício 4 — Reescreva incluindo um pensamento direto:**
 "Eu fiquei preocupada quando o ônibus parou." → **Naquele momento eu pensei: "isso não pode estar acontecendo!"**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 > **Podcast — depoimento sobre uma experiência marcante:**
 > Eu estava viajando sozinha pelo Nordeste, era minha primeira viagem sem companhia. De início, eu estava bem nervosa, não conhecia ninguém. Enquanto eu esperava o ônibus numa rodoviária pequena, conheci uma família que também estava viajando. De repente, perdemos o ônibus porque ele saiu antes do horário! Para minha surpresa, a família me convidou para dividir um carro até a próxima cidade. No final, viajamos juntos o resto do caminho e ainda somos amigos até hoje.

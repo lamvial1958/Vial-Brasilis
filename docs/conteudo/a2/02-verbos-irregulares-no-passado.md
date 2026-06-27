@@ -1,4 +1,4 @@
-# A2.2 — Verbos Irregulares no Passado
+﻿# A2.2 — Verbos Irregulares no Passado
 
 *Ficha pedagógica completa em `docs/unidades/a2.md`. Esta unidade apresenta os 8 verbos irregulares mais frequentes no pretérito perfeito — essenciais para qualquer narrativa pessoal.*
 
@@ -91,7 +91,7 @@
 **Exercício 3 — Complete a narrativa:**
 Eu ___ (vir) ao Brasil, ___ (fazer) amigos novos e ___ (ter) experiências incríveis. → **vim, fiz, tive**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Carlos:** - Eu vim para o Brasil há três anos. No primeiro mês eu não tive nenhum amigo brasileiro, só estrangeiros. Depois eu fiz um curso de português e conheci muita gente. No ano passado eu fui a quinze festas diferentes! E vi praticamente todo o litoral do estado.
 

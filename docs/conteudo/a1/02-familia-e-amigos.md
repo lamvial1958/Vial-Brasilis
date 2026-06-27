@@ -1,8 +1,9 @@
-# A1.2 — Família e Amigos
+﻿# A1.2 — Família e Amigos
 
 ## 1. Diálogo de Abertura
 
 **Cena — Tom mostra uma foto da família para Li:**
+
 **Tom:** - Olha, essa é a minha família.
 
 **Li:** - Que legal! Quem é essa mulher?
@@ -65,7 +66,9 @@ alto/alta/altos/altas · baixo/baixa/baixos/baixas · simpático/simpática/simp
 ## 4. Bloco de Pronúncia
 
 **A. "lh" /ʎ/ (revisão):** filho, filha, mulher (atenção: "lh" ≠ "l" — não confundir com "filo")
+
 **B. Nasalização em parentesco:** mãe, irmã, também
+
 **C. Acento tônico em "parecido":** pa-re-**ci**-do
 
 ## 5. Exercícios (com gabarito)
@@ -85,7 +88,7 @@ Ela é alt___ (**alta**) · Eles são simpátic___ (**simpáticos**) · Elas sã
 **Exercício 4 — Associe o parentesco à definição:**
 filho do meu irmão → **sobrinho** · mãe do meu pai → **avó** · irmão da minha mãe → **tio**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Marco:** - Essa é a minha família. Esse é o meu pai, Giuseppe, e essa é a minha mãe, Anna. Eu tenho dois irmãos: o Paolo, que é alto e muito simpático, e a Giulia, que é baixa.
 

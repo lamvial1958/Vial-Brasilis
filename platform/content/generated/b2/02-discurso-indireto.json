@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "b2",
   "slug": "02-discurso-indireto",
   "ordem": 2,
@@ -34,7 +34,7 @@
     },
     {
       "ordem": 6,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "> **Áudio — relato de uma conversa:**\n> Ontem eu conversei com o professor sobre a prova. Ele disse que a prova **seria** mais curta do que o normal e que **abordaria** principalmente os últimos dois capítulos. Perguntei se **poderíamos** usar dicionário, e ele respondeu que **não seria** necessário, porque o vocabulário **seria** simples. Também sugeriu que **revisássemos** os exercícios do livro antes da prova.\n\n**Perguntas:**\n1. O que o professor disse sobre o tamanho da prova? → **Que seria mais curta do que o normal**\n2. Que capítulos a prova abordaria, segundo o relato? → **Os últimos dois capítulos**\n3. O que o professor respondeu sobre o uso de dicionário? → **Que não seria necessário**\n4. O que o professor sugeriu como preparação? → **Que revisassem os exercícios do livro**"
     },
     {

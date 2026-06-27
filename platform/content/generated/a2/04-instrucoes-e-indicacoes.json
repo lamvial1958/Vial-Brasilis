@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "a2",
   "slug": "04-instrucoes-e-indicacoes",
   "ordem": 4,
@@ -34,7 +34,7 @@
     },
     {
       "ordem": 6,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Pedestre:** - Com licença, como eu chego à estação de metrô mais próxima?\n\n**Morador:** - Siga em frente por essa rua, atravesse a praça e continue até o final. A estação fica à esquerda, em direção ao shopping. Não vire antes da praça, só depois!\n\n**Pedestre:** - Entendi. E demora quanto tempo?\n\n**Morador:** - Uns dez minutos a pé.\n\n\n**Perguntas:**\n1. O que o pedestre precisa atravessar? → **A praça**\n2. Onde fica a estação? → **À esquerda, em direção ao shopping**\n3. Quando ele deve virar? → **Só depois da praça, não antes**\n4. Quanto tempo demora a pé? → **Uns dez minutos**"
     },
     {

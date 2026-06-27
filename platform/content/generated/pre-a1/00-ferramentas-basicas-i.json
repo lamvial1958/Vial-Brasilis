@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "pre-a1",
   "slug": "00-ferramentas-basicas-i",
   "ordem": 1,
@@ -44,7 +44,7 @@
     },
     {
       "ordem": 8,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Atendente:** - Qual é o seu e-mail, para eu confirmar a reserva?\n\n**Sofia:** - sofia, S-O-F-I-A, ponto, lima, L-I-M-A, arroba, e-mail ponto com.\n\n**Atendente:** - Perfeito. E são duzentos e quinze reais a diária, certo?\n\n**Sofia:** - Isso, duzentos e quinze.\n\n**Atendente:** - E uma última coisa: a previsão é de quinze graus à noite, então leve um casaco.\n\n\n**Perguntas:**\n1. Quanto custa a diária? → **Duzentos e quinze reais**\n2. Qual é a temperatura prevista para a noite? → **Quinze graus**"
     },
     {

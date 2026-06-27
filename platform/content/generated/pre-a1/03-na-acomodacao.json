@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "pre-a1",
   "slug": "03-na-acomodacao",
   "ordem": 4,
@@ -29,7 +29,7 @@
     },
     {
       "ordem": 5,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Recepcionista:** - Boa noite! Você tem reserva?\n\n**Sofia:** - Tenho, sim. Em nome de Sofia.\n\n**Recepcionista:** - Aqui está a chave, quarto 210.\n\n**Sofia:** - Obrigada. Ah, com licença — o wi-fi não funciona no meu quarto.\n\n**Recepcionista:** - Desculpa! Vou resolver isso agora.\n\n\n**Perguntas:**\n1. Qual é o número do quarto de Sofia? → **210**\n2. Qual é o problema dela? → **O wi-fi não funciona**"
     },
     {

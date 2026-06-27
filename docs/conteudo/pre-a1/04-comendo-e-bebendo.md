@@ -1,4 +1,4 @@
-# PRE-A1.4 — Comendo e Bebendo
+﻿# PRE-A1.4 — Comendo e Bebendo
 
 ## 1. Diálogo de Abertura
 
@@ -83,7 +83,7 @@ colher→sopa · garfo→carne · faca→cortar · guardanapo→limpar a boca
 **Exercício 4 — A palavra é escrita com "qu"? (sim/não):**
 quanto(**sim**) · custa(**não**, é "c") · queria(**sim**) · copo(**não**)
 
-## 5. Listening — Script e Perguntas
+## 5. Compreensão Oral — Transcrição e Perguntas
 
 **Garçom:** - Boa tarde! Já escolheu?
 

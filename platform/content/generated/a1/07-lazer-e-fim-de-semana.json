@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "a1",
   "slug": "07-lazer-e-fim-de-semana",
   "ordem": 7,
@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — amigos combinando o fim de semana:**\n**Sofia:** - Gente, o que vocês fazem no fim de semana?\n\n**Tom:** - Eu adoro jogar futebol com os amigos no sábado de manhã.\n\n**Li:** - Eu prefiro ficar em casa, eu gosto de ler e assistir filmes.\n\n**Marco:** - Eu odeio ficar em casa! Eu adoro ir à praia ou fazer uma trilha.\n\n**Sofia:** - Então, que tal irmos à praia esse sábado? Todo fim de semana eu fico em casa, preciso sair um pouco.\n\n**Tom:** - Combinado! Depois do futebol, eu vou.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer o que gosta/não gosta | Eu gosto de... / Eu não gosto de... |\n| Dizer preferência forte | Eu adoro... / Eu odeio... |\n| Dizer preferência comparativa | Eu prefiro... |\n| Propor um plano | Que tal + infinitivo/substantivo...? |"
+      "markdown": "**Cena — amigos combinando o fim de semana:**\n\n**Sofia:** - Gente, o que vocês fazem no fim de semana?\n\n**Tom:** - Eu adoro jogar futebol com os amigos no sábado de manhã.\n\n**Li:** - Eu prefiro ficar em casa, eu gosto de ler e assistir filmes.\n\n**Marco:** - Eu odeio ficar em casa! Eu adoro ir à praia ou fazer uma trilha.\n\n**Sofia:** - Então, que tal irmos à praia esse sábado? Todo fim de semana eu fico em casa, preciso sair um pouco.\n\n**Tom:** - Combinado! Depois do futebol, eu vou.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dizer o que gosta/não gosta | Eu gosto de... / Eu não gosto de... |\n| Dizer preferência forte | Eu adoro... / Eu odeio... |\n| Dizer preferência comparativa | Eu prefiro... |\n| Propor um plano | Que tal + infinitivo/substantivo...? |"
     },
     {
       "ordem": 2,
@@ -25,7 +25,7 @@
     {
       "ordem": 4,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. Verbo irregular \"prefiro\" — vogal da raiz muda (e→i) na 1ª pessoa: prefiro, mas você prefere.**\n**B. \"lh\" em \"trilha\" (revisão).**\n**C. Nasalização revisão: \"também\", \"não\".**"
+      "markdown": "**A. Verbo irregular \"prefiro\" — vogal da raiz muda (e→i) na 1ª pessoa: prefiro, mas você prefere.**\n\n**B. \"lh\" em \"trilha\" (revisão).**\n\n**C. Nasalização revisão: \"também\", \"não\".**"
     },
     {
       "ordem": 5,
@@ -34,7 +34,7 @@
     },
     {
       "ordem": 6,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Entrevistador:** - O que você gosta de fazer no fim de semana?\n\n**Pessoa 1:** - Eu adoro andar de bicicleta no parque.\n\n**Pessoa 2:** - Eu prefiro ir ao shopping com amigas.\n\n**Pessoa 3:** - Eu odeio sair de casa, gosto mesmo é de descansar e ler.\n\n\n**Perguntas:**\n1. O que a Pessoa 1 adora fazer? → **Andar de bicicleta no parque**\n2. O que a Pessoa 3 prefere fazer? → **Descansar e ler em casa**"
     },
     {

@@ -1,4 +1,4 @@
-# B2.2 — Discurso Indireto
+﻿# B2.2 — Discurso Indireto
 
 *Ficha pedagógica completa em `docs/unidades/b2.md`. Pré-requisito: B1.5 (narrativa com perfeito/imperfeito). Projeta para B2.6 (discurso relatado em contexto jornalístico).*
 
@@ -97,7 +97,7 @@
 **Exercício 4 — Identifique os erros de transposição na frase abaixo e corrija:**
 "Ele disse que vai viajar hoje." (relatado dias depois) → **Erro: "vai" deveria ser "ia" e "hoje" deveria ser "naquele dia". Correção: Ele disse que ia viajar naquele dia.**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 > **Áudio — relato de uma conversa:**
 > Ontem eu conversei com o professor sobre a prova. Ele disse que a prova **seria** mais curta do que o normal e que **abordaria** principalmente os últimos dois capítulos. Perguntei se **poderíamos** usar dicionário, e ele respondeu que **não seria** necessário, porque o vocabulário **seria** simples. Também sugeriu que **revisássemos** os exercícios do livro antes da prova.

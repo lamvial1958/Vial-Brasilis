@@ -1,8 +1,9 @@
-# A1.6 — Trabalho e Estudos
+﻿# A1.6 — Trabalho e Estudos
 
 ## 1. Diálogo de Abertura
 
 **Cena — evento de networking:**
+
 **Marco:** - Oi, eu sou o Marco. Eu trabalho como cozinheiro num restaurante italiano aqui no centro.
 
 **Li:** - Que interessante! Eu trabalho numa empresa de tecnologia, como engenheira.
@@ -62,7 +63,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. Terminação "-ndo" do gerúndio:** estudando, procurando — sílaba tônica sempre antes do "-ndo".
+
 **B. Nasalização revisão: "não", "também".**
+
 **C. "ch" em "escritório"? — não; foco aqui em "rr"/r forte:** carro (revisão), Avenida Paulista — "r" no início de "restaurante".
 
 ## 5. Exercícios (com gabarito)
@@ -82,7 +85,7 @@ estudar → **estudando** · procurar → **procurando** · escrever → **escre
 **Exercício 4 — Associe a profissão ao local de trabalho:**
 cozinheiro → restaurante · engenheira → empresa de tecnologia · professor → escola/faculdade
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Sofia:** - Olá! Eu sou a Sofia, sou estudante de medicina. Eu estudo numa faculdade em São Paulo e também estou fazendo um estágio num hospital, às terças e quintas.
 

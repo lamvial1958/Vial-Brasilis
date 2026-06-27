@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "a2",
   "slug": "06-saude-e-bem-estar",
   "ordem": 6,
@@ -34,7 +34,7 @@
     },
     {
       "ordem": 6,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Médica:** - O que você está sentindo?\n\n**Paciente:** - Estou com tosse forte e dor de garganta. Faz quatro dias que estou assim.\n\n**Médica:** - Você tem febre também?\n\n**Paciente:** - Tive um pouco ontem, mas hoje não.\n\n**Médica:** - Entendi. Você precisa descansar a voz e tomar bastante líquido morno. É melhor evitar lugares com ar-condicionado por uns dias. Vou passar um remédio para a tosse.\n\n**Paciente:** - Preciso fazer algum exame?\n\n**Médica:** - Não por agora. Se não melhorar em uma semana, volte para reavaliarmos.\n\n\n**Perguntas:**\n1. Quais são os sintomas do paciente? → **Tosse forte e dor de garganta**\n2. Há quanto tempo ele está assim? → **Faz quatro dias**\n3. Ele tem febre hoje? → **Não, teve um pouco ontem**\n4. O que a médica recomenda evitar? → **Lugares com ar-condicionado**"
     },
     {

@@ -1,4 +1,4 @@
-# A2.1 — Contando o que Aconteceu
+﻿# A2.1 — Contando o que Aconteceu
 
 *Ficha pedagógica completa em `docs/unidades/a2.md`. A partir do A2, a narrativa de eventos passados se torna o eixo central — este é o primeiro item gramatical novo do nível: o pretérito perfeito regular.*
 
@@ -91,7 +91,7 @@ Eu trabalho de manhã → **Eu trabalhei de manhã** · Nós viajamos no sábado
 **Exercício 4 — Responda com marcador temporal:**
 Quando você visitou o Mercado Municipal? (sábado) → **Eu visitei o Mercado Municipal sábado / no sábado.**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Apresentadora:** - E você, Marco, como foi o seu fim de semana?
 

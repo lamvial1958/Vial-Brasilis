@@ -1,4 +1,4 @@
-# A2.8 — Comida e Cultura à Mesa
+﻿# A2.8 — Comida e Cultura à Mesa
 
 *Ficha pedagógica completa em `docs/unidades/a2.md`. Aprofunda o vocabulário gastronômico da A1.7 com adjetivos de sabor/textura e uma primeira introdução (apenas de reconhecimento) ao mais-que-perfeito composto.*
 
@@ -92,7 +92,7 @@
 2. Estava ___, um pouco picante. → **saboroso**
 3. Eu nunca ___ comido isso antes. → **tinha**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Entrevistador:** - Qual foi a comida brasileira que mais te surpreendeu?
 

@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "b2",
   "slug": "05-portugues-no-trabalho",
   "ordem": 5,
@@ -34,7 +34,7 @@
     },
     {
       "ordem": 6,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "> **Áudio — trecho de reunião:**\n> Bom, vamos retomar a pauta. Ficou pendente a definição do orçamento extra para o projeto. Marina, você conseguiu validar isso com a diretoria? Marina: Consegui. Foi aprovado um orçamento adicional de 15%, mas com a condição de entregarmos a próxima fase até o fim do mês. Gerente: Entendido, vou repassar essa informação para o time hoje ainda. Próximos passos: revisão do cronograma até quinta-feira, e um novo alinhamento com o cliente até sexta. Algum ponto de atenção que eu esteja esquecendo? Marina: Só reforçar que precisamos confirmar com o fornecedor se ele consegue cumprir o novo prazo.\n\n**Perguntas:**\n1. O que estava pendente no início da reunião? → **A definição do orçamento extra**\n2. Qual foi a decisão da diretoria sobre o orçamento? → **Aprovou 15% adicional, com a condição de entrega até o fim do mês**\n3. Quais são os dois próximos passos mencionados? → **Revisão do cronograma até quinta e alinhamento com o cliente até sexta**\n4. Qual ponto de atenção a Marina reforça no final? → **Confirmar com o fornecedor se ele cumpre o novo prazo**"
     },
     {

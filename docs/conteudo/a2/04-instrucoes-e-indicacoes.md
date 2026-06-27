@@ -1,4 +1,4 @@
-# A2.4 — Instruções e Indicações
+﻿# A2.4 — Instruções e Indicações
 
 *Ficha pedagógica completa em `docs/unidades/a2.md`. Retoma o tema de indicações de caminho (já visto de forma básica na PRE-A1.2), agora com o imperativo e mais detalhe espacial.*
 
@@ -97,7 +97,7 @@
 **Exercício 4 — Reordene o diálogo:**
 (Com licença / Siga em frente / Como chego ao museu? / depois vire à direita) → **Com licença, como chego ao museu? Siga em frente, depois vire à direita.**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Pedestre:** - Com licença, como eu chego à estação de metrô mais próxima?
 

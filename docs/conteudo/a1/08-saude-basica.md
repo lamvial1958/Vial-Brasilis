@@ -1,10 +1,11 @@
-# A1.8 — Saúde Básica
+﻿# A1.8 — Saúde Básica
 
 *Esta unidade recicla e expande a PRE-A1.5 ("Estou com dor de cabeça", "Estou mal"), acrescentando vocabulário completo do corpo humano e a construção reflexiva "sentir-se".*
 
 ## 1. Diálogo de Abertura
 
 **Cena — farmácia:**
+
 **Tom:** - Boa tarde. Eu não estou me sentindo bem.
 
 **Farmacêutica:** - O que você está sentindo?
@@ -70,7 +71,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. "rr"/"r" forte em "garganta" e "resfriado" (revisão).**
+
 **B. Nasalização em "não", "entupido"(o "u" aqui não é nasal — atenção ao contraste, é só vogal oral; reforçar que nem toda sílaba com "n" é nasal).**
+
 **C. Dígrafo "ss" /s/ em "tosse":** contrastar com o "s" simples entre vogais, que soa /z/ (ex.: "nariz").
 
 ## 5. Exercícios (com gabarito)
@@ -90,7 +93,7 @@ eu ___ (me sinto) · ele ___ (se sente) · nós ___ (nos sentimos)
 **Exercício 4 — "Dor de" ou "dor em/no/na"? Complete:**
 "dor ___ cabeça" → **de** · "dor ___ braço" → **no** · "dor ___ costas" → **nas**
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Atendente (posto de saúde):** - O que você está sentindo?
 

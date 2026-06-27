@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "a1",
   "slug": "03-minha-rotina",
   "ordem": 3,
@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — Tom compara sua rotina com a do amigo brasileiro Bruno:**\n**Bruno:** - Tom, a que horas você se levanta?\n\n**Tom:** - Eu me levanto às sete horas. E você?\n\n**Bruno:** - Eu me levanto às seis e meia. Eu trabalho muito cedo.\n\n**Tom:** - Entendi. E o que você faz depois do trabalho?\n\n**Bruno:** - Eu almoço ao meio-dia e depois eu volto para o trabalho. À noite, eu janto às oito e durmo às onze.\n\n**Tom:** - Eu sempre almoço em casa, mas às vezes eu janto fora.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar a hora de um hábito | A que horas você...? |\n| Dizer a hora de um hábito | Eu... às... (sete horas / meio-dia) |\n| Indicar frequência | sempre / às vezes / nunca + verbo |"
+      "markdown": "**Cena — Tom compara sua rotina com a do amigo brasileiro Bruno:**\n\n**Bruno:** - Tom, a que horas você se levanta?\n\n**Tom:** - Eu me levanto às sete horas. E você?\n\n**Bruno:** - Eu me levanto às seis e meia. Eu trabalho muito cedo.\n\n**Tom:** - Entendi. E o que você faz depois do trabalho?\n\n**Bruno:** - Eu almoço ao meio-dia e depois eu volto para o trabalho. À noite, eu janto às oito e durmo às onze.\n\n**Tom:** - Eu sempre almoço em casa, mas às vezes eu janto fora.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar a hora de um hábito | A que horas você...? |\n| Dizer a hora de um hábito | Eu... às... (sete horas / meio-dia) |\n| Indicar frequência | sempre / às vezes / nunca + verbo |"
     },
     {
       "ordem": 2,
@@ -25,7 +25,7 @@
     {
       "ordem": 4,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. Terminações verbais -o/-a/-amos/-am:** praticar o contraste de tonicidade entre \"trabalho\" (tônica na 1ª sílaba) e \"trabalhamos\" (tônica na 3ª).\n**B. Ligação \"às\" + número:** \"às sete\" soa como uma unidade só.\n**C. Nasalização em \"manhã\":** revisão do grupo nasal já praticado."
+      "markdown": "**A. Terminações verbais -o/-a/-amos/-am:** praticar o contraste de tonicidade entre \"trabalho\" (tônica na 1ª sílaba) e \"trabalhamos\" (tônica na 3ª).\n\n**B. Ligação \"às\" + número:** \"às sete\" soa como uma unidade só.\n\n**C. Nasalização em \"manhã\":** revisão do grupo nasal já praticado."
     },
     {
       "ordem": 5,
@@ -34,7 +34,7 @@
     },
     {
       "ordem": 6,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Sofia:** - Minha rotina é bem tranquila. Eu me levanto às oito horas e tomo café da manhã. Depois eu estudo até o meio-dia. Eu almoço em casa e, às vezes, descanso um pouco depois. À noite, eu janto às sete e meia e durmo às dez e meia.\n\n\n**Perguntas:**\n1. A que horas Sofia se levanta? → **Às oito horas**\n2. O que ela faz até o meio-dia? → **Estuda**\n3. A que horas ela dorme? → **Às dez e meia**"
     },
     {

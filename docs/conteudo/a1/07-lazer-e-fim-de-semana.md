@@ -1,8 +1,9 @@
-# A1.7 — Lazer e Fim de Semana
+﻿# A1.7 — Lazer e Fim de Semana
 
 ## 1. Diálogo de Abertura
 
 **Cena — amigos combinando o fim de semana:**
+
 **Sofia:** - Gente, o que vocês fazem no fim de semana?
 
 **Tom:** - Eu adoro jogar futebol com os amigos no sábado de manhã.
@@ -61,7 +62,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. Verbo irregular "prefiro" — vogal da raiz muda (e→i) na 1ª pessoa: prefiro, mas você prefere.**
+
 **B. "lh" em "trilha" (revisão).**
+
 **C. Nasalização revisão: "também", "não".**
 
 ## 5. Exercícios (com gabarito)
@@ -80,7 +83,7 @@ Tom → futebol · Li → ler/assistir filmes · Marco → praia/trilha
 **Exercício 4 — Verdadeiro ou falso:**
 "Li gosta de ficar em casa" → **V** · "Marco odeia ir à praia" → **F** (ele adora)
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Entrevistador:** - O que você gosta de fazer no fim de semana?
 

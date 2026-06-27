@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "a2",
   "slug": "05-burocracia-do-dia-a-dia",
   "ordem": 5,
@@ -34,7 +34,7 @@
     },
     {
       "ordem": 6,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Atendente dos Correios:** - Bom dia! Em que posso ajudar?\n\n**Cliente:** - Bom dia. Eu gostaria de retirar uma encomenda.\n\n**Atendente:** - Você tem o código de rastreamento e um documento com foto?\n\n**Cliente:** - Tenho sim, aqui está.\n\n**Atendente:** - Seria possível assinar aqui para confirmar o recebimento?\n\n**Cliente:** - Claro. Pronto.\n\n**Atendente:** - Perfeito, aqui está sua encomenda. Tenha um bom dia!\n\n\n**Perguntas:**\n1. O que o cliente quer fazer? → **Retirar uma encomenda**\n2. O que ele precisa apresentar? → **Código de rastreamento e documento com foto**\n3. O que ele precisa fazer para confirmar o recebimento? → **Assinar**"
     },
     {

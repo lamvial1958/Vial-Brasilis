@@ -1,4 +1,4 @@
-# PRE-A1.0 — Ferramentas Básicas I
+﻿# PRE-A1.0 — Ferramentas Básicas I
 
 *Ficha pedagógica completa em `docs/unidades/pre-a1.md`. Unidade de apoio (transversal): antes do primeiro contato social, o aluno recebe as ferramentas gráfico-sonoras e numéricas que vão aparecer em todas as unidades seguintes — alfabeto, sílabas, números (incluindo decimais e grandes quantidades) e o sistema métrico brasileiro.*
 
@@ -102,7 +102,7 @@ R$ 25,50 → **vinte e cinco e cinquenta** · 1,80 m → **um e oitenta** · 36,
 **Exercício 4 — Escolha a unidade métrica certa:**
 distância entre duas cidades → **quilômetro** · peso de uma maçã → **grama** · altura de uma pessoa → **metro** · água de uma garrafa → **litro**
 
-## 8. Listening — Script e Perguntas
+## 8. Compreensão Oral — Transcrição e Perguntas
 
 **Atendente:** - Qual é o seu e-mail, para eu confirmar a reserva?
 

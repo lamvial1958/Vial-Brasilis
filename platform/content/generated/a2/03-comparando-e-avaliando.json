@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "a2",
   "slug": "03-comparando-e-avaliando",
   "ordem": 3,
@@ -34,7 +34,7 @@
     },
     {
       "ordem": 6,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Locutor:** - E aí, qual cidade brasileira você recomendaria para um turista, Beatriz?\n\n**Beatriz:** - Eu recomendaria Salvador. Na minha opinião, é a cidade mais cultural do Brasil. A comida é tão boa quanto a do Rio, mas eu acho mais autêntica. O custo de vida é menor que em São Paulo, então é mais barato para o turista.\n\n**Locutor:** - E o que você acha pior em Salvador?\n\n**Beatriz:** - O trânsito é pior do que eu esperava, mas isso não tira o brilho da cidade.\n\n\n**Perguntas:**\n1. Qual cidade Beatriz recomenda? → **Salvador**\n2. Como ela compara a comida de Salvador com a do Rio? → **Tão boa quanto, mas mais autêntica**\n3. Como está o custo de vida em relação a São Paulo? → **Menor / mais barato**\n4. O que ela acha pior em Salvador? → **O trânsito**"
     },
     {

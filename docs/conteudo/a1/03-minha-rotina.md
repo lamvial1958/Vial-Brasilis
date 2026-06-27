@@ -1,8 +1,9 @@
-# A1.3 — Minha Rotina
+﻿# A1.3 — Minha Rotina
 
 ## 1. Diálogo de Abertura
 
 **Cena — Tom compara sua rotina com a do amigo brasileiro Bruno:**
+
 **Bruno:** - Tom, a que horas você se levanta?
 
 **Tom:** - Eu me levanto às sete horas. E você?
@@ -62,7 +63,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. Terminações verbais -o/-a/-amos/-am:** praticar o contraste de tonicidade entre "trabalho" (tônica na 1ª sílaba) e "trabalhamos" (tônica na 3ª).
+
 **B. Ligação "às" + número:** "às sete" soa como uma unidade só.
+
 **C. Nasalização em "manhã":** revisão do grupo nasal já praticado.
 
 ## 5. Exercícios (com gabarito)
@@ -82,7 +85,7 @@ janta às oito (**3**) · levanta às seis e meia (**1**) · dorme às onze (**4
 **Exercício 4 — Verdadeiro ou falso:**
 "Tom se levanta às sete horas" → **V** · "Bruno trabalha à noite" → **F** (trabalha de manhã cedo)
 
-## 6. Listening — Script e Perguntas
+## 6. Compreensão Oral — Transcrição e Perguntas
 
 **Sofia:** - Minha rotina é bem tranquila. Eu me levanto às oito horas e tomo café da manhã. Depois eu estudo até o meio-dia. Eu almoço em casa e, às vezes, descanso um pouco depois. À noite, eu janto às sete e meia e durmo às dez e meia.
 

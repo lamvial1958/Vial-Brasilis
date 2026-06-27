@@ -1,4 +1,4 @@
-{
+﻿{
   "nivel": "pre-a1",
   "slug": "02-chegando-ao-brasil",
   "ordem": 3,
@@ -29,7 +29,7 @@
     },
     {
       "ordem": 5,
-      "titulo": "Listening — Script e Perguntas",
+      "titulo": "Compreensão Oral — Transcrição e Perguntas",
       "markdown": "**Agente:** - Boa tarde. Passaporte, por favor.\n\n**Sofia:** - Boa tarde. Aqui está.\n\n**Agente:** - É a primeira vez no Brasil?\n\n**Sofia:** - Não, é a segunda vez.\n\n**Agente:** - Quanto tempo você vai ficar?\n\n**Sofia:** - Eu vou ficar um mês.\n\n**Agente:** - Tudo certo. Boa estadia!\n\n\n**Perguntas:**\n1. É a primeira vez de Sofia no Brasil? → **Não, é a segunda vez**\n2. Quanto tempo ela vai ficar? → **Um mês**"
     },
     {

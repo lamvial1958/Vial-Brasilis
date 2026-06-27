@@ -1,4 +1,4 @@
-# PRE-A1.6 — Pequenas Compras (Projeto Integrador do Nível)
+﻿# PRE-A1.6 — Pequenas Compras (Projeto Integrador do Nível)
 
 ## 1. Diálogo de Abertura
 
@@ -75,7 +75,7 @@ Nasalização (pão, não) · "r" forte/fraco (rua/primeira) · "ch"/"lh" (chuve
 **Exercício 4 — Revisão fonética, marque a opção correta:**
 Qual tem som nasal? a) pão b) pau → **a** · Qual tem o som "ch" /ʃ/? a) chuveiro b) carro → **a**
 
-## 5. Listening — Script e Perguntas
+## 5. Compreensão Oral — Transcrição e Perguntas
 
 **Sofia:** - Boa tarde. Tem leite aqui?
 
