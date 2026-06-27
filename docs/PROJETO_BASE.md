@@ -3,7 +3,7 @@
 > Documento de referência da arquitetura pedagógica do curso. Toda decisão estrutural validada até o momento está registrada aqui. Antes de propor qualquer mudança de estrutura, leia este documento primeiro.
 
 **Status:** Pedagogicamente validado para os níveis PRE-A1 a B2. Conteúdo de lição completo construído para todos os níveis do escopo atual (PRE-A1 → B2). Camada de TI/plataforma em implementação incremental — ver Seção 11.
-**Última atualização:** 2026-06-26
+**Última atualização:** 2026-06-27
 
 ---
 
@@ -55,7 +55,7 @@ Síntese deliberada de quatro correntes, cada uma mitigando a fraqueza da outra:
 **Decisão estrutural central:** abandono do modelo "nível + mini-corsi paralelo". Adoção de **4 strands transversais** em toda unidade de todo nível:
 1. Função & Gramática-em-contexto
 2. Léxico & Repetição Espaçada (SRS)
-3. Som & Compreensão (fonética/nasalização/listening)
+3. Som & Compreensão (fonética/nasalização/compreensão oral)
 4. Produção Oral & Escrita
 
 O equivalente aos "Mini-Corsi" sobrevive apenas como camada de referência/revisão cross-linked às unidades — nunca como pilar estrutural concorrente.
@@ -182,7 +182,7 @@ Validado através da unidade-piloto **B1.8 — "Registro Formal vs. Informal"**,
 2. **Objetivos Can-Do**: 2–3 enunciados de capacidade real
 3. **Cenário motivador**: tarefa real, idealmente dupla/contrastiva (espelha o formato de tarefas do CELPE-Bras a partir do B1)
 4. **Os 4 strands**: Função & Gramática-em-contexto / Léxico & SRS / Som & Compreensão / Produção Oral & Escrita
-5. **Sequência didática**: noticing → input explícito → prática controlada → prática comunicativa → listening/input autêntico → tarefa final integradora → reflexão metalinguística
+5. **Sequência didática**: noticing → input explícito → prática controlada → prática comunicativa → compreensão oral/input autêntico → tarefa final integradora → reflexão metalinguística
 6. **Rubrica de avaliação**: critérios com peso, alinhados aos critérios reais de correção do CELPE-Bras quando o nível for B1+
 
 ### 8.2 Unidade-Piloto Completa — B1.8 "Registro Formal vs. Informal"
@@ -211,7 +211,7 @@ Validado através da unidade-piloto **B1.8 — "Registro Formal vs. Informal"**,
 2. Input explícito (tabela de contraste)
 3. Prática controlada (transformação informal↔formal)
 4. Prática comunicativa (diálogo guiado em pares)
-5. Listening contrastivo com tarefa de identificação
+5. Compreensão oral contrastiva com tarefa de identificação
 6. Tarefa final integradora (a tarefa dupla)
 7. Reflexão metalinguística (quando usar cada registro em situações reais)
 
@@ -228,8 +228,8 @@ Validado através da unidade-piloto **B1.8 — "Registro Formal vs. Informal"**,
 ## 9. Decisões Pendentes / Próximos Passos
 
 - [x] Detalhamento completo (ficha de unidade) das 49 unidades restantes, seguindo o template da Seção 8 — ver `docs/unidades/`.
-- [x] Conteúdo de lição completo (diálogo, vocabulário, pronúncia, exercícios com gabarito, listening, tarefa final, glossário final da unidade) do nível **PRE-A1** (8 unidades, incluindo as unidades de apoio transversal PRE-A1.0 e PRE-A1.4b) — ver `docs/conteudo/pre-a1/`. Serve de prova de conceito do nível de detalhe antes de replicar para A1, A2, B1 e B2.
-- [x] Conteúdo de lição completo do nível **A1** (10 unidades) — ver `docs/conteudo/a1/`. Introduz a seção extra "Gramática em Foco" no template de lição (validada na A1.1), necessária a partir daqui porque a A1 tem gramática produtiva (a PRE-A1 era só "chunks"). Todas as lições (PRE-A1 e A1) agora terminam com um "Glossário da Unidade" consolidando e alfabetizando todo o vocabulário usado (diálogo + listening + exercícios), não só o introduzido na seção de Vocabulário.
+- [x] Conteúdo de lição completo (diálogo, vocabulário, pronúncia, exercícios com gabarito, compreensão oral, tarefa final, glossário final da unidade) do nível **PRE-A1** (8 unidades, incluindo as unidades de apoio transversal PRE-A1.0 e PRE-A1.4b) — ver `docs/conteudo/pre-a1/`. Serve de prova de conceito do nível de detalhe antes de replicar para A1, A2, B1 e B2.
+- [x] Conteúdo de lição completo do nível **A1** (10 unidades) — ver `docs/conteudo/a1/`. Introduz a seção extra "Gramática em Foco" no template de lição (validada na A1.1), necessária a partir daqui porque a A1 tem gramática produtiva (a PRE-A1 era só "chunks"). Todas as lições (PRE-A1 e A1) agora terminam com um "Glossário da Unidade" consolidando e alfabetizando todo o vocabulário usado (diálogo + compreensão oral + exercícios), não só o introduzido na seção de Vocabulário.
 - [x] Conteúdo de lição completo do nível **A2** (10 unidades) — ver `docs/conteudo/a2/`. Consolida o pretérito perfeito (regular e irregular) e introduz comparativos/superlativos, imperativo, futuro perifrástico+perfeito e pretérito imperfeito; A2.10 é unidade de checkpoint/diagnóstico sem item gramatical novo, preparando o gate do B1.
 - [x] Conteúdo de lição completo do nível **B1** (12 unidades) — ver `docs/conteudo/b1/`. A partir deste nível as unidades espelham os gêneros textuais reais do CELPE-Bras (e-mail/carta, reclamação formal, fórum de opinião, notícia, entrevista oral); B1.8 reutiliza fielmente a unidade-piloto da Seção 8.2; B1.11/B1.12 adaptam o template padrão para o formato de simulado/remediação direcionada, com o Simulado #2 do B1.12 servindo como marco formal de saída do nível.
 - [x] Conteúdo de lição completo do nível **B2** (10 unidades) — ver `docs/conteudo/b2/`. Último nível do escopo atual: introduz subjuntivo imperfeito/futuro+condicional (hipóteses), discurso indireto, argumentação dissertativa avançada, variação regional (reconhecimento, não produção), registro profissional consolidado, discurso relatado jornalístico, humor/ironia/linguagem figurada e leitura crítica de produção cultural (música/conto); B2.9/B2.10 seguem o formato de simulado/remediação direcionada do B1.11/B1.12, com o Simulado #2 do B2.10 servindo como marco formal de saída do nível B2 e do escopo atual do curso (PRE-A1 → B2 completo).
@@ -238,7 +238,7 @@ Validado através da unidade-piloto **B1.8 — "Registro Formal vs. Informal"**,
 
 ## 10. Conteúdo de Lição Detalhado
 
-Onde a Seção 7 traz a *ficha* de cada unidade (objetivos, strands, foco funcional), esta seção aponta para o **conteúdo de lição pronto para uso** — diálogos, listas de vocabulário com exemplos, blocos de pronúncia, exercícios com gabarito, scripts de listening com perguntas, e a tarefa de produção final com checklist de autoavaliação.
+Onde a Seção 7 traz a *ficha* de cada unidade (objetivos, strands, foco funcional), esta seção aponta para o **conteúdo de lição pronto para uso** — diálogos, listas de vocabulário com exemplos, blocos de pronúncia, exercícios com gabarito, transcrições de compreensão oral com perguntas, e a tarefa de produção final com checklist de autoavaliação.
 
 - **PRE-A1 (completo):** [`docs/conteudo/pre-a1/`](conteudo/pre-a1/) — 01-primeiro-contato.md, 02-chegando-ao-brasil.md, 03-na-acomodacao.md, 04-comendo-e-bebendo.md, 05-ajuda-e-emergencia.md, 06-pequenas-compras.md (projeto integrador do nível)
 - **A1 (completo):** [`docs/conteudo/a1/`](conteudo/a1/) — 01-quem-sou-eu.md, 02-familia-e-amigos.md, 03-minha-rotina.md, 04-casa-e-bairro.md, 05-tempo-e-estacoes.md, 06-trabalho-e-estudos.md, 07-lazer-e-fim-de-semana.md, 08-saude-basica.md, 09-planos-e-convites.md, 10-projeto-integrador.md. A partir daqui, cada lição inclui a seção "Gramática em Foco" (input explícito), ausente na PRE-A1 por ser um nível só de chunks fixos.
@@ -267,6 +267,15 @@ Verbos infinitivos do vocabulário de cada lição são linkados automaticamente
 
 - **`lib/content/verbos.ts`**: extrai infinitivos do array `vocabulario` da lição (filtra termos terminados em `-ar`/`-er`/`-ir`/`-or`, sem barra ou espaço, stripa marcador reflexivo `(-se)`). Gera o slug da URL removendo diacríticos (`almoçar` → `almocar`).
 - **`SectionMarkdown.tsx`**: pré-processa o markdown linha a linha, substituindo ocorrências de infinitivos por links Markdown `[verbo](url)`. Lookbehind `(?<!\[)` e guarda de linha (`conjugacao.com.br`) evitam double-link. Links estilizados com `underline decoration-dotted`, abrem em `target="_blank"`.
-- **Escopo de linking**: todas as seções de conteúdo (Diálogo, Vocabulário, Gramática, Pronúncia, Listening, Produção). Exercícios excluídos por já usarem `ExerciciosReveal`, não `SectionMarkdown`.
+- **Escopo de linking**: todas as seções de conteúdo (Diálogo, Vocabulário, Gramática, Pronúncia, Compreensão Oral, Produção). Exercícios excluídos por já usarem `ExerciciosReveal`, não `SectionMarkdown`.
 - **Impressão**: links de conjugação sem sublinhado na impressão (`print-color-adjust` via `globals.css`).
 - **Decisão de referência externa**: linking é legalmente seguro (Marco Civil da Internet; a página é pública e indexável); beneficia o site referenciado (tráfego/receita de anúncios); não reproduz conteúdo deles.
+
+### 11.3 Padronização de terminologia e correções de formatação (2026-06-27)
+
+Corrigido o template de lição e eliminados anglicismos do projeto.
+
+- **Renomeação global de seção**: "Listening — Script e Perguntas" → **"Compreensão Oral — Transcrição e Perguntas"** em todos os 63 arquivos do projeto (PRE-A1, A1, A2, B1, B2 — `.md`, `.json` e `.html`). O nome em inglês foi eliminado da interface do aluno e da documentação.
+- **Formatação do Diálogo de Abertura (A1.1–A1.9)**: adicionada linha em branco entre a linha de cenário ("Cena —...") e o primeiro falante, que antes apareciam colados no mesmo parágrafo markdown.
+- **Formatação do Bloco de Pronúncia (A1.1–A1.9)**: adicionadas linhas em branco entre os mini-blocos A, B e C, que antes eram renderizados como parágrafo único.
+- **A1.5 — Expansão de conteúdo pedagógico**: adicionadas ao diálogo duas falas sobre neve no Sul do Brasil (Tom pergunta se pode nevar em Gramado; Sofia confirma e menciona São José dos Ausentes, na serra entre RS e SC, como destino provável para encontrar neve no inverno). Porto Alegre adicionada ao boletim da seção "Compreensão Oral" (12 graus, nublado, precipitações leves à noite), com pergunta de compreensão correspondente.

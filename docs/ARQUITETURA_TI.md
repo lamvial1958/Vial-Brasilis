@@ -27,7 +27,7 @@
 | Framework/hosting | **Next.js (App Router) na Vercel** | Renderização híbrida (conteúdo estático das lições + áreas autenticadas dinâmicas), deploy/preview integrados, ecossistema maduro para o que vem a seguir (auth, storage, IA). |
 | Autenticação | **Firebase Auth** | Cadastro por e-mail com verificação nativa, claims customizadas (para o papel `admin`/`student` e o status `ativo`/`bloqueado`), já validado em produção no projeto de referência italiano — reduz risco de adoção. |
 | Banco de dados | **Firestore** | Progresso do aluno, estado do SRS, tentativas de simulado, metadados de conta. Modelo de documento por aluno é natural para progresso/SRS; consultas de admin (listar/filtrar inscritos) exigem modelar índices compostos desde o início — ver nota abaixo. |
-| Armazenamento de mídia | **Firebase Storage** | Áudio de TTS pré-gerado (diálogos/listening) e eventualmente gravações de produção oral dos alunos. |
+| Armazenamento de mídia | **Firebase Storage** | Áudio de TTS pré-gerado (diálogos/compreensão oral) e eventualmente gravações de produção oral dos alunos. |
 | Defesa contra bots no cadastro | **Firebase App Check** (com reCAPTCHA/Turnstile como provedor de atestação) | Implementa a defesa de CAPTCHA decidida na Seção 1, integrada nativamente ao Auth/Firestore — sem precisar orquestrar um serviço de CAPTCHA separado. |
 | Camada de IA (TTS/STT, e futuramente correção assistida) | **Vercel AI Gateway** como ponto único de acesso a provedores | Evita amarrar o projeto a um único fornecedor de TTS/STT desde o início; troca de provedor sem reescrever a aplicação. Continua na Vercel mesmo com dados/auth no Firebase — são camadas independentes. |
 
@@ -37,14 +37,14 @@
 
 ## 3. Camada de Conteúdo — De Markdown a Dados
 
-As 60 lições já escritas (`docs/conteudo/**/*.md`) seguem um template rígido e consistente (diálogo/cenário → vocabulário → gramática/função → pronúncia → exercícios com gabarito → listening/leitura → produção final → glossário). Isso é uma vantagem real: **o conteúdo não precisa ser reescrito**, só convertido.
+As 60 lições já escritas (`docs/conteudo/**/*.md`) seguem um template rígido e consistente (diálogo/cenário → vocabulário → gramática/função → pronúncia → exercícios com gabarito → compreensão oral/leitura → produção final → glossário). Isso é uma vantagem real: **o conteúdo não precisa ser reescrito**, só convertido.
 
 **Pipeline proposto:**
-1. Um script de build (rodado uma vez, e re-executado a cada edição de conteúdo) faz o parse de cada `.md` e gera um JSON estruturado por unidade, seguindo um schema fixo (`dialogo`, `vocabulario[]` com tags para o SRS, `gramatica[]`, `exercicios[]` com gabarito, `listening{script, perguntas}`, `producaoFinal{tarefa, checklist}`, `glossario[]`).
+1. Um script de build (rodado uma vez, e re-executado a cada edição de conteúdo) faz o parse de cada `.md` e gera um JSON estruturado por unidade, seguindo um schema fixo (`dialogo`, `vocabulario[]` com tags para o SRS, `gramatica[]`, `exercicios[]` com gabarito, `compreensaoOral{transcricao, perguntas}`, `producaoFinal{tarefa, checklist}`, `glossario[]`).
 2. Esse JSON é o que a aplicação efetivamente consome — o Markdown continua sendo a fonte de verdade/autoria, o JSON é artefato de build (parecido com o papel do `exercises.json` no projeto de referência italiano, só que gerado automaticamente em vez de escrito à mão).
 3. Conteúdo é estático e versionado no Git — não precisa de banco de dados para as lições em si, só para o progresso de cada aluno sobre elas.
 
-**Ponto de atenção:** as unidades de simulado (B1.11/12, B2.9/10 e equivalentes) têm uma estrutura diferente (estímulo → comando, script de listening, roteiro de entrevista, rubrica, relatório de lacunas) — o schema precisa de uma variante própria para esse tipo de unidade, não cabe no schema das lições regulares.
+**Ponto de atenção:** as unidades de simulado (B1.11/12, B2.9/10 e equivalentes) têm uma estrutura diferente (estímulo → comando, transcrição de compreensão oral, roteiro de entrevista, rubrica, relatório de lacunas) — o schema precisa de uma variante própria para esse tipo de unidade, não cabe no schema das lições regulares.
 
 ---
 
@@ -66,7 +66,7 @@ Rota protegida (`papel = admin`), com:
 - Ações: bloquear (reversível) e eliminar conta (decisão pendente — ver Seção 5)
 
 ### 4.5 TTS/STT
-- **TTS**: geração em lote (não em tempo real) do áudio de diálogos e scripts de listening — roda uma vez por unidade, fica armazenado no Vercel Blob, não gera custo/latência por aluno.
+- **TTS**: geração em lote (não em tempo real) do áudio de diálogos e transcrições de compreensão oral — roda uma vez por unidade, fica armazenado no Vercel Blob, não gera custo/latência por aluno.
 - **STT**: uso ao vivo, para as tarefas de produção oral e para o role-play/parte oral dos simulados — aqui sim é por aluno, em tempo real.
 
 ---

@@ -1,6 +1,6 @@
 # Handover — Plataforma VIAL Brasilis PLE
 
-Estado em 2026-06-26 (fim de sessão). Retome daqui sem perder contexto.
+Estado em 2026-06-27 (fim de sessão). Retome daqui sem perder contexto.
 
 ---
 
@@ -21,7 +21,7 @@ Estado em 2026-06-26 (fim de sessão). Retome daqui sem perder contexto.
 
 ---
 
-## Estado atual — tudo funcional (2026-06-26)
+## Estado atual — tudo funcional (2026-06-27)
 
 ### Auth
 - Google Sign-In funcionando (popup)
@@ -94,6 +94,23 @@ Aplicado em todos os 50 arquivos de lição:
 3. "chunks" → "expressões prontas/fixas" (English jargon eliminado)
 4. Diálogos reformatados: `> **Falante:** texto` → `**Falante:** - texto` com parágrafo por fala
    - Notas, regras, textos de estímulo mantidos como blockquote (`> **Nota:**`, `> **Regra:**`, etc.)
+
+---
+
+## Correções e padronizações (2026-06-27)
+
+### Renomeação global de seção
+"Listening — Script e Perguntas" → **"Compreensão Oral — Transcrição e Perguntas"** em todos os 63 arquivos do projeto (PRE-A1 → B2, `.md` + `.json` + `.html`). Eliminado o anglicismo da interface do aluno e da documentação.
+
+### Correções de formatação — Diálogo de Abertura (A1.1–A1.9)
+Linha de cenário ("Cena —...") e primeiro falante estavam sem linha em branco separadora, renderizando no mesmo parágrafo. Corrigido em todos os 9 arquivos MD e JSON.
+
+### Correções de formatação — Bloco de Pronúncia (A1.1–A1.9)
+Mini-blocos A, B e C estavam sem linha em branco entre eles, renderizando como parágrafo único. Corrigido em todos os 9 arquivos MD e JSON.
+
+### Expansão de conteúdo — A1.5 (Tempo e Estações)
+- **Diálogo**: Tom pergunta se pode nevar em Gramado; Sofia confirma que eventualmente neva, e menciona São José dos Ausentes (serra entre RS e SC) como destino com alta probabilidade de neve no inverno.
+- **Compreensão Oral**: Porto Alegre adicionada ao boletim (12 graus, nublado, precipitações leves à noite), com pergunta de compreensão correspondente.
 
 ---
 
