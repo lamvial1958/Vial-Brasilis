@@ -1,6 +1,6 @@
 # Handover — Plataforma VIAL Brasilis PLE
 
-Estado em 2026-06-27 (fim de sessão). Retome daqui sem perder contexto.
+Estado em 2026-06-27 sessão 2 (fim de sessão). Retome daqui sem perder contexto.
 
 ---
 
@@ -94,6 +94,24 @@ Aplicado em todos os 50 arquivos de lição:
 3. "chunks" → "expressões prontas/fixas" (English jargon eliminado)
 4. Diálogos reformatados: `> **Falante:** texto` → `**Falante:** - texto` com parágrafo por fala
    - Notas, regras, textos de estímulo mantidos como blockquote (`> **Nota:**`, `> **Regra:**`, etc.)
+
+---
+
+## Correções críticas (2026-06-27 — sessão 2)
+
+### Bug: UTF-8 BOM em JSONs de conteúdo (causa: PowerShell)
+O bulk replace da sessão anterior usou `[System.Text.Encoding]::UTF8` que no .NET inclui BOM. O `JSON.parse` do Node.js rejeita BOM → exceção → `notFound()` → 404 em **todas** as lições de todos os níveis.
+
+**Fix:** leitura de bytes brutos + re-escrita com `New-Object System.Text.UTF8Encoding($false)`. 30 arquivos corrigidos em `platform/content/generated/`.
+
+**Prevenção:** regra gravada em `platform/AGENTS.md` (lida por agentes futuros) e em memória persistente.
+
+### Formatação de diálogos — extensão global (PRE-A1, A2, B1, B2)
+Mesmas duas correções aplicadas ao A1 na sessão anterior, agora estendidas a todos os demais níveis (35 lições, JSON + MD):
+- Linha em branco entre `**Cena N — ...:**` e o primeiro falante
+- Linha em branco entre mini-blocos A, B e C no Bloco de Pronúncia
+
+Com esta sessão, **100% das lições do projeto** têm formatação de diálogo correta.
 
 ---
 

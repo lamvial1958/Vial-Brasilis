@@ -3,7 +3,7 @@
 > Documento de referência da arquitetura pedagógica do curso. Toda decisão estrutural validada até o momento está registrada aqui. Antes de propor qualquer mudança de estrutura, leia este documento primeiro.
 
 **Status:** Pedagogicamente validado para os níveis PRE-A1 a B2. Conteúdo de lição completo construído para todos os níveis do escopo atual (PRE-A1 → B2). Camada de TI/plataforma em implementação incremental — ver Seção 11.
-**Última atualização:** 2026-06-27
+**Última atualização:** 2026-06-27 (sessão 2)
 
 ---
 
@@ -279,3 +279,18 @@ Corrigido o template de lição e eliminados anglicismos do projeto.
 - **Formatação do Diálogo de Abertura (A1.1–A1.9)**: adicionada linha em branco entre a linha de cenário ("Cena —...") e o primeiro falante, que antes apareciam colados no mesmo parágrafo markdown.
 - **Formatação do Bloco de Pronúncia (A1.1–A1.9)**: adicionadas linhas em branco entre os mini-blocos A, B e C, que antes eram renderizados como parágrafo único.
 - **A1.5 — Expansão de conteúdo pedagógico**: adicionadas ao diálogo duas falas sobre neve no Sul do Brasil (Tom pergunta se pode nevar em Gramado; Sofia confirma e menciona São José dos Ausentes, na serra entre RS e SC, como destino provável para encontrar neve no inverno). Porto Alegre adicionada ao boletim da seção "Compreensão Oral" (12 graus, nublado, precipitações leves à noite), com pergunta de compreensão correspondente.
+
+### 11.4 Correções de infra e formatação global (2026-06-27 — sessão 2)
+
+#### Bug crítico — UTF-8 BOM em arquivos JSON
+O script PowerShell da sessão anterior usou `[System.Text.Encoding]::UTF8`, que no .NET escreve UTF-8 **com BOM** (`\xEF\xBB\xBF`). O `JSON.parse` do Node.js não tolera BOM — lançava exceção em 30 arquivos de conteúdo, e o catch da page.tsx chamava `notFound()`, causando 404 em todas as lições de todos os níveis. Corrigido removendo o BOM via leitura de bytes brutos e re-escrita com `UTF8Encoding($false)`. Regra gravada em `platform/AGENTS.md` e na memória persistente para prevenir reincidência.
+
+**Arquivos corrigidos (30):** todos os `.json` em `platform/content/generated/` que haviam sido modificados pelo bulk replace da sessão 1 — PRE-A1 (7), A1 (8 exceto 05 e 10), A2 (9 exceto 10), B1 (2), B2 (3).
+
+#### Formatação de diálogos — extensão para todos os níveis
+A correção de formatação aplicada ao A1 na sessão anterior foi estendida para **PRE-A1, A2, B1 e B2**:
+
+- **Linha em branco após cabeçalho de Cena**: `**Cena N — Contexto:**` seguido de `**Falante:**` sem separador causava renderização no mesmo parágrafo. Corrigido em todos os diálogos do projeto.
+- **Linhas em branco entre mini-blocos A/B/C no Bloco de Pronúncia**: blocos colados renderizavam como parágrafo único. Corrigido em todos os arquivos de todos os níveis.
+
+**Total de lições corrigidas nesta sessão:** 35 (JSON + MD em paralelo). Somando A1 da sessão anterior, a correção agora abrange todo o projeto (PRE-A1 → B2).
