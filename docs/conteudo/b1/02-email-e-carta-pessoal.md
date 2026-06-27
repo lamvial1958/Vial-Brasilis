@@ -77,6 +77,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Reduções informais escritas como são faladas:** "tô" (estou), "tá" (está), "pra" (para), "né" (não é) — comuns em e-mails informais entre amigos, mas nunca em registro formal.
+
 **B. Entonação de abertura calorosa:** "Oi! Tudo bem?" com entonação ascendente e acolhedora, diferente da entonação neutra de uma saudação formal.
 
 ## 5. Exercícios (com gabarito)

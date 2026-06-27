@@ -71,6 +71,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Leitura em voz alta de conectores formais longos:** "não obstante", "na medida em que" — praticar fluência sem pausas excessivas dentro do bloco fixo.
+
 **B. Entonação de conclusão:** "conclui-se, portanto, que..." pronunciado com leve desaceleração e queda de tom no final, marcando o fechamento do raciocínio.
 
 ## 5. Exercícios (com gabarito)

@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — simulação da parte oral do exame:**
+
 **Entrevistador:** - Bom dia! Vamos começar. Pode falar um pouco sobre você e o que te trouxe ao Brasil?
 
 **Candidato:** - Bom dia! Então, eu vim para o Brasil há dois anos, por motivo de trabalho. Quer dizer, na verdade, eu já queria morar aqui antes disso, o trabalho só foi a oportunidade que faltava.
@@ -60,6 +61,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Entonação natural dos marcadores conversacionais:** "então", "olha", "quer dizer" são ditos com entonação mais baixa e rápida que o resto da frase — soam "de passagem", não como conteúdo principal.
+
 **B. Pausas preenchidas vs. silêncio:** preferir "deixa eu pensar..." a um silêncio longo —ademonstra fluência mesmo durante a hesitação.
 
 ## 5. Exercícios (com gabarito)

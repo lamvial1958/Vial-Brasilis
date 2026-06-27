@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — debate guiado sobre transporte urbano:**
+
 **Moderador:** - O tema de hoje é: o transporte público nas grandes cidades deveria ser gratuito?
 
 **Aluna 1:** - Eu defendo que sim. Embora seja caro para o governo, os benefícios sociais compensam — menos carros, menos poluição, mais acesso para quem ganha pouco.
@@ -75,6 +76,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. "Embora" — ditongo "em" nasal seguido de "bora" aberto:** em-BO-ra, atenção à nasalização inicial.
+
 **B. Entonação de debate — voz firme mas não agressiva ao discordar:** "Entendo o ponto, mas discordo" com entonação descendente e pausada, marcando respeito antes da contraposição.
 
 ## 5. Exercícios (com gabarito)

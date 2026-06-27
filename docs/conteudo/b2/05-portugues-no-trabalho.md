@@ -88,6 +88,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Entonação neutra e ritmo pausado de reuniões formais:** sem as marcas de oralidade informal (cê, tá, pra) vistas em contraste no B1.8 — aqui a meta é produção ativa consistente do registro formal falado.
+
 **B. Leitura de e-mails corporativos em voz alta:** praticar entonação plana, sem ênfase emocional, adequada à leitura de comunicação profissional.
 
 ## 5. Exercícios (com gabarito)

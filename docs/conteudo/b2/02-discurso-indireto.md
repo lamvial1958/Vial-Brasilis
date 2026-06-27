@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — colega relatando para um terceiro o que foi dito numa reunião:**
+
 **Marina:** - Você foi à reunião de ontem? O que ficou decidido?
 
 **Tiago:** - Fui. O gerente disse que o projeto **estava** atrasado e que nós **precisávamos** entregar a primeira versão até sexta.
@@ -79,6 +80,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Entonação do discurso relatado:** ao contrário da fala direta (com possíveis exclamações/perguntas marcadas), o discurso indireto tem entonação mais plana e contínua, sem as marcas prosódicas da fala original.
+
 **B. Contraste "disse que" × "perguntou se":** "que" introduz afirmação (sem elevação de voz); "se" introduz pergunta relatada, mas **sem** a entonação ascendente de pergunta direta.
 
 ## 5. Exercícios (com gabarito)

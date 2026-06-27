@@ -3,6 +3,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena 1 — Imigração:**
+
 **Agente:** - Bom dia. Passaporte, por favor.
 
 **Tom:** - Bom dia. Aqui está.
@@ -21,6 +22,7 @@
 
 
 **Cena 2 — Táxi/app de transporte:**
+
 **Tom:** - Boa tarde. Para o Hotel Central, por favor.
 
 **Motorista:** - Tudo bem. É perto do centro?
@@ -65,7 +67,9 @@
 ## 3. Bloco de Pronúncia
 
 **A. "R" forte (início de palavra ou após consoante):** rua, carro, Brasil
+
 **B. "R" fraco/tap (entre vogais):** primeira, direita, motorista
+
 **C. Nasalização contínua:** viagem, também
 
 ## 4. Exercícios (com gabarito)

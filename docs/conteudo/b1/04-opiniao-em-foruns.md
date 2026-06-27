@@ -69,6 +69,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. "Portanto" — ditongo nasal "-tanto":** por-TAN-to, nasalização leve no "an".
+
 **B. Entonação de contraste em "no entanto":** leve pausa antes e depois do conector, marcando a virada argumentativa.
 
 ## 5. Exercícios (com gabarito)

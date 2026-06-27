@@ -3,6 +3,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena 1 — Padaria:**
+
 **Tom:** - Bom dia! Eu queria um pão de queijo e um café, por favor.
 
 **Atendente:** - Para comer aqui ou para levar?
@@ -17,6 +18,7 @@
 
 
 **Cena 2 — Restaurante:**
+
 **Garçom:** - Boa noite! Vocês já escolheram?
 
 **Tom:** - Sim. Eu queria o prato do dia.
@@ -63,6 +65,7 @@
 ## 3. Bloco de Pronúncia
 
 **A. Valores monetários (reais):** treinar "são oito reais", "são quinze reais"
+
 **B. Som /k/ na grafia "qu":** quanto, queria, quero
 
 ## 4. Exercícios (com gabarito)

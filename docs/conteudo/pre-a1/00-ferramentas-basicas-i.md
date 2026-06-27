@@ -86,7 +86,9 @@ O Brasil usa o sistema métrico (não o sistema imperial de polegadas/libras/Fah
 ## 6. Bloco de Pronúncia
 
 **A. "H" não tem som próprio:** hotel, hospital — a letra existe na escrita, mas não se pronuncia como em inglês.
+
 **B. "X" tem vários sons possíveis:** xícara (som "sh"), táxi (som "ks"), exame (som "z") — será praticado caso a caso ao longo do curso.
+
 **C. "Lh" /ʎ/ e "Nh" /ɲ/ (prévia):** mi**lh**ão, ba**nh**o — sons que não existem isolados em inglês.
 
 ## 7. Exercícios (com gabarito)

@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — dois amigos decidindo onde passar as férias:**\n**Ana:** - Estou pensando em viajar para o Rio ou para Florianópolis. Qual você acha melhor?\n\n**Pedro:** - Na minha opinião, Florianópolis é mais tranquila que o Rio. O Rio é mais agitado e tem mais opções de vida noturna.\n\n**Ana:** - É verdade. Mas o Rio tem praias tão bonitas quanto Floripa, não acha?\n\n**Pedro:** - Acho que sim, mas eu acho as praias de Floripa mais limpas. E os preços lá são menos altos que no Rio.\n\n**Ana:** - Então, na sua opinião, qual é o melhor destino para quem quer economizar?\n\n**Pedro:** - Sem dúvida, Floripa é a melhor opção para economizar. É a cidade mais barata das duas para hospedagem.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dar opinião | Na minha opinião... / Eu acho que... |\n| Comparar (superioridade) | X é mais ___ que/do que Y |\n| Comparar (inferioridade) | X é menos ___ que/do que Y |\n| Comparar (igualdade) | X é tão ___ quanto Y |\n| Superlativo | X é o/a mais ___ (de todos) |\n| Pedir opinião | Qual você acha melhor? / O que você acha? |\n| Concordar/discordar parcialmente | É verdade, mas... / Acho que sim, mas... |"
+      "markdown": "**Cena — dois amigos decidindo onde passar as férias:**\n\n**Ana:** - Estou pensando em viajar para o Rio ou para Florianópolis. Qual você acha melhor?\n\n**Pedro:** - Na minha opinião, Florianópolis é mais tranquila que o Rio. O Rio é mais agitado e tem mais opções de vida noturna.\n\n**Ana:** - É verdade. Mas o Rio tem praias tão bonitas quanto Floripa, não acha?\n\n**Pedro:** - Acho que sim, mas eu acho as praias de Floripa mais limpas. E os preços lá são menos altos que no Rio.\n\n**Ana:** - Então, na sua opinião, qual é o melhor destino para quem quer economizar?\n\n**Pedro:** - Sem dúvida, Floripa é a melhor opção para economizar. É a cidade mais barata das duas para hospedagem.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Dar opinião | Na minha opinião... / Eu acho que... |\n| Comparar (superioridade) | X é mais ___ que/do que Y |\n| Comparar (inferioridade) | X é menos ___ que/do que Y |\n| Comparar (igualdade) | X é tão ___ quanto Y |\n| Superlativo | X é o/a mais ___ (de todos) |\n| Pedir opinião | Qual você acha melhor? / O que você acha? |\n| Concordar/discordar parcialmente | É verdade, mas... / Acho que sim, mas... |"
     },
     {
       "ordem": 2,
@@ -25,7 +25,7 @@
     {
       "ordem": 4,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. \"que\" vs. \"do que\" em comparações:** ambos são corretos e intercambiáveis; \"do que\" é levemente mais formal/escrito.\n**B. Ditongo \"ão\" em \"não\" dentro de \"na minha opinião\":** atenção à nasalização final, igual à de \"então\".\n**C. Entonação de discordância parcial:** \"É verdade, **mas**...\" — a palavra \"mas\" carrega leve ênfase e pausa antes dela."
+      "markdown": "**A. \"que\" vs. \"do que\" em comparações:** ambos são corretos e intercambiáveis; \"do que\" é levemente mais formal/escrito.\n\n**B. Ditongo \"ão\" em \"não\" dentro de \"na minha opinião\":** atenção à nasalização final, igual à de \"então\".\n\n**C. Entonação de discordância parcial:** \"É verdade, **mas**...\" — a palavra \"mas\" carrega leve ênfase e pausa antes dela."
     },
     {
       "ordem": 5,

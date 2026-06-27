@@ -60,6 +60,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Leitura em voz alta de letra de música com atenção à métrica:** o português cantado frequentemente altera levemente o acento natural das palavras para caber na melodia — comparar a leitura falada e a leitura "cantada" do Texto A.
+
 **B. Entonação de narrativa literária (3ª pessoa):** ritmo mais lento e pausado que o diálogo cotidiano, com pausas que constroem suspense ou ênfase emocional (ex.: a pausa antes de "inteira" no Texto B).
 
 ## 5. Exercícios (com gabarito)

@@ -3,6 +3,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena 1 — Mercado:**
+
 **Tom:** - Bom dia. Tem pão aqui?
 
 **Atendente:** - Tem, sim. Está ali, na segunda fileira.
@@ -21,6 +22,7 @@
 
 
 **Cena 2 — Farmácia:**
+
 **Tom:** - Boa tarde. Vocês têm escova de dente?
 
 **Farmacêutico:** - Temos, sim. Aqui está.

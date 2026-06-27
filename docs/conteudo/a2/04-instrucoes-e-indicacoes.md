@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — turista perguntando o caminho na rua:**
+
 **Turista:** - Com licença, como eu chego ao Museu de Arte Moderna?
 
 **Morador:** - É fácil. Siga em frente até o semáforo, depois vire à direita na Avenida Paulista.
@@ -75,7 +76,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. Imperativo "vire/siga/atravesse" — vogal final fechada e breve:** atenção para não alongar a vogal final.
+
 **B. Contraste "à direita" × "à esquerda":** "direita" tem "ei" ditongo fechado; "esquerda" tem "e" aberto na primeira sílaba.
+
 **C. Redução de "em direção a" na fala rápida:** frequentemente soa como "endireção a".
 
 ## 5. Exercícios (com gabarito)

@@ -3,6 +3,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena 1 — Check-in:**
+
 **Recepcionista:** - Boa tarde! Você tem reserva?
 
 **Tom:** - Tenho, sim. Em nome de Tom.
@@ -15,6 +16,7 @@
 
 
 **Cena 2 — Relatando um problema:**
+
 **Tom:** - Com licença, o chuveiro não funciona.
 
 **Recepcionista:** - Ah, desculpa! Eu vou resolver isso agora.
@@ -56,7 +58,9 @@
 ## 3. Bloco de Pronúncia
 
 **A. "lh" /ʎ/:** toalha
+
 **B. "ch" /ʃ/:** chave, chuveiro
+
 **C. Reforço nasal:** não
 
 ## 4. Exercícios (com gabarito)

@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — consulta médica:**\n**Médico:** - Bom dia. O que está sentindo?\n\n**Paciente:** - Bom dia, doutor. Estou com dor de cabeça forte e um pouco de febre.\n\n**Médico:** - Desde quando você está com esses sintomas?\n\n**Paciente:** - Desde ontem. Faz quase dois dias que não durmo bem.\n\n**Médico:** - Você tem dor em outra parte do corpo?\n\n**Paciente:** - Tenho sim, dor nas costas e no corpo todo.\n\n**Médico:** - Entendi. Você precisa descansar bastante e tomar bastante líquido. Eu vou passar um remédio para a febre. Você deveria evitar esforço físico por uns dias.\n\n**Paciente:** - É melhor eu fazer algum exame?\n\n**Médico:** - Não é necessário agora. Mas se a febre não baixar em dois dias, é melhor voltar aqui.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar sintoma | O que está sentindo? |\n| Descrever sintoma | Estou com dor de.../febre/tosse... |\n| Perguntar duração | Desde quando você está com isso? |\n| Indicar duração | Desde ontem. / Faz dois dias que... / Há dois dias... |\n| Dar recomendação | Você deveria.../ Você precisa.../ É melhor... |\n| Indicar condição | Se + situação, é melhor... |"
+      "markdown": "**Cena — consulta médica:**\n\n**Médico:** - Bom dia. O que está sentindo?\n\n**Paciente:** - Bom dia, doutor. Estou com dor de cabeça forte e um pouco de febre.\n\n**Médico:** - Desde quando você está com esses sintomas?\n\n**Paciente:** - Desde ontem. Faz quase dois dias que não durmo bem.\n\n**Médico:** - Você tem dor em outra parte do corpo?\n\n**Paciente:** - Tenho sim, dor nas costas e no corpo todo.\n\n**Médico:** - Entendi. Você precisa descansar bastante e tomar bastante líquido. Eu vou passar um remédio para a febre. Você deveria evitar esforço físico por uns dias.\n\n**Paciente:** - É melhor eu fazer algum exame?\n\n**Médico:** - Não é necessário agora. Mas se a febre não baixar em dois dias, é melhor voltar aqui.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar sintoma | O que está sentindo? |\n| Descrever sintoma | Estou com dor de.../febre/tosse... |\n| Perguntar duração | Desde quando você está com isso? |\n| Indicar duração | Desde ontem. / Faz dois dias que... / Há dois dias... |\n| Dar recomendação | Você deveria.../ Você precisa.../ É melhor... |\n| Indicar condição | Se + situação, é melhor... |"
     },
     {
       "ordem": 2,
@@ -25,7 +25,7 @@
     {
       "ordem": 4,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. \"Desde\" — \"e\" final reduzido, quase mudo na fala rápida:** \"desd'quando\".\n**B. \"Deveria\" — ditongo \"ia\" final átono,** igual ao padrão já visto em \"gostaria\" (A2.5).\n**C. Nasal em \"não\" dentro de \"se a febre não baixar\":** atenção ao ritmo da frase condicional, com leve pausa após a vírgula."
+      "markdown": "**A. \"Desde\" — \"e\" final reduzido, quase mudo na fala rápida:** \"desd'quando\".\n\n**B. \"Deveria\" — ditongo \"ia\" final átono,** igual ao padrão já visto em \"gostaria\" (A2.5).\n\n**C. Nasal em \"não\" dentro de \"se a febre não baixar\":** atenção ao ritmo da frase condicional, com leve pausa após a vírgula."
     },
     {
       "ordem": 5,

@@ -68,6 +68,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Entonação de leitura de notícia (registro jornalístico oral):** ritmo mais rápido e neutro que a fala cotidiana, com poucas pausas dentro de cada frase, mas pausa marcada entre blocos de informação.
+
 **B. Verbos de declaração com vogal tônica clara:** "afirmou", "alertou", "ressaltou" — atenção à sílaba tônica em "-ou", típica do pretérito perfeito na 3ª pessoa.
 
 ## 5. Exercícios (com gabarito)

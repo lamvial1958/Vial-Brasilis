@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — colega relatando para um terceiro o que foi dito numa reunião:**\n**Marina:** - Você foi à reunião de ontem? O que ficou decidido?\n\n**Tiago:** - Fui. O gerente disse que o projeto **estava** atrasado e que nós **precisávamos** entregar a primeira versão até sexta.\n\n**Marina:** - Sério? E sobre o orçamento, alguém falou algo?\n\n**Tiago:** - A Carla perguntou se **haveria** mais recursos esse mês. O gerente respondeu que **veria** com a diretoria e que **daria** uma resposta na semana seguinte.\n\n**Marina:** - E quanto à equipe nova, comentaram alguma coisa?\n\n**Tiago:** - Sim, ele afirmou que **contratariam** mais duas pessoas, mas só depois que o projeto atual **fosse** entregue.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Relatar afirmação | (Ele) disse/afirmou que... |\n| Relatar pergunta | (Ela) perguntou se... |\n| Relatar promessa/previsão | (Ele) respondeu que veria/daria... |\n| Relatar condição futura relatada no passado | ...depois que o projeto fosse entregue |"
+      "markdown": "**Cena — colega relatando para um terceiro o que foi dito numa reunião:**\n\n**Marina:** - Você foi à reunião de ontem? O que ficou decidido?\n\n**Tiago:** - Fui. O gerente disse que o projeto **estava** atrasado e que nós **precisávamos** entregar a primeira versão até sexta.\n\n**Marina:** - Sério? E sobre o orçamento, alguém falou algo?\n\n**Tiago:** - A Carla perguntou se **haveria** mais recursos esse mês. O gerente respondeu que **veria** com a diretoria e que **daria** uma resposta na semana seguinte.\n\n**Marina:** - E quanto à equipe nova, comentaram alguma coisa?\n\n**Tiago:** - Sim, ele afirmou que **contratariam** mais duas pessoas, mas só depois que o projeto atual **fosse** entregue.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Relatar afirmação | (Ele) disse/afirmou que... |\n| Relatar pergunta | (Ela) perguntou se... |\n| Relatar promessa/previsão | (Ele) respondeu que veria/daria... |\n| Relatar condição futura relatada no passado | ...depois que o projeto fosse entregue |"
     },
     {
       "ordem": 2,
@@ -25,7 +25,7 @@
     {
       "ordem": 4,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. Entonação do discurso relatado:** ao contrário da fala direta (com possíveis exclamações/perguntas marcadas), o discurso indireto tem entonação mais plana e contínua, sem as marcas prosódicas da fala original.\n**B. Contraste \"disse que\" × \"perguntou se\":** \"que\" introduz afirmação (sem elevação de voz); \"se\" introduz pergunta relatada, mas **sem** a entonação ascendente de pergunta direta."
+      "markdown": "**A. Entonação do discurso relatado:** ao contrário da fala direta (com possíveis exclamações/perguntas marcadas), o discurso indireto tem entonação mais plana e contínua, sem as marcas prosódicas da fala original.\n\n**B. Contraste \"disse que\" × \"perguntou se\":** \"que\" introduz afirmação (sem elevação de voz); \"se\" introduz pergunta relatada, mas **sem** a entonação ascendente de pergunta direta."
     },
     {
       "ordem": 5,

@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — atendimento numa agência bancária:**\n**Atendente:** - Bom dia! Em que posso ajudar?\n\n**Cliente:** - Bom dia. Eu gostaria de abrir uma conta corrente.\n\n**Atendente:** - Sem problema. Você tem CPF e comprovante de residência?\n\n**Cliente:** - Tenho sim, aqui estão os documentos.\n\n**Atendente:** - Perfeito. Seria possível preencher este formulário, por favor?\n\n**Cliente:** - Claro. É só assinar no final?\n\n**Atendente:** - Sim, e depois eu preciso de uma foto sua para o cadastro. Aqui está o seu protocolo de atendimento.\n\n**Cliente:** - Obrigado. Quanto tempo demora para a conta ficar pronta?\n\n**Atendente:** - Em até cinco dias úteis, você recebe o cartão em casa.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Pedir algo formalmente | Eu gostaria de... / Seria possível...? |\n| Oferecer ajuda formalmente | Em que posso ajudar? |\n| Confirmar disponibilidade de documento | Você tem...? / Tenho sim. |\n| Pedir para preencher algo | Seria possível preencher...? |\n| Perguntar prazo | Quanto tempo demora para...? |\n| Indicar prazo | Em até X dias (úteis) |"
+      "markdown": "**Cena — atendimento numa agência bancária:**\n\n**Atendente:** - Bom dia! Em que posso ajudar?\n\n**Cliente:** - Bom dia. Eu gostaria de abrir uma conta corrente.\n\n**Atendente:** - Sem problema. Você tem CPF e comprovante de residência?\n\n**Cliente:** - Tenho sim, aqui estão os documentos.\n\n**Atendente:** - Perfeito. Seria possível preencher este formulário, por favor?\n\n**Cliente:** - Claro. É só assinar no final?\n\n**Atendente:** - Sim, e depois eu preciso de uma foto sua para o cadastro. Aqui está o seu protocolo de atendimento.\n\n**Cliente:** - Obrigado. Quanto tempo demora para a conta ficar pronta?\n\n**Atendente:** - Em até cinco dias úteis, você recebe o cartão em casa.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Pedir algo formalmente | Eu gostaria de... / Seria possível...? |\n| Oferecer ajuda formalmente | Em que posso ajudar? |\n| Confirmar disponibilidade de documento | Você tem...? / Tenho sim. |\n| Pedir para preencher algo | Seria possível preencher...? |\n| Perguntar prazo | Quanto tempo demora para...? |\n| Indicar prazo | Em até X dias (úteis) |"
     },
     {
       "ordem": 2,
@@ -20,12 +20,12 @@
     {
       "ordem": 3,
       "titulo": "Gramática em Foco",
-      "markdown": "**A. Linguagem formal de pedido:**\n| Estrutura | Exemplo | Nível de formalidade |\n|---|---|---|\n| Eu quero + verbo | Eu quero abrir uma conta. | informal |\n| Eu gostaria de + verbo | Eu gostaria de abrir uma conta. | formal/educado |\n| Seria possível + verbo? | Seria possível preencher este formulário? | mais formal |\n\n**B. \"Gostaria\" é o condicional de \"gostar\"** — usado de forma fixa para pedidos educados, sem precisar conjugar outras formas do condicional neste nível.\n**C. Vocabulário de documentos:** combine com substantivos formais (comprovante, formulário, protocolo) em vez de equivalentes informais."
+      "markdown": "**A. Linguagem formal de pedido:**\n| Estrutura | Exemplo | Nível de formalidade |\n|---|---|---|\n| Eu quero + verbo | Eu quero abrir uma conta. | informal |\n| Eu gostaria de + verbo | Eu gostaria de abrir uma conta. | formal/educado |\n| Seria possível + verbo? | Seria possível preencher este formulário? | mais formal |\n\n**B. \"Gostaria\" é o condicional de \"gostar\"** — usado de forma fixa para pedidos educados, sem precisar conjugar outras formas do condicional neste nível.\n\n**C. Vocabulário de documentos:** combine com substantivos formais (comprovante, formulário, protocolo) em vez de equivalentes informais."
     },
     {
       "ordem": 4,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. \"Gostaria\" — ditongo \"ia\" final, átono e rápido:** gosta-RI-a, sem acento na última sílaba.\n**B. Sigla \"CPF\" pronunciada letra por letra:** \"cê-pê-éfe\", nunca como uma palavra só.\n**C. \"Seria possível\" — entonação ascendente de pergunta educada,** mais suave que uma pergunta direta."
+      "markdown": "**A. \"Gostaria\" — ditongo \"ia\" final, átono e rápido:** gosta-RI-a, sem acento na última sílaba.\n\n**B. Sigla \"CPF\" pronunciada letra por letra:** \"cê-pê-éfe\", nunca como uma palavra só.\n\n**C. \"Seria possível\" — entonação ascendente de pergunta educada,** mais suave que uma pergunta direta."
     },
     {
       "ordem": 5,

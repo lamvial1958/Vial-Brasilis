@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — restaurante regional, comentário sobre os pratos:**\n**Garçom:** - E então, o que acharam da feijoada?\n\n**Tom:** - Estava deliciosa! Eu nunca tinha comido feijoada antes, é uma experiência nova para mim.\n\n**Garçom:** - E a senhora, o que achou do açaí?\n\n**Sarah:** - Adorei! É bem doce, mas também tem uma textura cremosa interessante. Eu já tinha provado açaí em casa, mas esse aqui é mais autêntico.\n\n**Garçom:** - E a moqueca, como estava?\n\n**Tom:** - Estava saborosa, um pouco picante, mas no ponto certo. O peixe estava bem fresco.\n\n**Garçom:** - Que bom que gostaram! É um prato bem tradicional da Bahia.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar opinião sobre um prato | O que achou de...? / Como estava...? |\n| Comentar sabor/textura | Estava + adjetivo (delicioso, picante, doce, cremoso...) |\n| Indicar primeira experiência | Eu nunca tinha comido/provado... antes |\n| Indicar experiência repetida | Eu já tinha provado... (antes desta vez) |\n| Elogiar um prato | Que bom que gostou(aram)! |"
+      "markdown": "**Cena — restaurante regional, comentário sobre os pratos:**\n\n**Garçom:** - E então, o que acharam da feijoada?\n\n**Tom:** - Estava deliciosa! Eu nunca tinha comido feijoada antes, é uma experiência nova para mim.\n\n**Garçom:** - E a senhora, o que achou do açaí?\n\n**Sarah:** - Adorei! É bem doce, mas também tem uma textura cremosa interessante. Eu já tinha provado açaí em casa, mas esse aqui é mais autêntico.\n\n**Garçom:** - E a moqueca, como estava?\n\n**Tom:** - Estava saborosa, um pouco picante, mas no ponto certo. O peixe estava bem fresco.\n\n**Garçom:** - Que bom que gostaram! É um prato bem tradicional da Bahia.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Perguntar opinião sobre um prato | O que achou de...? / Como estava...? |\n| Comentar sabor/textura | Estava + adjetivo (delicioso, picante, doce, cremoso...) |\n| Indicar primeira experiência | Eu nunca tinha comido/provado... antes |\n| Indicar experiência repetida | Eu já tinha provado... (antes desta vez) |\n| Elogiar um prato | Que bom que gostou(aram)! |"
     },
     {
       "ordem": 2,
@@ -25,7 +25,7 @@
     {
       "ordem": 4,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. \"Açaí\" — acento na última sílaba, hiato \"a-í\":** a-ça-Í, sem ditongo.\n**B. \"Moqueca\" — \"qu\" com som de \"k\":** mo-KÊ-ca.\n**C. Contraste \"picante\" (sabor) × \"pi-CAN-te\" (acento paroxítono):** atenção ao acento, comum erro é colocar acento na primeira sílaba."
+      "markdown": "**A. \"Açaí\" — acento na última sílaba, hiato \"a-í\":** a-ça-Í, sem ditongo.\n\n**B. \"Moqueca\" — \"qu\" com som de \"k\":** mo-KÊ-ca.\n\n**C. Contraste \"picante\" (sabor) × \"pi-CAN-te\" (acento paroxítono):** atenção ao acento, comum erro é colocar acento na primeira sílaba."
     },
     {
       "ordem": 5,

@@ -61,6 +61,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Entonação de suspense em "de repente":** pequena pausa antes do marcador, voz que sobe levemente para criar expectativa.
+
 **B. Ritmo da narrativa: cenário (mais lento, vogais longas do imperfeito) × evento (mais rápido, perfeito):** praticar a alternância de ritmo ao narrar.
 
 ## 5. Exercícios (com gabarito)

@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena 1 — Check-in:**\n**Recepcionista:** - Boa tarde! Você tem reserva?\n\n**Tom:** - Tenho, sim. Em nome de Tom.\n\n**Recepcionista:** - Perfeito. Aqui está a chave do seu quarto.\n\n**Tom:** - Obrigado. Qual é o número do quarto?\n\n**Recepcionista:** - É o quarto 305.\n\n\n**Cena 2 — Relatando um problema:**\n**Tom:** - Com licença, o chuveiro não funciona.\n\n**Recepcionista:** - Ah, desculpa! Eu vou resolver isso agora.\n\n**Tom:** - Também preciso de uma toalha, por favor.\n\n**Recepcionista:** - Sem problema, eu trago já.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Confirmar reserva | Você tem reserva? / Tenho, sim. / Não, não tenho. |\n| Identificar-se | Em nome de... |\n| Pedir algo que falta | Eu preciso de... |\n| Relatar defeito | ...não funciona |\n| Tranquilizar/resolver | Sem problema / Eu trago já / Eu vou resolver isso |"
+      "markdown": "**Cena 1 — Check-in:**\n\n**Recepcionista:** - Boa tarde! Você tem reserva?\n\n**Tom:** - Tenho, sim. Em nome de Tom.\n\n**Recepcionista:** - Perfeito. Aqui está a chave do seu quarto.\n\n**Tom:** - Obrigado. Qual é o número do quarto?\n\n**Recepcionista:** - É o quarto 305.\n\n\n**Cena 2 — Relatando um problema:**\n\n**Tom:** - Com licença, o chuveiro não funciona.\n\n**Recepcionista:** - Ah, desculpa! Eu vou resolver isso agora.\n\n**Tom:** - Também preciso de uma toalha, por favor.\n\n**Recepcionista:** - Sem problema, eu trago já.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Confirmar reserva | Você tem reserva? / Tenho, sim. / Não, não tenho. |\n| Identificar-se | Em nome de... |\n| Pedir algo que falta | Eu preciso de... |\n| Relatar defeito | ...não funciona |\n| Tranquilizar/resolver | Sem problema / Eu trago já / Eu vou resolver isso |"
     },
     {
       "ordem": 2,
@@ -20,7 +20,7 @@
     {
       "ordem": 3,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. \"lh\" /ʎ/:** toalha\n**B. \"ch\" /ʃ/:** chave, chuveiro\n**C. Reforço nasal:** não"
+      "markdown": "**A. \"lh\" /ʎ/:** toalha\n\n**B. \"ch\" /ʃ/:** chave, chuveiro\n\n**C. Reforço nasal:** não"
     },
     {
       "ordem": 4,

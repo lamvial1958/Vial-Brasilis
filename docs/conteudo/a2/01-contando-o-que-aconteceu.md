@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — segunda-feira de manhã, dois colegas de curso de português se encontram:**
+
 **Bruno:** - Oi, Sarah! Como foi o seu fim de semana?
 
 **Sarah:** - Foi ótimo! Sábado eu visitei o Mercado Municipal com uma amiga. Nós compramos frutas e provamos um pastel de feira.
@@ -64,13 +65,16 @@
 > **Nota:** a forma de "nós" no pretérito perfeito dos verbos -ar é idêntica à do presente (falamos pode ser hoje ou no passado) — o contexto e os marcadores temporais (ontem, semana passada) é que desfazem a ambiguidade.
 
 **B. Verbos -ar comuns neste padrão:** visitar, caminhar, descansar, ligar, trabalhar, viajar, cozinhar, jantar, almoçar, estudar.
+
 **C. Verbos -er comuns:** comer, beber, conhecer, vender, escrever.
 **D. Verbos -ir comuns:** partir, sair (irregular leve: saí, saiu, saímos, saíram), assistir, dormir.
 
 ## 4. Bloco de Pronúncia
 
 **A. Acento tônico na última sílaba (oxítona) em "eu" e "ele":** fal**ei**, com**i**, part**iu** — contraste com o presente, que tem acento em sílaba diferente: f**a**lo, c**o**mo.
+
 **B. Ditongo "ou" em "ele/ela" dos verbos -ar:** fal**ou**, jant**ou**, viaj**ou** — som fechado, parecido com "o" longo.
+
 **C. Nasalização em "-am" da terceira pessoa do plural:** falar**am**, jantar**am** — não pronunciar como "fal-ã", mas sim com a nasal mais aberta, como em "fizeram".
 
 ## 5. Exercícios (com gabarito)

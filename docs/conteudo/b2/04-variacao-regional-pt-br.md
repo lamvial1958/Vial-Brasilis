@@ -71,7 +71,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. Sotaque carioca — "s" final como "x/sh":** "luz" pronunciado como "luxe", "mas" como "máx" — característico do Rio de Janeiro.
+
 **B. Sotaque gaúcho — entonação mais "cantada" e "r" mais forte em início de palavra:** influência de imigração italiana/espanhola na região Sul.
+
 **C. Sotaque nordestino — entonação melódica com vogais mais abertas:** ritmo de fala frequentemente percebido como mais "cantado" por falantes de outras regiões.
 **D. Meta desta unidade:** treinar a **compreensão** desses sotaques em áudio autêntico, não a produção ativa de nenhum deles.
 

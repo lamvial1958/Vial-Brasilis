@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — dois colegas de trabalho discutindo uma decisão de carreira:**
+
 **Júlia:** - Recebi uma proposta de outra empresa. Não sei se aceito.
 
 **Bruno:** - Se eu estivesse no seu lugar, eu pensaria com calma antes de decidir. O que te faz hesitar?
@@ -87,6 +88,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Contraste subjuntivo imperfeito × pretérito imperfeito do indicativo:** "se eu **tivesse**" (subjuntivo, hipótese) × "eu **tinha**" (indicativo, fato passado) — atenção à terminação "-sse" marcada e um pouco mais longa na fala cuidada.
+
 **B. Encadeamento "se eu fosse você" como bloco fixo de entonação:** pronunciado como uma unidade rítmica única, sem pausas internas.
 
 ## 5. Exercícios (com gabarito)

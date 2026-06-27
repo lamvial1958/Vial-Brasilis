@@ -71,6 +71,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Entonação irônica:** elevação exagerada de tom em palavras-chave positivas ditas em contexto negativo ("Que SORTE a minha"), criando o contraste que sinaliza ironia mesmo sem contexto visual.
+
 **B. Pausa antes da palavra-chave de uma piada:** uma pequena pausa de suspense antes da palavra que resolve o duplo sentido aumenta o efeito de humor — característica de contadores de piada experientes.
 
 ## 5. Exercícios (com gabarito)

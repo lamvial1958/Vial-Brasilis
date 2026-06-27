@@ -70,6 +70,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Leitura de manchete — ritmo telegráfico, sem artigos desnecessários:** "Nova ciclovia é inaugurada" lido com ênfase nas palavras de conteúdo, não nas funcionais.
+
 **B. Participios irregulares frequentes em notícia:** feito, dito, aberto, concluído — atenção à pronúncia do "í" tônico em "concluído".
 
 ## 5. Exercícios (com gabarito)

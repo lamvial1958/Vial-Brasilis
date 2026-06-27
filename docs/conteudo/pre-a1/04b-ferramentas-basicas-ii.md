@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena 1 — Marcando uma consulta por telefone:**
+
 **Atendente:** - Bom dia, clínica São Lucas.
 
 **Tom:** - Bom dia. Eu queria marcar uma consulta.
@@ -19,6 +20,7 @@
 
 
 **Cena 2 — Achados e perdidos:**
+
 **Tom:** - Com licença, eu perdi minha mochila aqui ontem.
 
 **Atendente:** - Como ela é?
@@ -53,7 +55,9 @@
 ## 3. Bloco de Pronúncia
 
 **A. "J" em meses:** ja-neiro, ju-nho, ju-lho — som "j" como em "Geneva".
+
 **B. Nasalização revisão:** segu**n**da, segu**n**da-feira.
+
 **C. "R" forte em cores:** ve**rr**melho — atenção, "r" no início ou dobrado é sempre forte: ro-xo, ma-**rr**om.
 
 ## 4. Exercícios (com gabarito)

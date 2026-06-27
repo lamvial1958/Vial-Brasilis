@@ -76,7 +76,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. Contração "vou" + infinitivo em fala rápida:** "vô viajá", redução natural do "-r" final do infinitivo na fala coloquial (não na escrita).
+
 **B. "Hospedagem" — "g" suave antes de "e":** som de "j" (como em "geladeira"), nunca "g" duro.
+
 **C. Acento em "pousada" (paroxítona):** pou-SA-da.
 
 ## 5. Exercícios (com gabarito)

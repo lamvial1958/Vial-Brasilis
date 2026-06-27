@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — contando a história de uma mudança importante:**
+
 **Entrevistador:** - Conte como foi a decisão de vir morar no Brasil.
 
 **Felipe:** - Bom, antes eu trabalhava numa empresa de tecnologia em Lisboa. Eu gostava do trabalho, mas sentia que precisava de uma mudança. Um dia eu recebi uma proposta de uma empresa brasileira e decidi aceitar.
@@ -64,6 +65,7 @@ Esta unidade não introduz vocabulário novo — é uma consolidação. Revise o
 ## 4. Bloco de Pronúncia (revisão integrada)
 
 **A. Contraste sistemático perfeito × imperfeito na mesma frase:** "eu **trabalhava** [imperfeito, vogal aberta -ava] ... eu **recebi** [perfeito, vogal fechada -i final]" — pratique alternando os dois ritmos na mesma frase sem pausar.
+
 **B. Revise os pontos de pronúncia mais sensíveis do nível:** ditongo "ou" dos verbos -ar no perfeito (A2.1), nasalização de "-am" (A2.1), contraste "vim/veio" (A2.2), acento proparoxítono de "nós" no imperfeito (A2.9).
 
 ## 5. Exercícios (com gabarito) — Diagnóstico Integrado

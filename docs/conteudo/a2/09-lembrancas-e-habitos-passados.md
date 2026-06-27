@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — conversa sobre a vida antes e depois de morar no Brasil:**
+
 **Yuki:** - Como era sua vida antes de vir para o Brasil?
 
 **Diego:** - Era bem diferente. Eu morava com meus pais, trabalhava num escritório e quase não cozinhava — sempre comia fora.
@@ -75,7 +76,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. Terminação "-ava/-ia" — vogal aberta e clara:** mor-A-va, com-I-a — sem reduzir a vogal tônica.
+
 **B. "Nós" no imperfeito tem acento gráfico:** morávamos, comíamos, sentíamos — atenção ao acento na sílaba tônica antepenúltima (proparoxítona).
+
 **C. Contraste "era" (imperfeito) × "foi" (perfeito):** sons bem diferentes apesar de ambos vir de "ser" — não confundir.
 
 ## 5. Exercícios (com gabarito)

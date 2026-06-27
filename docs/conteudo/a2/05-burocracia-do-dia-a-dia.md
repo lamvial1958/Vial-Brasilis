@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — atendimento numa agência bancária:**
+
 **Atendente:** - Bom dia! Em que posso ajudar?
 
 **Cliente:** - Bom dia. Eu gostaria de abrir uma conta corrente.
@@ -60,12 +61,15 @@
 | Seria possível + verbo? | Seria possível preencher este formulário? | mais formal |
 
 **B. "Gostaria" é o condicional de "gostar"** — usado de forma fixa para pedidos educados, sem precisar conjugar outras formas do condicional neste nível.
+
 **C. Vocabulário de documentos:** combine com substantivos formais (comprovante, formulário, protocolo) em vez de equivalentes informais.
 
 ## 4. Bloco de Pronúncia
 
 **A. "Gostaria" — ditongo "ia" final, átono e rápido:** gosta-RI-a, sem acento na última sílaba.
+
 **B. Sigla "CPF" pronunciada letra por letra:** "cê-pê-éfe", nunca como uma palavra só.
+
 **C. "Seria possível" — entonação ascendente de pergunta educada,** mais suave que uma pergunta direta.
 
 ## 5. Exercícios (com gabarito)

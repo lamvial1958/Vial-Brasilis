@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena 1 — Imigração:**\n**Agente:** - Bom dia. Passaporte, por favor.\n\n**Tom:** - Bom dia. Aqui está.\n\n**Agente:** - É a primeira vez no Brasil?\n\n**Tom:** - Sim, é a primeira vez.\n\n**Agente:** - Quanto tempo você vai ficar?\n\n**Tom:** - Eu vou ficar duas semanas.\n\n**Agente:** - Tudo certo. Boa viagem!\n\n**Tom:** - Obrigado!\n\n\n**Cena 2 — Táxi/app de transporte:**\n**Tom:** - Boa tarde. Para o Hotel Central, por favor.\n\n**Motorista:** - Tudo bem. É perto do centro?\n\n**Tom:** - Sim, é perto do centro. Pode seguir em frente e virar à direita, por favor?\n\n**Motorista:** - Pode deixar! Vou seguir em frente e virar à direita.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Entregar documento | Aqui está. |\n| Responder sobre primeira vez | É a primeira vez. / Não, é a segunda vez. |\n| Dizer duração da estadia | Eu vou ficar... (duas semanas / um mês) |\n| Dar um destino | Para..., por favor. |\n| Pedir uma ação com cortesia (a quem está no controle) | Pode..., por favor? |\n| Confirmar que vai fazer algo | Vou... |\n\n> **Nota pedagógica:** o imperativo puro (\"vire à direita\", \"siga\") só é natural quando alguém *dá uma instrução a um pedestre que vai andar* — esse uso aparece corretamente na PRE-A1.5. Num táxi, quem dirige é o motorista; por isso o passageiro pede com cortesia (\"Pode...?\") e o motorista confirma a própria ação (\"Vou...\")."
+      "markdown": "**Cena 1 — Imigração:**\n\n**Agente:** - Bom dia. Passaporte, por favor.\n\n**Tom:** - Bom dia. Aqui está.\n\n**Agente:** - É a primeira vez no Brasil?\n\n**Tom:** - Sim, é a primeira vez.\n\n**Agente:** - Quanto tempo você vai ficar?\n\n**Tom:** - Eu vou ficar duas semanas.\n\n**Agente:** - Tudo certo. Boa viagem!\n\n**Tom:** - Obrigado!\n\n\n**Cena 2 — Táxi/app de transporte:**\n\n**Tom:** - Boa tarde. Para o Hotel Central, por favor.\n\n**Motorista:** - Tudo bem. É perto do centro?\n\n**Tom:** - Sim, é perto do centro. Pode seguir em frente e virar à direita, por favor?\n\n**Motorista:** - Pode deixar! Vou seguir em frente e virar à direita.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Entregar documento | Aqui está. |\n| Responder sobre primeira vez | É a primeira vez. / Não, é a segunda vez. |\n| Dizer duração da estadia | Eu vou ficar... (duas semanas / um mês) |\n| Dar um destino | Para..., por favor. |\n| Pedir uma ação com cortesia (a quem está no controle) | Pode..., por favor? |\n| Confirmar que vai fazer algo | Vou... |\n\n> **Nota pedagógica:** o imperativo puro (\"vire à direita\", \"siga\") só é natural quando alguém *dá uma instrução a um pedestre que vai andar* — esse uso aparece corretamente na PRE-A1.5. Num táxi, quem dirige é o motorista; por isso o passageiro pede com cortesia (\"Pode...?\") e o motorista confirma a própria ação (\"Vou...\")."
     },
     {
       "ordem": 2,
@@ -20,7 +20,7 @@
     {
       "ordem": 3,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. \"R\" forte (início de palavra ou após consoante):** rua, carro, Brasil\n**B. \"R\" fraco/tap (entre vogais):** primeira, direita, motorista\n**C. Nasalização contínua:** viagem, também"
+      "markdown": "**A. \"R\" forte (início de palavra ou após consoante):** rua, carro, Brasil\n\n**B. \"R\" fraco/tap (entre vogais):** primeira, direita, motorista\n\n**C. Nasalização contínua:** viagem, também"
     },
     {
       "ordem": 4,

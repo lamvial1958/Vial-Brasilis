@@ -85,6 +85,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Reduções fonéticas informais:** "cê" (você), "tá" (está), "pra" (para), "né" (não é) — características do português brasileiro falado informal, evitadas por completo na escrita formal.
+
 **B. Entonação de queixa informal × entonação neutra formal:** "que saco!" com entonação exclamativa de frustração × "venho relatar um problema" com entonação plana e neutra.
 
 ## 5. Exercícios (com gabarito)

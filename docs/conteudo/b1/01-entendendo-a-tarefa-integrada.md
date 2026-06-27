@@ -5,6 +5,7 @@
 ## 1. Cenário e Texto-Modelo de Abertura
 
 **Cena — professora explicando o formato do exame a um grupo de alunos:**
+
 **Professora:** - O CELPE-Bras não testa gramática isolada. Ele te dá um estímulo — um áudio ou um texto — e pede para você produzir algo a partir dele. Olhem este exemplo.
 
 >
@@ -61,6 +62,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Verbos de comando no imperativo formal ("você"):** redija, elabore, comente, responda — todos seguem o padrão do imperativo já visto no A2.4, mas agora em contexto de instrução escrita formal.
+
 **B. Leitura em voz alta de comandos de tarefa:** praticar a entonação neutra e pausada de instruções formais, sem a entonação de pergunta ou pedido pessoal.
 
 ## 5. Exercícios (com gabarito)

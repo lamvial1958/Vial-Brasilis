@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — entrevista informal sobre a chegada ao Brasil:**
+
 **Jornalista:** - Quando você veio para o Brasil?
 
 **Helena:** - Eu vim em 2022. Foi uma mudança grande.
@@ -71,7 +72,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. Ditongo "oi" em "foi":** som fechado e rápido, sem separar as vogais.
+
 **B. Contraste "vim" (eu) × "veio" (ele):** vogal nasal fechada "i" vs. ditongo "ei" — atenção, são sons bem diferentes mesmo sendo o mesmo verbo.
+
 **C. "Disse" com "ss" surdo:** como em "passe", nunca como "z".
 
 ## 5. Exercícios (com gabarito)

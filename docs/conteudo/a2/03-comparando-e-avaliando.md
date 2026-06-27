@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — dois amigos decidindo onde passar as férias:**
+
 **Ana:** - Estou pensando em viajar para o Rio ou para Florianópolis. Qual você acha melhor?
 
 **Pedro:** - Na minha opinião, Florianópolis é mais tranquila que o Rio. O Rio é mais agitado e tem mais opções de vida noturna.
@@ -78,7 +79,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. "que" vs. "do que" em comparações:** ambos são corretos e intercambiáveis; "do que" é levemente mais formal/escrito.
+
 **B. Ditongo "ão" em "não" dentro de "na minha opinião":** atenção à nasalização final, igual à de "então".
+
 **C. Entonação de discordância parcial:** "É verdade, **mas**..." — a palavra "mas" carrega leve ênfase e pausa antes dela.
 
 ## 5. Exercícios (com gabarito)

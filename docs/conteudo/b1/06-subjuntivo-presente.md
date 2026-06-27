@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — conselhos a um colega recém-chegado ao Brasil:**
+
 **Marco:** - Acabei de chegar, ainda tô meio perdido aqui. Você tem algum conselho?
 
 **Renata:** - Tenho! Primeiro, é importante que você abra uma conta bancária o quanto antes — muita coisa depende disso.
@@ -80,6 +81,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Contraste indicativo × subjuntivo no mesmo verbo:** "ele **fala**" (indicativo) × "que ele **fale**" (subjuntivo) — vogal final muda de "a" para "e", atenção à abertura vocálica.
+
 **B. "Talvez" — ditongo "al" fechado:** tal-VEZ, sem abrir demais a vogal "a".
 
 ## 5. Exercícios (com gabarito)

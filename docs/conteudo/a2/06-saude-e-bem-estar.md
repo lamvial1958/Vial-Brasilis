@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — consulta médica:**
+
 **Médico:** - Bom dia. O que está sentindo?
 
 **Paciente:** - Bom dia, doutor. Estou com dor de cabeça forte e um pouco de febre.
@@ -77,7 +78,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. "Desde" — "e" final reduzido, quase mudo na fala rápida:** "desd'quando".
+
 **B. "Deveria" — ditongo "ia" final átono,** igual ao padrão já visto em "gostaria" (A2.5).
+
 **C. Nasal em "não" dentro de "se a febre não baixar":** atenção ao ritmo da frase condicional, com leve pausa após a vírgula.
 
 ## 5. Exercícios (com gabarito)

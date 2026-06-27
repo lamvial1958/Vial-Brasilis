@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena — turista perguntando o caminho na rua:**\n**Turista:** - Com licença, como eu chego ao Museu de Arte Moderna?\n\n**Morador:** - É fácil. Siga em frente até o semáforo, depois vire à direita na Avenida Paulista.\n\n**Turista:** - Vire à direita na Paulista, entendi.\n\n**Morador:** - Isso. Depois continue até a segunda rua e vire à esquerda. Não vire na primeira, vire na segunda!\n\n**Turista:** - Certo, não virar na primeira.\n\n**Morador:** - Exatamente. O museu fica em direção ao parque, depois da agência bancária. Você não pode perder.\n\n**Turista:** - Muito obrigado! E quanto tempo demora a pé?\n\n**Morador:** - Mais ou menos quinze minutos.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Pedir indicação | Com licença, como eu chego a/ao...? |\n| Dar instrução (afirmativa) | Siga / Vire / Continue / Atravesse + complemento |\n| Dar instrução (negativa) | Não vire / Não atravesse + complemento |\n| Indicar referência espacial | em frente, à direita, à esquerda, em direção a, depois de, até |\n| Confirmar entendimento | Entendi. / Certo. |\n| Perguntar duração | Quanto tempo demora? |"
+      "markdown": "**Cena — turista perguntando o caminho na rua:**\n\n**Turista:** - Com licença, como eu chego ao Museu de Arte Moderna?\n\n**Morador:** - É fácil. Siga em frente até o semáforo, depois vire à direita na Avenida Paulista.\n\n**Turista:** - Vire à direita na Paulista, entendi.\n\n**Morador:** - Isso. Depois continue até a segunda rua e vire à esquerda. Não vire na primeira, vire na segunda!\n\n**Turista:** - Certo, não virar na primeira.\n\n**Morador:** - Exatamente. O museu fica em direção ao parque, depois da agência bancária. Você não pode perder.\n\n**Turista:** - Muito obrigado! E quanto tempo demora a pé?\n\n**Morador:** - Mais ou menos quinze minutos.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Pedir indicação | Com licença, como eu chego a/ao...? |\n| Dar instrução (afirmativa) | Siga / Vire / Continue / Atravesse + complemento |\n| Dar instrução (negativa) | Não vire / Não atravesse + complemento |\n| Indicar referência espacial | em frente, à direita, à esquerda, em direção a, depois de, até |\n| Confirmar entendimento | Entendi. / Certo. |\n| Perguntar duração | Quanto tempo demora? |"
     },
     {
       "ordem": 2,
@@ -25,7 +25,7 @@
     {
       "ordem": 4,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. Imperativo \"vire/siga/atravesse\" — vogal final fechada e breve:** atenção para não alongar a vogal final.\n**B. Contraste \"à direita\" × \"à esquerda\":** \"direita\" tem \"ei\" ditongo fechado; \"esquerda\" tem \"e\" aberto na primeira sílaba.\n**C. Redução de \"em direção a\" na fala rápida:** frequentemente soa como \"endireção a\"."
+      "markdown": "**A. Imperativo \"vire/siga/atravesse\" — vogal final fechada e breve:** atenção para não alongar a vogal final.\n\n**B. Contraste \"à direita\" × \"à esquerda\":** \"direita\" tem \"ei\" ditongo fechado; \"esquerda\" tem \"e\" aberto na primeira sílaba.\n\n**C. Redução de \"em direção a\" na fala rápida:** frequentemente soa como \"endireção a\"."
     },
     {
       "ordem": 5,

@@ -10,7 +10,7 @@
     {
       "ordem": 1,
       "titulo": "Diálogo de Abertura",
-      "markdown": "**Cena 1 — Padaria:**\n**Tom:** - Bom dia! Eu queria um pão de queijo e um café, por favor.\n\n**Atendente:** - Para comer aqui ou para levar?\n\n**Tom:** - Para comer aqui, por favor.\n\n**Atendente:** - Mais alguma coisa?\n\n**Tom:** - Não, só isso. Quanto custa?\n\n**Atendente:** - São oito reais.\n\n\n**Cena 2 — Restaurante:**\n**Garçom:** - Boa noite! Vocês já escolheram?\n\n**Tom:** - Sim. Eu queria o prato do dia.\n\n**Garçom:** - Perfeito. E para beber?\n\n**Tom:** - Uma água, por favor. Ah, eu sou alérgico a amendoim — tem amendoim nesse prato?\n\n**Garçom:** - Não, não tem. Pode ficar tranquilo.\n\n**Tom:** - Obrigado. A conta, por favor.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Pedir algo educadamente | Eu queria... |\n| Perguntar se é para consumir no local | Para comer aqui ou para levar? |\n| Perguntar o preço | Quanto custa? / Quanto é? |\n| Encerrar o pedido | Mais alguma coisa? / Não, só isso. |\n| Avisar restrição alimentar | Eu sou alérgico(a) a... |\n| Pedir a conta | A conta, por favor. |"
+      "markdown": "**Cena 1 — Padaria:**\n\n**Tom:** - Bom dia! Eu queria um pão de queijo e um café, por favor.\n\n**Atendente:** - Para comer aqui ou para levar?\n\n**Tom:** - Para comer aqui, por favor.\n\n**Atendente:** - Mais alguma coisa?\n\n**Tom:** - Não, só isso. Quanto custa?\n\n**Atendente:** - São oito reais.\n\n\n**Cena 2 — Restaurante:**\n\n**Garçom:** - Boa noite! Vocês já escolheram?\n\n**Tom:** - Sim. Eu queria o prato do dia.\n\n**Garçom:** - Perfeito. E para beber?\n\n**Tom:** - Uma água, por favor. Ah, eu sou alérgico a amendoim — tem amendoim nesse prato?\n\n**Garçom:** - Não, não tem. Pode ficar tranquilo.\n\n**Tom:** - Obrigado. A conta, por favor.\n\n\n**Quadro funcional:**\n| Função | Fórmula |\n|---|---|\n| Pedir algo educadamente | Eu queria... |\n| Perguntar se é para consumir no local | Para comer aqui ou para levar? |\n| Perguntar o preço | Quanto custa? / Quanto é? |\n| Encerrar o pedido | Mais alguma coisa? / Não, só isso. |\n| Avisar restrição alimentar | Eu sou alérgico(a) a... |\n| Pedir a conta | A conta, por favor. |"
     },
     {
       "ordem": 2,
@@ -20,7 +20,7 @@
     {
       "ordem": 3,
       "titulo": "Bloco de Pronúncia",
-      "markdown": "**A. Valores monetários (reais):** treinar \"são oito reais\", \"são quinze reais\"\n**B. Som /k/ na grafia \"qu\":** quanto, queria, quero"
+      "markdown": "**A. Valores monetários (reais):** treinar \"são oito reais\", \"são quinze reais\"\n\n**B. Som /k/ na grafia \"qu\":** quanto, queria, quero"
     },
     {
       "ordem": 4,

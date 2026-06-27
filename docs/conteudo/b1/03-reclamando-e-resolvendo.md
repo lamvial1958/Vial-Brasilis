@@ -74,6 +74,7 @@
 ## 4. Bloco de Pronúncia
 
 **A. Leitura formal em voz alta:** ritmo mais pausado e neutro que o do e-mail informal, sem entonação de conversa — o texto formal é lido, não "falado".
+
 **B. "Atenciosamente" — atenção ao acento tônico:** aten-cio-sa-MEN-te, paroxítono na sílaba "men".
 
 ## 5. Exercícios (com gabarito)

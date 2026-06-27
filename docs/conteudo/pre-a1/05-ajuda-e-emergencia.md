@@ -3,6 +3,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena 1 — Perdido na rua:**
+
 **Tom:** - Com licença, eu estou perdido. Você pode me ajudar?
 
 **Pessoa:** - Claro! Para onde você quer ir?
@@ -15,6 +16,7 @@
 
 
 **Cena 2 — Mal-estar leve:**
+
 **Tom:** - Desculpa, eu estou mal. Eu preciso de ajuda.
 
 **Pessoa:** - O que você está sentindo?
@@ -57,6 +59,7 @@
 ## 3. Bloco de Pronúncia
 
 **A. Revisão de nasalização:** não, então
+
 **B. Entonação de urgência:** "Socorro!" — praticar com entonação exclamativa ascendente
 
 ## 4. Exercícios (com gabarito)

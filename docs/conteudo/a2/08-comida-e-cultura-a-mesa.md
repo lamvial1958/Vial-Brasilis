@@ -5,6 +5,7 @@
 ## 1. Diálogo de Abertura
 
 **Cena — restaurante regional, comentário sobre os pratos:**
+
 **Garçom:** - E então, o que acharam da feijoada?
 
 **Tom:** - Estava deliciosa! Eu nunca tinha comido feijoada antes, é uma experiência nova para mim.
@@ -70,7 +71,9 @@
 ## 4. Bloco de Pronúncia
 
 **A. "Açaí" — acento na última sílaba, hiato "a-í":** a-ça-Í, sem ditongo.
+
 **B. "Moqueca" — "qu" com som de "k":** mo-KÊ-ca.
+
 **C. Contraste "picante" (sabor) × "pi-CAN-te" (acento paroxítono):** atenção ao acento, comum erro é colocar acento na primeira sílaba.
 
 ## 5. Exercícios (com gabarito)
